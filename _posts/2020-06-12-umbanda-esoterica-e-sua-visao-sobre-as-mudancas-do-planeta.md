@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda esotérica e sua visão sobre as mudanças do planeta"
 date: 2020-06-12
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jesus, eu confio em ti!"
 date: 2021-01-06
 categories: 

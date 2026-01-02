@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Visita ao terreiro Pai José de Aruanda"
 date: 2020-10-23
 categories: 

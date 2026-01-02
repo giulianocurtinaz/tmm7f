@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bandeirante do Evangelho retorna a casa do Pai"
 date: 2019-06-28
 categories: 

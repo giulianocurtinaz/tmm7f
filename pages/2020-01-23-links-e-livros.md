@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Links e Livros"
 date: 2020-01-23
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Benzedura da Sexta-feira Santa! Benzedura da Vovó Faustina!!!"
 date: 2021-04-02
 categories: 

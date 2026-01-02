@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Ogum 2023"
 date: 2023-04-24
 categories: 

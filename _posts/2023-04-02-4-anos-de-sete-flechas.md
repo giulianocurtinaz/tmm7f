@@ -1,4 +1,4 @@
-﻿---
+---
 title: "4 anos de Sete Flechas!"
 date: 2023-04-02
 categories: 

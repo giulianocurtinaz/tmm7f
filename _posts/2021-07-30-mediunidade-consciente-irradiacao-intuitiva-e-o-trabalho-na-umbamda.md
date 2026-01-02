@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mediunidade Consciente, Irradiação intuitiva e o trabalho na Umbamda."
 date: 2021-07-30
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Segundo batizado de médiuns no terreiro"
 date: 2020-01-26
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lançamento do livro: Guia Rápido Umbandista - Estudando para evoluir"
 date: 2020-11-27
 categories: 

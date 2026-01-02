@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Orações ao Pai"
 date: 2021-03-11
 ---

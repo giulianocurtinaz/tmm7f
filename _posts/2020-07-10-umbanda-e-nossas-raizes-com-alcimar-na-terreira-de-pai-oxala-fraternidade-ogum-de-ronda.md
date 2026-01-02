@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda e nossas raízes! Com Alcimar na terreira de Pai Oxalá fraternidade Ogum de Ronda."
 date: 2020-07-10
 categories: 

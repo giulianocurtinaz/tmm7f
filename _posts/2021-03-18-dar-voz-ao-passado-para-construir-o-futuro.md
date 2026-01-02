@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pontos Cantados - Nossa Origem e Resgate às tradições"
 date: 2021-03-18
 categories: 

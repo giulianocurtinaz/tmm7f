@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Lista de pontos cantados faltantes"
 date: 2022-01-14
 ---

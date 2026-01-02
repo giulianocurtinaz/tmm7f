@@ -1,4 +1,4 @@
-﻿---
+---
 title: "O que é umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
 date: 2020-04-25
 categories: 

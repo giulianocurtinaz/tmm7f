@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amaci abençoado!"
 date: 2019-11-09
 categories: 

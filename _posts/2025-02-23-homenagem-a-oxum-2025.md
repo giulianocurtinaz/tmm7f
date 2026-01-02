@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem à Oxum 2025"
 date: 2025-02-23
 categories: 

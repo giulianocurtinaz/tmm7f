@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Prece pelos desencarnados da Pandemia"
 date: 2021-03-05
 categories: 

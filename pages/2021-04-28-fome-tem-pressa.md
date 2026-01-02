@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Quem tem fome tem pressa!"
 date: 2021-04-28
 ---

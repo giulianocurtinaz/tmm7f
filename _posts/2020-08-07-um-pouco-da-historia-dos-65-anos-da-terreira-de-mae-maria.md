@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Um pouco da História dos 65 anos da Terreira de Mãe Maria!"
 date: 2020-08-07
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Iemanjá"
 date: 2020-12-09
 categories: 

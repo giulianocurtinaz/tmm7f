@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Raiz de Ubirajara!"
 date: 2023-10-20
 categories: 

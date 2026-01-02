@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: "Pontos Cantados 2"
 permalink: /pontos-cantados2/

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda Ontem, Hoje e os desafios para o Amanhã!"
 date: 2020-06-30
 categories: 

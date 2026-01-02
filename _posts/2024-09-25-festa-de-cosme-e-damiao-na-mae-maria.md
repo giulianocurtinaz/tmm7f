@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Festa de Cosme e Damião na Mãe Maria!"
 date: 2024-09-25
 categories: 

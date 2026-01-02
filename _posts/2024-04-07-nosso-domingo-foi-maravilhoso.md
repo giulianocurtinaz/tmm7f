@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nosso domingo foi maravilhoso!"
 date: 2024-04-07
 categories: 

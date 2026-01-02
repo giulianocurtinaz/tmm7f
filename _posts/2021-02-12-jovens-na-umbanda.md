@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jovens na Umbanda"
 date: 2021-02-12
 categories: 

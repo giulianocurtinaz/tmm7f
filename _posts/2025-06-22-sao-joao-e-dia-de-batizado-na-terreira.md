@@ -1,4 +1,4 @@
-﻿---
+---
 title: "São João é dia de Batizado na Terreira!"
 date: 2025-06-22
 categories: 

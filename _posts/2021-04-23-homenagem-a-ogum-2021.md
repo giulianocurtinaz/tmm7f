@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Ogum 2021!"
 date: 2021-04-23
 categories: 

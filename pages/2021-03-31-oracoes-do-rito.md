@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Orações do rito"
 date: 2021-03-31
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sexta-feira Santa 2025!"
 date: 2025-04-18
 categories: 

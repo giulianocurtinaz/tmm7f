@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Umbanda praticada nas casas da raiz de Ubirajara Peito de Aço"
 date: 2025-10-17
 categories: 

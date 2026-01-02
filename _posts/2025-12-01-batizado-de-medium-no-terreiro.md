@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Batizado de Médium no Terreiro!"
 date: 2025-12-01
 categories: 

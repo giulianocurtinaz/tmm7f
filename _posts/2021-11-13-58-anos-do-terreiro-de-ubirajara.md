@@ -1,4 +1,4 @@
-﻿---
+---
 title: "58 anos do terreiro de Ubirajara!!!"
 date: 2021-11-13
 categories: 

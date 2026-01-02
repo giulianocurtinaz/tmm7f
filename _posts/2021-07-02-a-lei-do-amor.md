@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Lei do Amor"
 date: 2021-07-02
 categories: 

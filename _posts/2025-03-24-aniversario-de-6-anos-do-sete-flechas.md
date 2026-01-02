@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Aniversário de 6 anos do Sete Flechas"
 date: 2025-03-24
 categories: 

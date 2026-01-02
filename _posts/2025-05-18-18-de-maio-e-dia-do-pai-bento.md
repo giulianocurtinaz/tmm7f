@@ -1,4 +1,4 @@
-﻿---
+---
 title: "18 de Maio é dia do Pai Bento!"
 date: 2025-05-18
 categories: 

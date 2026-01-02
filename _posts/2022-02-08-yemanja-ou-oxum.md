@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Yemanjá ou Oxum"
 date: 2022-02-08
 categories: 

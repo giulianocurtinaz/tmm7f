@@ -1,4 +1,4 @@
-﻿---
+---
 title: "18 de Maio: Dia do Pai Bento! Nosso querido preto-velho que inovou, marcou e deixou muita saudade!"
 date: 2021-05-21
 categories: 

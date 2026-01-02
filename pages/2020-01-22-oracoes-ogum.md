@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Orações Ogum"
 date: 2020-01-22
 ---

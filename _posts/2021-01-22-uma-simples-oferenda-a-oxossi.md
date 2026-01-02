@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Uma simples oferenda a Oxossi!"
 date: 2021-01-22
 categories: 

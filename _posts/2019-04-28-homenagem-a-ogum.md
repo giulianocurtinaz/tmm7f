@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Ogum"
 date: 2019-04-28
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Festa de Cosme na Mãe Maria 2025"
 date: 2025-09-25
 categories: 

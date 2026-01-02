@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda Iniciática - Como montar seu Congá pessoal em casa com Yaralacy em Caxias do Sul - RS"
 date: 2020-07-15
 categories: 

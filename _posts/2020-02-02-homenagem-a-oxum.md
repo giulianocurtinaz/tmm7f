@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem à Oxum"
 date: 2020-02-02
 categories: 

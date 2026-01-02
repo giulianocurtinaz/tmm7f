@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sexta-Feira Santa e A benção da quarentena. Live 10/4."
 date: 2020-04-10
 categories: 

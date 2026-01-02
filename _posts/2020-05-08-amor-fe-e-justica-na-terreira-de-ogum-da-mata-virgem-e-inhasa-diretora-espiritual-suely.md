@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amor, fé e Justiça! Na terreira de Ogum da Mata Virgem e Inhasã (Diretora espiritual Suely)"
 date: 2020-05-08
 categories: 

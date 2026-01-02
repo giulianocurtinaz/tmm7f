@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Semente do Evangelho encontra \"solo fértil\" em mais um Terreiro"
 date: 2019-04-04
 categories: 

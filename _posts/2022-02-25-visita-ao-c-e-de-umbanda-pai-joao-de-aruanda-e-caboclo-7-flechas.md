@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Visita ao C.E. de Umbanda Pai João de Aruanda e Caboclo 7 Flechas"
 date: 2022-02-25
 categories: 

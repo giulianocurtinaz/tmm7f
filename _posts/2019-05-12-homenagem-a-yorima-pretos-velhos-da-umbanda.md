@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Yorimá (pretos velhos da Umbanda)"
 date: 2019-05-12
 categories: 

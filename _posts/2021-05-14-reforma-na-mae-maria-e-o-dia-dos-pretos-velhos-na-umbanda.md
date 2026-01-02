@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Reforma na Mãe Maria e o Dia dos Pretos Velhos na Umbanda!"
 date: 2021-05-14
 categories: 

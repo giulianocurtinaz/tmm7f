@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Valentina batiza-se no terreiro"
 date: 2019-10-27
 categories: 

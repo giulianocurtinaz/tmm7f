@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A História de São João Batista"
 date: 2021-06-25
 categories: 

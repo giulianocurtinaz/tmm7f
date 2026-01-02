@@ -1,4 +1,4 @@
-﻿---
+---
 title: "8 Dezembro é dia de Iemanjá!"
 date: 2021-12-08
 categories: 

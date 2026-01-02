@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem à Iemanjá 2022"
 date: 2022-12-11
 categories: 

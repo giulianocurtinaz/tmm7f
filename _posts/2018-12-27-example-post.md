@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Abrindo uma porta de Luz!"
 date: 2018-12-27
 categories: 

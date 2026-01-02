@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A importância da Amizade"
 date: 2021-07-23
 categories: 

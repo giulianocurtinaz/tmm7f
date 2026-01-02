@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Iansã"
 date: 2020-12-04
 categories: 

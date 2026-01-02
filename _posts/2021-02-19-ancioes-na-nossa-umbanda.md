@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Anciões na nossa Umbanda"
 date: 2021-02-19
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Domingo da Divina Misericórdia: O primeiro Domingo após a Páscoa!"
 date: 2021-04-09
 categories: 

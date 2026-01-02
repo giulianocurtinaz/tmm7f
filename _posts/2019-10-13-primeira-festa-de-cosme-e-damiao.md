@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Primeira festa de Cosme e Damião!"
 date: 2019-10-13
 categories: 

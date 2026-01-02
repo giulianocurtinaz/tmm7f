@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Live: Homenagem à Darcy Dias da Silveira e Prece da Cura em 01/05"
 date: 2020-04-29
 categories: 

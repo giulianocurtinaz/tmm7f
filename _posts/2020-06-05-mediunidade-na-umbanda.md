@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mediunidade na Umbanda!"
 date: 2020-06-05
 categories: 

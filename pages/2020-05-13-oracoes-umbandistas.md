@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Orações Umbandistas"
 date: 2020-05-13
 ---

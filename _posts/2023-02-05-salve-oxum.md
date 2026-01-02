@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Salve Oxum!"
 date: 2023-02-05
 categories: 

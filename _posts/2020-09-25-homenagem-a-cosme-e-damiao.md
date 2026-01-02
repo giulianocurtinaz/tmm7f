@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem à Cosme e Damião!"
 date: 2020-09-25
 categories: 

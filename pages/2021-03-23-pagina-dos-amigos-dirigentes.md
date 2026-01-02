@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "PÁGINA DOS AMIGOS DIRIGENTES"
 date: 2021-03-23
 ---

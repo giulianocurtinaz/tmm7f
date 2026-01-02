@@ -1,4 +1,4 @@
-﻿---
+---
 title: "\"A Luz do Congá não pode apagar!\""
 date: 2020-06-16
 categories: 

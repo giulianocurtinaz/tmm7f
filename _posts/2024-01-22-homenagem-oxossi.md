@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem Oxossi!"
 date: 2024-01-22
 categories: 

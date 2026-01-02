@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Batizado de médium e homenagem à Xangô!"
 date: 2024-09-29
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "O que ocorreu espiritualmente na Sexta-Feira Santa !?"
 date: 2024-03-30
 categories: 

@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Bem-Vindo"
 date: 2020-01-22
 coverImage: "/tmm7f/assets/images/20190830193041-e1615569126631.jpg"

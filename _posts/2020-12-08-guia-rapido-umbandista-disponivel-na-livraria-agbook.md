@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Guia Rápido Umbandista disponível na Livraria AGBook!"
 date: 2020-12-08
 categories: 

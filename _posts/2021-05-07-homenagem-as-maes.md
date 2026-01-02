@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem às Mães!"
 date: 2021-05-07
 categories: 

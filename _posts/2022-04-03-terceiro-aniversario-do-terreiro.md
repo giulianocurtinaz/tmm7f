@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Terceiro Aniversário do Terreiro!"
 date: 2022-04-03
 categories: 

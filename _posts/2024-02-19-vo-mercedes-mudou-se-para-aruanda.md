@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Vó Mercedes mudou-se para Aruanda!"
 date: 2024-02-19
 categories: 

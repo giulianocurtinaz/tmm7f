@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda é a manifestação da Alma para a Caridade!"
 date: 2020-07-13
 categories: 

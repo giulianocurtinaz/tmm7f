@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Calendário de encerramento 2022 e reabertura 2023"
 date: 2022-11-07
 categories: 

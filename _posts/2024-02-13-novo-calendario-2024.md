@@ -1,18 +1,18 @@
 ---
-title: "Novo calendário 2024"
+title: "Novo calendÃ¡rio 2024"
 date: 2024-02-13
 categories: 
   - "sem-categoria"
 ---
 
-|  | **MARÇO** |
+|  | **MARÃ‡O** |
 | --- | --- |
 | 3/mar. | Povo do Oriente |
 | 10/mar. | Caboclos |
 | 17/mar. | Pretos-Velhos |
-| 24/mar. | Caboclos Aniversário 7 Flechas |
+| 24/mar. | Caboclos AniversÃ¡rio 7 Flechas |
 | 29/mar. | Sexta-Feira Santa Benzeduras |
-| 31/mar. | Não Abriremos Domingo de Páscoa |
+| 31/mar. | NÃ£o Abriremos Domingo de PÃ¡scoa |
 |  | **ABRIL** |
 | 7/abr. | Povo do Oriente |
 | 14/abr. | Caboclos |
@@ -20,7 +20,7 @@ categories:
 | 28/abr. | Caboclos - Homenagem a Ogum |
 |  | **MAIO** |
 | 5/mai. | Povo do Oriente |
-| 12/mai. | Não abriremos Dia das Mães |
+| 12/mai. | NÃ£o abriremos Dia das MÃ£es |
 | 19/mai. | Homenagem aos P. Velhos |
 | 26/mai. | Caboclos |
 |  | **JUNHO** |
@@ -38,19 +38,19 @@ categories:
 |  | **AGOSTO** |
 | 3/ago. | Aula desenvolvimento |
 | 4/ago. | Povo do Oriente |
-| 11/ago. | Não abriremos Dia dos Pais |
+| 11/ago. | NÃ£o abriremos Dia dos Pais |
 | 18/ago. | Pretos-Velhos |
 | 25/ago. | Caboclos |
 |  | **SETEMBRO** |
 | 1/set. | Povo do Oriente |
 | 8/set. | Pretos-Velhos |
-| 15/set. | EXTERNO- Xangô Sta Maria do Herval |
-| 22/set. | Festa de Cosme e Damião |
+| 15/set. | EXTERNO- XangÃ´ Sta Maria do Herval |
+| 22/set. | Festa de Cosme e DamiÃ£o |
 | 29/set. | Pretos-Velhos |
 |  | **OUTUBRO** |
-| 6/out. | Não haverá sessão |
+| 6/out. | NÃ£o haverÃ¡ sessÃ£o |
 | 13/out. | Caboclos |
-| 20/out. | Amaci ( aberto ao público ) |
+| 20/out. | Amaci ( aberto ao pÃºblico ) |
 | 27/out. | Pretos-Velhos |
 |  | **NOVEMBRO** |
 | 3/nov. | Povo do Oriente |
@@ -59,7 +59,7 @@ categories:
 | 24/nov. | Caboclos |
 |  | **DEZEMBRO** |
 | 1/dez. | Povo do Oriente |
-| 8/dez. | EXTERNO - Iemanjá Praia c/ M. Maria |
-| 15/dez. | Não haverá sessão |
-| 22/dez. | Sessão de encerramento Pretos-Velhos |
+| 8/dez. | EXTERNO - IemanjÃ¡ Praia c/ M. Maria |
+| 15/dez. | NÃ£o haverÃ¡ sessÃ£o |
+| 22/dez. | SessÃ£o de encerramento Pretos-Velhos |
 |  |  |

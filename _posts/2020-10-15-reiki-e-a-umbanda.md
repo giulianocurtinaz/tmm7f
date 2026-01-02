@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Reiki e a Umbanda"
 date: 2020-10-15
 categories: 

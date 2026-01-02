@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sete Flechas - Nossa história de fundação"
 date: 2020-08-21
 categories: 

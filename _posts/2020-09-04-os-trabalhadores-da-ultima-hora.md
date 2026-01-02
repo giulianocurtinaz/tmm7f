@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Os trabalhadores da última hora!"
 date: 2020-09-04
 categories: 

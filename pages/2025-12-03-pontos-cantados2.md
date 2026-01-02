@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Pontos Cantados2"
 date: 2025-12-03
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem aos Pretos Velhos"
 date: 2020-05-15
 categories: 

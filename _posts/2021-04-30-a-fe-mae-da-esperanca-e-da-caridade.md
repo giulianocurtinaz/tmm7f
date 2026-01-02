@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Fé Mãe da Esperança e da Caridade!"
 date: 2021-04-30
 categories: 

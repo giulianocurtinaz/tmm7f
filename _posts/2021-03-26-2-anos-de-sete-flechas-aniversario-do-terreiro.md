@@ -1,4 +1,4 @@
-﻿---
+---
 title: "2 anos de Sete Flechas!!!! Aniversário do terreiro!!!"
 date: 2021-03-26
 categories: 

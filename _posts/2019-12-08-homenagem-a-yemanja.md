@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Yemanjá"
 date: 2019-12-08
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a São João Batista e Batizado de Médiuns no Sete Flechas"
 date: 2024-06-23
 categories: 

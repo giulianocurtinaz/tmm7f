@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Preparação da próxima turma de Caciques!"
 date: 2025-06-15
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Não julgueis para que não sejas julgado"
 date: 2021-12-08
 categories: 

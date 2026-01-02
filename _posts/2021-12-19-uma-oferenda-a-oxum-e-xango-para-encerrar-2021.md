@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Uma oferenda à Oxum e Xangô para encerrar 2021"
 date: 2021-12-19
 categories: 

@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Localização e Contato"
 date: 2020-01-23
 ---

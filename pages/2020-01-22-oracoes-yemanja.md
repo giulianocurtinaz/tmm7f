@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Orações Yemanjá"
 date: 2020-01-22
 ---

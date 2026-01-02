@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Inauguração 24 Março 2019"
 date: 2019-03-24
 categories: 

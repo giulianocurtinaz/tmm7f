@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A Luz da prece e do Evangelho em nosso lar!"
 date: 2020-09-18
 categories: 

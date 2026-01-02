@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A importância do diário mediúnico"
 date: 2021-01-29
 categories: 

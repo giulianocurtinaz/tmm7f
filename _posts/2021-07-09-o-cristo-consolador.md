@@ -1,4 +1,4 @@
-﻿---
+---
 title: "O Cristo Consolador"
 date: 2021-07-09
 categories: 

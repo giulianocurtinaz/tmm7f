@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cruz de Luz!"
 date: 2019-09-08
 categories: 

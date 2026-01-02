@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda: Um caminho de luz, de amor, amizade e crescimento espiritual"
 date: 2020-10-09
 categories: 

@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Pontos Cantados"
 date: 2021-03-14
 ---

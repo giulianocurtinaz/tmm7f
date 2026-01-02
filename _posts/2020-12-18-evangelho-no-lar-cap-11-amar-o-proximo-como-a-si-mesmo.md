@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amar o próximo como a si mesmo"
 date: 2020-12-18
 categories: 

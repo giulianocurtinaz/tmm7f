@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Orações Yorimá"
 date: 2020-01-22
 ---

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda é brasileira! Como nasceu a Umbanda há 112 anos atrás!"
 date: 2020-11-12
 categories: 

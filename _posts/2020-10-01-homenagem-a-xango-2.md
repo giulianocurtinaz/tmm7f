@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Xangô!"
 date: 2020-10-01
 categories: 

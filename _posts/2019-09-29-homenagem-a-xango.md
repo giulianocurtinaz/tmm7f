@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Xangô"
 date: 2019-09-29
 categories: 

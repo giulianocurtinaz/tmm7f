@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Batizado de novos Médiuns na Mãe Maria"
 date: 2022-08-11
 categories: 

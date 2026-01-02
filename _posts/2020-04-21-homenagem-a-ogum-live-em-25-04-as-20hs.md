@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Ogum Live! em 24/04 às 20hs"
 date: 2020-04-21
 categories: 

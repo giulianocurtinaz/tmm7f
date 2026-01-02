@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Energização dos Chakras. Live de sexta-feira 17 Abril"
 date: 2020-04-17
 categories: 

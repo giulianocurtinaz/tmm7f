@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Batizado de Médium no dia de São João Batista!"
 date: 2023-06-25
 categories: 

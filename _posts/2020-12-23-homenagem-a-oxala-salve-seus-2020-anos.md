@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Oxalá! Salve seus 2020 anos!"
 date: 2020-12-23
 categories: 

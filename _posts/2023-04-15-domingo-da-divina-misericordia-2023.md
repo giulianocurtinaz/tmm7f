@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Domingo da Divina Misericórdia 2023!"
 date: 2023-04-15
 categories: 

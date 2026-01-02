@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Prece para afastar os obsessores"
 date: 2021-01-14
 categories: 

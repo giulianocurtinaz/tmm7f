@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Povo do Oriente: Semana de João Batista!"
 date: 2021-06-18
 categories: 

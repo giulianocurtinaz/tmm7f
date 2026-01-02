@@ -1,4 +1,4 @@
-﻿---
+---
 title: "5 Anos de Pai João e Sete Flechas!"
 date: 2025-10-23
 categories: 

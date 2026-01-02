@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Uma jornada ao passado com olhos no futuro"
 date: 2025-10-17
 categories: 

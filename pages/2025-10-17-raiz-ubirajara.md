@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "A nossa cultura"
 date: 2025-10-17
 coverImage: "/tmm7f/assets/images/ubirajara.png"

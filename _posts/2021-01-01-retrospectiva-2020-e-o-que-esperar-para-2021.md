@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Retrospectiva 2020 e o que esperar para 2021"
 date: 2021-01-01
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Umbanda e a busca do conhecimento"
 date: 2020-08-28
 categories: 

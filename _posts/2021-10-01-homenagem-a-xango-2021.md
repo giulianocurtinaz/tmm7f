@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Xangô 2021!"
 date: 2021-10-01
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Homenagem a Xangô 2025"
 date: 2025-10-19
 categories: 

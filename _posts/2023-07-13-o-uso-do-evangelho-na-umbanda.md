@@ -1,4 +1,4 @@
-﻿---
+---
 title: "O uso do Evangelho na Umbanda"
 date: 2023-07-13
 categories: 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Batizado do menino Heitor Jesus!"
 date: 2023-12-18
 categories: 

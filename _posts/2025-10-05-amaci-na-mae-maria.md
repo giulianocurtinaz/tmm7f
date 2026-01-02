@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amaci na Mãe Maria"
 date: 2025-10-05
 categories: 

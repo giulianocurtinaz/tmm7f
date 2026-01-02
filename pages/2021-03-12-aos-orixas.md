@@ -1,4 +1,4 @@
-﻿---\nlayout: page
+---\nlayout: page
 title: "Aos Orixás"
 date: 2021-03-12
 ---

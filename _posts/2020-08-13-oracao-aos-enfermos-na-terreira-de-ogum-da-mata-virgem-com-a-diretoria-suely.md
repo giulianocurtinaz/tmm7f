@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Oração aos enfermos na Terreira de Ogum da Mata Virgem com a diretoria Suely!"
 date: 2020-08-13
 categories: 
