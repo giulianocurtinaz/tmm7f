@@ -1,16 +1,16 @@
 ---
-title: "Amaci na Mãe Maria"
+title: "Amaci na MÃ£e Maria"
 date: 2025-10-05
 categories: 
   - "sem-categoria"
-coverImage: "1.jpg"
+coverImage: "/tmm7f/assets/images/1.jpg"
 ---
 
-Respeito, Aprendizado e Fé! Esses foram os sentimentos que guiaram nossos trabalhos na Mãe Maria nesse sábado! Envolvidos na egrégora de amor e amizade dessa maravilhosa casa, realizamos nosso ritual de Amaci juntamente com o corpo mediúnico da Mãe Maria!
+Respeito, Aprendizado e FÃ©! Esses foram os sentimentos que guiaram nossos trabalhos na MÃ£e Maria nesse sÃ¡bado! Envolvidos na egrÃ©gora de amor e amizade dessa maravilhosa casa, realizamos nosso ritual de Amaci juntamente com o corpo mediÃºnico da MÃ£e Maria!
 
-Momentos que ficarão gravados eternamente no livro espiritual de nossas vidas ! Obrigado Mãe Maria! ! Obrigado Caciques Treme-terra e Ogum Iara! Obrigado Sete Flechas por nos conduzir nessa estrada de aprendizado e auto burilamento espiritual! Obrigado a nossos antepassados Sr. Darci, Vô Jacy, Vó Mercedes e a todos os amigos espirituais que nos visitaram ontem!
+Momentos que ficarÃ£o gravados eternamente no livro espiritual de nossas vidas ! Obrigado MÃ£e Maria! ! Obrigado Caciques Treme-terra e Ogum Iara! Obrigado Sete Flechas por nos conduzir nessa estrada de aprendizado e auto burilamento espiritual! Obrigado a nossos antepassados Sr. Darci, VÃ´ Jacy, VÃ³ Mercedes e a todos os amigos espirituais que nos visitaram ontem!
 
-Aprender a Amar, aprender a perdoar, aprender a ser amigos! Essa é a nossa missão!
+Aprender a Amar, aprender a perdoar, aprender a ser amigos! Essa Ã© a nossa missÃ£o!
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-10-04-as-23173183cb3f92.jpg)
 

@@ -1,9 +1,9 @@
 ---
-title: "Reforma na Mãe Maria e o Dia dos Pretos Velhos na Umbanda!"
+title: "Reforma na MÃ£e Maria e o Dia dos Pretos Velhos na Umbanda!"
 date: 2021-05-14
 categories: 
   - "sem-categoria"
-coverImage: "tmm-sem-telhado.png"
+coverImage: "/tmm7f/assets/images/tmm-sem-telhado.png"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "tmm-sem-telhado.png"
 
 </figure>
 
-Vamos homenagear os pretos velhos e mostrar a reforma da terreira de Mãe Maria!
+Vamos homenagear os pretos velhos e mostrar a reforma da terreira de MÃ£e Maria!

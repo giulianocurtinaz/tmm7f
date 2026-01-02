@@ -3,10 +3,10 @@ title: "A Luz da prece e do Evangelho em nosso lar!"
 date: 2020-09-18
 categories: 
   - "sem-categoria"
-coverImage: "20200917_200440.jpg"
+coverImage: "/tmm7f/assets/images/20200917_200440.jpg"
 ---
 
-Um bate papo contagiante sobre o poder da prece e a bênção que ela produz no seio familiar!
+Um bate papo contagiante sobre o poder da prece e a bÃªnÃ§Ã£o que ela produz no seio familiar!
 
 <figure>
 

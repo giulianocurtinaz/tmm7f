@@ -3,10 +3,10 @@ title: "Reiki e a Umbanda"
 date: 2020-10-15
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2020-10-15-acc80s-11.28.32.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2020-10-15-acc80s-11.28.32.png"
 ---
 
-Conheça o Reiki e sua história. Como podemos aplicá-lo em nossa vida mediúnica e na Umbanda! Palestra com nossa amiga e diretora do Centro Espírita de Umbanda Reino de Jandira!
+ConheÃ§a o Reiki e sua histÃ³ria. Como podemos aplicÃ¡-lo em nossa vida mediÃºnica e na Umbanda! Palestra com nossa amiga e diretora do Centro EspÃ­rita de Umbanda Reino de Jandira!
 
 <figure>
 

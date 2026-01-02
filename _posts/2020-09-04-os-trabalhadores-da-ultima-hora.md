@@ -1,12 +1,12 @@
 ---
-title: "Os trabalhadores da última hora!"
+title: "Os trabalhadores da Ãºltima hora!"
 date: 2020-09-04
 categories: 
   - "sem-categoria"
-coverImage: "screenshot_20200904-180104_video-player.jpg"
+coverImage: "/tmm7f/assets/images/screenshot_20200904-180104_video-player.jpg"
 ---
 
-Vamos ler um trechinho do Evangelho, orar juntos e elevar nossas vibrações.
+Vamos ler um trechinho do Evangelho, orar juntos e elevar nossas vibraÃ§Ãµes.
 
 <figure>
 

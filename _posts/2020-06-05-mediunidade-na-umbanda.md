@@ -3,10 +3,10 @@ title: "Mediunidade na Umbanda!"
 date: 2020-06-05
 categories: 
   - "sem-categoria"
-coverImage: "20200605_210129.jpg"
+coverImage: "/tmm7f/assets/images/20200605_210129.jpg"
 ---
 
-05 de Junho de 2020 às 20 hs, vamos falar com nossa amiga Sandra da terreira do Cacique Ubirajara sobre Mediunidade na Umbanda e preparação do médium no dia de sessão. Além disso evocaremos as forças de Mamãe Oxum para harmonização familiar!
+05 de Junho de 2020 Ã s 20 hs, vamos falar com nossa amiga Sandra da terreira do Cacique Ubirajara sobre Mediunidade na Umbanda e preparaÃ§Ã£o do mÃ©dium no dia de sessÃ£o. AlÃ©m disso evocaremos as forÃ§as de MamÃ£e Oxum para harmonizaÃ§Ã£o familiar!
 
 <figure>
 

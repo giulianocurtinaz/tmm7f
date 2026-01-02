@@ -1,12 +1,12 @@
 ---
-title: "Anciões na nossa Umbanda"
+title: "AnciÃµes na nossa Umbanda"
 date: 2021-02-19
 categories: 
   - "sem-categoria"
-coverImage: "anciao.png"
+coverImage: "/tmm7f/assets/images/anciao.png"
 ---
 
-A importância dos médiuns da terceira idade em nossa corrente!
+A importÃ¢ncia dos mÃ©diuns da terceira idade em nossa corrente!
 
 <figure>
 

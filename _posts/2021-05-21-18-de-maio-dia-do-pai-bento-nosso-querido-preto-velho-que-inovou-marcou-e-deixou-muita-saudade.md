@@ -3,7 +3,7 @@ title: "18 de Maio: Dia do Pai Bento! Nosso querido preto-velho que inovou, marc
 date: 2021-05-21
 categories: 
   - "sem-categoria"
-coverImage: "paibento.jpg"
+coverImage: "/tmm7f/assets/images/paibento.jpg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "paibento.jpg"
 
 </figure>
 
-Vamos homenagear esse humilde preto-velho que fazia a todos sorrir quando chegava no terreiro, batendo no seu banquinho, contando histórias e fazendo muitos amigos aqui na terra!!! Salve Preto-velho de muita Luz! Nos abençoe de Aruanda, meu Pai!!!!
+Vamos homenagear esse humilde preto-velho que fazia a todos sorrir quando chegava no terreiro, batendo no seu banquinho, contando histÃ³rias e fazendo muitos amigos aqui na terra!!! Salve Preto-velho de muita Luz! Nos abenÃ§oe de Aruanda, meu Pai!!!!

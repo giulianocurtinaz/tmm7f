@@ -1,18 +1,18 @@
 ---
-title: "Homenagem à Oxum"
+title: "Homenagem Ã  Oxum"
 date: 2020-02-02
 categories: 
   - "sem-categoria"
-coverImage: "whatsapp-image-2020-02-02-at-19.39.05.jpeg"
+coverImage: "/tmm7f/assets/images/whatsapp-image-2020-02-02-at-19.39.05.jpeg"
 ---
 
-Em 02 de fevereiro de 2020 nossa terreira uniu-se à sua casa de origem, terreira de Mãe Maria, somando-se ainda à outras 4 casas numa linda homenagem à nossa Mãe Oxum realizada em Tapes-RS.
+Em 02 de fevereiro de 2020 nossa terreira uniu-se Ã  sua casa de origem, terreira de MÃ£e Maria, somando-se ainda Ã  outras 4 casas numa linda homenagem Ã  nossa MÃ£e Oxum realizada em Tapes-RS.
 
-Com muita vibração, amor e doçura numa só corrente, imbuídos do mesmo propósito, com sentimento de irmandade e amizade, de mãos dadas realizamos mais essa gira de Umbanda ao raiar do sol na beira da Lagoa dos patos.
+Com muita vibraÃ§Ã£o, amor e doÃ§ura numa sÃ³ corrente, imbuÃ­dos do mesmo propÃ³sito, com sentimento de irmandade e amizade, de mÃ£os dadas realizamos mais essa gira de Umbanda ao raiar do sol na beira da Lagoa dos patos.
 
-Agradecemos em especial ao nosso irmão e amigo Sr. Aladir e Sra. Isaura que nos receberam com tanta hospitalidade nesta data.
+Agradecemos em especial ao nosso irmÃ£o e amigo Sr. Aladir e Sra. Isaura que nos receberam com tanta hospitalidade nesta data.
 
-Não podíamos deixar de documentar aqui a vitalidade, alegria e exemplo de vida que "nossa" querida vó Mercedes nos deu hoje, participando ativamente de toda a homenagem à nossa mamãe Oxum.
+NÃ£o podÃ­amos deixar de documentar aqui a vitalidade, alegria e exemplo de vida que "nossa" querida vÃ³ Mercedes nos deu hoje, participando ativamente de toda a homenagem Ã  nossa mamÃ£e Oxum.
 
 ![](/tmm7f/assets/images/whatsapp-image-2020-02-02-at-193949-1.jpeg)
 

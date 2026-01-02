@@ -1,9 +1,9 @@
 ---
-title: "O Espírito da Verdade"
+title: "O EspÃ­rito da Verdade"
 date: 2021-07-16
 categories: 
   - "sem-categoria"
-coverImage: "amor-e-caridade3.jpeg"
+coverImage: "/tmm7f/assets/images/amor-e-caridade3.jpeg"
 ---
 
 <figure>

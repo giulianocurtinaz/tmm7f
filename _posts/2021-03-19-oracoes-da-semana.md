@@ -9,24 +9,24 @@ Amigos, conforme prometido, vamos publicar aqui todas as oraÃ§Ãµes recebidas
 
 **Pedido a Ogum**
 
-PeÃ§o a Ogum e a todas as suas legiÃµes que abram os caminhos que estÃ£o fechados por causa da invasÃ£o de entidades do baixo astral, permitindo que os nossos chefes falangeiros consigam trabalhar com a devida ordem, obediÃªncia e forÃ§a, para vencer todas as demandas ora exigidas. Que nenhum soldado esmoreÃ§a nem fraqueje para manter a justiÃ§a divina, conforme a lei representada por XangÃ´ . Que as suas lanÃ§as de pura luz atinjam seus objetivos, vencendo esta Demanda Mundial.Que assim seja!ðŸ™ (Rosiclea - MarÃ§o 2021)
+PeÃ§o a Ogum e a todas as suas legiÃµes que abram os caminhos que estÃ£o fechados por causa da invasÃ£o de entidades do baixo astral, permitindo que os nossos chefes falangeiros consigam trabalhar com a devida ordem, obediÃªncia e forÃ§a, para vencer todas as demandas ora exigidas. Que nenhum soldado esmoreÃ§a nem fraqueje para manter a justiÃ§a divina, conforme a lei representada por XangÃ´ . Que as suas lanÃ§as de pura luz atinjam seus objetivos, vencendo esta Demanda Mundial.Que assim seja!Ã°Å¸â„¢Â (Rosiclea - MarÃ§o 2021)
 
-**SaravÃ¡ Ã  Coroa do Verbo.**
+**SaravÃ¡ ÃƒÂ  Coroa do Verbo.**
 
-SaravÃ¡ Ã  Coroa do Verbo.  
+SaravÃ¡ ÃƒÂ  Coroa do Verbo.  
 Que os 7 Arashas  
-Derramem as suas vibraÃ§Ãµes aÂ   
+Derramem as suas vibraÃ§Ãµes aÃ‚Â   
 MÃ£e Terra MÃ£e, vida, vida.  
 E hoje eu te entrego o meu coraÃ§Ã£o  
 De pÃ© na Ã¡rvore da vida  
 A medicina do seu amor  
-Que nos Cureâ€¦.  
-Que nos Cureâ€¦ Cada ferida.  
+Que nos CureÃ¢â‚¬Â¦.  
+Que nos CureÃ¢â‚¬Â¦ Cada ferida.  
 Pai Gilberto - Templo Luz no Caminho - MarÃ§o/2021
 
 **Despertar**
 
-Em nome de Deus pai, Deus filho, Deus EspÃ­rito Santo e de todo o poder bendito e divino, que vibra sobre a Terra, venho humildemente, com meu coraÃ§Ã£o fervoroso de gratidÃ£o, pelas experiÃªncias, das quais me proveram a anÃ¡lise de um novo contexto, que a vida nos apresenta a cada dia. E forÃ§osamente nos empurra para o movimento da mudanÃ§a, do despertar para a nova realidade do mundo material e espiritual. Das quais, nÃ£o sÃ£o de romantismo e de sonho, que outrora nos foi apresentado. Ã‰ sim, de luta constante, sobre valores Ã©ticos, morais, empatia e base familiar. Tornando urgente que todos entrem em comprometimento de fazerem a limpeza interna, desapegando do ontem, que nÃ£o nos acrescenta mais e nos paralisa para viver o hoje, como tambÃ©m a rasparem dos coraÃ§Ãµes todas as mazelas e sentimentos que o petrificam.
+Em nome de Deus pai, Deus filho, Deus EspÃƒÂ­rito Santo e de todo o poder bendito e divino, que vibra sobre a Terra, venho humildemente, com meu coraÃ§Ã£o fervoroso de gratidÃ£o, pelas experiÃªncias, das quais me proveram a anÃ¡lise de um novo contexto, que a vida nos apresenta a cada dia. E forÃ§osamente nos empurra para o movimento da mudanÃ§a, do despertar para a nova realidade do mundo material e espiritual. Das quais, nÃ£o sÃ£o de romantismo e de sonho, que outrora nos foi apresentado. Ã‰ sim, de luta constante, sobre valores Ã©ticos, morais, empatia e base familiar. Tornando urgente que todos entrem em comprometimento de fazerem a limpeza interna, desapegando do ontem, que nÃ£o nos acrescenta mais e nos paralisa para viver o hoje, como tambÃ©m a rasparem dos coraÃ§Ãµes todas as mazelas e sentimentos que o petrificam.
 
 E assim, com todo o amor pulsante em minha essÃªncia, rogo que as energias vibrantes em todos os reinos, possam irradiar sobre toda a humanidade, a forÃ§a necessÃ¡ria para este despertar e para assim, reacenderem a luz divina, que existe dentro de cada ser, podendo pulsar dentro da divina lei que Ã© soberana e incansÃ¡vel pelo bem maior.
 
@@ -36,4 +36,4 @@ Obrigada por ter aprendido dentro dos excessos e das escassez, a me amar um pouc
 
 AgradeÃ§o ainda, por senti-lo em toda a natureza que vibra energia esplÃªndida de sabedoria infinita. Que o amor, a fÃ© e a coragem sejam nossas armas para a nossa evoluÃ§Ã£o. Que assim seja, gratidÃ£o.
 
-Martinha - Cambona do Pai BentoðŸ¤ (MarÃ§o 2021)
+Martinha - Cambona do Pai BentoÃ°Å¸Â¤Â (MarÃ§o 2021)

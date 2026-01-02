@@ -3,7 +3,7 @@ title: "Evangelho no Lar: Moral Estranha"
 date: 2021-05-28
 categories: 
   - "sem-categoria"
-coverImage: "moral.jpg"
+coverImage: "/tmm7f/assets/images/moral.jpg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "moral.jpg"
 
 </figure>
 
-"Deixar Pai, Mãe e Filhos". Vamos refletir um pouco a respeito desse capítulo diferenciado do Evangelho segundo o espiritismo.
+"Deixar Pai, MÃ£e e Filhos". Vamos refletir um pouco a respeito desse capÃ­tulo diferenciado do Evangelho segundo o espiritismo.

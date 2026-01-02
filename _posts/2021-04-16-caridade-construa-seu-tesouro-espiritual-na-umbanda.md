@@ -3,7 +3,7 @@ title: "Caridade: Construa seu tesouro espiritual na Umbanda!"
 date: 2021-04-16
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2021-04-16-acc80s-19.37.34.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-04-16-acc80s-19.37.34.png"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "captura-de-tela-2021-04-16-acc80s-19.37.34.png"
 
 </figure>
 
-Adquira tesouros imensuráveis no mundo espiritual através da caridade! Seja Umbandista, seja Espírita, seja Cristão!
+Adquira tesouros imensurÃ¡veis no mundo espiritual atravÃ©s da caridade! Seja Umbandista, seja EspÃ­rita, seja CristÃ£o!

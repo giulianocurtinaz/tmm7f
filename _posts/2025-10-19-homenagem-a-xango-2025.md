@@ -1,16 +1,16 @@
 ---
-title: "Homenagem a Xangô 2025"
+title: "Homenagem a XangÃ´ 2025"
 date: 2025-10-19
 categories: 
   - "sem-categoria"
-coverImage: "0000.jpg"
+coverImage: "/tmm7f/assets/images/0000.jpg"
 ---
 
-No dia 19 de Outubro fomos à RPPN Morro Sapucaia em Sapucaia do Sul-RS realizar nossa homenagem à Xangô!
+No dia 19 de Outubro fomos Ã  RPPN Morro Sapucaia em Sapucaia do Sul-RS realizar nossa homenagem Ã  XangÃ´!
 
-As correntes de Mãe Maria e Sete Flechas realizaram em conjunto esse importante trabalho de renovação de energias de nossos médiuns! Foi uma manhã realmente abençoada! Que nosso Pai Xangô abençoe todos nós renovando as forças de nossas almas!
+As correntes de MÃ£e Maria e Sete Flechas realizaram em conjunto esse importante trabalho de renovaÃ§Ã£o de energias de nossos mÃ©diuns! Foi uma manhÃ£ realmente abenÃ§oada! Que nosso Pai XangÃ´ abenÃ§oe todos nÃ³s renovando as forÃ§as de nossas almas!
 
-Kaô Cabecile! Kaô Xangô!!!
+KaÃ´ Cabecile! KaÃ´ XangÃ´!!!
 
 ![](/tmm7f/assets/images/01.jpg)
 

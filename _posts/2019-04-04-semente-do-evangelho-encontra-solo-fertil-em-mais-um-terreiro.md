@@ -1,19 +1,19 @@
 ---
-title: "Semente do Evangelho encontra \"solo fértil\" em mais um Terreiro"
+title: "Semente do Evangelho encontra \"solo fÃ©rtil\" em mais um Terreiro"
 date: 2019-04-04
 categories: 
   - "sem-categoria"
-coverImage: "20190929_204214.jpg"
+coverImage: "/tmm7f/assets/images/20190929_204214.jpg"
 ---
 
 ![](/tmm7f/assets/images/20190929204214.jpg)
 
-Em 04 de Abril de 2019, atendendo um "convite" do cabloco sete flechas, nossa irmã Sueli, implanta o Evangelho na sua terreira de Umbanda Ogum da Mata Virgem e Inhasã.
+Em 04 de Abril de 2019, atendendo um "convite" do cabloco sete flechas, nossa irmÃ£ Sueli, implanta o Evangelho na sua terreira de Umbanda Ogum da Mata Virgem e InhasÃ£.
 
-Na sessão realizada em sede própria as 20hs da noite, a irmã Sueli ressaltou a importância da "evolução" da Umbanda.
+Na sessÃ£o realizada em sede prÃ³pria as 20hs da noite, a irmÃ£ Sueli ressaltou a importÃ¢ncia da "evoluÃ§Ã£o" da Umbanda.
 
-Os médiuns Giuliano, Rosiclea e Terezinha presentearam a casa com 7 evangelhos que foram distribuídos entre os médiuns daquela casa.
+Os mÃ©diuns Giuliano, Rosiclea e Terezinha presentearam a casa com 7 evangelhos que foram distribuÃ­dos entre os mÃ©diuns daquela casa.
 
-A partir dessa data, em todas as sessões de umbanda, o evangelho será lido e comentado no início dos trabalhos.
+A partir dessa data, em todas as sessÃµes de umbanda, o evangelho serÃ¡ lido e comentado no inÃ­cio dos trabalhos.
 
-A primeira semente de evangelização da casa do Sete Flechas foi plantada no terreiro do Sr. Ogum, encontrando solo fértil, tenho certeza que será regado com muito amor e logo se transformará numa linda árvore que se multiplicará através de seus muitos frutos.
+A primeira semente de evangelizaÃ§Ã£o da casa do Sete Flechas foi plantada no terreiro do Sr. Ogum, encontrando solo fÃ©rtil, tenho certeza que serÃ¡ regado com muito amor e logo se transformarÃ¡ numa linda Ã¡rvore que se multiplicarÃ¡ atravÃ©s de seus muitos frutos.

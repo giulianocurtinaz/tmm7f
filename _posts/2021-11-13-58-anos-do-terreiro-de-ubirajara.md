@@ -3,10 +3,10 @@ title: "58 anos do terreiro de Ubirajara!!!"
 date: 2021-11-13
 categories: 
   - "sem-categoria"
-coverImage: "screenshot_20211112-211504_photos.jpg"
+coverImage: "/tmm7f/assets/images/screenshot_20211112-211504_photos.jpg"
 ---
 
-Cante e se emocione conosco neste aniversário!!!
+Cante e se emocione conosco neste aniversÃ¡rio!!!
 
 <figure>
 

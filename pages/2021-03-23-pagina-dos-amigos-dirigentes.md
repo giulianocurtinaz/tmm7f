@@ -1,43 +1,43 @@
 ---\nlayout: page
-title: "PÁGINA DOS AMIGOS DIRIGENTES"
+title: "PÃGINA DOS AMIGOS DIRIGENTES"
 date: 2021-03-23
 ---
 
 Com o objetivo de auxiliar-nos em nossos encontros, reunimos abaixo os pontos cantados dos AMIGOS DIRIGENTES!
 
-**TERREIRA DE MÃE MARIA  
-CABOCLA JUREMA** ( Médium Aline )
+**TERREIRA DE MÃƒE MARIA  
+CABOCLA JUREMA** ( MÃ©dium Aline )
 
-Moça bonita é a cabocla Jurema  
+MoÃ§a bonita Ã© a cabocla Jurema  
 Ele tem, ela tem seu diadema  
-Lá na aldeia, oh, lá na aldeia  
-Ela é a rainha da flecha de ouro e saiote de penas
+LÃ¡ na aldeia, oh, lÃ¡ na aldeia  
+Ela Ã© a rainha da flecha de ouro e saiote de penas
 
-É como um girassol  
-A coroa dela é como um girassol  
-É a luz do amanhecer  
+Ã‰ como um girassol  
+A coroa dela Ã© como um girassol  
+Ã‰ a luz do amanhecer  
 Doces sonhos de arrebol  
-A coroa da Jurema é como um girassol  
-É como um girassol
+A coroa da Jurema Ã© como um girassol  
+Ã‰ como um girassol
 
 <figure>
 
 <figcaption>
 
-Na voz de Aline - Dirigente Mãe Maria
+Na voz de Aline - Dirigente MÃ£e Maria
 
 </figcaption>
 
 </figure>
 
 **TERERIRA - SETE FLECHAS**  
-**CABOCLO SETE FLECHAS** ( Médium Giuliano )
+**CABOCLO SETE FLECHAS** ( MÃ©dium Giuliano )
 
-Erêrê, erêrêrêrêrêrêrá  
-Erêrê, Caboclo Sete Flechas no congá
+ErÃªrÃª, erÃªrÃªrÃªrÃªrÃªrÃªrÃ¡  
+ErÃªrÃª, Caboclo Sete Flechas no congÃ¡
 
-Saravá seu Sete-Flechas  
-Ele é o rei da mata  
+SaravÃ¡ seu Sete-Flechas  
+Ele Ã© o rei da mata  
 A sua bodoca atira paranga  
 Sua flecha mata
 
@@ -57,10 +57,10 @@ CABOCLO ARAGUARI** ( Pai Gilberto )
 Estava no meio da mata virgem  
 Quando a passarada toda cantou  
 Era povo de Umbanda que no terreiro lhe chamou  
-Ele é caboclo, ele é guerreiro  
-Lá nas matas de Araré  
+Ele Ã© caboclo, ele Ã© guerreiro  
+LÃ¡ nas matas de ArarÃ©  
 Com seu arco e sua flecha  
-Vem salvando filhos de fé
+Vem salvando filhos de fÃ©
 
 <figure>
 
@@ -73,33 +73,33 @@ Na voz de seu aparelho - Pai Gilberto
 </figure>
 
 **TERREIRA - CACIQUE UBIRAJARA**  
-**CABOCLA OXUM** ( Médium Maria Aparecida )
+**CABOCLA OXUM** ( MÃ©dium Maria Aparecida )
 
-Mamãe Oxum mamãe Oxum lá do infinito  
+MamÃ£e Oxum mamÃ£e Oxum lÃ¡ do infinito  
 Ai vem ouvir ai vem ouvir os nossos prantos  
-Nós lhe imploramos toda graça e todo amor  
-Na esperança de cobrir com vosso manto
+NÃ³s lhe imploramos toda graÃ§a e todo amor  
+Na esperanÃ§a de cobrir com vosso manto
 
-Mamãe Oxum que vem de aruanda  
-Com divino espírito santo  
+MamÃ£e Oxum que vem de aruanda  
+Com divino espÃ­rito santo  
 Vem salvar filhos de umbanda
 
-Mamãe Oxum que vem de aruanda  
-Com São Cosme e São Damião  
+MamÃ£e Oxum que vem de aruanda  
+Com SÃ£o Cosme e SÃ£o DamiÃ£o  
 Vem remando sobre as ondas
 
 <figure>
 
 <figcaption>
 
-Na voz de Nilza e Maria Aparecida - Dirigentes da Terreira de Mãe Maria Frat. Cacique Ubirajara
+Na voz de Nilza e Maria Aparecida - Dirigentes da Terreira de MÃ£e Maria Frat. Cacique Ubirajara
 
 </figcaption>
 
 </figure>
 
 **TERREIRA - OGUM DE RONDA  
-CABOCLO OGUM-IARA** ( Médium Alcimar )
+CABOCLO OGUM-IARA** ( MÃ©dium Alcimar )
 
 O seu cavalo corre  
 A sua espada reluz  
@@ -107,29 +107,29 @@ A Sua bandeira cobre
 Todos os filhos de Jesus  
 O seu cavalo corre  
 A sua espada reluz  
-Auê Ogum-Iara  
-Aos pés da Santa Cruz  
-Auê Ogum-Iara  
-Aos pés da Santa Cruz.
+AuÃª Ogum-Iara  
+Aos pÃ©s da Santa Cruz  
+AuÃª Ogum-Iara  
+Aos pÃ©s da Santa Cruz.
 
 <figure>
 
 <figcaption>
 
-Na voz de Alcimar ( Médium dirigente )
+Na voz de Alcimar ( MÃ©dium dirigente )
 
 </figcaption>
 
 </figure>
 
 **TERREIRA - OGUM DA MATA VIRGEM  
-CACOBLO OGUM DA MATA VIRGEM** ( Médium Suely )
+CACOBLO OGUM DA MATA VIRGEM** ( MÃ©dium Suely )
 
 Ogum da mata virgem  
-Dá licença que eu vou lhe saravar ( bis )  
+DÃ¡ licenÃ§a que eu vou lhe saravar ( bis )  
   
 Cabocla Jurema e seus caboclos  
-Da mata virgem na paz de Oxalá ( bis )  
+Da mata virgem na paz de OxalÃ¡ ( bis )  
 
 <figure>
 
@@ -142,15 +142,15 @@ Na voz de seu aparelho - Suely Plein
 </figure>
 
 **TERREIRA - OGUM BEIRA-MAR  
-CABOCLO OGUM BEIRA-MAR** ( Médium Aladir )
+CABOCLO OGUM BEIRA-MAR** ( MÃ©dium Aladir )
 
 Ogum quando chega no reino  
-Todos dizem auê, ele é poderoso  
+Todos dizem auÃª, ele Ã© poderoso  
 Salvai Ogum Beira Mar  
-Na linha de umbanda auê  
-Auê Ogum Beira Mar  
-Auê meu pai Ogum  
-Auê papai de umbanda, auê
+Na linha de umbanda auÃª  
+AuÃª Ogum Beira Mar  
+AuÃª meu pai Ogum  
+AuÃª papai de umbanda, auÃª
 
 <figure>
 
@@ -162,12 +162,12 @@ Na voz de Aladir e Isaura ( Hino da Casa de Ogum Beira-Mar)
 
 </figure>
 
-**CENTRO ESPÍRITA PAI JOÃO DE ARUANDA E SETE FLECHAS  
-CABOCLO SETE FLECHAS** ( Médium Cleber )
+**CENTRO ESPÃRITA PAI JOÃƒO DE ARUANDA E SETE FLECHAS  
+CABOCLO SETE FLECHAS** ( MÃ©dium Cleber )
 
-Atrás daquela serra tem sete coqueiros  
+AtrÃ¡s daquela serra tem sete coqueiros  
 Tem sete cobras todas a piar  
-Atrás daquela serra tem sete coqueiros  
+AtrÃ¡s daquela serra tem sete coqueiros  
 Tem sete cobras todas a piar  
 Elas se chamam Sete Flechas de Aruanda que Deus demanda a vir trabalhar  
 Elas se chamam Sete Flechas de Aruanda que Deus demanda a vir trabalhar
@@ -176,43 +176,43 @@ Elas se chamam Sete Flechas de Aruanda que Deus demanda a vir trabalhar
 
 <figcaption>
 
-Na voz de Cleber e Manuéllu ( Pai João e Sete Flechas )
+Na voz de Cleber e ManuÃ©llu ( Pai JoÃ£o e Sete Flechas )
 
 </figcaption>
 
 </figure>
 
-**C****ENTRO ESPÍRITA REINO DE JANDIRA**  
-**CABOCLA IANSÃ** ( Médium Sabrina )  
+**C****ENTRO ESPÃRITA REINO DE JANDIRA**  
+**CABOCLA IANSÃƒ** ( MÃ©dium Sabrina )  
 
-Olha que o céu clareou  
+Olha que o cÃ©u clareou  
 Quando o dia raiou  
 Fez o filho pensar
 
-A Mãe do tempo mandou  
+A MÃ£e do tempo mandou  
 A nova era chegou  
 Agora vamos plantar
 
-Do humaitá Ogum brandou  
+Do humaitÃ¡ Ogum brandou  
 Senhor Oxossi atinou  
-Iansã vai chegar
+IansÃ£ vai chegar
 
-O ogã já firmou  
+O ogÃ£ jÃ¡ firmou  
 Atabaque afinou  
 Agora vamos cantar
 
-A eparrei ela é Oyá, ela é Oyá  
-A eparrei é Iansã, é Iansã  
+A eparrei ela Ã© OyÃ¡, ela Ã© OyÃ¡  
+A eparrei Ã© IansÃ£, Ã© IansÃ£  
 A eparrei  
-Quando Iansã vai pra batalha  
+Quando IansÃ£ vai pra batalha  
 Todos os cavaleiros param  
-Só pra ver ela passar  
-A eparrei ela é Oyá, ela é Oyá  
-A eparrei é Iansã, é Iansã  
+SÃ³ pra ver ela passar  
+A eparrei ela Ã© OyÃ¡, ela Ã© OyÃ¡  
+A eparrei Ã© IansÃ£, Ã© IansÃ£  
 A eparrei  
-Quando Iansã vai pra batalha  
+Quando IansÃ£ vai pra batalha  
 Todos os cavaleiros param  
-Só para ver ela passar
+SÃ³ para ver ela passar
 
 <figure>
 
@@ -224,22 +224,22 @@ Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )
 
 </figure>
 
-****ASSOCIAÇÃO DE UMBANDA PAI OXALÁ FRATERNIDADE PAI XANGÔ****  
-**CABOCLO XANGÔ DAS CACHOEIRAS** ( Médium _"Julinho"_ )
+****ASSOCIAÃ‡ÃƒO DE UMBANDA PAI OXALÃ FRATERNIDADE PAI XANGÃ”****  
+**CABOCLO XANGÃ” DAS CACHOEIRAS** ( MÃ©dium _"Julinho"_ )
 
 Cachoeira da mata virgem  
-Aonde mora meu pai Xangô  
-Pedra rolou, Naná Buruquê  
-Pedra rolou, saravá pai Xangô  
-Saravá pai Xangô ê, ê, ê, ê, ê, á  
-Quem é filho de fé  
-Bate a cabeça lá no congá
+Aonde mora meu pai XangÃ´  
+Pedra rolou, NanÃ¡ BuruquÃª  
+Pedra rolou, saravÃ¡ pai XangÃ´  
+SaravÃ¡ pai XangÃ´ Ãª, Ãª, Ãª, Ãª, Ãª, Ã¡  
+Quem Ã© filho de fÃ©  
+Bate a cabeÃ§a lÃ¡ no congÃ¡
 
 <figure>
 
 <figcaption>
 
-Na voz de Julinho ( Assoc. de Umbanda Pai Oxalá Frat. Pai Xangô )
+Na voz de Julinho ( Assoc. de Umbanda Pai OxalÃ¡ Frat. Pai XangÃ´ )
 
 </figcaption>
 

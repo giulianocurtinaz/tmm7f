@@ -1,14 +1,14 @@
 ---
-title: "Amor, fé e Justiça! Na terreira de Ogum da Mata Virgem e Inhasã (Diretora espiritual Suely)"
+title: "Amor, fÃ© e JustiÃ§a! Na terreira de Ogum da Mata Virgem e InhasÃ£ (Diretora espiritual Suely)"
 date: 2020-05-08
 categories: 
   - "sem-categoria"
-coverImage: "capa_suely.png"
+coverImage: "/tmm7f/assets/images/capa_suely.png"
 ---
 
-Ore e assista conosco esse bate bato papo com a diretora espiritual da Terreira de Ogum da Mata Virgem e Inhasã, nossa amiga Suely.
+Ore e assista conosco esse bate bato papo com a diretora espiritual da Terreira de Ogum da Mata Virgem e InhasÃ£, nossa amiga Suely.
 
-Foi um dia de muito aprendizado e simplicidade com nossa Amiga Suely. Falamos sobre Entidades na Umbanda, Exus, Zélio Fernandino de Moraes, o Evangelho na Terreira! Confira!
+Foi um dia de muito aprendizado e simplicidade com nossa Amiga Suely. Falamos sobre Entidades na Umbanda, Exus, ZÃ©lio Fernandino de Moraes, o Evangelho na Terreira! Confira!
 
 <figure>
 

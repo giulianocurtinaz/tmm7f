@@ -1,9 +1,9 @@
 ---
-title: "A importância da Amizade"
+title: "A importÃ¢ncia da Amizade"
 date: 2021-07-23
 categories: 
   - "sem-categoria"
-coverImage: "screenshot_20210723-191412_youtube300057623317569770.jpg"
+coverImage: "/tmm7f/assets/images/screenshot_20210723-191412_youtube300057623317569770.jpg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "screenshot_20210723-191412_youtube300057623317569770.jpg"
 
 </figure>
 
-Feliz dia do amigo! Venha para a Umbanda e faça novos amigos do lado de cá e do lado de lá da matéria!
+Feliz dia do amigo! Venha para a Umbanda e faÃ§a novos amigos do lado de cÃ¡ e do lado de lÃ¡ da matÃ©ria!

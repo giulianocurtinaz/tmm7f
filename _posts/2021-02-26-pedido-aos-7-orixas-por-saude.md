@@ -1,12 +1,12 @@
 ---
-title: "Pedido aos 7 Orixás por saúde"
+title: "Pedido aos 7 OrixÃ¡s por saÃºde"
 date: 2021-02-26
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2021-02-26-acc80s-18.01.42.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-02-26-acc80s-18.01.42.png"
 ---
 
-Esse é o momento de orarmos juntos!
+Esse Ã© o momento de orarmos juntos!
 
 <figure>
 

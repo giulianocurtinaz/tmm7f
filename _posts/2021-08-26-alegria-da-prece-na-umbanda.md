@@ -3,7 +3,7 @@ title: "Alegria da prece na Umbanda"
 date: 2021-08-26
 categories: 
   - "sem-categoria"
-coverImage: "oracao.jpg"
+coverImage: "/tmm7f/assets/images/oracao.jpg"
 ---
 
 Como devemos orar na Umbanda!

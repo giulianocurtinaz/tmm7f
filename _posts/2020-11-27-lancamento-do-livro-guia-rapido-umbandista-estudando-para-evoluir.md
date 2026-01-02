@@ -1,14 +1,14 @@
 ---
-title: "Lançamento do livro: Guia Rápido Umbandista - Estudando para evoluir"
+title: "LanÃ§amento do livro: Guia RÃ¡pido Umbandista - Estudando para evoluir"
 date: 2020-11-27
 categories: 
   - "sem-categoria"
-coverImage: "livro-adri.png"
+coverImage: "/tmm7f/assets/images/livro-adri.png"
 ---
 
-Nossa amiga e cambona Adriana Zanette nos presenteia com sua obra maravilhosa sobre noções básicas da nossa religião. Conheça um pouco dessa obra disponível gratuitamente na Internet. Baixe aqui!
+Nossa amiga e cambona Adriana Zanette nos presenteia com sua obra maravilhosa sobre noÃ§Ãµes bÃ¡sicas da nossa religiÃ£o. ConheÃ§a um pouco dessa obra disponÃ­vel gratuitamente na Internet. Baixe aqui!
 
-[Guia Rápido Umbandista](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)
+[Guia RÃ¡pido Umbandista](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)
 
 <figure>
 

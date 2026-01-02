@@ -3,7 +3,7 @@ title: "Prece pelos obsidiados"
 date: 2021-06-04
 categories: 
   - "sem-categoria"
-coverImage: "afastar-obsessores.png"
+coverImage: "/tmm7f/assets/images/afastar-obsessores.png"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "afastar-obsessores.png"
 
 </figure>
 
-Vamos refletir, orar e pedir pelo afastamento dos obsessores. Prece número 82 do Evangelho Segundo o Espiritismo de Allan Kardec.
+Vamos refletir, orar e pedir pelo afastamento dos obsessores. Prece nÃºmero 82 do Evangelho Segundo o Espiritismo de Allan Kardec.

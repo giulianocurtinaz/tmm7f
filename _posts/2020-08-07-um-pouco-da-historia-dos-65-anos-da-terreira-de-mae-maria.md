@@ -1,12 +1,12 @@
 ---
-title: "Um pouco da História dos 65 anos da Terreira de Mãe Maria!"
+title: "Um pouco da HistÃ³ria dos 65 anos da Terreira de MÃ£e Maria!"
 date: 2020-08-07
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2020-08-13-as-07.36.40.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2020-08-13-as-07.36.40.png"
 ---
 
-Como essa grande fraternidade foi fundada, registros, curiosidades e inovações que esta casa trouxe para a nossa amada Umbanda!
+Como essa grande fraternidade foi fundada, registros, curiosidades e inovaÃ§Ãµes que esta casa trouxe para a nossa amada Umbanda!
 
 <figure>
 

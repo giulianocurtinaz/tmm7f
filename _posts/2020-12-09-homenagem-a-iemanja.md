@@ -1,12 +1,12 @@
 ---
-title: "Homenagem a Iemanjá"
+title: "Homenagem a IemanjÃ¡"
 date: 2020-12-09
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2020-12-09-as-09.19.16.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2020-12-09-as-09.19.16.png"
 ---
 
-8 de Dezembro é o dia que nós da fraternidade Mãe Maria comemoramos o dia de Mãe Iemanjá (dia de Nossa Senhora da Conceição). Ore, cante e peça conosco as bênçãos desse grande orixá!  
+8 de Dezembro Ã© o dia que nÃ³s da fraternidade MÃ£e Maria comemoramos o dia de MÃ£e IemanjÃ¡ (dia de Nossa Senhora da ConceiÃ§Ã£o). Ore, cante e peÃ§a conosco as bÃªnÃ§Ã£os desse grande orixÃ¡!  
 
 <figure>
 

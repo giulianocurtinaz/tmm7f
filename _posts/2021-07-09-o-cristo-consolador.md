@@ -3,7 +3,7 @@ title: "O Cristo Consolador"
 date: 2021-07-09
 categories: 
   - "sem-categoria"
-coverImage: "amor-e-caridade3.jpeg"
+coverImage: "/tmm7f/assets/images/amor-e-caridade3.jpeg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "amor-e-caridade3.jpeg"
 
 </figure>
 
-Trabalhar na caridade não é pesado! "Meu jugo é suave e meu fardo é leve". Vamos ler e refletir sobre o capítulo VI do Evangelho Segundo o Espiritismo e sua relação com a Umbanda!
+Trabalhar na caridade nÃ£o Ã© pesado! "Meu jugo Ã© suave e meu fardo Ã© leve". Vamos ler e refletir sobre o capÃ­tulo VI do Evangelho Segundo o Espiritismo e sua relaÃ§Ã£o com a Umbanda!

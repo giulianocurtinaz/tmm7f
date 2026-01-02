@@ -5,9 +5,9 @@ categories:
   - "sem-categoria"
 ---
 
-Após 5 anos de casa, fizemos nossa primeira homenagem a Oxossi! Acompanhamos nossa querida casa matriz Terreira de Mãe Maria em seu trabalho de homenagem à Oxossi que realizou-se no Morro Sapucaia ( Morro do Chapéu ).
+ApÃ³s 5 anos de casa, fizemos nossa primeira homenagem a Oxossi! Acompanhamos nossa querida casa matriz Terreira de MÃ£e Maria em seu trabalho de homenagem Ã  Oxossi que realizou-se no Morro Sapucaia ( Morro do ChapÃ©u ).
 
-Hoje também tivemos o ingresso de mais uma trabalhadora da casa! Seja bem-vinda Daniela! Que Pai Oxossi ilumine tua caminhada na Umbanda!
+Hoje tambÃ©m tivemos o ingresso de mais uma trabalhadora da casa! Seja bem-vinda Daniela! Que Pai Oxossi ilumine tua caminhada na Umbanda!
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2024-01-21-as-222111238e4235.jpg)
 

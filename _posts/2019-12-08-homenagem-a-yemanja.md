@@ -1,20 +1,20 @@
 ---
-title: "Homenagem a Yemanjá"
+title: "Homenagem a YemanjÃ¡"
 date: 2019-12-08
 categories: 
   - "sem-categoria"
-coverImage: "whatsapp-image-2019-12-08-at-20.28.41.jpeg"
+coverImage: "/tmm7f/assets/images/whatsapp-image-2019-12-08-at-20.28.41.jpeg"
 ---
 
-Nesse dia tão especial, a corrente de nossa casa homenageou nossa gloriosa Mãe Yemanjá num trabalho muito lindo realizado juntamente com a Terreira de Mãe Maria Fraternidade Cacique Ubirajara. Obrigado a todos os amigos que estiveram juntos nesse inesquecível dia em nossas vidas!!!!! Os médiuns confeccionaram lindíssimas [orações a Yemanjá](https://maemariaseteflechas.com.br/oracoes-yemanja/), confira!
+Nesse dia tÃ£o especial, a corrente de nossa casa homenageou nossa gloriosa MÃ£e YemanjÃ¡ num trabalho muito lindo realizado juntamente com a Terreira de MÃ£e Maria Fraternidade Cacique Ubirajara. Obrigado a todos os amigos que estiveram juntos nesse inesquecÃ­vel dia em nossas vidas!!!!! Os mÃ©diuns confeccionaram lindÃ­ssimas [oraÃ§Ãµes a YemanjÃ¡](https://maemariaseteflechas.com.br/oracoes-yemanja/), confira!
 
-Um fato marcante nesse dia foi o fato de termos esquecido a oferenda de Yemanjá dentro da terreira em Canoas ao embarcarmos para a praia. No meio do caminho nos damos conta do esquecimento, mas então já era tarde para retornarmos.
+Um fato marcante nesse dia foi o fato de termos esquecido a oferenda de YemanjÃ¡ dentro da terreira em Canoas ao embarcarmos para a praia. No meio do caminho nos damos conta do esquecimento, mas entÃ£o jÃ¡ era tarde para retornarmos.
 
-Mesmo sem ter levado as Rosas que haviam sido preparadas cuidadosamente pela médium Rosiclea, o trabalho ocorreu maravilhosamente bem e todos receberam as bençãos de nossa Senhora na praia de Mariluz.
+Mesmo sem ter levado as Rosas que haviam sido preparadas cuidadosamente pela mÃ©dium Rosiclea, o trabalho ocorreu maravilhosamente bem e todos receberam as benÃ§Ã£os de nossa Senhora na praia de Mariluz.
 
-Ao retornarmos para Canoas, a fim de encerrar os trabalhos, ao abrir a porta do terreiro, encontramos a oferenda "esquecida". Dando prosseguimento normal, o caboclo Sete Flechas foi chamado para concluirmos os trabalhos, foi quando que, para nossa surpresa, um ponto de Yemanjá foi riscado por ele e colocado no altar. Em seguida o caboclo desmanchou " o esquecido bouquet de rosas", entregando uma flor para cada um dos presentes. Solicitou então que cada membro realizasse a entrega daquela oferenda perante o altar.
+Ao retornarmos para Canoas, a fim de encerrar os trabalhos, ao abrir a porta do terreiro, encontramos a oferenda "esquecida". Dando prosseguimento normal, o caboclo Sete Flechas foi chamado para concluirmos os trabalhos, foi quando que, para nossa surpresa, um ponto de YemanjÃ¡ foi riscado por ele e colocado no altar. Em seguida o caboclo desmanchou " o esquecido bouquet de rosas", entregando uma flor para cada um dos presentes. Solicitou entÃ£o que cada membro realizasse a entrega daquela oferenda perante o altar.
 
-Ao som de pontos de Yemanjá, um a um dos presentes colocou sua rosa em cima daquela ponto! Foi algo realmente emocionante e inesperado! Quando colocavam-se as últimas rosas sobre o ponto, todos foram cobertos por uma "onda espiritual de energia vibrante!". Com lágrimas e muita emoção, encerram-se assim nossa homenagem a grande rainha das águas, nossa Mãe Yemanjá. Salve 08 de Dezembro! Salve Nossa Senhora! Salve Maria Mãe da Umbanda e de todos nós!
+Ao som de pontos de YemanjÃ¡, um a um dos presentes colocou sua rosa em cima daquela ponto! Foi algo realmente emocionante e inesperado! Quando colocavam-se as Ãºltimas rosas sobre o ponto, todos foram cobertos por uma "onda espiritual de energia vibrante!". Com lÃ¡grimas e muita emoÃ§Ã£o, encerram-se assim nossa homenagem a grande rainha das Ã¡guas, nossa MÃ£e YemanjÃ¡. Salve 08 de Dezembro! Salve Nossa Senhora! Salve Maria MÃ£e da Umbanda e de todos nÃ³s!
 
 ![](/tmm7f/assets/images/whatsapp-image-2019-12-08-at-2039331.jpeg)
 

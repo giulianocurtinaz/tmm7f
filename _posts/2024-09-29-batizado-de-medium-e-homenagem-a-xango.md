@@ -1,13 +1,13 @@
 ---
-title: "Batizado de médium e homenagem à Xangô!"
+title: "Batizado de mÃ©dium e homenagem Ã  XangÃ´!"
 date: 2024-09-29
 categories: 
   - "sem-categoria"
 ---
 
-Devido ao mau tempo cancelamos nossa viagem programada à Pedreira e realizamos nossa homenagem a Xangô na terreira!
+Devido ao mau tempo cancelamos nossa viagem programada Ã  Pedreira e realizamos nossa homenagem a XangÃ´ na terreira!
 
-Foi um dia muito especial, pois além da homenagem realizamos o batizado de nossa médium Táscilla! Padrinhos espirituais Sete Flechas e Oxum, padrinhos materiais Giuliano e Kátia!
+Foi um dia muito especial, pois alÃ©m da homenagem realizamos o batizado de nossa mÃ©dium TÃ¡scilla! Padrinhos espirituais Sete Flechas e Oxum, padrinhos materiais Giuliano e KÃ¡tia!
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2024-09-29-as-131511daea49a2.jpg)
 

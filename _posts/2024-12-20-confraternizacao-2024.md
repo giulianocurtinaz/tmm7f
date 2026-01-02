@@ -1,18 +1,18 @@
 ---
-title: "Confraternização 2024"
+title: "ConfraternizaÃ§Ã£o 2024"
 date: 2024-12-20
 categories: 
   - "sem-categoria"
-coverImage: "img-20241221-wa0015.jpg"
+coverImage: "/tmm7f/assets/images/img-20241221-wa0015.jpg"
 ---
 
-Não é só de branco que nos reunimos!
+NÃ£o Ã© sÃ³ de branco que nos reunimos!
 
-Com direito a amigo secreto. muita alegria, trocas de presentes e bastante emoção, comemoramos o encerramento de um ciclo de muitas renovações e provações de 2024!
+Com direito a amigo secreto. muita alegria, trocas de presentes e bastante emoÃ§Ã£o, comemoramos o encerramento de um ciclo de muitas renovaÃ§Ãµes e provaÃ§Ãµes de 2024!
 
 Viva a amizade! A fraternidade e a Caridade!
 
-Viva o Natal e nosso Pai Oxalá!
+Viva o Natal e nosso Pai OxalÃ¡!
 
 ![](/tmm7f/assets/images/img-20241221-wa0016.jpg)
 

@@ -3,10 +3,10 @@ title: "Prece pelos desencarnados da Pandemia"
 date: 2021-03-05
 categories: 
   - "sem-categoria"
-coverImage: "prece-aos-desencarnados.png"
+coverImage: "/tmm7f/assets/images/prece-aos-desencarnados.png"
 ---
 
-Vamos orar em favor de todos que estão desencarnando nessa hora tão difícil.
+Vamos orar em favor de todos que estÃ£o desencarnando nessa hora tÃ£o difÃ­cil.
 
 <figure>
 

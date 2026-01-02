@@ -1,12 +1,12 @@
 ---
-title: "Invocação aos Orixás e orações por nossa saúde!"
+title: "InvocaÃ§Ã£o aos OrixÃ¡s e oraÃ§Ãµes por nossa saÃºde!"
 date: 2021-09-10
 categories: 
   - "sem-categoria"
-coverImage: "ehluz.jpg"
+coverImage: "/tmm7f/assets/images/ehluz.jpg"
 ---
 
-Vamos orar mais uma vez pedindo aos Orixás, Guias e protetores por suas bênçãos!
+Vamos orar mais uma vez pedindo aos OrixÃ¡s, Guias e protetores por suas bÃªnÃ§Ã£os!
 
 <figure>
 

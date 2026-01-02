@@ -1,9 +1,9 @@
 ---
-title: "Mediunidade Consciente, Irradiação intuitiva e o trabalho na Umbamda."
+title: "Mediunidade Consciente, IrradiaÃ§Ã£o intuitiva e o trabalho na Umbamda."
 date: 2021-07-30
 categories: 
   - "sem-categoria"
-coverImage: "screenshot_20210730-180631_photos6956702720956895950.jpg"
+coverImage: "/tmm7f/assets/images/screenshot_20210730-180631_photos6956702720956895950.jpg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "screenshot_20210730-180631_photos6956702720956895950.jpg"
 
 </figure>
 
-Vamos abordar esse importante tema e as formas de incorporação na Umbanda!
+Vamos abordar esse importante tema e as formas de incorporaÃ§Ã£o na Umbanda!

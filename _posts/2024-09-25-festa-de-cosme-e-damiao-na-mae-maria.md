@@ -1,15 +1,15 @@
 ---
-title: "Festa de Cosme e Damião na Mãe Maria!"
+title: "Festa de Cosme e DamiÃ£o na MÃ£e Maria!"
 date: 2024-09-25
 categories: 
   - "sem-categoria"
 ---
 
-Como não podia deixar de ser, com muitos doces, alegria e brincadeiras, participamos da homenagem à Cosme e Damião nesse 25 de Setembro!
+Como nÃ£o podia deixar de ser, com muitos doces, alegria e brincadeiras, participamos da homenagem Ã  Cosme e DamiÃ£o nesse 25 de Setembro!
 
-Salve os Cosminhos! Salve a pureza das crianças do astral em nossos corações!
+Salve os Cosminhos! Salve a pureza das crianÃ§as do astral em nossos coraÃ§Ãµes!
 
-Obrigado Cosme e Damião pelo maior presente que poderia nos conceder: Nosso amado filho André!
+Obrigado Cosme e DamiÃ£o pelo maior presente que poderia nos conceder: Nosso amado filho AndrÃ©!
 
 ![](/tmm7f/assets/images/img-20240926-wa0029.jpg)
 

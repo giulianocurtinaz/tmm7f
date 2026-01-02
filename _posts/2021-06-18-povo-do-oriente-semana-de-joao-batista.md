@@ -1,9 +1,9 @@
 ---
-title: "Povo do Oriente: Semana de João Batista!"
+title: "Povo do Oriente: Semana de JoÃ£o Batista!"
 date: 2021-06-18
 categories: 
   - "sem-categoria"
-coverImage: "sao-joao-batista.jpeg"
+coverImage: "/tmm7f/assets/images/sao-joao-batista.jpeg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "sao-joao-batista.jpeg"
 
 </figure>
 
-Vamos orar e pedir por saúde ao Povo do Oriente!
+Vamos orar e pedir por saÃºde ao Povo do Oriente!

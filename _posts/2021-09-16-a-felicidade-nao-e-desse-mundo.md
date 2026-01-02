@@ -1,12 +1,12 @@
 ---
-title: "A Felicidade não é desse mundo"
+title: "A Felicidade nÃ£o Ã© desse mundo"
 date: 2021-09-16
 categories: 
   - "sem-categoria"
-coverImage: "novo-conga.png"
+coverImage: "/tmm7f/assets/images/novo-conga.png"
 ---
 
-Leitura e reflexão sobre um trecho do capítulo V do Evangelho Segundo o Espiritismo.
+Leitura e reflexÃ£o sobre um trecho do capÃ­tulo V do Evangelho Segundo o Espiritismo.
 
 <figure>
 

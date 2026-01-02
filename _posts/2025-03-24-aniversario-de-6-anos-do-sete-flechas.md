@@ -1,29 +1,29 @@
 ---
-title: "Aniversário de 6 anos do Sete Flechas"
+title: "AniversÃ¡rio de 6 anos do Sete Flechas"
 date: 2025-03-24
 categories: 
   - "sem-categoria"
-coverImage: "img-20250323-wa0108.jpg"
+coverImage: "/tmm7f/assets/images/img-20250323-wa0108.jpg"
 ---
 
-Hoje rodeado de amigos desse e do outro plano, comemoramos o sexto aniversário de nossa casa.
+Hoje rodeado de amigos desse e do outro plano, comemoramos o sexto aniversÃ¡rio de nossa casa.
 
 Agradecemos todos os amigos que compareceram nesse importante dia!
 
-Nossos mediuns redigiram orações pessoais como forma de oferenda à casa! Nosso amado filho André de 8 anos redigiu sua primeira oração:
+Nossos mediuns redigiram oraÃ§Ãµes pessoais como forma de oferenda Ã  casa! Nosso amado filho AndrÃ© de 8 anos redigiu sua primeira oraÃ§Ã£o:
 
-Oração do André  
+OraÃ§Ã£o do AndrÃ©  
   
-Parabéns pelos seis anos da nossa terreira.  
-Que Jesus abençoe todos esses seis anos de amor e fraternidade.  
-Que Deus ilumine todas as pessoas que precisam de amor e fé.  
-Jesus, ilumine nossa casa com amor, fé, carinho e felicidade.  
+ParabÃ©ns pelos seis anos da nossa terreira.  
+Que Jesus abenÃ§oe todos esses seis anos de amor e fraternidade.  
+Que Deus ilumine todas as pessoas que precisam de amor e fÃ©.  
+Jesus, ilumine nossa casa com amor, fÃ©, carinho e felicidade.  
 Deus, ilumine vossa casa com amor, paz e fraternidade.  
 Que possamos cumprir nossa tarefa com amor e paz.  
 Que nossos guias espirituais nos protejam, amparem e iluminem nosso caminho.  
-Oh Jesus abençoe nossa casa de amor, paz, harmonia, amizade e felicidade.  
+Oh Jesus abenÃ§oe nossa casa de amor, paz, harmonia, amizade e felicidade.  
 Que Deus nos acompanhe em nossa caminhada espiritual.  
-Parabéns Sete Flechas!
+ParabÃ©ns Sete Flechas!
 
 ![](/tmm7f/assets/images/img-20250323-wa01081325672061473002111.jpg)
 

@@ -3,88 +3,88 @@ title: "Lista de pontos cantados faltantes"
 date: 2022-01-14
 ---
 
-### **#Iemanjá**
+### **#IemanjÃ¡**
 
-Iemanjá é a rainha do mar  
-E o povo das águas  
-É a força maior
+IemanjÃ¡ Ã© a rainha do mar  
+E o povo das Ã¡guas  
+Ã‰ a forÃ§a maior
 
-Firma seu ponto mamãe  
+Firma seu ponto mamÃ£e  
 Firma seu ponto  
 Que no fundo do mar  
-É ouro, só é ouro só
+Ã‰ ouro, sÃ³ Ã© ouro sÃ³
 
 ....
 
 Dia 8 de Dezembro dia de festa no mar  
-E eu quero ser o primeiro a saudar Iemanjá  
+E eu quero ser o primeiro a saudar IemanjÃ¡  
 Escrevi um bilhete na areia  
 Pedindo pra ela me ajudar
 
 E ela me respondeu  
-Que eu tivesse paciência de esperar  
+Que eu tivesse paciÃªncia de esperar  
 Chegou chegou chegou  
 Afinal o dia dela chegou
 
-….
+â€¦.
 
-A Iemanjá não é uma sereia  
-Ela é a rainha lá do mar  
-Oh Iemanjá não é uma sereia  
-Ela é a rainha lá do mar  
+A IemanjÃ¡ nÃ£o Ã© uma sereia  
+Ela Ã© a rainha lÃ¡ do mar  
+Oh IemanjÃ¡ nÃ£o Ã© uma sereia  
+Ela Ã© a rainha lÃ¡ do mar  
 E sua coroa reluz  
-Iemanjá é a mãe de Jesus
+IemanjÃ¡ Ã© a mÃ£e de Jesus
 
-….
+â€¦.
 
 Joga flores no mar  
-Bate com o pé e pede fé  
-Pra mãe Iemanjá  
+Bate com o pÃ© e pede fÃ©  
+Pra mÃ£e IemanjÃ¡  
 Joga flores no mar  
 Joga flores no mar  
-Quem tem fé não padece  
+Quem tem fÃ© nÃ£o padece  
 Quem sofre merece, precisa levar  
-Ode odá ode odá ode odá  
+Ode odÃ¡ ode odÃ¡ ode odÃ¡  
 Joga flores no mar
 
-….
+â€¦.
 
-Salve Iemanjá, salve Oxum e Nanã  
-A mãe sereia nós vamos saudar  
+Salve IemanjÃ¡, salve Oxum e NanÃ£  
+A mÃ£e sereia nÃ³s vamos saudar  
 Oh me leva, me leva nas ondas grandes  
 Eu quero ver a sereia nadar  
-Nanáruê êêê nanaruê  
-Mamãe é dona do mar  
+NanÃ¡ruÃª ÃªÃªÃª nanaruÃª  
+MamÃ£e Ã© dona do mar  
 Que quero ver os caboclinhos na areia  
-Como eles brincam com Iemanjá  
-Nanáruê êêê nanaruê  
-Mamãe é dona do mar  
+Como eles brincam com IemanjÃ¡  
+NanÃ¡ruÃª ÃªÃªÃª nanaruÃª  
+MamÃ£e Ã© dona do mar  
 
 ....
 
-Saravá sereia linda  
-Saravá mãe Iemanjá  
+SaravÃ¡ sereia linda  
+SaravÃ¡ mÃ£e IemanjÃ¡  
 Vou chegar nas sete ondas  
-Com as bênçãos de Iemanjá  
-Mãe Iemanjá mãe Iemanjá  
+Com as bÃªnÃ§Ã£os de IemanjÃ¡  
+MÃ£e IemanjÃ¡ mÃ£e IemanjÃ¡  
 Com a luz da estrela guia  
 Eu sei que vou chegar
 
-….
+â€¦.
 
-Iemanjá é a rainha do mar  
-Iemanjá é a rainha do mar  
-Saravá povo de umbanda  
+IemanjÃ¡ Ã© a rainha do mar  
+IemanjÃ¡ Ã© a rainha do mar  
+SaravÃ¡ povo de umbanda  
 Salve Ogum Beira-Mar  
 Salve os guias, salve os santos  
-Salve meu pai Oxalá  
-Iemanjá é a rainha do ma
+Salve meu pai OxalÃ¡  
+IemanjÃ¡ Ã© a rainha do ma
 
-….
+â€¦.
 
 Eu vi sentada na areia  
-Uma linda seria tão triste a choraaar  
-Suas lágrimas rolavam no rosto  
+Uma linda seria tÃ£o triste a choraaar  
+Suas lÃ¡grimas rolavam no rosto  
 Caiam na areia e voltavam pro maaar  
 Chora sereia, anareua  
 Chora sereia e leva a tristeza  
@@ -94,197 +94,197 @@ Pro fundo do maaar
 
 **Marinheiro**
 
-Oh marinheiro é hora  
-É hora do barquinho navegar  
-Oh marinheiro é hora  
-É hora do barquinho navegar
+Oh marinheiro Ã© hora  
+Ã‰ hora do barquinho navegar  
+Oh marinheiro Ã© hora  
+Ã‰ hora do barquinho navegar
 
-É céu, é terra, é mar  
-Oh marinheiro olha o balanço do mar  
-É céu, é terra, é mar  
-Oh marinheiro olha o balanço do mar
+Ã‰ cÃ©u, Ã© terra, Ã© mar  
+Oh marinheiro olha o balanÃ§o do mar  
+Ã‰ cÃ©u, Ã© terra, Ã© mar  
+Oh marinheiro olha o balanÃ§o do mar
 
 ....
 
-### **#Oxóssi**
+### **#OxÃ³ssi**
 
-Oxóssi já vem lá das matas  
-Oxóssi já vem no terreiro  
-Oxóssi ao sair das matas  
-Oxóssi assovia pra seus companheiros
+OxÃ³ssi jÃ¡ vem lÃ¡ das matas  
+OxÃ³ssi jÃ¡ vem no terreiro  
+OxÃ³ssi ao sair das matas  
+OxÃ³ssi assovia pra seus companheiros
 
-….
+â€¦.
 
 Na minha aldeia eu sou caboclo  
 Sou rompe mato e arranca toco  
-Na minha aldeia lá na jurema  
-Não se faz nada sem a lei suprema  
+Na minha aldeia lÃ¡ na jurema  
+NÃ£o se faz nada sem a lei suprema  
 ....
 
 Foi Zambi quem criou o mundo  
-É Zambi quem vai comandar  
+Ã‰ Zambi quem vai comandar  
 Foi Zambi quem criou as estrelas  
-Que ilumina Oxóssi lá na Jurema  
+Que ilumina OxÃ³ssi lÃ¡ na Jurema  
 Coquei, coquei, coquei  
 Coquei meu caboclo Tupi
 
-….
+â€¦.
 
 Eu estava na mata virgem  
 Com minha flecha  
 Assoviei pros manos da floresta  
-E veio Oxóssi com seus flecheiros
+E veio OxÃ³ssi com seus flecheiros
 
-Aqui está o caboclo  
+Aqui estÃ¡ o caboclo  
 Da mata virgem  
-Pra trabalhar pros filhos de Oxalá
+Pra trabalhar pros filhos de OxalÃ¡
 
-….
+â€¦.
 
-Oxalá Velhinho!  
-Oxalá daodé!  
-Oxalá da Urumilaia,  
-Oxalá é dá Umbanda!  
+OxalÃ¡ Velhinho!  
+OxalÃ¡ daodÃ©!  
+OxalÃ¡ da Urumilaia,  
+OxalÃ¡ Ã© dÃ¡ Umbanda!  
   
-Oxalá é da Umbanda  
+OxalÃ¡ Ã© da Umbanda  
 Quando sair o sol  
 Eu vou entrar na mata  
 Vou chamar a jurema | bis  
-Oxossi na mata é caçador
+Oxossi na mata Ã© caÃ§ador
 
-**Daodé**: Em Iorubá significa caçador  
-**Urumilaia/Orumilá**: na mitologia iorubá, é um orixá, e divindade da profecia e da adivinhação, ligado ao Orum.
+**DaodÃ©**: Em IorubÃ¡ significa caÃ§ador  
+**Urumilaia/OrumilÃ¡**: na mitologia iorubÃ¡, Ã© um orixÃ¡, e divindade da profecia e da adivinhaÃ§Ã£o, ligado ao Orum.
 
 ....
 
-Eu vi os caboclos de Oxóssi  
+Eu vi os caboclos de OxÃ³ssi  
 Na mata a trabalhar  
 Arranca folha, soca erva, tira seiva  
-Pros filhos de umbanda reforçar
+Pros filhos de umbanda reforÃ§ar
 
-….
+â€¦.
 
-O senhor pena branca, E ô  
-O senhor pena branca, E á  
+O senhor pena branca, E Ã´  
+O senhor pena branca, E Ã¡  
 Vem trabalhar nesse conga  
 Com sua pemba  
 E sua pena branca  
 Vem trabalhar nesse conga  
-O senhor pena branca, E ô  
-O senhor pena branca, E á  
-Já baixou nesse conga  
-Enviado de Oxalá   
+O senhor pena branca, E Ã´  
+O senhor pena branca, E Ã¡  
+JÃ¡ baixou nesse conga  
+Enviado de OxalÃ¡Â   
 Para os filhos ajudar  
 A curar o mal q for  
-O senhor pena branca, E ô  
-O senhor pena branca, E á  
-De doença ou feitiço  
+O senhor pena branca, E Ã´  
+O senhor pena branca, E Ã¡  
+De doenÃ§a ou feitiÃ§o  
 O feiticeiro vai curar  
-Com as bênçãos de Oxalá  
+Com as bÃªnÃ§Ã£os de OxalÃ¡  
 Ele e feiticeiro  
-Feiticeiro de Oxalá  
+Feiticeiro de OxalÃ¡  
 Salve senhor pena branca  
 que baixou nesse conga  
-com a permissão de Oxalá  
+com a permissÃ£o de OxalÃ¡  
 Para os filhos ajudar sarava  
-Senhor pena branca  okê okê cabôclo
+Senhor pena brancaÂ  okÃª okÃª cabÃ´clo
 
 Os filhos de umbanda  
-Vem de lá e vem de cá  
+Vem de lÃ¡ e vem de cÃ¡  
 Quem chega na terreira  
-É o Pai Tupinambá  
-Traz sua proteção  
-Com sua flecha na mão
+Ã‰ o Pai TupinambÃ¡  
+Traz sua proteÃ§Ã£o  
+Com sua flecha na mÃ£o
 
 ....
 
 Ele vem montado  
-Ele vem calçado  
+Ele vem calÃ§ado  
 Ele vem saudar  
-O Rei Oxalá
+O Rei OxalÃ¡
 
-….
+â€¦.
 
 Jurema, Oh Jurema, Jurema  
-Ela é cabocla flecheira  
+Ela Ã© cabocla flecheira  
 Atira flecha pro ar  
-Atirou numa jibóia  
+Atirou numa jibÃ³ia  
 Matou a cobra coral
 
 ....
 
 Entrei na mata virgem  
-Lá encontrei a jurema caçadora  
+LÃ¡ encontrei a jurema caÃ§adora  
 Que cabocla linda |bis  
 ela tem um cocar de penas  
 Sua flecha brilha |  
-como é serena. |bis
+como Ã© serena. |bis
 
   
 ....
 
 Jurema do juremeiro  
-Do reino de juemá  
-Jurema ela é flecheira  
-E mensageira de Oxalá
+Do reino de juemÃ¡  
+Jurema ela Ã© flecheira  
+E mensageira de OxalÃ¡
 
 No reino da mata virgem  
 Jurema vem trabalhar  
 Sua flecha caiu serena Oh Jurema  
-Dentro desse congá
+Dentro desse congÃ¡
 
-….
+â€¦.
 
 Ai Jureminha, ai Jurema  
 Sua flecha caiu serena Jurema  
-Dentro desse congá
+Dentro desse congÃ¡
 
 Na beira do mar eu vi  
-Os passos de Iemanjá  
-Será que ficou aqui?  
-Será que voltou pro mar?
+Os passos de IemanjÃ¡  
+SerÃ¡ que ficou aqui?  
+SerÃ¡ que voltou pro mar?
 
 Ai Jureminha, ai Jurema  
 Sua flecha caiu serena Jurema  
-Dentro desse congá
+Dentro desse congÃ¡
 
-Eu sou tão pequenininho  
+Eu sou tÃ£o pequenininho  
 Mas posso te ajudar  
-Só quero ganhar depois  
-Balas, doces e guaraná
+SÃ³ quero ganhar depois  
+Balas, doces e guaranÃ¡
 
-….
+â€¦.
 
 Jurema, sua flecha brilhou Jurema  
 Quando sua flecha atirou Jurema  
 E quando essa flecha subiu  
-Ô Jurema flecheira  
+Ã” Jurema flecheira  
 Essa terreira iluminou  
 Salve Jurema do Juremeiro  
 Que no reino vem trabalhar  
 Salve Jurema da mata virgem  
-Do reino de Juremá
+Do reino de JuremÃ¡
 
-….
+â€¦.
 
-É tão bonita a cabocla Jurema  
-Nas matas de Oxóssi  
+Ã‰ tÃ£o bonita a cabocla Jurema  
+Nas matas de OxÃ³ssi  
 Eu bem sei foi assim
 
 Seu vestido de folhas de palmas  
-Balança com calma  
+BalanÃ§a com calma  
 Seu colar de jasmim
 
-Oxóssi na mata assoviou  
+OxÃ³ssi na mata assoviou  
 Ele saudou, ele saudou  
 A cabocla que chegou
 
-….
+â€¦.
 
-O vento está soprando nas matas  
-Jogando as folhas da Jurema no chão  
-O vento está soprando, as flohas vão caindo  
-Caboclos vão apanhando elas do chão  
+O vento estÃ¡ soprando nas matas  
+Jogando as folhas da Jurema no chÃ£o  
+O vento estÃ¡ soprando, as flohas vÃ£o caindo  
+Caboclos vÃ£o apanhando elas do chÃ£o  
 Arreia, arreia companheiros de Jurema  
 Arreia, arreia companheiros de Jurema  
 Olha a mata quebrando  
@@ -292,105 +292,105 @@ Caboclo arriando
 Caboclo arriando  
 Olha a mata quebrando
 
-….
+â€¦.
 
-A mata estava tão linda  
+A mata estava tÃ£o linda  
 Brilhava a luz do luar  
-A mata estava tão linda  
+A mata estava tÃ£o linda  
 Brilhava a luz do luar
 
 Quando a cabocla Jurema  
-Levando rosas foi saudar mãe Iemanjá  
+Levando rosas foi saudar mÃ£e IemanjÃ¡  
 Quando a cabocla Jurema  
-Levando rosas foi saudar mãe Iemanjá  
+Levando rosas foi saudar mÃ£e IemanjÃ¡  
 Enquanto as rosas  
 Pela praia se espalharam  
-Apareceu a rainha de Nanã  
+Apareceu a rainha de NanÃ£  
 E recolhendo as flores de Jurema  
 Jogou na areia uma estrela do mar
 
-….
+â€¦.
 
 Eu vou chamar a corrente de Jurema  
-Ai vem a Jureminha, é Juremê e Juremá
+Ai vem a Jureminha, Ã© JuremÃª e JuremÃ¡
 
-Quem é que manda  
+Quem Ã© que manda  
 Na corrente de Jurema?  
-Quem é que manda  
-É o pai Tupinambá
+Quem Ã© que manda  
+Ã‰ o pai TupinambÃ¡
 
 Jurema, Jurema  
 Atirando as suas flechas  
 Jurema vem trabalhar  
 Jurema, Jurema  
 Atirando suas flechas  
-Jurema vem no congá
+Jurema vem no congÃ¡
 
-….
+â€¦.
 
-Na mata eu vi o sabiá cantar  
-Ai eu queria ver o sabiá cantando  
-Mas não era o sabiá  
+Na mata eu vi o sabiÃ¡ cantar  
+Ai eu queria ver o sabiÃ¡ cantando  
+Mas nÃ£o era o sabiÃ¡  
 Era a cabocla Jurema  
 Que estava assoviando
 
-Ai Jureminha, Ai Juremê, é Juremá  
+Ai Jureminha, Ai JuremÃª, Ã© JuremÃ¡  
 Que entra no terreiro  
-Pra seus filhos abençoar
+Pra seus filhos abenÃ§oar
 
 ....
 
 **Caboclo Ararijara**
 
 Com tanto pau no mato  
-E eu não tenho guia  
+E eu nÃ£o tenho guia  
 Caboclo Ararijara  
 Vai fazer sua guia  
 Com tanto pau no mato  
-Eu já tenho guia  
+Eu jÃ¡ tenho guia  
 Caboclo Ararijara  
-Já cruzou minha guia
+JÃ¡ cruzou minha guia
 
 ....
 
-### #**XANGÔ**
+### #**XANGÃ”**
 
-Iansã estava sentada  
-Esperando o pai Xangô  
-Veio **Corisco**, veio Trovão  
-Seu filho não se assustou  
-Quem não pode não demanda  
+IansÃ£ estava sentada  
+Esperando o pai XangÃ´  
+Veio **Corisco**, veio TrovÃ£o  
+Seu filho nÃ£o se assustou  
+Quem nÃ£o pode nÃ£o demanda  
 Que o rei da umbanda  
-É pai Xangô
+Ã‰ pai XangÃ´
 
-**Corisco**: faísca elétrica da atmosfera, acompanhada ou não de trovão; raio.
+**Corisco**: faÃ­sca elÃ©trica da atmosfera, acompanhada ou nÃ£o de trovÃ£o; raio.
 
-….
+â€¦.
 
-Xangô, Xangô meu pai Xangô  
-Kaô kabecile obá Xangô  
-Saravá Xangô, saravá Xangô  
-Xangô mora na pedreira  
+XangÃ´, XangÃ´ meu pai XangÃ´  
+KaÃ´ kabecile obÃ¡ XangÃ´  
+SaravÃ¡ XangÃ´, saravÃ¡ XangÃ´  
+XangÃ´ mora na pedreira  
 E manda relampiar  
-Kaô Cabecilê obi Xangô  
-Saravá Xangô, saravá Xangô
+KaÃ´ CabecilÃª obi XangÃ´  
+SaravÃ¡ XangÃ´, saravÃ¡ XangÃ´
 
-….
+â€¦.
 
 Bate, bate no tambor  
-Bate, bate pra Xangô  
-Xangô é rei da justiça  
-Xangô é rei da pedreira  
-Xangô reforçou os seus filhos  
-Com a água da cachoeira  
+Bate, bate pra XangÃ´  
+XangÃ´ Ã© rei da justiÃ§a  
+XangÃ´ Ã© rei da pedreira  
+XangÃ´ reforÃ§ou os seus filhos  
+Com a Ã¡gua da cachoeira  
 ....
 
 Em cima de uma pedra branca  
-Ao lado de um pé de açucena  
+Ao lado de um pÃ© de aÃ§ucena  
 Eu vi o cacique Treme Terra  
 Usando seu saiote de penas  
-Treme Terra auê auê  
-Treme Terra auê auá  
+Treme Terra auÃª auÃª  
+Treme Terra auÃª auÃ¡  
 Treme Terra que vem da pedreira  
 Treme Terra que vem trabalhar
 
@@ -405,167 +405,167 @@ Zum, zum, zum o caboclo assim dizia
 Sou caboclo e sou flecheiro  
 Sou Caboclo Ventania
 
-….
+â€¦.
 
-Veado no campo é corredor  
-Caboclo no mato é caçador  
-Cadê Caboclo Ventania?  
-Esse caboclo é nosso guia
+Veado no campo Ã© corredor  
+Caboclo no mato Ã© caÃ§ador  
+CadÃª Caboclo Ventania?  
+Esse caboclo Ã© nosso guia
 
   
-….
+â€¦.
 
-Iansã é uma moça bonita  
-Ela é dona do seu jacutá  
+IansÃ£ Ã© uma moÃ§a bonita  
+Ela Ã© dona do seu jacutÃ¡  
 Eparrei, eparrei, eparrei  
-O mamãe de aruanda  
+O mamÃ£e de aruanda  
 Firma seu ponto que eu quero ver
 
 ### **#OGUM**
 
 ....
 
-Oh! Meu São Jorge  
-Veio de lança na mão  
+Oh! Meu SÃ£o Jorge  
+Veio de lanÃ§a na mÃ£o  
 Montado em seu cavalo  
-Para matar o dragão  
-Ele é chefe da demanda  
+Para matar o dragÃ£o  
+Ele Ã© chefe da demanda  
 Protetor do povo da umbanda  
-Salve, salve São Jorge guerreiro  
+Salve, salve SÃ£o Jorge guerreiro  
 forte e audaz cavaleiro.
 
   
 ....
 
 Ogum meu pai  
-Quem é da linha de umbanda, não sei  
+Quem Ã© da linha de umbanda, nÃ£o sei  
 Firma ponto no terreiro  
-Risca ponto meu irmão  
-Quem é da linha da Umbanda  
-Tem sempre a pemba na mão
+Risca ponto meu irmÃ£o  
+Quem Ã© da linha da Umbanda  
+Tem sempre a pemba na mÃ£o
 
-….
+â€¦.
 
-Saravá, saravá São Jorge  
+SaravÃ¡, saravÃ¡ SÃ£o Jorge  
 Salve seu brado varonil  
-Saravá, saravá São Jorge  
-É ele o padroeiro do Brasil
+SaravÃ¡, saravÃ¡ SÃ£o Jorge  
+Ã‰ ele o padroeiro do Brasil
 
-São Jorge levanta sua bandeira  
-E as estrelas brilham num céu  
+SÃ£o Jorge levanta sua bandeira  
+E as estrelas brilham num cÃ©u  
 Cor de anil  
 Salve suas homenagens  
 Salve o 23 de abril
 
-….
+â€¦.
 
 Tem festa do terreiro  
-Tem festa no congá
+Tem festa no congÃ¡
 
-Ogum é São Jorge guerreiro  
-Grande caboclo e orixá  
-Saravá Ogum lanceiro  
+Ogum Ã© SÃ£o Jorge guerreiro  
+Grande caboclo e orixÃ¡  
+SaravÃ¡ Ogum lanceiro  
 Salve o povo de aruanda  
-Saravá nesse terreiro  
+SaravÃ¡ nesse terreiro  
 Salve Ogum general de umbanda
 
 Ogum general de umbanda  
-É o chefe da terreira  
+Ã‰ o chefe da terreira  
 Todas as demandas  
 Muitos anos ele festeja  
-Ogum é o santo da minha devoção  
+Ogum Ã© o santo da minha devoÃ§Ã£o  
 E eu vencerei na vida  
-Como São Jorge venceu o dragão  
+Como SÃ£o Jorge venceu o dragÃ£o  
 E eu vencerei na vida  
-Como São Jorge venceu o dragão
+Como SÃ£o Jorge venceu o dragÃ£o
 
-….
+â€¦.
 
 Levanta a bandeira de Ogum  
-Que os seus filhos vão trabalhar  
-Salve o reino de Oxalá  
-E salve esse congá  
-E as sete linhas de orixá
+Que os seus filhos vÃ£o trabalhar  
+Salve o reino de OxalÃ¡  
+E salve esse congÃ¡  
+E as sete linhas de orixÃ¡
 
-….
+â€¦.
 
 Ogum que abalou as estrelas  
 Que abalou toda a areia  
-Lá no fundo do mar  
-Ogum ele veio de lá  
+LÃ¡ no fundo do mar  
+Ogum ele veio de lÃ¡  
 Ogum ele vem trabalhar  
-Ogum ele é seu Ogum Beira Mar
+Ogum ele Ã© seu Ogum Beira Mar
 
-….
+â€¦.
 
 Olha que lindo barquinho  
 Que vem navegando em pleno luar  
-É de Ogum Sete Ondas  
+Ã‰ de Ogum Sete Ondas  
 Que vem ao encontro de Ogum Beira Mar  
-Ele é, ele é, ele é, ele é o nosso defensor  
-Ele é, ele é, ele é mensageiro de nosso senhor
+Ele Ã©, ele Ã©, ele Ã©, ele Ã© o nosso defensor  
+Ele Ã©, ele Ã©, ele Ã© mensageiro de nosso senhor
 
 ....
 
-Seu capacete é de ouro  
-A sua espada é dourada  
-Na ponta da sua lança eu vi  
-Um laço de fita encarnada  
-Ogum Iara, Ogum Megê  
-Ogum Iara, saravá Ogum iê
+Seu capacete Ã© de ouro  
+A sua espada Ã© dourada  
+Na ponta da sua lanÃ§a eu vi  
+Um laÃ§o de fita encarnada  
+Ogum Iara, Ogum MegÃª  
+Ogum Iara, saravÃ¡ Ogum iÃª
 
 ....
 
 Ogum meu pai me disse  
-Que o senhor não vale nada  
-Olha lá que eu sou Ogum  
+Que o senhor nÃ£o vale nada  
+Olha lÃ¡ que eu sou Ogum  
 Rei das Sete Encruzilhadas
 
 Em seu cavalo branco o rei Ogum montou  
-Passou por minha seara e não me saravou
+Passou por minha seara e nÃ£o me saravou
 
-Ogum da Lua, ori babá orixá  
-Ogum do luar que gira pra Iemanjá
+Ogum da Lua, ori babÃ¡ orixÃ¡  
+Ogum do luar que gira pra IemanjÃ¡
 
-Se os caminhos tão fechados  
+Se os caminhos tÃ£o fechados  
 Foi meu povo quem fechou  
-Saravá povo do reino, saravá meu pai Xangô
+SaravÃ¡ povo do reino, saravÃ¡ meu pai XangÃ´
 
 Em seu cavalo branco o rei Ogum montou  
-Chegou nessa seara e não me saravou
+Chegou nessa seara e nÃ£o me saravou
 
 ....
 
 **Ogum Timbiri**
 
-Ogum é rei que não pede licença  
+Ogum Ã© rei que nÃ£o pede licenÃ§a  
 Na sua aldeia, quando tem que chegar  
-Ogum é rei, é vencedor de demanda  
-Ogum é Timbiri, Timbiri rei do mar  
-Ogum é Timbiri, Timbiri rei do mar
+Ogum Ã© rei, Ã© vencedor de demanda  
+Ogum Ã© Timbiri, Timbiri rei do mar  
+Ogum Ã© Timbiri, Timbiri rei do mar
 
 ....
 
-**COSME E DAMIÃO**
+**COSME E DAMIÃƒO**
 
-Bahia é terra de dois  
-É terra de dois irmãos  
+Bahia Ã© terra de dois  
+Ã‰ terra de dois irmÃ£os  
 Governador da Bahia  
-É Cosme e São Damião
+Ã‰ Cosme e SÃ£o DamiÃ£o
 
-….
+â€¦.
 
 Enfeitei meu jardim de rosas brancas  
-Violetas, miosótis e as flores do manacá  
+Violetas, miosÃ³tis e as flores do manacÃ¡  
 E entreguei em oferenda aos cosminhos  
 Pra cuidar dos pequeninos  
-Esperança do amanhã  
+EsperanÃ§a do amanhÃ£  
 Coloquei doces espalhados no relvado  
-E a Oxalá fiz um pedido  
-Em sublime oração  
+E a OxalÃ¡ fiz um pedido  
+Em sublime oraÃ§Ã£o  
 E de aruanda atendendo o meu chamado  
-Vi descer entrelaçados  
-Na relva dois corações
+Vi descer entrelaÃ§ados  
+Na relva dois coraÃ§Ãµes
 
 ....
 
@@ -573,18 +573,18 @@ Na relva dois corações
 
 **Zarthur**
 
-No céu viu-se uma estrela  
+No cÃ©u viu-se uma estrela  
 A terreira iluminou  
-É Zarthur, é Zarthur, é Zarthur  
+Ã‰ Zarthur, Ã© Zarthur, Ã© Zarthur  
 Mensageiro de Deus que chegou  
-E Zarthur, é Zarthur, é Zarthur  
+E Zarthur, Ã© Zarthur, Ã© Zarthur  
 Mensageiro de Deus que baixou.
 
-….
+â€¦.
 
 Nasceu mais uma estrela  
 no oriente uma estrela que vai brilhar  
-É do povo de Zarthur  
+Ã‰ do povo de Zarthur  
 Que vem pra trabalhar.
 
 ....
@@ -592,147 +592,147 @@ Que vem pra trabalhar.
 **PRETOS VELHOS**
 
 Umbanda tem fundamento  
-E as mirongas não enganam  
+E as mirongas nÃ£o enganam  
 Saudamos todas as linhas  
 Saudamos povo africano  
 Saudamos todas as linhas  
-Saravá São Cipriano
+SaravÃ¡ SÃ£o Cipriano
 
-….
+â€¦.
 
 Pele castigada, carapinha branca  
-Gandola de renda caída na anca  
-Mãe Preta gandola de renda  
+Gandola de renda caÃ­da na anca  
+MÃ£e Preta gandola de renda  
 Pele castigada, carapinha branca
 
-Gandola de renda caída na anca  
-Embalando o filho branco do sinhô  
-Que há pouco tempo a sinhá ganhou  
-Era assim que Mãe Preta fazia  
+Gandola de renda caÃ­da na anca  
+Embalando o filho branco do sinhÃ´  
+Que hÃ¡ pouco tempo a sinhÃ¡ ganhou  
+Era assim que MÃ£e Preta fazia  
 Criava todo filho branco com muita alegria  
-Mas na senzala Pai João apanhava  
-Mais uma lágrima da Mãe Preta rolava
+Mas na senzala Pai JoÃ£o apanhava  
+Mais uma lÃ¡grima da MÃ£e Preta rolava
 
-Mãe Preta gandola de renda  
+MÃ£e Preta gandola de renda  
 Enquanto a chibata batia no seu amor  
-Mãe Preta embalava o filho do senhor  
-Era assim que Mãe Preta fazia  
+MÃ£e Preta embalava o filho do senhor  
+Era assim que MÃ£e Preta fazia  
 Criava todo filho branco com muita alegria  
-Mas na senzala Pai João apanhava…
+Mas na senzala Pai JoÃ£o apanhavaâ€¦
 
 ....
 
-**Pai Sebastião**
+**Pai SebastiÃ£o**
 
-Ele é de congo  
+Ele Ã© de congo  
 Que chora uma mironga  
 Que chora uma mironga  
-Lá no Humaitá  
+LÃ¡ no HumaitÃ¡  
 Ai congo vem de Minas  
 Congo vem beirando o mar  
-Salve Pai Sebastião  
+Salve Pai SebastiÃ£o  
 Congo vem pra trabalhar
 
 ....
 
-Pai Joaquim lá de angola  
+Pai Joaquim lÃ¡ de angola  
 Quando chega no terreiro  
 Traz folhas na sacola  
-Pra enfeitar nosso congá  
-Pai Joaquim é feiticeiro |  
+Pra enfeitar nosso congÃ¡  
+Pai Joaquim Ã© feiticeiro |  
 Pai Joaquim vem trabalhar | bis
 
   
 ....
 
-Pai Joaquim já vem  
-Lá da Aruanda vem  
+Pai Joaquim jÃ¡ vem  
+LÃ¡ da Aruanda vem  
 Desce sobre este terreiro  
-Abençoa o mundo inteiro  
-Com toda luz e proteção   
+AbenÃ§oa o mundo inteiro  
+Com toda luz e proteÃ§Ã£oÂ   
 Preto velho vencedor  
 Mensageiro do senhor  
-Que Oxalá nos enviou.  
+Que OxalÃ¡ nos enviou.  
 ....
 
-É na arueira de São Benedito  
-São Benedito mandou me chamar  
-É na arueira de São Benedito  
-São Benedito mandou me chamar
+Ã‰ na arueira de SÃ£o Benedito  
+SÃ£o Benedito mandou me chamar  
+Ã‰ na arueira de SÃ£o Benedito  
+SÃ£o Benedito mandou me chamar
 
-Pai Joaquim, ê, ê  
-Pai Joaquim, ê, á  
+Pai Joaquim, Ãª, Ãª  
+Pai Joaquim, Ãª, Ã¡  
 Pai Joaquim que vem de Angola  
 Pai Joaquim de Angola, angola  
-Pai Joaquim, ê, ê  
-Pai Joaquim, ê, á
+Pai Joaquim, Ãª, Ãª  
+Pai Joaquim, Ãª, Ã¡
 
-….
+â€¦.
 
 Quem quiser ver, que veja  
-Ele é preto, é assim  
+Ele Ã© preto, Ã© assim  
 Ele vem de Angola  
-Ele é Pai Joaquim  
-Ele é Pai Joaquim  
+Ele Ã© Pai Joaquim  
+Ele Ã© Pai Joaquim  
 Ele vem de Angola  
-Ele é preto, é assim.
+Ele Ã© preto, Ã© assim.
 
-….
+â€¦.
 
 A escravatura terminou  
 Maria Conga da senzala se libertou  
 Salve o dia 13 de Maio  
-Data da libertação  
-Os pretos velhos vêm de aruanda  
-Aqui na terra, para cumprir a sua missão
+Data da libertaÃ§Ã£o  
+Os pretos velhos vÃªm de aruanda  
+Aqui na terra, para cumprir a sua missÃ£o
 
 ....
 
-Pai Domingos, cadê Pai Domingos  
-Veio lá das matas pitando cachimbo  
-Pai Domingos, cadê Pai Domingos  
-Veio lá das matas pitando cachimbo  
+Pai Domingos, cadÃª Pai Domingos  
+Veio lÃ¡ das matas pitando cachimbo  
+Pai Domingos, cadÃª Pai Domingos  
+Veio lÃ¡ das matas pitando cachimbo  
 Pai Domingos que vem de aruanda  
 Saudando o Pai Bento  
-Que é rei da umbanda  
+Que Ã© rei da umbanda  
 Pai Domingos que vem da Bahia  
-Trazendo a mensagem da Mãe Maria
+Trazendo a mensagem da MÃ£e Maria
 
 ....
 
-**Pai Jerônimo**
+**Pai JerÃ´nimo**
 
-Pai Jerônimo lá de Angola  
-Quando chega no congá  
+Pai JerÃ´nimo lÃ¡ de Angola  
+Quando chega no congÃ¡  
 Traz as flores na sacola  
 Pros seus filhos enfeitar  
-Pai Jerônimo é feiticeiro  
-Pai Jerônimo vai chegar  
-Pai Jerônimo é feiticeiro  
-Pai Jerônimo vai chegar
+Pai JerÃ´nimo Ã© feiticeiro  
+Pai JerÃ´nimo vai chegar  
+Pai JerÃ´nimo Ã© feiticeiro  
+Pai JerÃ´nimo vai chegar
 
-….
+â€¦.
 
-Foi a fé em Oxalá que nos uniu  
-E o desejo de todo irmão ajudar  
-Quando a semente de esperança  
-foi ao solo pra que a justiça pudesse  
-cultivar foi pela força de nossos pioneiros |bis  
+Foi a fÃ© em OxalÃ¡ que nos uniu  
+E o desejo de todo irmÃ£o ajudar  
+Quando a semente de esperanÃ§a  
+foi ao solo pra que a justiÃ§a pudesse  
+cultivar foi pela forÃ§a de nossos pioneiros |bis  
 que veio a umbanda o seu povo despertar |bis  
-Mãe maria, mãe maria, mãe maria,  
+MÃ£e maria, mÃ£e maria, mÃ£e maria,  
 Preta-velha que tem muito a ensinar  
 para seus filhos que lhe pedem nesta hora que  
-seu amor possa alcançar  
+seu amor possa alcanÃ§ar  
 E a semente germinou e produziu  
-E seu luzeiro: mãe maria espalhou,  
+E seu luzeiro: mÃ£e maria espalhou,  
 novos terreiros continuam sua obra tantas  
 sementes que seu povo plantou pois uma delas  
-Iemanjá soprou ao vento |bis  
-Cruzou o mar e do lado de lá brotou |bis  
-Mãe maria, mãe maria, mãe maria,  
+IemanjÃ¡ soprou ao vento |bis  
+Cruzou o mar e do lado de lÃ¡ brotou |bis  
+MÃ£e maria, mÃ£e maria, mÃ£e maria,  
 Preta-velha rainha do meu conga  
 que ensina a todos sua sabedoria  
-Seguir a estrada que nos leva Oxalá...
+Seguir a estrada que nos leva OxalÃ¡...
 
 ....
 
@@ -743,66 +743,66 @@ Quando ela vem chegando
 Oh sacode a poeira da sua saia  
 Oi sacode a poeira da sua saia
 
-….
+â€¦.
 
-Tem mironga no conguê  
-Tem mironga no congá  
-Quem não pode com macumba  
-Não carrega patuá
+Tem mironga no conguÃª  
+Tem mironga no congÃ¡  
+Quem nÃ£o pode com macumba  
+NÃ£o carrega patuÃ¡
 
-….
+â€¦.
 
 Benedito, Pai Benedito  
 Preto velho de umbanda  
-Adverte quem é do seu rito  
-Não se envolve na quimbanda
+Adverte quem Ã© do seu rito  
+NÃ£o se envolve na quimbanda
 
-Esta advertência, sua lei nos tem  
+Esta advertÃªncia, sua lei nos tem  
 Pai Benedito trabalha  
-Só trabalha para o bem  
+SÃ³ trabalha para o bem  
 Trabalhando, trabalhando  
 E os filhos ajudando
 
 Olha pelas criancinhas  
 Que ficaram na orfandade  
 Pelo velho e pela velhinha  
-Nos quais dá tranqüilidade
+Nos quais dÃ¡ tranqÃ¼ilidade
 
 Olha pelo homem pobre  
-Pela moça desamparada  
-E faça que sobre  
-Um pouco pra quem não tem nada
+Pela moÃ§a desamparada  
+E faÃ§a que sobre  
+Um pouco pra quem nÃ£o tem nada
 
 Pai Benedito trabalha  
-Só trabalha para o bem  
+SÃ³ trabalha para o bem  
 Trabalhando, trabalhando  
 E seus filhos ajudando
 
 ....
 
-Aí vem chegando Mãe Maria Benedita  
-junto vem a Vovó Chica  
-Nossa mãe de salvação  
-Aí vem chegando  
+AÃ­ vem chegando MÃ£e Maria Benedita  
+junto vem a VovÃ³ Chica  
+Nossa mÃ£e de salvaÃ§Ã£o  
+AÃ­ vem chegando  
 Todo o povo africano  
 Junto vem o rei de congo  
-O Pai Bento e Pai José.
+O Pai Bento e Pai JosÃ©.
 
 ....
 
 **Pai Jobim**
 
-Entrei na mata, na mata de guiné  
-Caminhei, caminhei, caminhei até o fim  
+Entrei na mata, na mata de guinÃ©  
+Caminhei, caminhei, caminhei atÃ© o fim  
 Vem chegando da senzala  
 Preto velho Pai Jobim
 
-….
+â€¦.
 
-Minha cachimba tá no toco  
+Minha cachimba tÃ¡ no toco  
 Manda moleque buscar  
-Lá em cima daquele toco  
-Minha cachimba ficou lá
+LÃ¡ em cima daquele toco  
+Minha cachimba ficou lÃ¡
 
 **DIVERSOS**
 
@@ -811,89 +811,89 @@ Minha cachimba ficou lá
 Olorum, Olorum, Olorum, Olorum  
 Do reino dourado  
 Vem cuidar seus filhos  
-Que vão sair para uma jornada
+Que vÃ£o sair para uma jornada
 
 ....
 
 **Ponto de Partida**
 
-Vamos agora não falta ninguém  
-E a Virgem do Rosário  
-Vai com nós também  
+Vamos agora nÃ£o falta ninguÃ©m  
+E a Virgem do RosÃ¡rio  
+Vai com nÃ³s tambÃ©m  
 E o Caboclo Treme-Terra  
 Que nos proteja agora  
-Com as suas bênçãos vamos agora
+Com as suas bÃªnÃ§Ã£os vamos agora
 
-….
+â€¦.
 
-Vamos embora não fica ninguém  
-E a Virgem do Rosário  
-Vai com nós também  
+Vamos embora nÃ£o fica ninguÃ©m  
+E a Virgem do RosÃ¡rio  
+Vai com nÃ³s tambÃ©m  
 E o Caboclo Treme-Terra  
 Que nos proteja agora  
-Com as suas bênçãos vamos embora
+Com as suas bÃªnÃ§Ã£os vamos embora
 
 ....
 
 **Pontos de Retirada**
 
-O senhor lá do Bonfim  
-Já nos deu sua benção  
+O senhor lÃ¡ do Bonfim  
+JÃ¡ nos deu sua benÃ§Ã£o  
 Nos mandou o pai Jorge  
-Que nos deu a proteção  
+Que nos deu a proteÃ§Ã£o  
 Preto velho vai subindo  
 Vai subindo pra aruanda  
-Deixando as suas bênçãos  
+Deixando as suas bÃªnÃ§Ã£os  
 Para os filhos de umbanda
 
-…
+â€¦
 
 Ele vai, ele vai  
 Ele vai pra sua banda ele vai  
 Adeus terreira de umbanda  
 Ele foi pra sua banda, ele foi
 
-….
+â€¦.
 
 Adeus Treme-Terra, adeus  
 Sua banda lhe chama  
-Ele vai oló, ele vai oló  
+Ele vai olÃ³, ele vai olÃ³  
 Nas folhas da Jurema  
-Na macaia de uma gira só  
-Adeus, adeus…  
+Na macaia de uma gira sÃ³  
+Adeus, adeusâ€¦  
 Adeus Treme-Terra, adeus  
 Sua banda lhe chama  
-Ele foi oló, ele foi oló  
+Ele foi olÃ³, ele foi olÃ³  
 Nas folhas da Jurema  
-Na macáia de uma gira só  
-Adeus, adeus…
+Na macÃ¡ia de uma gira sÃ³  
+Adeus, adeusâ€¦
 
-**MACÁIA** — Lugar de retiro, em plena mata, onde os médiuns vão descansar e refazer as suas forças psíquicas, no contato direto com a Natureza.
+**MACÃIA** â€” Lugar de retiro, em plena mata, onde os mÃ©diuns vÃ£o descansar e refazer as suas forÃ§as psÃ­quicas, no contato direto com a Natureza.
 
 ....
 
-Lá na Aruanda, estão lhe chamando  
-Força de Jorge, mandou lhe chamar  
-Adeus, adeus eles vão embora  
+LÃ¡ na Aruanda, estÃ£o lhe chamando  
+ForÃ§a de Jorge, mandou lhe chamar  
+Adeus, adeus eles vÃ£o embora  
 Fiquem com deus e a nossa senhora.
 
 ....
 
   
-**Reforço**
+**ReforÃ§o**
 
 Oh que corrente poderosa  
 Que Jesus nos enviou  
-É a corrente de Pai Oxalá  
+Ã‰ a corrente de Pai OxalÃ¡  
 Que esse filho vai fortificar  
 Oh que corrente poderosa  
 Que Jesus nos enviou  
-É a corrente de mãe Iemanjá  
+Ã‰ a corrente de mÃ£e IemanjÃ¡  
 Que esse filho fortificou
 
 ....
 
-**Consagração**
+**ConsagraÃ§Ã£o**
 
 Consagra, consagra, consagra  
 Na lei de umbanda  
@@ -903,47 +903,47 @@ Na lei de umbanda
 Ele vai consagrar  
 Consagra, consagra, consagra  
 Na lei de umbanda  
-Ele já consagrou
+Ele jÃ¡ consagrou
 
 ....
 
-**Exaltação**
+**ExaltaÃ§Ã£o**
 
-Saravá, saravá, saravá  
+SaravÃ¡, saravÃ¡, saravÃ¡  
 Com ramos floridos de luz  
 Povo do Mar  
 Acaba de chegar  
-Com as bênçãos e as graças de Jesus
+Com as bÃªnÃ§Ã£os e as graÃ§as de Jesus
 
 Povo de Umbanda  
 Amados filhos meus  
 Vamos pra demanda  
-Com a graça de Deus
+Com a graÃ§a de Deus
 
-Salve as águas do mar  
-Salve Mãe Iara  
+Salve as Ã¡guas do mar  
+Salve MÃ£e Iara  
 Povo que sabe amar  
-Como o índio Ibiraquara  
-Como o índio Ibiraquara
+Como o Ã­ndio Ibiraquara  
+Como o Ã­ndio Ibiraquara
 
-É do mar os marinheiros  
-É das matas os caboclos  
+Ã‰ do mar os marinheiros  
+Ã‰ das matas os caboclos  
 Manifesta-se no Brasil inteiro  
 Dispersa os maus em blocos  
-A alma do índio brasileiro
+A alma do Ã­ndio brasileiro
 
-Saravá, saravá, saravá  
-Saravá Ondinas  
-Que emergem das águas do mar  
+SaravÃ¡, saravÃ¡, saravÃ¡  
+SaravÃ¡ Ondinas  
+Que emergem das Ã¡guas do mar  
 Respeita a lei divina  
-Mãe Iara vamos saudar  
-Mãe Iara vamos saudar
+MÃ£e Iara vamos saudar  
+MÃ£e Iara vamos saudar
 
 ....
 
-**Aniversário**
+**AniversÃ¡rio**
 
 Flores e flores,  
 rosas e rosas  
-Que jesus abençoe  
+Que jesus abenÃ§oe  
 esta data gloriosa

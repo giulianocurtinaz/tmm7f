@@ -5,9 +5,9 @@ categories:
   - "sem-categoria"
 ---
 
-É com muita alegria que publicamos abaixo o material desenvolvido pela amiga Maria Inês M. Voigt e do Centro Espírita Pai José de Aruanda com a contribuição de Alcimar Pereira.
+Ã‰ com muita alegria que publicamos abaixo o material desenvolvido pela amiga Maria InÃªs M. Voigt e do Centro EspÃ­rita Pai JosÃ© de Aruanda com a contribuiÃ§Ã£o de Alcimar Pereira.
 
-Documentar e publicar nossa história é trazer à vida anos de dedicação e amor que nossos antepassados dedicaram à Umbanda. Que este humilde trabalho sirva de inspiração para aprofundarmos o conhecimento em nossas raízes, histórias e cultura! **Umbanda é anos de trabalho dedicados de amor ao próximo!**  
+Documentar e publicar nossa histÃ³ria Ã© trazer Ã  vida anos de dedicaÃ§Ã£o e amor que nossos antepassados dedicaram Ã  Umbanda. Que este humilde trabalho sirva de inspiraÃ§Ã£o para aprofundarmos o conhecimento em nossas raÃ­zes, histÃ³rias e cultura! **Umbanda Ã© anos de trabalho dedicados de amor ao prÃ³ximo!**  
   
 
 [Arvore Ubirajara.Doc](https://maemariaseteflechas.com.br/wp-content/uploads/2023/10/arvore-ubirajara.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2023/10/arvore-ubirajara.docx)

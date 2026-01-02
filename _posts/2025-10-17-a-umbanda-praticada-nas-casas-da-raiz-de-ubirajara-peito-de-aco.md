@@ -1,121 +1,121 @@
 ---
-title: "A Umbanda praticada nas casas da raiz de Ubirajara Peito de Aço"
+title: "A Umbanda praticada nas casas da raiz de Ubirajara Peito de AÃ§o"
 date: 2025-10-17
 categories: 
   - "nossa-cultura"
-coverImage: "livreo-magia-das-tres-colunas-na-umbanda2.png"
+coverImage: "/tmm7f/assets/images/livreo-magia-das-tres-colunas-na-umbanda2.png"
 ---
 
-Falar de ramificações da Umbanda nunca foi um tópico fácil e categórico. Sabemos que há inúmeras práticas, formas de culto, rituais e entendimentos distintos sobre o que é essa religião genuína do Brasil, mista e plural. Moldável em sua forma de prática conforme a região e a necessidade da comunidade — mas nunca adaptável em seus fundamentos. Aqui falamos da essência da Umbanda, que é a prática da caridade pura, dos ensinamentos de humildade e simplicidade dos espíritos que nela se manifestam, de jamais cobrar por atendimento algum e nunca influenciar no livre-arbítrio de nenhum indivíduo.
+Falar de ramificaÃ§Ãµes da Umbanda nunca foi um tÃ³pico fÃ¡cil e categÃ³rico. Sabemos que hÃ¡ inÃºmeras prÃ¡ticas, formas de culto, rituais e entendimentos distintos sobre o que Ã© essa religiÃ£o genuÃ­na do Brasil, mista e plural. MoldÃ¡vel em sua forma de prÃ¡tica conforme a regiÃ£o e a necessidade da comunidade â€” mas nunca adaptÃ¡vel em seus fundamentos. Aqui falamos da essÃªncia da Umbanda, que Ã© a prÃ¡tica da caridade pura, dos ensinamentos de humildade e simplicidade dos espÃ­ritos que nela se manifestam, de jamais cobrar por atendimento algum e nunca influenciar no livre-arbÃ­trio de nenhum indivÃ­duo.
 
-Se analisarmos os ensinamentos que os espíritos de luz que se manifestam nos terreiros da Umbanda com base verdadeira, veremos que há muita similaridade com o Evangelho de Jesus, sobretudo com a obra O Evangelho segundo o Espiritismo, de Allan Kardec. A seguir, separamos alguns trechos, bíblicos, aliás, que reforçam essa comparação, como os das bem-aventuranças:
+Se analisarmos os ensinamentos que os espÃ­ritos de luz que se manifestam nos terreiros da Umbanda com base verdadeira, veremos que hÃ¡ muita similaridade com o Evangelho de Jesus, sobretudo com a obra O Evangelho segundo o Espiritismo, de Allan Kardec. A seguir, separamos alguns trechos, bÃ­blicos, aliÃ¡s, que reforÃ§am essa comparaÃ§Ã£o, como os das bem-aventuranÃ§as:
 
-- Bem-aventurados os pobres de espírito
+- Bem-aventurados os pobres de espÃ­rito
 
-- Bem-aventurados os que têm puro o coração
+- Bem-aventurados os que tÃªm puro o coraÃ§Ã£o
 
-- Bem-aventurados os que são brandos e pacíficos
+- Bem-aventurados os que sÃ£o brandos e pacÃ­ficos
 
-- Bem-aventurados os que são misericordiosos
+- Bem-aventurados os que sÃ£o misericordiosos
 
-- Amar o próximo como a si mesmo
+- Amar o prÃ³ximo como a si mesmo
 
 - Amai os vossos inimigos
 
-- Não saiba a vossa mão esquerda o que dê a vossa mão direita
+- NÃ£o saiba a vossa mÃ£o esquerda o que dÃª a vossa mÃ£o direita
 
-- Fora da caridade não há salvação
+- Fora da caridade nÃ£o hÃ¡ salvaÃ§Ã£o
 
-- Não se pode servir a Deus e a Mamon
+- NÃ£o se pode servir a Deus e a Mamon
 
 - Muitos os chamados, poucos os escolhidos
 
-- A fé transporta montanhas
+- A fÃ© transporta montanhas
 
 - Buscai e achareis
 
-- Dai de graça o que de graça recebeste
+- Dai de graÃ§a o que de graÃ§a recebeste
 
 - Pedi e obtereis
 
-Os ensinamentos das entidades dos terreiros de Umbanda têm a mesma essência do código moral trazido por Jesus, que resumiu o **amor como a base de tudo**. Não à toa, a Umbanda nasceu no Brasil em uma mesa kardecista. O decreto do Caboclo das Sete Encruzilhadas foi naquele momento. A missão do médium Astrogildo de Oliveira, ao receber pela primeira vez a orientação do Cacique Ubirajara Peito de Aço, iniciando este legado, também se deu em uma sessão de Kardec. A Umbanda preconizada pelo Caboclo das Sete Encruzilhadas, desse modo, está alicerçada nos preceitos crísticos, buscando torná-la acessível a todas as camadas sociais, sem distinção social de qualquer espécie.
+Os ensinamentos das entidades dos terreiros de Umbanda tÃªm a mesma essÃªncia do cÃ³digo moral trazido por Jesus, que resumiu o **amor como a base de tudo**. NÃ£o Ã  toa, a Umbanda nasceu no Brasil em uma mesa kardecista. O decreto do Caboclo das Sete Encruzilhadas foi naquele momento. A missÃ£o do mÃ©dium Astrogildo de Oliveira, ao receber pela primeira vez a orientaÃ§Ã£o do Cacique Ubirajara Peito de AÃ§o, iniciando este legado, tambÃ©m se deu em uma sessÃ£o de Kardec. A Umbanda preconizada pelo Caboclo das Sete Encruzilhadas, desse modo, estÃ¡ alicerÃ§ada nos preceitos crÃ­sticos, buscando tornÃ¡-la acessÃ­vel a todas as camadas sociais, sem distinÃ§Ã£o social de qualquer espÃ©cie.
 
-**O legado iniciado por Ubirajara Peito de Aço**
+**O legado iniciado por Ubirajara Peito de AÃ§o**
 
-A vertente de Umbanda praticada pelas casas da raiz do Cacique Ubirajara do Peito de Aço, cuja casa matriz iniciou em 1937, tem suas particularidades, assim como todas as demais linhagens da religião pelo país. Tem muitos traços semelhantes ao segmento **Umbanda Crística**, fundamentada pelo “Templo da Estrela Azul — Casa de Oração e Escola Umbandista” —, fundado também em 1937, em São Caetano do Sul - SP, mesmo ano de origem do culto de Ubirajara em Porto Alegre-RS, o que é um fator interessante de analisar e refletir.
+A vertente de Umbanda praticada pelas casas da raiz do Cacique Ubirajara do Peito de AÃ§o, cuja casa matriz iniciou em 1937, tem suas particularidades, assim como todas as demais linhagens da religiÃ£o pelo paÃ­s. Tem muitos traÃ§os semelhantes ao segmento **Umbanda CrÃ­stica**, fundamentada pelo â€œTemplo da Estrela Azul â€” Casa de OraÃ§Ã£o e Escola Umbandistaâ€ â€”, fundado tambÃ©m em 1937, em SÃ£o Caetano do Sul - SP, mesmo ano de origem do culto de Ubirajara em Porto Alegre-RS, o que Ã© um fator interessante de analisar e refletir.
 
-De nenhum modo, se pretende desmerecer ou criticar o culto de nenhuma outra vertente de Umbanda, mas, sim, mostrar como são nossas práticas e fundamentos. Assim como a Umbanda Crística, mantemos um forte vínculo com a doutrina da **Linha Branca de Umbanda e Demanda** preconizada pelo Caboclo das Sete Encruzilhadas.
+De nenhum modo, se pretende desmerecer ou criticar o culto de nenhuma outra vertente de Umbanda, mas, sim, mostrar como sÃ£o nossas prÃ¡ticas e fundamentos. Assim como a Umbanda CrÃ­stica, mantemos um forte vÃ­nculo com a doutrina da **Linha Branca de Umbanda e Demanda** preconizada pelo Caboclo das Sete Encruzilhadas.
 
-A seguir, palavras textuais de **Zélio Fernandino de Moraes**:
+A seguir, palavras textuais de **ZÃ©lio Fernandino de Moraes**:
 
-- _O Caboclo das Sete Encruzilhadas nunca determinou o sacrifício de aves e_ _animais__, quer para homenagear entidades, quer para fortificar a minha mediunidade._
+- _O Caboclo das Sete Encruzilhadas nunca determinou o sacrifÃ­cio de aves e_ _animais__, quer para homenagear entidades, quer para fortificar a minha mediunidade._
 
-- _O Caboclo das Sete Encruzilhadas não admitia atabaques e nem mesmo palmas nas sessões. Apenas os cânticos, muito firmes e ritmados, para a incorporação dos Guias e a manutenção da corrente vibratória._
+- _O Caboclo das Sete Encruzilhadas nÃ£o admitia atabaques e nem mesmo palmas nas sessÃµes. Apenas os cÃ¢nticos, muito firmes e ritmados, para a incorporaÃ§Ã£o dos Guias e a manutenÃ§Ã£o da corrente vibratÃ³ria._
 
-- _Capacetes, espadas, adornos, vestimentas de cores, rendas e lamês não são aceitos nos Templos que seguem a sua orientação. O uniforme é branco, de tecido simples._
+- _Capacetes, espadas, adornos, vestimentas de cores, rendas e lamÃªs nÃ£o sÃ£o aceitos nos Templos que seguem a sua orientaÃ§Ã£o. O uniforme Ã© branco, de tecido simples._
 
-- _As guias usadas são apenas as que determinam a entidade que se manifesta. Não é a quantidade de guias o que dá força ao médium._
+- _As guias usadas sÃ£o apenas as que determinam a entidade que se manifesta. NÃ£o Ã© a quantidade de guias o que dÃ¡ forÃ§a ao mÃ©dium._
 
-- _Os banhos de ervas, os amacis, as concentrações nos ambientes da Natureza, a par do ensinamento doutrinário, na base do Evangelho, constituem os principais elementos de preparação do médium. E são severos os testes que levam a considerar o médium apto a cumprir a sua missão mediúnica._
+- _Os banhos de ervas, os amacis, as concentraÃ§Ãµes nos ambientes da Natureza, a par do ensinamento doutrinÃ¡rio, na base do Evangelho, constituem os principais elementos de preparaÃ§Ã£o do mÃ©dium. E sÃ£o severos os testes que levam a considerar o mÃ©dium apto a cumprir a sua missÃ£o mediÃºnica._
 
-Importante destacar que a Umbanda Branca, também nomeada como Umbanda Pura, longe da ideia de “embranquecer” o culto à religião, como alguns pensadores consideram — e por fatores históricos compreensíveis, embora não nos aprofundaremos nesse tópico aqui —, visa mostrar que o branco representa a brancura de Jesus, ou a pureza de Oxalá, sem muito adornos e elementos materiais distante dos naturais, sem muitos ritos performáticos, racional e de imensa simplicidade. O branco reúne e representa todas as cores, sem desmerecer nenhuma.
+Importante destacar que a Umbanda Branca, tambÃ©m nomeada como Umbanda Pura, longe da ideia de â€œembranquecerâ€ o culto Ã  religiÃ£o, como alguns pensadores consideram â€” e por fatores histÃ³ricos compreensÃ­veis, embora nÃ£o nos aprofundaremos nesse tÃ³pico aqui â€”, visa mostrar que o branco representa a brancura de Jesus, ou a pureza de OxalÃ¡, sem muito adornos e elementos materiais distante dos naturais, sem muitos ritos performÃ¡ticos, racional e de imensa simplicidade. O branco reÃºne e representa todas as cores, sem desmerecer nenhuma.
 
-**Principais características da nossa ramificação:**
+**Principais caracterÃ­sticas da nossa ramificaÃ§Ã£o:**
 
-- Restringe o uso indiscriminado de oferendas, despachos e bebidas alcoólicas.
+- Restringe o uso indiscriminado de oferendas, despachos e bebidas alcoÃ³licas.
 
-- Utiliza muito velas e ervas em passes, defumações, banhos, amacis e, em alguns casos, a prática ritualística do Tabaco. Nessa questão dos elementos de trabalho, tem grande inspiração na linguagem indígena do país e nos ritos e rezas praticados pelas benzedeiras do passado, além da base doutrinária do Espiritismo;
+- Utiliza muito velas e ervas em passes, defumaÃ§Ãµes, banhos, amacis e, em alguns casos, a prÃ¡tica ritualÃ­stica do Tabaco. Nessa questÃ£o dos elementos de trabalho, tem grande inspiraÃ§Ã£o na linguagem indÃ­gena do paÃ­s e nos ritos e rezas praticados pelas benzedeiras do passado, alÃ©m da base doutrinÃ¡ria do Espiritismo;
 
-- A ausência de atabaque em seus rituais e sem uso de instrumentos de percussão  africanos, sendo mais silenciosa. Os seguidores da Umbanda Branca argumentam que a Umbanda de raiz, do Caboclo das Sete Encruzilhadas, também não utilizava esse instrumento; outros, argumentam que o atabaque pode induzir ao transe anímico (do próprio médium). Com exceção, alguns terreiros utilizam o agê, instrumento musical composto de um porongo, recoberto com uma rede de bolinhas de plástico ou miçangas, para determinadas vibrações durante os cantos;
+- A ausÃªncia de atabaque em seus rituais e sem uso de instrumentos de percussÃ£oÂ  africanos, sendo mais silenciosa. Os seguidores da Umbanda Branca argumentam que a Umbanda de raiz, do Caboclo das Sete Encruzilhadas, tambÃ©m nÃ£o utilizava esse instrumento; outros, argumentam que o atabaque pode induzir ao transe anÃ­mico (do prÃ³prio mÃ©dium). Com exceÃ§Ã£o, alguns terreiros utilizam o agÃª, instrumento musical composto de um porongo, recoberto com uma rede de bolinhas de plÃ¡stico ou miÃ§angas, para determinadas vibraÃ§Ãµes durante os cantos;
 
-- Praticada sem palmas, sinos, sem roupagens coloridas, rendas, lamês ou qualquer tipo de adereços regionais externos, tipo: cocares, penas, chapéus, coroas, arcos, tacapes, fuzis, maquiagens, tridentes, entre outros aparatos;
+- Praticada sem palmas, sinos, sem roupagens coloridas, rendas, lamÃªs ou qualquer tipo de adereÃ§os regionais externos, tipo: cocares, penas, chapÃ©us, coroas, arcos, tacapes, fuzis, maquiagens, tridentes, entre outros aparatos;
 
-- A indumentária é essencialmente branca, em sinal de pureza e paz; os calçados não devem ser de couro e a veste é sagrada e se compara aos jalecos médicos.
+- A indumentÃ¡ria Ã© essencialmente branca, em sinal de pureza e paz; os calÃ§ados nÃ£o devem ser de couro e a veste Ã© sagrada e se compara aos jalecos mÃ©dicos.
 
-- Abomina o uso do sangue e do sacrifício de animais.
+- Abomina o uso do sangue e do sacrifÃ­cio de animais.
 
-- Tem como formato basilar o triângulo, símbolo sagrado da Santíssima Trindade, sobretudo nos valores de Verdade, Justiça e Amor, e a Fé, a Esperança e a Caridade — símbolos de Oxalá e Jesus Cristo.
+- Tem como formato basilar o triÃ¢ngulo, sÃ­mbolo sagrado da SantÃ­ssima Trindade, sobretudo nos valores de Verdade, JustiÃ§a e Amor, e a FÃ©, a EsperanÃ§a e a Caridade â€” sÃ­mbolos de OxalÃ¡ e Jesus Cristo.
 
-- Utiliza o termo “Cacique” — em comparação ao líder de uma tribo indígena — para se referir ao médium que completa o sacerdócio na religião, semelhante aos termos “Pai de Santo”, “Sacerdote”, entre outros, para se referir à função.
+- Utiliza o termo â€œCaciqueâ€ â€” em comparaÃ§Ã£o ao lÃ­der de uma tribo indÃ­gena â€” para se referir ao mÃ©dium que completa o sacerdÃ³cio na religiÃ£o, semelhante aos termos â€œPai de Santoâ€, â€œSacerdoteâ€, entre outros, para se referir Ã  funÃ§Ã£o.
 
-- Promove atividades de evangelização para os médiuns e para os assistidos, como palestras e leituras calcadas na reforma íntima trazida por Jesus;
+- Promove atividades de evangelizaÃ§Ã£o para os mÃ©diuns e para os assistidos, como palestras e leituras calcadas na reforma Ã­ntima trazida por Jesus;
 
-- Sem cobrança de qualquer atividade caritativa;
+- Sem cobranÃ§a de qualquer atividade caritativa;
 
-- Compreende os Orixás não como deuses, mas sim como manifestações e arquétipos de Deus presentes em tudo na natureza (incluindo em nós, humanos). Não necessitam de qualquer forma de culto externo e/ou material.
+- Compreende os OrixÃ¡s nÃ£o como deuses, mas sim como manifestaÃ§Ãµes e arquÃ©tipos de Deus presentes em tudo na natureza (incluindo em nÃ³s, humanos). NÃ£o necessitam de qualquer forma de culto externo e/ou material.
 
-- Aceita Santos Católicos e seus ensinamentos, incluindo suas imagens no sincretismo religioso.
+- Aceita Santos CatÃ³licos e seus ensinamentos, incluindo suas imagens no sincretismo religioso.
 
-- Aceita o pentateuco de Allan Kardec — “O Livro dos Espíritos”, “O Livro dos Médiuns”, o “Evangelho Segundo o Espiritismo”, “O Céu e o Inferno” e “A Gênese”, obras básicas da codificação Espírita, como fonte de estudos. Também aceita obras de autoajuda e reforma íntima calcadas nos ensinamentos crísticos;
+- Aceita o pentateuco de Allan Kardec â€” â€œO Livro dos EspÃ­ritosâ€, â€œO Livro dos MÃ©diunsâ€, o â€œEvangelho Segundo o Espiritismoâ€, â€œO CÃ©u e o Infernoâ€ e â€œA GÃªneseâ€, obras bÃ¡sicas da codificaÃ§Ã£o EspÃ­rita, como fonte de estudos. TambÃ©m aceita obras de autoajuda e reforma Ã­ntima calcadas nos ensinamentos crÃ­sticos;
 
-- Realiza concentrações e trabalhos nos sítios vibratórios da Natureza para descarrego, captação e renovação de energias, além de dar sustentação aos trabalhos mediúnicos.
+- Realiza concentraÃ§Ãµes e trabalhos nos sÃ­tios vibratÃ³rios da Natureza para descarrego, captaÃ§Ã£o e renovaÃ§Ã£o de energias, alÃ©m de dar sustentaÃ§Ã£o aos trabalhos mediÃºnicos.
 
-- Enfatiza os preceitos e preparações para os trabalhos mediúnicos por parte do médium;
+- Enfatiza os preceitos e preparaÃ§Ãµes para os trabalhos mediÃºnicos por parte do mÃ©dium;
 
-- Promove sessões de “desenvolvimento” mediúnico em um dia específico da semana (reforma íntima, aprendizado da doutrina umbandista e adestramento mediúnico).
+- Promove sessÃµes de â€œdesenvolvimentoâ€ mediÃºnico em um dia especÃ­fico da semana (reforma Ã­ntima, aprendizado da doutrina umbandista e adestramento mediÃºnico).
 
-- Realiza sessões de homenagem a orixás e os seguintes ritos: batizados, casamentos, encomendações, benzeduras,
+- Realiza sessÃµes de homenagem a orixÃ¡s e os seguintes ritos: batizados, casamentos, encomendaÃ§Ãµes, benzeduras,
 
-- Tem como Linhas de Trabalho Espiritual os Caboclos, os Pretos-Velhos, as Crianças e a Linha do Oriente ou de Cura. O povo das águas, como Iemanjá, Oxum, sereias, etc., atuam na limpeza e descarrego do ambiente, harmonizando-o ao final dos trabalhos ou sempre que necessário.
+- Tem como Linhas de Trabalho Espiritual os Caboclos, os Pretos-Velhos, as CrianÃ§as e a Linha do Oriente ou de Cura. O povo das Ã¡guas, como IemanjÃ¡, Oxum, sereias, etc., atuam na limpeza e descarrego do ambiente, harmonizando-o ao final dos trabalhos ou sempre que necessÃ¡rio.
 
-- A Falange de Trabalhos Espirituais dos Exus e das Pombas-Gira, atuam mediunicamente como guardiões do terreiro, em trabalhos de defesa e desmanches, e não incorporados no médium. Assim, não são realizadas “Giras” de Exus e Pombas-Gira, e nem realizam atendimentos públicos. Por isso não é considerada uma Linha de Trabalho Espiritual nessa vertente, embora tenhamos todo o respeito e consideração com nossos guardiões.
+- A Falange de Trabalhos Espirituais dos Exus e das Pombas-Gira, atuam mediunicamente como guardiÃµes do terreiro, em trabalhos de defesa e desmanches, e nÃ£o incorporados no mÃ©dium. Assim, nÃ£o sÃ£o realizadas â€œGirasâ€ de Exus e Pombas-Gira, e nem realizam atendimentos pÃºblicos. Por isso nÃ£o Ã© considerada uma Linha de Trabalho Espiritual nessa vertente, embora tenhamos todo o respeito e consideraÃ§Ã£o com nossos guardiÃµes.
 
-- Parafraseando os termos da Umbanda Crística, em raras exceções nas sessões de caridade a Falange dos Exus e Pombas-Gira podem se fazer presente na incorporação, de forma isolada, mas somente para descarregar um assistido, sem contudo, proceder a atendimentos, e só o fazendo com a permanência do Guia Chefe responsável pelos trabalhos.
+- Parafraseando os termos da Umbanda CrÃ­stica, em raras exceÃ§Ãµes nas sessÃµes de caridade a Falange dos Exus e Pombas-Gira podem se fazer presente na incorporaÃ§Ã£o, de forma isolada, mas somente para descarregar um assistido, sem contudo, proceder a atendimentos, e sÃ³ o fazendo com a permanÃªncia do Guia Chefe responsÃ¡vel pelos trabalhos.
 
-- Não realiza, em hipótese alguma, trabalhos negativos, que venham prejudicar terceiros, trabalhos amorosos, abafamentos ou com interesses mesquinhos. Ninguém tem a permissão de interferir no carma e livre-arbítrio alheios a não ser Deus.
+- NÃ£o realiza, em hipÃ³tese alguma, trabalhos negativos, que venham prejudicar terceiros, trabalhos amorosos, abafamentos ou com interesses mesquinhos. NinguÃ©m tem a permissÃ£o de interferir no carma e livre-arbÃ­trio alheios a nÃ£o ser Deus.
 
-- Em geral, é uma Umbanda “mais calma” e espiritual — alguns estudiosos apontam que essa linhagem está intimamente ligada ao Espiritismo, a rituais mais silenciosos, à mesa branca, sem tantas influências de religiões africanas e indígenas. Não há superstições, danças ou grandes “performances” em incorporações.
+- Em geral, Ã© uma Umbanda â€œmais calmaâ€ e espiritual â€” alguns estudiosos apontam que essa linhagem estÃ¡ intimamente ligada ao Espiritismo, a rituais mais silenciosos, Ã  mesa branca, sem tantas influÃªncias de religiÃµes africanas e indÃ­genas. NÃ£o hÃ¡ superstiÃ§Ãµes, danÃ§as ou grandes â€œperformancesâ€ em incorporaÃ§Ãµes.
 
-- Prega o respeito ao meio ambiente, não levando ou deixando nenhum tipo de resíduo em nenhum local da natureza;
+- Prega o respeito ao meio ambiente, nÃ£o levando ou deixando nenhum tipo de resÃ­duo em nenhum local da natureza;
 
-- Realiza trabalhos sociais e assistenciais voluntários para a comunidade.
+- Realiza trabalhos sociais e assistenciais voluntÃ¡rios para a comunidade.
 
-Todos esses tópicos visam reunir e resumir a egrégora (similaridade de pensamento, ideias, sentimentos) do segmento iniciado pelo Cacique Ubirajara através de Astrogildo de Oliveira, mas não limitado a ele. Inúmeros outros médiuns, formados sacerdotes por Ubirajara, trouxeram e moldaram suas práticas conforme seus guias espirituais e sua formação. Procuramos evidenciar e contemplar todos que conseguimos obter conhecimento aqui. Com o passar do tempo e a evolução energética do planeta, certos ritos e elementos vão sendo adaptados ou substituídos, embora a base moral permaneça a mesma em todas as eras.
+Todos esses tÃ³picos visam reunir e resumir a egrÃ©gora (similaridade de pensamento, ideias, sentimentos) do segmento iniciado pelo Cacique Ubirajara atravÃ©s de Astrogildo de Oliveira, mas nÃ£o limitado a ele. InÃºmeros outros mÃ©diuns, formados sacerdotes por Ubirajara, trouxeram e moldaram suas prÃ¡ticas conforme seus guias espirituais e sua formaÃ§Ã£o. Procuramos evidenciar e contemplar todos que conseguimos obter conhecimento aqui. Com o passar do tempo e a evoluÃ§Ã£o energÃ©tica do planeta, certos ritos e elementos vÃ£o sendo adaptados ou substituÃ­dos, embora a base moral permaneÃ§a a mesma em todas as eras.
 
 ![](/tmm7f/assets/images/9.jpg)
 
-Da esquerda para direita: Alberto Medina (esposo da fundadora do Centro Espírita de Umbanda Cacique Marabá de Esteio-RS), Moab Caldas (político e jornalista, líder umbandista gaúcho), Isaías Francisco da Silva.
+Da esquerda para direita: Alberto Medina (esposo da fundadora do Centro EspÃ­rita de Umbanda Cacique MarabÃ¡ de Esteio-RS), Moab Caldas (polÃ­tico e jornalista, lÃ­der umbandista gaÃºcho), IsaÃ­as Francisco da Silva.
 
 ![](/tmm7f/assets/images/6.jpg)
 
-Creche São João Batista ao lado do templo do irmão Isaías (meados de 1970 - São Leopoldo).
+Creche SÃ£o JoÃ£o Batista ao lado do templo do irmÃ£o IsaÃ­as (meados de 1970 - SÃ£o Leopoldo).

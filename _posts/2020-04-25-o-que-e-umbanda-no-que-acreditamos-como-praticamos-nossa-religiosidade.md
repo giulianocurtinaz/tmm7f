@@ -1,23 +1,23 @@
 ---
-title: "O que é umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
+title: "O que Ã© umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
 date: 2020-04-25
 categories: 
   - "sem-categoria"
-coverImage: "jesus_caboclo_pv.png"
+coverImage: "/tmm7f/assets/images/jesus_caboclo_pv.png"
 ---
 
-Somos Monoteístas.
+SomosÂ MonoteÃ­stas.
 
-Deus se expressa na natureza e essas forças chamamos Orixás.
+Deus se expressa na natureza eÂ essas forÃ§as chamamos OrixÃ¡s.
 
-Somos Cristãos,  Jesus é nosso modelo divino e o caminho para o homem chegar a Deus.
+Somos CristÃ£os,Â  Jesus Ã© nosso modelo divino e o caminho para o homem chegar a Deus.
 
-Umbanda é  a manifestação  do espírito para a caridade, portanto, se envolver dinheiro não é Umbanda.
+Umbanda Ã©Â  a manifestaÃ§Ã£oÂ  do espÃ­rito para aÂ caridade, portanto, se envolver dinheiro nÃ£o Ã© Umbanda.
 
-Somos espíritas, acreditamos na imortalidade da alma, na reencarnação, na comunicação com os espíritos de forma direta e indireta através da mediunidade humana.
+Somos espÃ­ritas, acreditamos na imortalidade da alma, na reencarnaÃ§Ã£o, na comunicaÃ§Ã£o com os espÃ­ritos de forma direta e indireta atravÃ©s da mediunidade humana.
 
-Umbanda é espiritismo de caboclo e preto velho, é o consolo e a palavra de amor ao próximo voltado aos humildes e aos simples.
+Umbanda Ã© espiritismo de caboclo e preto velho, Ã© o consolo e a palavra de amor ao prÃ³ximoÂ voltado aosÂ humildes e aos simples.
 
-Umbanda é Amor e energia doada ao próximo pela palavra do caboclo e do preto velho com a força vital e amorosa  doada pelo médium. É o encontro do amor divino espiritual com a energia e ação material. É o amor divino derramado a todos sem perguntar-lhes qual o seu credo.
+Umbanda Ã©Â Amor e energiaÂ doadaÂ ao prÃ³ximo pelaÂ palavra do caboclo e do preto velho com a forÃ§aÂ vital eÂ amorosaÂ  doada pelo mÃ©dium. Ã‰ o encontro do amor divinoÂ espiritualÂ com a energia e aÃ§Ã£oÂ material. Ã‰ o amor divino derramado a todos sem perguntar-lhes qual o seu credo.
 
 ![](/tmm7f/assets/images/jesuscaboclopv.png)

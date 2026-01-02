@@ -3,10 +3,10 @@ title: "Jesus Misericordioso"
 date: 2021-01-08
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2021-01-08-acc80s-19.08.51.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-01-08-acc80s-19.08.51.png"
 ---
 
-Conheça a origem da imagem, sua história e a grandeza dessa divina bênção.
+ConheÃ§a a origem da imagem, sua histÃ³ria e a grandeza dessa divina bÃªnÃ§Ã£o.
 
 <figure>
 

@@ -1,9 +1,9 @@
 ---
-title: "Homenagem às Mães!"
+title: "Homenagem Ã s MÃ£es!"
 date: 2021-05-07
 categories: 
   - "sem-categoria"
-coverImage: "maesjpg.jpg"
+coverImage: "/tmm7f/assets/images/maesjpg.jpg"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "maesjpg.jpg"
 
 </figure>
 
-Dia das Mães é dia de Mãe Maria, é dia de Yemanjá e de todas nossas mães espirituais!
+Dia das MÃ£es Ã© dia de MÃ£e Maria, Ã© dia de YemanjÃ¡ e de todas nossas mÃ£es espirituais!

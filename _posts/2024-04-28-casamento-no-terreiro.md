@@ -5,17 +5,17 @@ categories:
   - "sem-categoria"
 ---
 
-No dia 28 de Abril de 2024, com muita emoção e tomado pela vibração de Ogum, realizamos o primeiro casamento na Terreira do Sete Flechas!
+No dia 28 de Abril de 2024, com muita emoÃ§Ã£o e tomado pela vibraÃ§Ã£o de Ogum, realizamos o primeiro casamento na Terreira do Sete Flechas!
 
-Nossos médiuns Daniela e Alejandro, casados civilmente há 18 anos, decidiram realizar seu matrimônio religioso em nossa terreira!
+Nossos mÃ©diuns Daniela e Alejandro, casados civilmente hÃ¡ 18 anos, decidiram realizar seu matrimÃ´nio religioso em nossa terreira!
 
-A forte chuva da véspera não diminuiu a felicidade do noivo Alejandro que com a colaboração de amigos que vieram da Argentina, ajudou na organização do altar e nos detalhes preparados com muito carinho e harmonia!
+A forte chuva da vÃ©spera nÃ£o diminuiu a felicidade do noivo Alejandro que com a colaboraÃ§Ã£o de amigos que vieram da Argentina, ajudou na organizaÃ§Ã£o do altar e nos detalhes preparados com muito carinho e harmonia!
 
-Os noivos escolheram como padrinhos espirituais Ogum e Iemanjá por parte do Noivo e Nego Juca e Maria Conga por parte da Noiva! E na parte material foram escolhidos Robson e Ivana por parte do noivo e Cristiano e Jaqueline por parte da noiva!
+Os noivos escolheram como padrinhos espirituais Ogum e IemanjÃ¡ por parte do Noivo e Nego Juca e Maria Conga por parte da Noiva! E na parte material foram escolhidos Robson e Ivana por parte do noivo e Cristiano e Jaqueline por parte da noiva!
 
-A Cerimônia de casamento na Umbanda é um evento seríssimo e de beleza singular. Entidades luminosas de Aruanda vêm no terreiro especialmente neste dia para abençoar os noivos e impregná-los com as mais belas energias celestes de amor a fim de unir e proteger o casal!
+A CerimÃ´nia de casamento na Umbanda Ã© um evento serÃ­ssimo e de beleza singular. Entidades luminosas de Aruanda vÃªm no terreiro especialmente neste dia para abenÃ§oar os noivos e impregnÃ¡-los com as mais belas energias celestes de amor a fim de unir e proteger o casal!
 
-Alejandro e Daniela, que nosso Pai Ogum e nossa Mãe Iemanjá abençoem vocês e seus filhos com todas as luzes e o Amor de Oxalá em suas vidas!
+Alejandro e Daniela, que nosso Pai Ogum e nossa MÃ£e IemanjÃ¡ abenÃ§oem vocÃªs e seus filhos com todas as luzes e o Amor de OxalÃ¡ em suas vidas!
 
 ![](/tmm7f/assets/images/ogum-e-iemanja.png)
 

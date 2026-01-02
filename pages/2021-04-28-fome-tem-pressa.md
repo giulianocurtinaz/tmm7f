@@ -3,67 +3,67 @@ title: "Quem tem fome tem pressa!"
 date: 2021-04-28
 ---
 
-A fraternidade da Terreira de Mãe Maria e demais centros espíritas reunidos, prestam serviço de caridade espiritual à comunidade canoense há mais de 60 anos  de forma totalmente gratuita.  Somos espíritas umbandistas cristãos e a caridade espiritual sempre foi nossa identidade e nossa bandeira!
+A fraternidade da Terreira de MÃ£e Maria e demais centros espÃ­ritas reunidos, prestam serviÃ§o de caridade espiritual Ã  comunidade canoense hÃ¡ mais de 60 anosÂ  de forma totalmente gratuita.Â  Somos espÃ­ritas umbandistas cristÃ£os e a caridade espiritual sempre foi nossa identidade e nossa bandeira!
 
-Anualmente nossas casas promovem eventos beneficentes dos mais diversos tipos, nos quais arrecadamos e distribuímos rotineiramente roupas e agasalhos para o inverno, brinquedos para as crianças na proximidade do dia 27 de setembro, sopões comunitários, distribuição de cestas básicas em comunidades carentes e indígenas, entre outros. Entretanto,  com a pandemia do Coronavírus ficamos impossibilitados de atendermos o público e todas as nossas ações beneficentes assistenciais foram prejudicadas com o fechamento temporário de nossos centros.
+Anualmente nossas casas promovem eventos beneficentes dos mais diversos tipos, nos quais arrecadamos e distribuÃ­mos rotineiramente roupas e agasalhos para o inverno, brinquedos para as crianÃ§as na proximidade do dia 27 de setembro, sopÃµes comunitÃ¡rios, distribuiÃ§Ã£o de cestas bÃ¡sicas em comunidades carentes e indÃ­genas, entre outros. Entretanto,Â  com a pandemia do CoronavÃ­rus ficamos impossibilitados de atendermos o pÃºblico e todas as nossas aÃ§Ãµes beneficentes assistenciais foram prejudicadas com o fechamento temporÃ¡rio de nossos centros.
 
-Na última Páscoa ( 2021 ) , motivados pelo espírito de caridade que sempre conduziu nossos trabalhos, surgiu a idéia de somarmos esforços entre nossos centros espíritas e terreiros e em conjunto criamos o projeto **“Quem tem fome tem pressa”!**
+Na Ãºltima PÃ¡scoa ( 2021 ) , motivados pelo espÃ­rito de caridade que sempre conduziu nossos trabalhos, surgiu a idÃ©ia de somarmos esforÃ§os entre nossos centros espÃ­ritas e terreiros e em conjunto criamos o projeto **â€œQuem tem fome tem pressaâ€!**
 
-Nosso objetivo é contarmos com a ajuda de nossos amigos, frequentadores  e simpatizantes para juntos arrecadarmos (no mínimo) 50 cestas básicas todo o mês para que possamos distribuir nas comunidades carentes de Canoas.
+Nosso objetivo Ã© contarmos com a ajuda de nossos amigos, frequentadoresÂ  e simpatizantes para juntos arrecadarmos (no mÃ­nimo) 50 cestas bÃ¡sicas todo o mÃªs para que possamos distribuir nas comunidades carentes de Canoas.
 
-Você pode contribuir doando desde um quilo de alimento não perecível a uma cesta básica completa. Qualquer quantidade faz toda diferença para quem receberá. Nunca na história recente de nosso país houve tanta fome, desemprego e miséria. Portanto, qualquer ajuda será de inestimável valia.
+VocÃª pode contribuir doando desde um quilo de alimento nÃ£o perecÃ­vel a uma cesta bÃ¡sica completa. Qualquer quantidade faz toda diferenÃ§a para quem receberÃ¡. Nunca na histÃ³ria recente de nosso paÃ­s houve tanta fome, desemprego e misÃ©ria. Portanto, qualquer ajuda serÃ¡ de inestimÃ¡vel valia.
 
-**Quem tem fome tem pressa! Estamos unidos em favor do próximo! Faça a caridade você também!** 
+**Quem tem fome tem pressa! Estamos unidos em favor do prÃ³ximo! FaÃ§a a caridade vocÃª tambÃ©m!**Â 
 
 Formas de auxiliar:
 
-Você pode entregar sua doação de alimentos diretamente em um dos centros colaboradores do projeto. **Entre em contato previamente para agendar** via celular ou WhatsApp [51 984219124](https://wa.me/5551984219124) .
+VocÃª pode entregar sua doaÃ§Ã£o de alimentos diretamente em um dos centros colaboradores do projeto. **Entre em contato previamente para agendar** via celular ou WhatsApp [51 984219124](https://wa.me/5551984219124) .
 
-Caso deseje fazer uma doação eletrônica, podes enviar um PIX para o e-mail terreira@MaeMariaSeteFlechas.com.br
+Caso deseje fazer uma doaÃ§Ã£o eletrÃ´nica, podes enviar um PIX para o e-mail terreira@MaeMariaSeteFlechas.com.br
 
-Abaixo a primeira entrega de 50 cestas básicas do projeto ocorrida em 27 de Abril de 2021 ! Nosso imenso agradecimento a todos que contribuíram e que no próximo mês possamos arrecadar e doar ainda mais cestas!
+Abaixo a primeira entrega de 50 cestas bÃ¡sicas do projeto ocorrida em 27 de Abril de 2021 ! Nosso imenso agradecimento a todos que contribuÃ­ram e que no prÃ³ximo mÃªs possamos arrecadar e doar ainda mais cestas!
 
 ![](/tmm7f/assets/images/primeiraentrega.jpeg)
 
 #### **Centros que colaboram com nosso projeto**:
 
-**Terreira de Mãe Maria**  
-Rua FAB, 155, Bairro Nossa Senhora das Graças - Canoas - RS
+**Terreira de MÃ£e Maria**  
+Rua FAB, 155, Bairro Nossa Senhora das GraÃ§as - Canoas - RS
 
-**Terreira de Mãe Maria - Fraternidade Sete Flechas**  
-Rua São Francisco, 70, Bairro Nossa Senhora das Graças - Canoas - RS
+**Terreira de MÃ£e Maria - Fraternidade Sete Flechas**  
+Rua SÃ£o Francisco, 70, Bairro Nossa Senhora das GraÃ§as - Canoas - RS
 
-**Terreira de Mãe Maria - Fraternidade Cacique Ubirajara**  
-Rua Elizabeth Maria Finkler 71, Bairro Mato Grande  - Canoas - RS
+**Terreira de MÃ£e Maria - Fraternidade Cacique Ubirajara**  
+Rua Elizabeth Maria Finkler 71, Bairro Mato GrandeÂ  - Canoas - RS
 
-**Templo de Umbanda Pai Oxalá - Fraternidade Ogum De Ronda**  
-Rua Bahia, 146, Bairro Niterói - Canoas - RS
+**Templo de Umbanda Pai OxalÃ¡ - Fraternidade Ogum De Ronda**  
+Rua Bahia, 146, Bairro NiterÃ³i - Canoas - RS
 
-**Centro de Umbanda Ogum e Iansã - Fraternidade Cabocla Jurema**   
-Rua Rosa Cruz, 400, Bairro São Vicente  - Canoas - RS
+**Centro de Umbanda Ogum e IansÃ£ - Fraternidade Cabocla Jurema**Â   
+Rua Rosa Cruz, 400, Bairro SÃ£o Vicente Â - Canoas - RS
 
-**Terreira de Ogum Beira-Mar - Fraternidade Mãe Maria**  
-Rua 15 de Novembro, 300, Bairro Nossa Senhora das Graças - Canoas - RS
+**Terreira de Ogum Beira-Mar - Fraternidade MÃ£e Maria**  
+Rua 15 de Novembro, 300, Bairro Nossa Senhora das GraÃ§as - Canoas - RS
 
-**Associação de Umbanda Pai Oxalá - Fraternidade Pai Xangô**  
-Rua Assis Brasil, 251, Bairro Nossa Senhora das Graças - Canoas - RS
+**AssociaÃ§Ã£o de Umbanda Pai OxalÃ¡ - Fraternidade Pai XangÃ´**  
+Rua Assis Brasil, 251, Bairro Nossa Senhora das GraÃ§as - Canoas - RS
 
-**Centro Espírita de Umbanda Reino de Jandira**  
+**Centro EspÃ­rita de Umbanda Reino de Jandira**  
 Rua Belo Horizonte, 198, Parada 3, Bairro Mathias Velho - Canoas - RS
 
-**Centro Espírita Pai José de Aruanda**  
+**Centro EspÃ­rita Pai JosÃ© de Aruanda**  
 Rua Ana Neri, 928, Bairro Rio Branco - Canoas - RS
 
-**Centro espírita Pai João de Aruanda e Caboclo Sete Flechas  
-**Rua T nr 16 Bairro Estância Velha - Canoas - RS
+**Centro espÃ­rita Pai JoÃ£o de Aruanda e Caboclo Sete Flechas  
+**Rua T nr 16 Bairro EstÃ¢ncia Velha - Canoas - RS
 
 **Templo de Umbanda Luz no Caminho**  
-Rua José Adair Fernandes, 185 Bairro Jardim Outeiral 94465-850 Viamão, RS
+Rua JosÃ© Adair Fernandes, 185 Bairro Jardim Outeiral 94465-850 ViamÃ£o, RS
 
-**29 de Junho de 2021 - Mais um dia de Caridade e Amor ao próximo!**
+**29 de Junho de 2021 - Mais um dia de Caridade e Amor ao prÃ³ximo!**
 
 ![](/tmm7f/assets/images/doacao29062021.jpeg)
 
 ![](/tmm7f/assets/images/20210629175305.jpg)
 
-Agradecimento a todos os amigos que nos auxiliaram mais uma vez a distribuir alimentos, agasalhos, esperança e amor!
+Agradecimento a todos os amigos que nos auxiliaram mais uma vez a distribuir alimentos, agasalhos, esperanÃ§a e amor!

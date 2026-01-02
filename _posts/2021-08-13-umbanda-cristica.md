@@ -1,12 +1,12 @@
 ---
-title: "Umbanda Crística"
+title: "Umbanda CrÃ­stica"
 date: 2021-08-13
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2021-08-13-as-12.43.07.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-08-13-as-12.43.07.png"
 ---
 
-A importância do Evangelho na Umbanda: Vamos ler um trecho do livro "O Que é Umbanda - I" do autor Padrinho Juruâ do Templo Estrela Azul. Arte de capa desse vídeo extraída da página 71 do livro O Que é Umbanda - I
+A importÃ¢ncia do Evangelho na Umbanda: Vamos ler um trecho do livro "O Que Ã© Umbanda - I" do autor Padrinho JuruÃ¢ do Templo Estrela Azul. Arte de capa desse vÃ­deo extraÃ­da da pÃ¡gina 71 do livro O Que Ã© Umbanda - I
 
 <figure>
 

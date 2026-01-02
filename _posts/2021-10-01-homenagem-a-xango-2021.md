@@ -1,12 +1,12 @@
 ---
-title: "Homenagem a Xangô 2021!"
+title: "Homenagem a XangÃ´ 2021!"
 date: 2021-10-01
 categories: 
   - "sem-categoria"
-coverImage: "xango.jpeg"
+coverImage: "/tmm7f/assets/images/xango.jpeg"
 ---
 
-Vamos cantar alguns pontos e vibrarmos juntos nessa frequência tão emocionante e amorosa de Pai Xangô!
+Vamos cantar alguns pontos e vibrarmos juntos nessa frequÃªncia tÃ£o emocionante e amorosa de Pai XangÃ´!
 
 <figure>
 

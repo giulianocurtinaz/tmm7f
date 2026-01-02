@@ -1,5 +1,5 @@
 ---
-title: "Não julgueis para que não sejas julgado"
+title: "NÃ£o julgueis para que nÃ£o sejas julgado"
 date: 2021-12-08
 categories: 
   - "sem-categoria"

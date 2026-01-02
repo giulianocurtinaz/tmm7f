@@ -1,11 +1,11 @@
 ---
-title: "Visita ao C.E. de Umbanda Pai João de Aruanda e Caboclo 7 Flechas"
+title: "Visita ao C.E. de Umbanda Pai JoÃ£o de Aruanda e Caboclo 7 Flechas"
 date: 2022-02-25
 categories: 
   - "sem-categoria"
 ---
 
-Vamos conhecer este novo Centro Espírita Recém inaugurado por nossos amigos e dirigentes Cleber e sua esposa Andréia no bairro Estância Velha em Canoas/RS.
+Vamos conhecer este novo Centro EspÃ­rita RecÃ©m inaugurado por nossos amigos e dirigentes Cleber e sua esposa AndrÃ©ia no bairro EstÃ¢ncia Velha em Canoas/RS.
 
 <figure>
 

@@ -3,7 +3,7 @@ title: "Homenagem a Ogum 2021!"
 date: 2021-04-23
 categories: 
   - "sem-categoria"
-coverImage: "captura-de-tela-2021-04-23-acc80s-14.50.38.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-04-23-acc80s-14.50.38.png"
 ---
 
 <figure>
@@ -18,4 +18,4 @@ coverImage: "captura-de-tela-2021-04-23-acc80s-14.50.38.png"
 
 </figure>
 
-Com nossa querida amiga Martinha, vamos orar, cantar e louvar esse grande orixá da Umbanda! Salve Ogum! Salve São Jorge Guerreiro! Ogunhê!
+Com nossa querida amiga Martinha, vamos orar, cantar e louvar esse grande orixÃ¡ da Umbanda! Salve Ogum! Salve SÃ£o Jorge Guerreiro! OgunhÃª!

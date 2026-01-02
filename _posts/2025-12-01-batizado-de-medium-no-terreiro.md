@@ -1,26 +1,26 @@
 ---
-title: "Batizado de Médium no Terreiro!"
+title: "Batizado de MÃ©dium no Terreiro!"
 date: 2025-12-01
 categories: 
   - "sem-categoria"
-coverImage: "000.jpg"
+coverImage: "/tmm7f/assets/images/000.jpg"
 ---
 
-No dia 30 de novembro de 2025, batizou-se Médium de Umbanda na Terreira de Mãe Maria Fraternidade Sete Flechas nossa amiga Carol, tendo como padrinhos espirituais o Caboclo Sete Flechas e a Cabocla das Sete Ondas e padrinhos materiais os médiuns Rodrigo e Táscilla !
+No dia 30 de novembro de 2025, batizou-se MÃ©dium de Umbanda na Terreira de MÃ£e Maria Fraternidade Sete Flechas nossa amiga Carol, tendo como padrinhos espirituais o Caboclo Sete Flechas e a Cabocla das Sete Ondas e padrinhos materiais os mÃ©diuns Rodrigo e TÃ¡scilla !
 
 ![](/tmm7f/assets/images/sete-flechas-e-sete-ondas.png)
 
 ![](/tmm7f/assets/images/000.jpg)
 
-Para alguns a decisão de entrar numa corrente de Umbanda leva uma vida inteira, para outros, a decisão ocorre quase que de imediato: assim que conhecem a casa, sentem uma familiaridade inexplicável! É como reencontrar velhos amigos de vidas passadas e antigos hábitos de fé.
+Para alguns a decisÃ£o de entrar numa corrente de Umbanda leva uma vida inteira, para outros, a decisÃ£o ocorre quase que de imediato: assim que conhecem a casa, sentem uma familiaridade inexplicÃ¡vel! Ã‰ como reencontrar velhos amigos de vidas passadas e antigos hÃ¡bitos de fÃ©.
 
-A Umbanda convoca todos para um trabalho caritativo, seguindo os passos do Cristo, levando amor e fé a todos os corações aflitos.
+A Umbanda convoca todos para um trabalho caritativo, seguindo os passos do Cristo, levando amor e fÃ© a todos os coraÃ§Ãµes aflitos.
 
-Nesse maravilhoso domingo, o Astral celebra por mais uma amiga juntar-se a esse exército do Bem! Bem-vinda Carol à sua casa!
+Nesse maravilhoso domingo, o Astral celebra por mais uma amiga juntar-se a esse exÃ©rcito do Bem! Bem-vinda Carol Ã  sua casa!
 
-Ao ingressar para a Umbanda, o Médium realiza um juramento à Deus! Compartilhamos abaixo o juramento na íntegra a fim de esclarecer, desmistificar e ensinar quem puder interessar , quais são nossos valores e ideais:
+Ao ingressar para a Umbanda, o MÃ©dium realiza um juramento Ã  Deus! Compartilhamos abaixo o juramento na Ã­ntegra a fim de esclarecer, desmistificar e ensinar quem puder interessar , quais sÃ£o nossos valores e ideais:
 
-_"Ao receber o Sacramento do Santo Batismo, tornando-me médium de Umbanda, PROMETO, perante este Altar Sagrado, com o testemunho dos meus padrinhos materiais: ………… e ………… e abençoado pelos meus padrinhos espirituais: …………. que me esforçarei para cumprir todas as ordens que a mim forem determinadas e confiadas dos guias chefes e dirigentes da terreira. PROMETO, praticar a caridade em todos os lugares onde houver necessitados, sem esperar agradecimento, dádivas ou qualquer tipo de pagamento, não julgando o meu irmão que estiver necessitando de meu auxílio, dando de graça tudo aquilo que de graça receber, bem como exercer minha mediunidade dentro da moral Espírita Cristã. Prometo ser fiel a todos os meus irmãos de corrente, ser digno da confiança que as pessoas depositarem em mim. Prometo esforçar-me por adquirir, pouco a pouco, a virtude da bondade, da discrição, do discernimento, da perseverança e do sentimento de sacrifício. E que, quando desejar me afastar da Terreira, pedirei demissão por escrito, fazendo a entrega da guia e demais itens que a ela pertencer. DECLARO, AINDA, que assumo este compromisso de livre e espontânea vontade, sem coação de qualquer espécie e que o cumprirei integralmente."_
+_"Ao receber o Sacramento do Santo Batismo, tornando-me mÃ©dium de Umbanda, PROMETO, perante este Altar Sagrado, com o testemunho dos meus padrinhos materiais: â€¦â€¦â€¦â€¦ e â€¦â€¦â€¦â€¦ e abenÃ§oado pelos meus padrinhos espirituais: â€¦â€¦â€¦â€¦. que me esforÃ§arei para cumprir todas as ordens que a mim forem determinadas e confiadas dos guias chefes e dirigentes da terreira. PROMETO, praticar a caridade em todos os lugares onde houver necessitados, sem esperar agradecimento, dÃ¡divas ou qualquer tipo de pagamento, nÃ£o julgando o meu irmÃ£o que estiver necessitando de meu auxÃ­lio, dando de graÃ§a tudo aquilo que de graÃ§a receber, bem como exercer minha mediunidade dentro da moral EspÃ­rita CristÃ£. Prometo ser fiel a todos os meus irmÃ£os de corrente, ser digno da confianÃ§a que as pessoas depositarem em mim. Prometo esforÃ§ar-me por adquirir, pouco a pouco, a virtude da bondade, da discriÃ§Ã£o, do discernimento, da perseveranÃ§a e do sentimento de sacrifÃ­cio. E que, quando desejar me afastar da Terreira, pedirei demissÃ£o por escrito, fazendo a entrega da guia e demais itens que a ela pertencer. DECLARO, AINDA, que assumo este compromisso de livre e espontÃ¢nea vontade, sem coaÃ§Ã£o de qualquer espÃ©cie e que o cumprireiÂ integralmente."_
 
 ![](/tmm7f/assets/images/00.jpg)
 

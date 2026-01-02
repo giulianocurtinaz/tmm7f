@@ -1,16 +1,16 @@
 ---
-title: "Segundo batizado de médiuns no terreiro"
+title: "Segundo batizado de mÃ©diuns no terreiro"
 date: 2020-01-26
 categories: 
   - "sem-categoria"
-coverImage: "20200126_102347.jpg"
+coverImage: "/tmm7f/assets/images/20200126_102347.jpg"
 ---
 
-Tomar a decisão de entrar para uma corrente mediúnica de Umbanda não é algo fácil! Muitos são os entraves, contratempos e pensamentos diversos que nos afastam de praticar a caridade por livre e espontânea vontade!
+Tomar a decisÃ£o de entrar para uma corrente mediÃºnica de Umbanda nÃ£o Ã© algo fÃ¡cil! Muitos sÃ£o os entraves, contratempos e pensamentos diversos que nos afastam de praticar a caridade por livre e espontÃ¢nea vontade!
 
-Parabéns Rafael, Darwin e Sol por este belíssimo ato de coragem e fé! Que o "uniforme branco" possa vestir a alma de vocês por toda a vida! Permitindo-lhes fazer a caridade dentro e fora do terreiro, em todas as horas da vida! Que seus mentores espirituais estejam ao vosso lado sempre! Que possam cumprir, com sinceridade e amor, o juramento que realizaram em frente ao Congá: "**Dando de graça o que de graça receberam de Deus**".
+ParabÃ©ns Rafael, Darwin e Sol por este belÃ­ssimo ato de coragem e fÃ©! Que o "uniforme branco" possa vestir a alma de vocÃªs por toda a vida! Permitindo-lhes fazer a caridade dentro e fora do terreiro, em todas as horas da vida! Que seus mentores espirituais estejam ao vosso lado sempre! Que possam cumprir, com sinceridade e amor, o juramento que realizaram em frente ao CongÃ¡: "**Dando de graÃ§a o que de graÃ§a receberam de Deus**".
 
-Viva a corrente espiritual de Umbanda e seus novos trabalhadores! Não desanime jamais, pois Ele há de nos guiar neste caminho pedregoso, mas também de muita realização e crescimento espiritual!
+Viva a corrente espiritual de Umbanda e seus novos trabalhadores! NÃ£o desanime jamais, pois Ele hÃ¡ de nos guiar neste caminho pedregoso, mas tambÃ©m de muita realizaÃ§Ã£o e crescimento espiritual!
 
 - [![](/tmm7f/assets/images/20200126085849.jpg)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/20200126_085849.jpg?w=1024)
     

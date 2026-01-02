@@ -1,11 +1,11 @@
 ---
-title: "Galeto Mãe Maria 2025"
+title: "Galeto MÃ£e Maria 2025"
 date: 2025-05-03
 categories: 
   - "sem-categoria"
 ---
 
-Desde a Pandemina de 2020 não realizávamos essa importante confraternização entre amigos! Parabéns formandos do Septuagenário pelo belíssimo evento!
+Desde a Pandemina de 2020 nÃ£o realizÃ¡vamos essa importante confraternizaÃ§Ã£o entre amigos! ParabÃ©ns formandos do SeptuagenÃ¡rio pelo belÃ­ssimo evento!
 
 ![](/tmm7f/assets/images/img-20250504-wa00497886526755044705955.jpg)
 

@@ -3,7 +3,7 @@ title: "A Lei do Amor"
 date: 2021-07-02
 categories: 
   - "sem-categoria"
-coverImage: "merciful-jesus-pq.jpg"
+coverImage: "/tmm7f/assets/images/merciful-jesus-pq.jpg"
 ---
 
 <figure>
