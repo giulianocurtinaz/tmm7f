@@ -2,7 +2,7 @@
 layout: post
 title: "Inauguração 24 Março 2019"
 date: 2019-03-24
-coverImage: "/tmm7f/assets/images/2019-12-img-20190324-wa0005.jpg"
+image: "/tmm7f/assets/images/2019-12-img-20190324-wa0005.jpg"
 ---
 
 Neste dia especial estiveram presentes nossos amigas da Sandra, Nilza e Maria Aparecida da terreira de Mãe Maria fraternidade cacique Ubirajara, as amigas Aline Silveira, Marcelo, David, Bruna, Eloci e Martinha da terreira de Mãe Maria, nossa mestra, amiga e mentora Celma Neri de Campos (Yaralacy). Nossos médiuns eram: Adriana, Carmem, Giuliano, Kátia, Fonseca, Mayer, Mateus, Mercedes, Roger, Rosane, Silvia, Terezinha e Victória.
