@@ -15,8 +15,8 @@ Ore e cante nossos pontos de Umbanda nessa visita ao Terreiro de Ogum Beira-Mar 
 
 
 
-[pdf_roteiro_29_maio](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/pdf_roteiro_29_maio.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/pdf_roteiro_29_maio.pdf)
+[pdf_roteiro_29_maio](/tmm7f/assets/images/2020-05-pdfroteiro29maio.pdf)[Baixar](/tmm7f/assets/images/2020-05-pdfroteiro29maio.pdf)
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/capa6.jpeg?w=1024)](https://youtu.be/-dtaBiiq5z8)
+[![](/tmm7f/assets/images/2020-05-capa6.jpeg)](https://youtu.be/-dtaBiiq5z8)

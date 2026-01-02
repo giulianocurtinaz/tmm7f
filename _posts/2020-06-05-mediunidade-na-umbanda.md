@@ -13,4 +13,4 @@ coverImage: "/tmm7f/assets/images/2020-06-20200605210129.jpg"
 
 
 
-[roteiro_5_junho](https://maemariaseteflechas.com.br/wp-content/uploads/2020/06/roteiro_5_junho.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/06/roteiro_5_junho.docx)
+[roteiro_5_junho](/tmm7f/assets/images/2020-06-roteiro5junho.docx)[Baixar](/tmm7f/assets/images/2020-06-roteiro5junho.docx)

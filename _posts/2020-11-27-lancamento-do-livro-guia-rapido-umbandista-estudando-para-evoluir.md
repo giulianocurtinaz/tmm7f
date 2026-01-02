@@ -9,7 +9,7 @@ Nossa amiga e cambona Adriana Zanette nos presenteia com sua obra maravilhosa so
 
 
 
-[Guia Rápido Umbandista](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)
+[Guia Rápido Umbandista](/tmm7f/assets/images/2020-11-guia-rapido-umbandista.pdf)[Baixar](/tmm7f/assets/images/2020-11-guia-rapido-umbandista.pdf)
 
 
 

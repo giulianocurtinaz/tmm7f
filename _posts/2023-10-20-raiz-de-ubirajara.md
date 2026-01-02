@@ -16,7 +16,7 @@ Documentar e publicar nossa história é trazer à vida anos de dedicação e am
 
 
 
-[Arvore Ubirajara.Doc](https://maemariaseteflechas.com.br/wp-content/uploads/2023/10/arvore-ubirajara.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2023/10/arvore-ubirajara.docx)
+[Arvore Ubirajara.Doc](/tmm7f/assets/images/2023-10-arvore-ubirajara.docx)[Baixar](/tmm7f/assets/images/2023-10-arvore-ubirajara.docx)
 
 
 

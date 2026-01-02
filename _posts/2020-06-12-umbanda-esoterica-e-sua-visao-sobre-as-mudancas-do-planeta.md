@@ -21,7 +21,7 @@ Clique na imagem para abrir o vídeo!
 
 
 
-[roteiro_12_junho](https://maemariaseteflechas.com.br/wp-content/uploads/2020/06/roteiro_12_junho.pdf)[](https://maemariaseteflechas.com.br/wp-content/uploads/2020/06/roteiro_12_junho.pdf)
+[roteiro_12_junho](/tmm7f/assets/images/2020-06-roteiro12junho.pdf)[](/tmm7f/assets/images/2020-06-roteiro12junho.pdf)
 
 
 

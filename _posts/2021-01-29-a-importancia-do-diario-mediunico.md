@@ -2,9 +2,10 @@
 layout: post
 title: "A importância do diário mediúnico"
 date: 2021-01-29
+coverImage: "/tmm7f/assets/images/2021-01-fotocoroacao.jpeg"
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/foto_coroacao.jpeg?w=750)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)
+[![](/tmm7f/assets/images/2021-01-fotocoroacao.jpeg)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)
 
 
 
@@ -287,7 +288,7 @@ Abaixo copio informações registradas pela minha mãe no dia da coroação de m
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/foto_coroacao.jpeg?w=1024)Da esquerda para direita: Tio Jairo, Tia Rosane, Mãe, Meu avô Jacy, Vó Mercedes, Roer, primo Jonatam e Robinson. ( 0s 4 filhos do casal Oliveira! )
+![](/tmm7f/assets/images/2021-01-fotocoroacao.jpeg)Da esquerda para direita: Tio Jairo, Tia Rosane, Mãe, Meu avô Jacy, Vó Mercedes, Roer, primo Jonatam e Robinson. ( 0s 4 filhos do casal Oliveira! )
 
 
 

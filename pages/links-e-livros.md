@@ -18,7 +18,7 @@ Não poderíamos de listar logo de início o singelo e grandioso livro de nossa 
 
 
 
-[Guia Rápido Umbandista](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/guia-rapido-umbandista.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/guia-rapido-umbandista.pdf)
+[Guia Rápido Umbandista](/tmm7f/assets/images/2021-02-guia-rapido-umbandista.pdf)[Baixar](/tmm7f/assets/images/2021-02-guia-rapido-umbandista.pdf)
 
 
 
@@ -81,7 +81,7 @@ Site sensacional trazendo maravilhosas obras de cunho histórico sobre a fundaç
 
 
 
-[AS ORIGENS DA UMBANDA II](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-ii.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-ii.pdf)
+[AS ORIGENS DA UMBANDA II](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-ii.pdf)[Baixar](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-ii.pdf)
 
 
 

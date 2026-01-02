@@ -13,4 +13,4 @@ Como Zélio Fernandino de Moraes em 1908 anunciou a criação dessa humildade re
 
 
 
-[O que é Umbanda (na visão do convidado André Luiz Padilha)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/o-que-ecc81-umbanda.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/o-que-ecc81-umbanda.pdf)
+[O que é Umbanda (na visão do convidado André Luiz Padilha)](/tmm7f/assets/images/2020-11-o-que-ecc81-umbanda.pdf)[Baixar](/tmm7f/assets/images/2020-11-o-que-ecc81-umbanda.pdf)
