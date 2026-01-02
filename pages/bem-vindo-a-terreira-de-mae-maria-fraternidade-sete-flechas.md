@@ -22,7 +22,7 @@ Nossa Missão nas palavras do Caboclo Sete Flechas:
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/20190830_193002-e1580157019413.jpg?w=786)
+![](/tmm7f/assets/images/2019-12-20190830193002-e1580157019413.jpg)
 
 
 

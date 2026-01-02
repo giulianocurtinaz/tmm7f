@@ -2,9 +2,10 @@
 layout: post
 title: "Pontos Cantados - Nossa Origem e Resgate às tradições"
 date: 2021-03-18
+coverImage: "/tmm7f/assets/images/2021-03-alcimar.png"
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/alcimar.png?w=1012)](https://youtu.be/LIlt536A_qc)[https://youtu.be/LIlt536A_qc](https://youtu.be/LIlt536A_qc)
+[![](/tmm7f/assets/images/2021-03-alcimar.png)](https://youtu.be/LIlt536A_qc)[https://youtu.be/LIlt536A_qc](https://youtu.be/LIlt536A_qc)
 
 
 
