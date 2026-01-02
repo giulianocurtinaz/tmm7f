@@ -15,7 +15,7 @@ Faça Download do roteiro:
 
 
 
-[pdf_roteiro_24_abril](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/pdf_roteiro_25_abril.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/pdf_roteiro_25_abril.pdf)
+[pdf_roteiro_24_abril](/tmm7f/assets/images/2020-04-pdfroteiro25abril.pdf)[Baixar](/tmm7f/assets/images/2020-04-pdfroteiro25abril.pdf)
 
 
 

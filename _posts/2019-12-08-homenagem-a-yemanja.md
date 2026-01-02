@@ -37,4 +37,4 @@ Ao som de pontos de Yemanjá, um a um dos presentes colocou sua rosa em cima daq
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/viagem-yemanja.jpeg?w=1024)
+![](/tmm7f/assets/images/2020-02-viagem-yemanja.jpeg)

@@ -87,7 +87,7 @@ Segue também roteiro impresso para melhor acompanhamento do vídeo:
 
 
 
-[doc-roteiro-sexta-feita-santa](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/doc-roteiro-sexta-feita-santa.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/doc-roteiro-sexta-feita-santa.docx)
+[doc-roteiro-sexta-feita-santa](/tmm7f/assets/images/2020-04-doc-roteiro-sexta-feita-santa.docx)[Baixar](/tmm7f/assets/images/2020-04-doc-roteiro-sexta-feita-santa.docx)
 
 
 

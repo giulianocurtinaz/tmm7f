@@ -15,7 +15,7 @@ Nela seguiremos o roteiro abaixo que pode ser impresso para melhor acompanhament
 
 
 
-[pdf-doc-roteiro-sexta-17](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/pdf-doc-roteiro-sexta-17.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/pdf-doc-roteiro-sexta-17.pdf)
+[pdf-doc-roteiro-sexta-17](/tmm7f/assets/images/2020-04-pdf-doc-roteiro-sexta-17.pdf)[Baixar](/tmm7f/assets/images/2020-04-pdf-doc-roteiro-sexta-17.pdf)
 
 
 

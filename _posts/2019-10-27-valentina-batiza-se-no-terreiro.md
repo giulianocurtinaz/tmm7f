@@ -8,4 +8,4 @@ No dia 27 de outubro de 2019, numa sessão de pretos-velhos, Valentina, filha de
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/batizadoi5.jpeg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/batizadoi4.jpeg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/batizadoi1.jpeg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/batizadoi2.jpeg?w=1024)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/batizadoi5.jpeg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/batizadoi4.jpeg?w=1024)![](/tmm7f/assets/images/2020-02-batizadoi1.jpeg)![](/tmm7f/assets/images/2020-02-batizadoi2.jpeg)
