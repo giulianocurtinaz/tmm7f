@@ -2,9 +2,10 @@
 layout: post
 title: "Povo do Oriente: Semana de João Batista!"
 date: 2021-06-18
+coverImage: "/tmm7f/assets/images/2021-06-sao-joao-batista.jpeg"
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/06/sao-joao-batista.jpeg?w=800)](https://youtu.be/PcYjB9BuU4c)[https://youtu.be/PcYjB9BuU4c](https://youtu.be/PcYjB9BuU4c)
+[![](/tmm7f/assets/images/2021-06-sao-joao-batista.jpeg)](https://youtu.be/PcYjB9BuU4c)[https://youtu.be/PcYjB9BuU4c](https://youtu.be/PcYjB9BuU4c)
 
 
 
