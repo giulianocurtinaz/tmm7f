@@ -45,4 +45,4 @@ Umbanda é Amor e energia doada ao próximo pela palavra do caboclo e do pre
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/jesus_caboclo_pv.png?w=523)
+![](/tmm7f/assets/images/2020-05-jesuscaboclopv.png)
