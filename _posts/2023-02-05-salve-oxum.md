@@ -36,7 +36,7 @@ Entregamos nossas oferendas ( pétalas de rosas brancas ) à nossa Mãe! O caboc
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/02/img-20230205-wa00277179708878670392572.jpg?w=768)
+![](/tmm7f/assets/images/2023-02-img-20230205-wa00277179708878670392572.jpg)
 
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Confraternização 2024"
 date: 2024-12-20
+coverImage: "/tmm7f/assets/images/2024-12-img-20241221-wa0015.jpg"
 ---
 
 Não é só de branco que nos reunimos! 
@@ -26,7 +27,7 @@ Viva o Natal e nosso Pai Oxalá!
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/img-20241221-wa0016.jpg?w=698)
+![](/tmm7f/assets/images/2024-12-img-20241221-wa0016.jpg)
 
 
 
@@ -34,4 +35,4 @@ Viva o Natal e nosso Pai Oxalá!
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/img-20241221-wa0015.jpg?w=768)
+![](/tmm7f/assets/images/2024-12-img-20241221-wa0015.jpg)

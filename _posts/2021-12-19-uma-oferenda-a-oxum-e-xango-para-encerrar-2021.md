@@ -2,6 +2,7 @@
 layout: post
 title: "Uma oferenda à Oxum e Xangô para encerrar 2021"
 date: 2021-12-19
+coverImage: "/tmm7f/assets/images/2021-12-20211219100857.jpg"
 ---
 
 Hoje, com muita alegria, fé e devoção, realizamos uma pequena oferenda à Oxum e Xangô na caverna dos Bugres  em Santa Maria do Herval/RS.
@@ -34,4 +35,4 @@ Obrigado Pai Xangô por nos transmitir tua força e determinação. Obrigado Mã
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/img-20211219-wa00214014039093991220208.jpg?w=559)
+![](/tmm7f/assets/images/2021-12-img-20211219-wa00214014039093991220208.jpg)
