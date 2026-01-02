@@ -2,6 +2,7 @@
 layout: post
 title: "Cruz de Luz!"
 date: 2019-09-08
+coverImage: "/tmm7f/assets/images/2020-02-fachada-1.png"
 ---
 
 Em 04 Janeiro de 2019, enquanto planejava transformar a antiga garagem da minha vó numa terreira de Umbanda, em um momento de inspiração Matinal, me foi mostrado uma enorme Cruz na fachada do futuro terreiro. Peguei o papel e caneta e desenhei o que havia enxergado. Ao calcular a quantidade de tijolos de vidro que seriam pintados, descobri que seriam necessários 52 tijolos. 5 + 2 = 7 ! Muita Benção!
@@ -38,4 +39,4 @@ Obrigado Oxalá por este presente na terra! Que possamos ser dignos de carregar 
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/fachada-iluminada-1.jpg?w=1024)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/fachada-iluminada-1.jpg?w=1024)[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/fachada-1.png?w=724)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/fachada-1.png?w=724)[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/whatsapp-image-2020-02-06-at-10.48.13-1.jpeg?w=1024)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/whatsapp-image-2020-02-06-at-10.48.13-1.jpeg)
+[![](/tmm7f/assets/images/2020-02-fachada-iluminada-1.jpg)](/tmm7f/assets/images/2020-02-fachada-iluminada-1.jpg)[![](/tmm7f/assets/images/2020-02-fachada-1.png)](/tmm7f/assets/images/2020-02-fachada-1.png)[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/whatsapp-image-2020-02-06-at-10.48.13-1.jpeg?w=1024)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/whatsapp-image-2020-02-06-at-10.48.13-1.jpeg)
