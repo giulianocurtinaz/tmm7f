@@ -2,9 +2,10 @@
 layout: post
 title: "Semente do Evangelho encontra "solo fértil" em mais um Terreiro"
 date: 2019-04-04
+coverImage: "/tmm7f/assets/images/2019-12-20190929204214.jpg"
 ---
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/20190929_204214.jpg?w=750)
+![](/tmm7f/assets/images/2019-12-20190929204214.jpg)
 
 
 

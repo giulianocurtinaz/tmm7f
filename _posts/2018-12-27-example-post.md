@@ -2,9 +2,10 @@
 layout: post
 title: "Abrindo uma porta de Luz!"
 date: 2018-12-27
+coverImage: "/tmm7f/assets/images/2019-12-img2206.jpg"
 ---
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2206.jpg)
+![](/tmm7f/assets/images/2019-12-img2206.jpg)
 
 
 
@@ -81,4 +82,4 @@ Agradeco por fim aos meus Mestres e Antepassados, aos que oram e olham agora por
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2072.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2221.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2114.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2109.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2203.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2224.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2116.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2226.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2247.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2258.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2282.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2062.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2312.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2412.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2334.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2315.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2381.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2433.jpg)![](/tmm7f/assets/images/2019-12-obra.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2072.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2221.jpg)![](/tmm7f/assets/images/2019-12-img2114.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2109.jpg)![](/tmm7f/assets/images/2019-12-img2203.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2224.jpg)![](/tmm7f/assets/images/2019-12-img2116.jpg)![](/tmm7f/assets/images/2019-12-img2226.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2247.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2258.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2282.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2062.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2312.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2412.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2334.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2315.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2381.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2433.jpg)![](/tmm7f/assets/images/2019-12-obra.jpg)
