@@ -43,7 +43,7 @@ ABC de Umbanda - Leopoldo Bettiol
 
 
 
-[A B C de Umbanda - Leopoldo Bettiol](https://maemariaseteflechas.com.br/wp-content/uploads/2024/08/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2024/08/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)
+[A B C de Umbanda - Leopoldo Bettiol](/tmm7f/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)[Baixar](/tmm7f/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)
 
 
 
@@ -57,7 +57,7 @@ O primeiro escritor umbandista:
 
 
 
-[Espiritismo, a Magia e as Sete Linhas de Umbanda](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)
+[Espiritismo, a Magia e as Sete Linhas de Umbanda](/tmm7f/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)[Baixar](/tmm7f/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)
 
 
 
@@ -77,7 +77,7 @@ Site sensacional trazendo maravilhosas obras de cunho histórico sobre a fundaç
 
 
 
-[AS ORIGENS DA UMBANDA I](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf)
+[AS ORIGENS DA UMBANDA I](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)[Baixar](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)
 
 
 

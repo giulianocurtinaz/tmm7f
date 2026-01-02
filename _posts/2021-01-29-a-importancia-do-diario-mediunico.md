@@ -283,7 +283,7 @@ Abaixo copio informações registradas pela minha mãe no dia da coroação de m
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/mae_formatura_vo.jpeg?w=1024)Acima minha mãe (Rosiclea) anotando as orientações do caboclo Tupinanbá no dia da coroação do meu Avô.
+![](/tmm7f/assets/images/2021-01-maeformaturavo.jpeg)Acima minha mãe (Rosiclea) anotando as orientações do caboclo Tupinanbá no dia da coroação do meu Avô.
 
 
 
@@ -308,8 +308,8 @@ Abaixo meu avô presente no dia de meu batizado (e também do meu tio Roger) em 
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/meu_batizado.jpeg?w=1024)
+![](/tmm7f/assets/images/2021-01-meubatizado.jpeg)
 
 
 
-[Baixe o diário completo em PDF e veja os Pontos Riscados](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/diario_jacy_oliveira.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/diario_jacy_oliveira.pdf)
+[Baixe o diário completo em PDF e veja os Pontos Riscados](/tmm7f/assets/images/2021-01-diariojacyoliveira.pdf)[Baixar](/tmm7f/assets/images/2021-01-diariojacyoliveira.pdf)
