@@ -38,68 +38,68 @@ Alejandro e Daniela, que nosso Pai Ogum e nossa Mãe Iemanjá abençoem vocês e
 
 
 
-![](/tmm7f/assets/images/ogum-e-iemanja.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/ogum-e-iemanja.png?w=936)
 
 
 
-![](/tmm7f/assets/images/1.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/1.jpg?w=770)
 
 
 
-![](/tmm7f/assets/images/2.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/2.jpg?w=770)
 
 
 
-![](/tmm7f/assets/images/4a.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/4a.jpg?w=771)
 
 
 
-![](/tmm7f/assets/images/7.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/7.jpg?w=768)
 
 
 
-![](/tmm7f/assets/images/estrela.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/04/estrela.jpg?w=771)
 
 
 
-![](/tmm7f/assets/images/6.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/6.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/8.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/8.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/9.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/9.jpg?w=768)
 
 
 
-![](/tmm7f/assets/images/10.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/10.jpg?w=768)
 
 
 
-![](/tmm7f/assets/images/12.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/12.jpg?w=768)
 
 
 
-![](/tmm7f/assets/images/13.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/13.jpg?w=576)
 
 
 
-![](/tmm7f/assets/images/14.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/14.jpg?w=576)
 
 
 
-![](/tmm7f/assets/images/15.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/15.jpg?w=768)
 
 
 
-![](/tmm7f/assets/images/16.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/16.jpg?w=768)
 
 
 
-![](/tmm7f/assets/images/17.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/17.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/18.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/06/18.jpg?w=1024)

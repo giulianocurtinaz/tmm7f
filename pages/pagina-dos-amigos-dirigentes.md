@@ -246,13 +246,13 @@ Agora vamos plantar
 
 Do humaitá Ogum brandou
 Senhor Oxossi atinou
-IansÃ vai chegar
+Iansã vai chegar
 
 
 
 
 
-O ogÃ já firmou
+O ogã já firmou
 Atabaque afinou
 Agora vamos cantar
 
@@ -263,13 +263,13 @@ Agora vamos cantar
 A eparrei ela é Oyá, ela é Oyá
 A eparrei é Iansã, é Iansã
 A eparrei
-Quando IansÃ vai pra batalha
+Quando Iansã vai pra batalha
 Todos os cavaleiros param
 Só pra ver ela passar
 A eparrei ela é Oyá, ela é Oyá
 A eparrei é Iansã, é Iansã
 A eparrei
-Quando IansÃ vai pra batalha
+Quando Iansã vai pra batalha
 Todos os cavaleiros param
 Só para ver ela passar
 

@@ -2,10 +2,9 @@
 layout: post
 title: "Reforma na Mãe Maria e o Dia dos Pretos Velhos na Umbanda!"
 date: 2021-05-14
-coverImage: "/tmm7f/assets/images/tmm-sem-telhado.png"
 ---
 
-[![](/tmm7f/assets/images/tmm-sem-telhado.png)](https://youtu.be/1gUlZMRTIHE)[https://youtu.be/1gUlZMRTIHE](https://youtu.be/1gUlZMRTIHE)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/05/tmm-sem-telhado.png?w=765)](https://youtu.be/1gUlZMRTIHE)[https://youtu.be/1gUlZMRTIHE](https://youtu.be/1gUlZMRTIHE)
 
 
 

@@ -2,7 +2,6 @@
 layout: post
 title: "O que é umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
 date: 2020-04-25
-coverImage: "/tmm7f/assets/images/jesuscaboclopv.png"
 ---
 
 Somos Monoteístas.
@@ -45,4 +44,4 @@ Umbanda é Amor e energia doada ao próximo pela palavra do caboclo e do pre
 
 
 
-![](/tmm7f/assets/images/jesuscaboclopv.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/jesus_caboclo_pv.png?w=523)

@@ -2,10 +2,9 @@
 layout: post
 title: "Homenagem às Mães!"
 date: 2021-05-07
-coverImage: "/tmm7f/assets/images/maesjpg.jpg"
 ---
 
-[![](/tmm7f/assets/images/maesjpg.jpg)](https://youtu.be/ojPZWTsVQdg)[https://youtu.be/ojPZWTsVQdg](https://youtu.be/ojPZWTsVQdg)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/05/maesjpg.jpg?w=1024)](https://youtu.be/ojPZWTsVQdg)[https://youtu.be/ojPZWTsVQdg](https://youtu.be/ojPZWTsVQdg)
 
 
 

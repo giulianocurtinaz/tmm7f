@@ -2,10 +2,9 @@
 layout: post
 title: "A importância do diário mediúnico"
 date: 2021-01-29
-coverImage: "/tmm7f/assets/images/fotocoroacao.jpeg"
 ---
 
-[![](/tmm7f/assets/images/fotocoroacao.jpeg)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/foto_coroacao.jpeg?w=750)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)
 
 
 
@@ -81,7 +80,7 @@ Espero de todo o meu coração que um dia meu filho e talvez meu neto possa ler 
 
 
 
-![](/tmm7f/assets/images/image-1.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-1.png?w=247)
 
 
 
@@ -97,7 +96,7 @@ Espero de todo o meu coração que um dia meu filho e talvez meu neto possa ler 
 
 
 
-![](/tmm7f/assets/images/image-3.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-3.png?w=462)
 
 
 
@@ -122,11 +121,11 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-4.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-4.png?w=433)
 
 
 
-![](/tmm7f/assets/images/image-5.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-5.png?w=364)
 
 
 
@@ -137,11 +136,11 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-12.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-12.png?w=347)
 
 
 
-![](/tmm7f/assets/images/image-13.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-13.png?w=354)
 
 
 
@@ -151,7 +150,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-6.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-6.png?w=330)
 
 
 
@@ -167,7 +166,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-7.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-7.png?w=377)
 
 
 
@@ -195,7 +194,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-8.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-8.png?w=336)
 
 
 
@@ -217,7 +216,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-9.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-9.png?w=336)
 
 
 
@@ -239,7 +238,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-10.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-10.png?w=329)
 
 
 
@@ -261,7 +260,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/image-11.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-11.png?w=394)
 
 
 
@@ -284,11 +283,11 @@ Abaixo copio informações registradas pela minha mãe no dia da coroação de m
 
 
 
-![](/tmm7f/assets/images/maeformaturavo.jpeg)Acima minha mãe (Rosiclea) anotando as orientações do caboclo Tupinanbá no dia da coroação do meu Avô.
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/mae_formatura_vo.jpeg?w=1024)Acima minha mãe (Rosiclea) anotando as orientações do caboclo Tupinanbá no dia da coroação do meu Avô.
 
 
 
-![](/tmm7f/assets/images/fotocoroacao.jpeg)Da esquerda para direita: Tio Jairo, Tia Rosane, Mãe, Meu avô Jacy, Vó Mercedes, Roer, primo Jonatam e Robinson. ( 0s 4 filhos do casal Oliveira! )
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/foto_coroacao.jpeg?w=1024)Da esquerda para direita: Tio Jairo, Tia Rosane, Mãe, Meu avô Jacy, Vó Mercedes, Roer, primo Jonatam e Robinson. ( 0s 4 filhos do casal Oliveira! )
 
 
 
@@ -309,8 +308,8 @@ Abaixo meu avô presente no dia de meu batizado (e também do meu tio Roger) em 
 
 
 
-![](/tmm7f/assets/images/meubatizado.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/meu_batizado.jpeg?w=1024)
 
 
 
-[Baixe o diário completo em PDF e veja os Pontos Riscados](/tmm7f/assets/images/diariojacyoliveira.pdf)[Baixar](/tmm7f/assets/images/diariojacyoliveira.pdf)
+[Baixe o diário completo em PDF e veja os Pontos Riscados](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/diario_jacy_oliveira.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/diario_jacy_oliveira.pdf)

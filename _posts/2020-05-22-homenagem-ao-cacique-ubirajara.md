@@ -2,10 +2,9 @@
 layout: post
 title: "Homenagem ao Cacique Ubirajara"
 date: 2020-05-22
-coverImage: "/tmm7f/assets/images/capajpegsem-titulo-1.jpg"
 ---
 
-[![](/tmm7f/assets/images/capajpegsem-titulo.jpg)](https://youtu.be/CIfJwOOw3CM)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/capa_jpeg_sem-titulo.jpg?w=1024)](https://youtu.be/CIfJwOOw3CM)
 
 
 

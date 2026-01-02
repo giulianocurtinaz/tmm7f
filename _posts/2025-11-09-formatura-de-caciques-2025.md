@@ -8,7 +8,7 @@ Difícil escolher palavras que transmitam tudo aquilo que sentimos nesse dia que
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-11-09-as-11433199aeec6b.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/imagem-do-whatsapp-de-2025-11-09-as-11.43.31_99aeec6b.jpg?w=750)
 
 
 
@@ -30,87 +30,87 @@ https://youtu.be/-C3aDLLA-9E
 
 
 
-![](/tmm7f/assets/images/img-20251109-wa0040.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251109-wa0040.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0091.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0091.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0099.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0099.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0098.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0098.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0097.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0097.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0096.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0096.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0095.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0095.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0094.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0094.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0093.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0093.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0090.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0090.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0082.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0082.jpg?w=461)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0088.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0088.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0090.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0090.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0081.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0081.jpg?w=461)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0078.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0078.jpg?w=461)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0087.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0087.jpg?w=576)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0092.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0092.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0086.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0086.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0084.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0084.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0089.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0089.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0083.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0083.jpg?w=750)
 
 
 
@@ -118,32 +118,32 @@ https://youtu.be/-C3aDLLA-9E
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0080.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0080.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251110-wa0079.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251110-wa0079.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251109-wa0026.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251109-wa0026.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251109-wa0025.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251109-wa0025.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251109-wa0024.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251109-wa0024.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/img-20251109-wa0023.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/img-20251109-wa0023.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-11-09-as-11432438f2e822.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/imagem-do-whatsapp-de-2025-11-09-as-11.43.24_38f2e822.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-11-09-as-112344bc226eca.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/imagem-do-whatsapp-de-2025-11-09-as-11.23.44_bc226eca.jpg?w=750)

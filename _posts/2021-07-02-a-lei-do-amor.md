@@ -2,10 +2,9 @@
 layout: post
 title: "A Lei do Amor"
 date: 2021-07-02
-coverImage: "/tmm7f/assets/images/merciful-jesus-pq.jpg"
 ---
 
-[![](/tmm7f/assets/images/merciful-jesus-pq.jpg)](https://youtu.be/0Pu18rn3PFM)[https://youtu.be/0Pu18rn3PFM](https://youtu.be/0Pu18rn3PFM)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/merciful-jesus-pq.jpg?w=526)](https://youtu.be/0Pu18rn3PFM)[https://youtu.be/0Pu18rn3PFM](https://youtu.be/0Pu18rn3PFM)
 
 
 

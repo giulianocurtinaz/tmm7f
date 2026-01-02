@@ -4,7 +4,6 @@ title: "Uma jornada ao passado com olhos no futuro"
 date: 2025-10-17
 categories:
   - "Nossa Cultura"
-coverImage: "/tmm7f/assets/images/isaias3.png"
 ---
 
 **Introdução**
@@ -139,11 +138,11 @@ Dentro da liturgia da Umbanda, foram realizados inúmeros batismos de crianças,
 
 
 
-![](/tmm7f/assets/images/image.jpeg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/image.jpeg?w=1024)
 
 
 
-![](/tmm7f/assets/images/image-1.jpeg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/image-1.jpeg?w=1024)
 
 
 
@@ -183,7 +182,7 @@ Este é um importante material de estudo da nossa vertente e do legado do Caciqu
 
 
 
-![](/tmm7f/assets/images/livreo-magia-das-tres-colunas-na-umbanda.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/livreo-magia-das-tres-colunas-na-umbanda.jpg?w=532)
 
 
 
@@ -201,13 +200,13 @@ Além disso, tanto Astrogildo quando Alenira faziam seus próprios retiros dentr
 
 
 
-Após o desencarne dos seus fundadores, o trabalho espiritual do Centro esteve a cargo da irmÃ Ester Espíndola de Godoy. Em 1998, Jandira Oliveira assumiu a direção dos trabalhos, com o apoio de mais cinco irmãos. Entre novembro de 2004 a maio de 2006, as portas estiveram fechadas, por motivos alheios à vontade dos seus trabalhadores.
+Após o desencarne dos seus fundadores, o trabalho espiritual do Centro esteve a cargo da irmã Ester Espíndola de Godoy. Em 1998, Jandira Oliveira assumiu a direção dos trabalhos, com o apoio de mais cinco irmãos. Entre novembro de 2004 a maio de 2006, as portas estiveram fechadas, por motivos alheios à vontade dos seus trabalhadores.
 
 
 
 
 
-Em 27 de maio de **2006**, em Sessão de Homenagem ao Cacique, Jandira reabriu as portas do Terreiro com o auxílio dos irmãos do Centro de Umbanda Ogum Beira Mar — Fraternidade Ubirajara Peito de Aço, sob a direção da irmÃ Ondina Garcia, coroada Cacique na Lei de Umbanda por Ubirajara. Jandira assumiu a Direção Espiritual dos trabalhos sob a orientação de seus mentores, Cacique Araúna e Preto-Velho Pai Jesuíno. A Casa passou a funcionar duas vezes na semana, sendo um dia destinado ao público, trabalhando com Caboclos, Pretos Velhos, Falange das Crianças, Povo Cigano e com técnicas de Apometria; e outro dia destinado aos médiuns, com desenvolvimento mediúnico e aulas práticas e teóricas sobre Umbanda. O Terreiro encerrou suas atividades por falta de sede própria em **2009**, mas suas sementes cresceram e se espalharam por diferentes locais de todo o Estado, incluindo municípios do Interior, como Carazinho.
+Em 27 de maio de **2006**, em Sessão de Homenagem ao Cacique, Jandira reabriu as portas do Terreiro com o auxílio dos irmãos do Centro de Umbanda Ogum Beira Mar — Fraternidade Ubirajara Peito de Aço, sob a direção da irmã Ondina Garcia, coroada Cacique na Lei de Umbanda por Ubirajara. Jandira assumiu a Direção Espiritual dos trabalhos sob a orientação de seus mentores, Cacique Araúna e Preto-Velho Pai Jesuíno. A Casa passou a funcionar duas vezes na semana, sendo um dia destinado ao público, trabalhando com Caboclos, Pretos Velhos, Falange das Crianças, Povo Cigano e com técnicas de Apometria; e outro dia destinado aos médiuns, com desenvolvimento mediúnico e aulas práticas e teóricas sobre Umbanda. O Terreiro encerrou suas atividades por falta de sede própria em **2009**, mas suas sementes cresceram e se espalharam por diferentes locais de todo o Estado, incluindo municípios do Interior, como Carazinho.
 
 
 
@@ -265,7 +264,7 @@ Todos convergidos para uma mesma direção, um mesmo sentido, um mesmo propósit
 
 
 
-![](/tmm7f/assets/images/isaias.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/isaias.jpg?w=683)
 
 
 
@@ -275,7 +274,7 @@ Irmão Astrogildo de Oliveira visitando o templo do irmão Isaías em São Leopo
 
 
 
-![](/tmm7f/assets/images/1-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/1-1.jpg?w=750)
 
 
 
@@ -285,7 +284,7 @@ Sociedade Beneficente de Caridade São Jorge - Fraternidade Pai Belarmino fundad
 
 
 
-![](/tmm7f/assets/images/4-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/4-1.jpg?w=750)
 
 
 

@@ -29,8 +29,8 @@ Ponto cantado é força! É base, é pilar de sustenção para nosso futuro! Que
 
 
 Baixe gratuitamente o livro original de pontos:
-[Pontos_Cantados DOC](/tmm7f/assets/images/pontoscantados.docx) [Baixar](/tmm7f/assets/images/pontoscantados.docx)
-[Pontos_Cantados PDF](/tmm7f/assets/images/pontoscantados.pdf) [Baixar](/tmm7f/assets/images/pontoscantados.pdf)
+[Pontos_Cantados DOC](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.docx) [Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.docx)
+[Pontos_Cantados PDF](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.pdf) [Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.pdf)
 
 
 Ajude-nos no desenvolvimento desse trabalho, entrando em contato pelo email terreira@maemariaseteflechas.com.br ou pelo Facebook.
@@ -245,7 +245,7 @@ De auxiliar a cada irmão
 
 
 
-Mãe Maria, amanhÃ é um novo dia
+Mãe Maria, amanhã é um novo dia
 Será sempre de alegria e de esplendor
 Nós sabemos que a vida é harmonia
 E por isso viveremos com amor
@@ -884,7 +884,7 @@ Com a espada de Ogum Beira-Mar
 
 Eram duas ventarolas, duas ventarolas
 Que ventavam no mar
-Uma era IansÃ oaieieeu
+Uma era Iansã oaieieeu
 A outra era Iemanjá
 
 
@@ -1062,8 +1062,8 @@ Jandira
 
 Atraca Atraca quem vem na onda é Nanã
 Atraca Atraca quem vem na onda é Nanã
-É NanÃ é Oxum é sereia do mar auê
-É NanÃ é Oxum é mamãe Iemanjá auê
+É Nanã é Oxum é sereia do mar auê
+É Nanã é Oxum é mamãe Iemanjá auê
 
 
 *Na Voz de Sandra e Mercedes (Terreira Ubirajara)*
@@ -2986,7 +2986,7 @@ Seu Ogum, Seu Sete Flechas a Jurema foi buscar
 
 
 
-Chegou UrubatÃ da guia
+Chegou Urubatã da guia
 E veio pra seus filhos salvar
 Arrebenta corrente de ferro e aço
 Estoura cadeia de bronze
@@ -3008,7 +3008,7 @@ O nome da Virgem Maria
 
 
 
-# UbiratÃ (Oi que flecha é essa)
+# Ubiratã (Oi que flecha é essa)
 
 
 
@@ -3045,7 +3045,7 @@ Aqui me tens diante de ti, de joelho a teus pés,
 Rainha da Mata Virgem Jurema, eu sei que és.
 
 
-IrmÃ de Oxalá, Filha de Tupã,
+Irmã de Oxalá, Filha de Tupã,
 Da linha de Oxossi,
 E da legião de Urubatã.
 Jupira, Jandira, Janaina e Iracema.
@@ -3073,7 +3073,7 @@ Onde Jurema é rainha,
 Pois um homem sem amor é um morto que caminha.
 
 
-IrmÃ de Oxalá, Filha de Tupã,
+Irmã de Oxalá, Filha de Tupã,
 Da linha de Oxossi,
 E da legião de Urubatã.
 Jupira, Jandira, Janaina e Iracema.
@@ -4003,12 +4003,12 @@ Xangô kaô meu pai
 
 
 
-# IansÃ estava sentada
+# Iansã estava sentada
 
 
 
 
-IansÃ estava sentada
+Iansã estava sentada
 Esperando o pai Xangô
 Veio **Corisco**, veio Trovão
 Seu filho não se assustou
@@ -4654,11 +4654,11 @@ O Caboclo Girassol
 
 Iansã, orixá da umbanda
 Rainha do nosso congá
-Saravá IansÃ lá na aruanda ê
-Lá na aruanda IansÃ vence demanda
+Saravá Iansã lá na aruanda ê
+Lá na aruanda Iansã vence demanda
 
 
-IansÃ saravou com Xangô
+Iansã saravou com Xangô
 No céu trovão roncou
 E lá na mata um leão bradou
 Saravá Iansã, saravá Xangô
@@ -4679,7 +4679,7 @@ Saravá Iansã, saravá Xangô
 
 
 
-# Cabocla IansÃ (Olha que o céu clareou)
+# Cabocla Iansã (Olha que o céu clareou)
 
 
 
@@ -4696,10 +4696,10 @@ Agora vamos plantar
 
 Do humaitá Ogum brandou
 Senhor Oxossi atinou
-IansÃ vai chegar
+Iansã vai chegar
 
 
-O ogÃ já firmou
+O ogã já firmou
 Atabaque afinou
 Agora vamos cantar
 
@@ -4707,13 +4707,13 @@ Agora vamos cantar
 A eparrei ela é Oyá, ela é Oyá
 A eparrei é Iansã, é Iansã
 A eparrei
-Quando IansÃ vai pra batalha
+Quando Iansã vai pra batalha
 Todos os cavaleiros param
 Só pra ver ela passar
 A eparrei ela é Oyá, ela é Oyá
 A eparrei é Iansã, é Iansã
 A eparrei
-Quando IansÃ vai pra batalha
+Quando Iansã vai pra batalha
 Todos os cavaleiros param
 Só para ver ela passar
 
@@ -4727,12 +4727,12 @@ Só para ver ela passar
 
 
 
-# IansÃ é uma moça bonita
+# Iansã é uma moça bonita
 
 
 
 
-IansÃ é uma moça bonita
+Iansã é uma moça bonita
 Ela é dona do seu jacutá
 Eparrei, eparrei, eparrei
 O mamãe de aruanda
@@ -4742,7 +4742,7 @@ Firma seu ponto que eu quero ver
 
 
 
-# Saravá IansÃ dos cabelos loiros
+# Saravá Iansã dos cabelos loiros
 
 
 
@@ -4790,12 +4790,12 @@ Porque a **bonanza** chegou
 
 
 
-# IansÃ ela é santa bárbara
+# Iansã ela é santa bárbara
 
 
 
 
-IansÃ ela é santa bárbara
+Iansã ela é santa bárbara
 Ela é dona do seu **jacutá**
 Auê, auê, auê
 Segura o terreiro mamãe de aruanda
@@ -4890,7 +4890,7 @@ Eu vi os soldados de Ogum
 Trabalhando na pedreira de Xangô, kaô
 tirando as pedras do caminho
 Por onde Oxalá passou
-Salve iansÃ lá na pedreira
+Salve iansã lá na pedreira
 Mãe Oxum na cachoeira
 E nossa mãe Yemanjá
 Salve são Jorge guerreiro
@@ -7771,7 +7771,7 @@ Pra não lembrar do tempo do cativeiro
 
 Eu vi no céu uma estrela correndo
 E na pedreira eu vi pedra rolar
-Eu vi IansÃ sentada lá na areia
+Eu vi Iansã sentada lá na areia
 E uma sereia começou a cantar no mar
 E no seu canto ela assim dizia
 Que só queria ter asas pra voar
@@ -8832,7 +8832,7 @@ Quando chega no terreiro
 
 
 
-Mãe Maria, amanhÃ é um novo dia
+Mãe Maria, amanhã é um novo dia
 Será sempre de alegria e de explendor
 Nós sabemos que a vida é harmonia
 E por isso viveremos com amor
@@ -10134,7 +10134,7 @@ Coloquei uma estrela
 junto à estrela da manhã,
 pedi a Obatalá,
 e assim determinou Olorum,
-e Iansã, IansÃ obedeceu.
+e Iansã, Iansã obedeceu.
 Em Obatalá, linda estrela apareceu,
 anunciando que o Grande Orixá cresceu.
 Filhos de Ogum, oh filhos de Ogum,
@@ -10202,7 +10202,7 @@ Coloquei uma estrela
 junto à estrela da manhã,
 pedi a Obatalá,
 e assim determinou Olorum,
-e Iansã, IansÃ obedeceu.
+e Iansã, Iansã obedeceu.
 Em Obatalá, linda estrela apareceu,
 anunciando que o Grande Orixá cresceu.
 Filhos de Ogum, oh filhos de Ogum,
@@ -10455,7 +10455,7 @@ Na inocência de Cosme e Damião
 
 Não tenho medo
 Vou ter medo de que?
-Tenho ao meu lado NanÃ Buruque
+Tenho ao meu lado Nanã Buruque
 E essa luz que vem de Oxalá
 Tenho certeza vai me iluminar
 
@@ -10468,7 +10468,7 @@ E essa luz que vem de Oxalá
 Tenho certeza, vai me iluminar!
 
 
-*Na voz de Martinha ( MÃ Maria )*
+*Na voz de Martinha ( Mã Maria )*
 
 
 

@@ -2,10 +2,9 @@
 layout: page
 title: "A nossa cultura"
 date: 2025-10-17
-coverImage: "/tmm7f/assets/images/ubirajara.png"
 ---
 
-![](/tmm7f/assets/images/ubirajara.png)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/ubirajara.png?w=750)
 
 
 

@@ -8,7 +8,7 @@ date: 2023-10-01
 
 
 
-![](/tmm7f/assets/images/20230930123906.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/10/20230930_123906.jpg?w=768)
 
 
 

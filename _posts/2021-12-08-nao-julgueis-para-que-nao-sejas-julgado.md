@@ -4,7 +4,7 @@ title: "Não julgueis para que não sejas julgado"
 date: 2021-12-08
 ---
 
-[![](/tmm7f/assets/images/nao-julgueis.jpg)](https://youtu.be/XIHNjbffdnw)[https://youtu.be/XIHNjbffdnw](https://youtu.be/XIHNjbffdnw)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/nao-julgueis.jpg?w=1024)](https://youtu.be/XIHNjbffdnw)[https://youtu.be/XIHNjbffdnw](https://youtu.be/XIHNjbffdnw)
 
 
 

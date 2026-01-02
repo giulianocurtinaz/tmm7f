@@ -2,18 +2,17 @@
 layout: post
 title: "Batizado de Médium no Terreiro!"
 date: 2025-11-30
-coverImage: "/tmm7f/assets/images/000.jpg"
 ---
 
 No dia 30 de novembro de 2025, batizou-se Médium de Umbanda na Terreira de Mãe Maria Fraternidade Sete Flechas nossa amiga Carol, tendo como padrinhos espirituais o Caboclo Sete Flechas e a Cabocla das Sete Ondas e padrinhos materiais os médiuns Rodrigo e  Táscilla !
 
 
 
-![](/tmm7f/assets/images/sete-flechas-e-sete-ondas.png)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/sete-flechas-e-sete-ondas.png?w=750)
 
 
 
-![](/tmm7f/assets/images/000.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/000.jpg?w=750)
 
 
 
@@ -47,24 +46,24 @@ Ao ingressar para a Umbanda, o Médium realiza um juramento à Deus! Compartilha
 
 
 
-![](/tmm7f/assets/images/00.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/00.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/0.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/0.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/3.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/3.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/4.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/4.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/5.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/5.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/11/1.jpg?w=750)

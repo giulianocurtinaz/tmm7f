@@ -2,7 +2,6 @@
 layout: post
 title: "Quando ouvimos o chamado"
 date: 2025-07-24
-coverImage: "/tmm7f/assets/images/batismo.jpg"
 ---
 
 O chamado mediúnico e para a vida religiosa ocorre de forma muito individual; cada um recebe e atende esse chamado com mais ou menos ênfase, permitindo-se mergulhar em si mesmo com maior ou menor lucidez. O acendimento da chama Crística, que reside latente em cada um, é como uma lamparina que não pode ser escondida embaixo da mesa. É luz que precisa se propagar e crescer! É amor que precisa ser doado e multiplicado! É nesse ínterim, e com muita alegria no coração, que compartilho com vocês o relato honesto de meu grande amigo Douglas, que acaba de "ouvir o chamado" em sua vida e, decidindo praticar a caridade na Umbanda, relata, num artigo emocionante e envolvente, como a espiritualidade entrou em sua vida e como decidiu abraçar essa nova experiência.
@@ -508,7 +507,7 @@ Prontamente, fui pesquisar sobre o que se tratava, como última tarefa antes de 
 
 
 
-Mas o que realmente importa é que a tradição cristÃ sugere que Natanael, como Bartolomeu, teve um papel ativo na propagação do Evangelho após a ascensão de Jesus. Era tudo que eu precisava para ir, no domingo seguinte, ao terreiro, para ter certeza de que não era fruto de alucinação.
+Mas o que realmente importa é que a tradição cristã sugere que Natanael, como Bartolomeu, teve um papel ativo na propagação do Evangelho após a ascensão de Jesus. Era tudo que eu precisava para ir, no domingo seguinte, ao terreiro, para ter certeza de que não era fruto de alucinação.
 
 
 

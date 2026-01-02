@@ -2,10 +2,9 @@
 layout: post
 title: "A importância da Amizade"
 date: 2021-07-23
-coverImage: "/tmm7f/assets/images/screenshot20210723-191412youtube300057623317569770.jpg"
 ---
 
-[![](/tmm7f/assets/images/screenshot20210723-191412youtube300057623317569770.jpg)](https://youtu.be/eMk433dLcxQ)[https://youtu.be/eMk433dLcxQ](https://youtu.be/eMk433dLcxQ)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/07/screenshot_20210723-191412_youtube300057623317569770.jpg?w=1024)](https://youtu.be/eMk433dLcxQ)[https://youtu.be/eMk433dLcxQ](https://youtu.be/eMk433dLcxQ)
 
 
 

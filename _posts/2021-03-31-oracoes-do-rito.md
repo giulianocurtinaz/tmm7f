@@ -4,7 +4,7 @@ title: "Orações do Rito"
 date: 2021-03-31
 ---
 
-![](/tmm7f/assets/images/20210204183448-e1612488120179.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/20210204_183448-e1612488120179.jpg?w=750)
 
 
 

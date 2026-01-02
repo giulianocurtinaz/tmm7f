@@ -2,10 +2,9 @@
 layout: post
 title: "114 Anos deUmbanda"
 date: 2022-11-13
-coverImage: "/tmm7f/assets/images/capalivro.jpg"
 ---
 
-No dia 15 de Novembro de 2022 nossa amada Umbanda completará 114 anos ! Convido os amigos a conhecerem os detalhes da fundação da nossa religião através da leitura da Obra **[Origens da Umbanda](/tmm7f/assets/images/as-origens-da-umbanda-i.pdf)** do autor Padrinho Juruá.
+No dia 15 de Novembro de 2022 nossa amada Umbanda completará 114 anos ! Convido os amigos a conhecerem os detalhes da fundação da nossa religião através da leitura da Obra **[Origens da Umbanda](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf?force_download=true)** do autor Padrinho Juruá.
 
 
 
@@ -77,7 +76,7 @@ Durante o desenrolar da entrevista, entre muitas outras perguntas, o vidente ter
 
 
 
-Ao final, o vidente fez a seguinte pergunta: pensa o irmão que alguém irá assistir o seu culto? Ao que o Caboclo respondeu: *“Cada colina de Niterói atuará como porta-voz anunciando o culto que amanhÃ iniciarei”.*
+Ao final, o vidente fez a seguinte pergunta: pensa o irmão que alguém irá assistir o seu culto? Ao que o Caboclo respondeu: *“Cada colina de Niterói atuará como porta-voz anunciando o culto que amanhã iniciarei”.*
 
 
 
@@ -143,4 +142,4 @@ Mais livros gratuitos do Padrinho Juruá (Templo Estrela Azul): [https://teazul
 
 
 
-[https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf?force_download=true](/tmm7f/assets/images/as-origens-da-umbanda-i.pdf)
+[https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf?force_download=true](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf?force_download=true)

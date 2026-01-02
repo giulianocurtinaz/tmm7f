@@ -2,10 +2,9 @@
 layout: post
 title: "Preparação da próxima turma de Caciques!"
 date: 2025-06-15
-coverImage: "/tmm7f/assets/images/1.jpg"
 ---
 
-Foi com forte vibração de caboclos que hoje nossa querida Cambona Kátia realizou a abertura dos trabalhos espirituais na manhÃ desse domingo! Juntamente com nossa médium Táscilla, as médiuns se preparam para sua coroação de Sacerdotisas de Umbanda (Caciques) em novembro próximo. 
+Foi com forte vibração de caboclos que hoje nossa querida Cambona Kátia realizou a abertura dos trabalhos espirituais na manhã desse domingo! Juntamente com nossa médium Táscilla, as médiuns se preparam para sua coroação de Sacerdotisas de Umbanda (Caciques) em novembro próximo. 
 
 
 
@@ -21,32 +20,32 @@ Kátia, Táscilla, Jovani e demais membros da turma de Caciques 2025 da Terreira
 
 
 
-![](/tmm7f/assets/images/0.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/0.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/3.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/3.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/4.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/4.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/5.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/5.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/7.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/7.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/8.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/8.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/9.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/9.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/99.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/99.jpg?w=750)

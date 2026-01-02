@@ -2,16 +2,15 @@
 layout: post
 title: "Jesus, eu confio em ti!"
 date: 2021-01-06
-coverImage: "/tmm7f/assets/images/merciful-jesus-300dpi.jpg"
 ---
 
-![](/tmm7f/assets/images/merciful-jesus-pq.jpg)Jesus Misericordioso
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/merciful-jesus-pq.jpg?w=526)Jesus Misericordioso
 
 
 
 
 
-Recentemente ao conhecer a história da irmÃ Faustina através do filme  **Amor e Misericórdia: Faustina**, fiquei realmente tocado pela imagem de nosso mestre Jesus, seu significado e sua mensagem. O que mais me tocou foi que o próprio Oxalá apareceu para essa irmÃ e ordenou que realizasse a pintura para que todos no planeta pudessem ter acesso à ela. 
+Recentemente ao conhecer a história da irmã Faustina através do filme  **Amor e Misericórdia: Faustina**, fiquei realmente tocado pela imagem de nosso mestre Jesus, seu significado e sua mensagem. O que mais me tocou foi que o próprio Oxalá apareceu para essa irmã e ordenou que realizasse a pintura para que todos no planeta pudessem ter acesso à ela. 
 
 
 
@@ -163,7 +162,7 @@ A imagem pintada em 1931 pode ser baixada em [http://www.merciful-jesus.com](htt
 
 
 
-Jesus Misericordioso 300 Dpi para impressão[Baixar](/tmm7f/assets/images/merciful-jesus-300dpi.jpg)
+Jesus Misericordioso 300 Dpi para impressão[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/merciful-jesus-300dpi.jpg)
 
 
 

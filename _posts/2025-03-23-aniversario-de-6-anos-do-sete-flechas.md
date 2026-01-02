@@ -2,7 +2,6 @@
 layout: post
 title: "Aniversário de 6 anos do Sete Flechas"
 date: 2025-03-23
-coverImage: "/tmm7f/assets/images/img-20250323-wa0108.jpg"
 ---
 
 Hoje rodeado de amigos desse e do outro plano, comemoramos o sexto aniversário de nossa casa.
@@ -38,24 +37,24 @@ Parabéns Sete Flechas!
 
 
 
-![](/tmm7f/assets/images/img-20250323-wa01081325672061473002111.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/03/img-20250323-wa01081325672061473002111.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/img-20250323-wa01198316515665745237838.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/03/img-20250323-wa01198316515665745237838.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/img-20250323-wa01204529185749204480582.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/03/img-20250323-wa01204529185749204480582.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/img-20250323-wa01095289091831121160427.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/03/img-20250323-wa01095289091831121160427.jpg?w=856)
 
 
 
-![](/tmm7f/assets/images/img-20250323-wa01215804508624824216948.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/03/img-20250323-wa01215804508624824216948.jpg?w=1024)
 
 
 
-![](/tmm7f/assets/images/img-20250323-wa01109143968870588394664.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/03/img-20250323-wa01109143968870588394664.jpg?w=1024)

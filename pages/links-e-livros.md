@@ -14,11 +14,11 @@ Não poderíamos de listar logo de início o singelo e grandioso livro de nossa 
 
 
 
-![](/tmm7f/assets/images/captura-de-tela-2021-02-13-as-154121.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/captura-de-tela-2021-02-13-as-15.41.21.png?w=556)
 
 
 
-[Guia Rápido Umbandista](/tmm7f/assets/images/guia-rapido-umbandista.pdf)[Baixar](/tmm7f/assets/images/guia-rapido-umbandista.pdf)
+[Guia Rápido Umbandista](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/guia-rapido-umbandista.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/guia-rapido-umbandista.pdf)
 
 
 
@@ -29,7 +29,7 @@ Se preferir compre a versão impressa na livraria online:
 
 
 
-[![](/tmm7f/assets/images/perfilagbook.jpg)](https://agbook.com.br/book/350229--Guia_Rapido_Umbandista)
+[![](https://clbarrosescritora.files.wordpress.com/2017/01/perfilagbook.jpg)](https://agbook.com.br/book/350229--Guia_Rapido_Umbandista)
 
 
 
@@ -43,7 +43,7 @@ ABC de Umbanda - Leopoldo Bettiol
 
 
 
-[A B C de Umbanda - Leopoldo Bettiol](/tmm7f/assets/images/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)[Baixar](/tmm7f/assets/images/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)
+[A B C de Umbanda - Leopoldo Bettiol](https://maemariaseteflechas.com.br/wp-content/uploads/2024/08/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2024/08/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)
 
 
 
@@ -57,7 +57,7 @@ O primeiro escritor umbandista:
 
 
 
-[Espiritismo, a Magia e as Sete Linhas de Umbanda](/tmm7f/assets/images/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)[Baixar](/tmm7f/assets/images/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)
+[Espiritismo, a Magia e as Sete Linhas de Umbanda](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)
 
 
 
@@ -77,11 +77,11 @@ Site sensacional trazendo maravilhosas obras de cunho histórico sobre a fundaç
 
 
 
-[AS ORIGENS DA UMBANDA I](/tmm7f/assets/images/as-origens-da-umbanda-i.pdf)[Baixar](/tmm7f/assets/images/as-origens-da-umbanda-i.pdf)
+[AS ORIGENS DA UMBANDA I](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf)
 
 
 
-[AS ORIGENS DA UMBANDA II](/tmm7f/assets/images/as-origens-da-umbanda-ii.pdf)[Baixar](/tmm7f/assets/images/as-origens-da-umbanda-ii.pdf)
+[AS ORIGENS DA UMBANDA II](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-ii.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-ii.pdf)
 
 
 

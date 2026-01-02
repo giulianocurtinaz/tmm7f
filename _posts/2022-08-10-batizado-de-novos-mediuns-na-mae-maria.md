@@ -2,7 +2,6 @@
 layout: post
 title: "Batizado de novos Médiuns na Mãe Maria"
 date: 2022-08-10
-coverImage: "/tmm7f/assets/images/20220810221453.jpg"
 ---
 
 Com muita alegria hoje ganhei duas novas afilhadas, Roberta e Simone!
@@ -28,4 +27,4 @@ Que a Mãe Maria guie seus passos da mesma maneira que Ela me guiou!!!!
 
 
 
-![](/tmm7f/assets/images/202208102214537995566308025043492.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/08/20220810_2214537995566308025043492.jpg)

@@ -2,7 +2,6 @@
 layout: post
 title: "Festa de Cosme na Mãe Maria 2025"
 date: 2025-09-25
-coverImage: "/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-192108fd07f632.jpg"
 ---
 
 Preparado com muito carinho e amor pelos médiuns da Mãe Maria com o colaboração ativa dos médiuns do Sete Flechas e também da Terreira do  Pai João, a festa de Cosme e Damião de 2025 foi realmente uma das festas mais bonitas já realizadas!
@@ -21,68 +20,68 @@ No próximo domingo dia 28/09 faremos uma sessão às 09hs em homenagem a Cosme 
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-192108fd07f632.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/imagem-do-whatsapp-de-2025-09-25-as-19.21.08_fd07f632.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-1921090e3d13b6.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/imagem-do-whatsapp-de-2025-09-25-as-19.21.09_0e3d13b6.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-192108fe2274b5.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/imagem-do-whatsapp-de-2025-09-25-as-19.21.08_fe2274b5.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-24-as-1239486dfa5a67.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/imagem-do-whatsapp-de-2025-09-24-as-12.39.48_6dfa5a67.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250924195320.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250924_195320.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250924195258.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250924_195258.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250924193057.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250924_193057.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250924193014.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250924_193014.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922214723.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_214723.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922214652.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_214652.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922214605.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_214605.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922214428.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_214428.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922214551.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_214551.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922214553.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_214553.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922213912.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_213912.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922213855.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_213855.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/20250922202507.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/09/20250922_202507.jpg?w=750)

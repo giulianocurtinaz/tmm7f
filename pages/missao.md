@@ -52,7 +52,7 @@ Pois bem, mesmo "contrariando" a "tradição recebida", por intuição do astral
 
 
 
-Nossas ações foram tomadas tão somente pelo sentimento de divulgar a doutrina espírita cristÃ agregando o Evangelho à prática da caridade através do trabalho da Umbanda!
+Nossas ações foram tomadas tão somente pelo sentimento de divulgar a doutrina espírita cristã agregando o Evangelho à prática da caridade através do trabalho da Umbanda!
 
 
 

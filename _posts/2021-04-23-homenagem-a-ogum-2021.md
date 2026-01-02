@@ -2,10 +2,9 @@
 layout: post
 title: "Homenagem a Ogum 2021!"
 date: 2021-04-23
-coverImage: "/tmm7f/assets/images/captura-de-tela-2021-04-23-acc80s-145038.png"
 ---
 
-[![](/tmm7f/assets/images/captura-de-tela-2021-04-23-acc80s-145038.png)](https://youtu.be/7HCUJdG_K9k)[https://youtu.be/7HCUJdG_K9k](https://youtu.be/7HCUJdG_K9k)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/04/captura-de-tela-2021-04-23-acc80s-14.50.38.png?w=1024)](https://youtu.be/7HCUJdG_K9k)[https://youtu.be/7HCUJdG_K9k](https://youtu.be/7HCUJdG_K9k)
 
 
 

@@ -2,10 +2,9 @@
 layout: post
 title: "O uso do Evangelho na Umbanda"
 date: 2023-07-12
-coverImage: "/tmm7f/assets/images/img-20190324-wa0000-e1580991860105.jpg"
 ---
 
-![](/tmm7f/assets/images/oevangelho.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/07/oevangelho.jpg?w=363)
 
 
 

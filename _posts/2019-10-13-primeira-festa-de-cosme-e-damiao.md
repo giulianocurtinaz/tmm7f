@@ -2,10 +2,9 @@
 layout: post
 title: "Primeira festa de Cosme e Damião!"
 date: 2019-10-13
-coverImage: "/tmm7f/assets/images/20191012125552.jpg"
 ---
 
-![](/tmm7f/assets/images/20191012125558.jpg)![](/tmm7f/assets/images/20191012125552.jpg)![](/tmm7f/assets/images/20191012125536.jpg)![](/tmm7f/assets/images/20191012125522.jpg)![](/tmm7f/assets/images/20191012125512.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/20191012_125558.jpg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/20191012_125552.jpg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/20191012_125536.jpg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/20191012_125522.jpg?w=1024)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/20191012_125512.jpg?w=1024)
 
 
 

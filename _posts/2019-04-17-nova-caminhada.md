@@ -2,10 +2,9 @@
 layout: post
 title: "Nova caminhada"
 date: 2019-04-17
-coverImage: "/tmm7f/assets/images/c84f0cc0b2.png"
 ---
 
-![](/tmm7f/assets/images/c84f0cc0b2.png)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/c84f0cc0b2.png?w=364)
 
 
 

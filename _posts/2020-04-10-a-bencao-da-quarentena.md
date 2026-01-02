@@ -2,7 +2,6 @@
 layout: post
 title: "Sexta-Feira Santa e A benção da quarentena. Live 10/4."
 date: 2020-04-10
-coverImage: "/tmm7f/assets/images/transmissaoaovivo.jpg"
 ---
 
 Desde que esse novo vírus entrou em nossas vidas e nos vimos obrigados a nos recolhermos dentro de casa, temos assistido muitos programas espíritas, especialmente os vídeos da [Mansão do Caminho](https://www.youtube.com/channel/UCwrG3IHZaEaFCHY1lXnPS9g) de nosso ilustre Divaldo Pereira Franco no Youtube, bem como vídeos do [Haroldo Dutra Dias](https://www.youtube.com/channel/UC7263Wu5ruI38CyGi8TpfTA).
@@ -87,7 +86,7 @@ Segue também roteiro impresso para melhor acompanhamento do vídeo:
 
 
 
-[doc-roteiro-sexta-feita-santa](/tmm7f/assets/images/doc-roteiro-sexta-feita-santa.docx)[Baixar](/tmm7f/assets/images/doc-roteiro-sexta-feita-santa.docx)
+[doc-roteiro-sexta-feita-santa](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/doc-roteiro-sexta-feita-santa.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/doc-roteiro-sexta-feita-santa.docx)
 
 
 
@@ -97,4 +96,4 @@ https://youtu.be/Pc0C5neMwD4
 
 
 
-![](/tmm7f/assets/images/capa.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/capa.jpg?w=1024)

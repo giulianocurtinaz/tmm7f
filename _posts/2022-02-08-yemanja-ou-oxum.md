@@ -4,7 +4,7 @@ title: "Yemanjá ou Oxum"
 date: 2022-02-08
 ---
 
-![](/tmm7f/assets/images/20211208112608.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/20211208_112608.jpg?w=750)
 
 
 

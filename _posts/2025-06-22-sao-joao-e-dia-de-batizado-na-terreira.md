@@ -2,7 +2,6 @@
 layout: post
 title: "São João é dia de Batizado na Terreira!"
 date: 2025-06-22
-coverImage: "/tmm7f/assets/images/00.jpg"
 ---
 
 Já havíamos recebido o recado do Astral de que nosso corpo mediúnico sofreria uma grande renovação, mas não imaginávamos quão rápido e forte seria essa transformação!
@@ -33,52 +32,52 @@ Sigamos juntos! Guias Astrais e Médiuns! Juntos com o Cristo ! Juntos pelo Evan
 
 
 
-![](/tmm7f/assets/images/1-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/1-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/2-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/2-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/3-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/3-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/4-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/4-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/5-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/5-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/6.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/6.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/7-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/7-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/9-1.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/9-1.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/10.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/10.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/11.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/11.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/12.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/12.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/13.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/13.jpg?w=750)
 
 
 
-![](/tmm7f/assets/images/15.jpg)
+![](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/06/15.jpg?w=750)

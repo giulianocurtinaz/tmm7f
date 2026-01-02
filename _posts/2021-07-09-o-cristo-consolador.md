@@ -2,10 +2,9 @@
 layout: post
 title: "O Cristo Consolador"
 date: 2021-07-09
-coverImage: "/tmm7f/assets/images/amor-e-caridade3.jpeg"
 ---
 
-[![](/tmm7f/assets/images/amor2.png)](https://youtu.be/HyiUHC_hJx0)[https://youtu.be/HyiUHC_hJx0](https://youtu.be/HyiUHC_hJx0)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/07/amor2.png?w=1002)](https://youtu.be/HyiUHC_hJx0)[https://youtu.be/HyiUHC_hJx0](https://youtu.be/HyiUHC_hJx0)
 
 
 

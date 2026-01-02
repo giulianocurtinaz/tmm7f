@@ -2,22 +2,21 @@
 layout: post
 title: "Semente do Evangelho encontra "solo fértil" em mais um Terreiro"
 date: 2019-04-04
-coverImage: "/tmm7f/assets/images/20190929204214.jpg"
 ---
 
-![](/tmm7f/assets/images/20190929204214.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/20190929_204214.jpg?w=750)
 
 
 
 
 
-Em 04 de Abril de 2019, atendendo um "convite" do cabloco sete flechas, nossa irmÃ Sueli, implanta o Evangelho na sua terreira de Umbanda Ogum da Mata Virgem e Inhasã.
+Em 04 de Abril de 2019, atendendo um "convite" do cabloco sete flechas, nossa irmã Sueli, implanta o Evangelho na sua terreira de Umbanda Ogum da Mata Virgem e Inhasã.
 
 
 
 
 
-Na sessão realizada em sede própria as 20hs da noite, a irmÃ Sueli ressaltou a importância da "evolução" da Umbanda.
+Na sessão realizada em sede própria as 20hs da noite, a irmã Sueli ressaltou a importância da "evolução" da Umbanda.
 
 
 

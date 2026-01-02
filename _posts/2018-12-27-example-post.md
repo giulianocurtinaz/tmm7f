@@ -2,10 +2,9 @@
 layout: post
 title: "Abrindo uma porta de Luz!"
 date: 2018-12-27
-coverImage: "/tmm7f/assets/images/img2206.jpg"
 ---
 
-![](/tmm7f/assets/images/img2206.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2206.jpg)
 
 
 
@@ -41,13 +40,13 @@ No dia 02/01/19, comecei a convidar os amigos para essa tarefa e fiquei surpreso
 
 
 
-Minha maior surpresa foi o aceite da nossa saudosa irmÃ Terezinha, na época, diretora do centro espírita (Kardecista) Dr. Ramae que após 20 anos de labuta no espiritismo aceitou nosso convite para voltar para a Umbanda, pois nascia nesse momento uma casa fundamentada no Evangelho do Cristo e precisávamos de alguém experiente para nos auxiliar a reerguer esta bandeira dentro da Umbanda! A ideia de trabalharmos aos domingos de manhÃ veio ao encontro do desejo dela para a prática da Evangelização!
+Minha maior surpresa foi o aceite da nossa saudosa irmã Terezinha, na época, diretora do centro espírita (Kardecista) Dr. Ramae que após 20 anos de labuta no espiritismo aceitou nosso convite para voltar para a Umbanda, pois nascia nesse momento uma casa fundamentada no Evangelho do Cristo e precisávamos de alguém experiente para nos auxiliar a reerguer esta bandeira dentro da Umbanda! A ideia de trabalharmos aos domingos de manhã veio ao encontro do desejo dela para a prática da Evangelização!
 
 
 
 
 
-Em menos de 3 meses após a decisão de enfrentarmos este desafio, no dia  24/03/2018 inauguramos essa linda terreira de Umbanda, num belo domingo de manhÃ às 09hs para realizar nossa primeira sessão pública!
+Em menos de 3 meses após a decisão de enfrentarmos este desafio, no dia  24/03/2018 inauguramos essa linda terreira de Umbanda, num belo domingo de manhã às 09hs para realizar nossa primeira sessão pública!
 
 
 
@@ -82,4 +81,4 @@ Agradeco por fim aos meus Mestres e Antepassados, aos que oram e olham agora por
 
 
 
-![](/tmm7f/assets/images/img2072.jpg)![](/tmm7f/assets/images/img2221.jpg)![](/tmm7f/assets/images/img2114.jpg)![](/tmm7f/assets/images/img2109.jpg)![](/tmm7f/assets/images/img2203.jpg)![](/tmm7f/assets/images/img2224.jpg)![](/tmm7f/assets/images/img2116.jpg)![](/tmm7f/assets/images/img2226.jpg)![](/tmm7f/assets/images/img2247.jpg)![](/tmm7f/assets/images/img2258.jpg)![](/tmm7f/assets/images/img2282.jpg)![](/tmm7f/assets/images/img2062.jpg)![](/tmm7f/assets/images/img2312.jpg)![](/tmm7f/assets/images/img2412.jpg)![](/tmm7f/assets/images/img2334.jpg)![](/tmm7f/assets/images/img2315.jpg)![](/tmm7f/assets/images/img2381.jpg)![](/tmm7f/assets/images/img2433.jpg)![](/tmm7f/assets/images/obra.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2072.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2221.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2114.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2109.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2203.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2224.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2116.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2226.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2247.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2258.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2282.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2062.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2312.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2412.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2334.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2315.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2381.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img_2433.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/obra.jpg)

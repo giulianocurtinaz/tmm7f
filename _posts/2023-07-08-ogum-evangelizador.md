@@ -2,7 +2,6 @@
 layout: post
 title: "Ogum Evangelizador"
 date: 2023-07-08
-coverImage: "/tmm7f/assets/images/img-20230704-wa0136.jpg"
 ---
 
 Compartilho com os amigos, um texto belíssimo produzido e lido por um de nossos Médiuns quando homenageávamos Ogum durante nossa sessão:

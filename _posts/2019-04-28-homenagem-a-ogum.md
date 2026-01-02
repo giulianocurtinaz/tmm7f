@@ -2,7 +2,6 @@
 layout: post
 title: "Homenagem a Ogum"
 date: 2019-04-28
-coverImage: "/tmm7f/assets/images/oum3.jpg"
 ---
 
 Recebemos a visita do terreiro do Sr Alcimar ( OGUM de Ronda ) acompanhado do médium Marcelo.
@@ -14,4 +13,4 @@ Todos que visitaram o terreiro, ganharam de presente uma vela, acompanhada de um
 
 
 
-![](/tmm7f/assets/images/oum3.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/oum3.jpg?w=768)

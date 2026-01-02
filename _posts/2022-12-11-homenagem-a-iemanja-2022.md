@@ -2,7 +2,6 @@
 layout: post
 title: "Homenagem à Iemanjá 2022"
 date: 2022-12-11
-coverImage: "/tmm7f/assets/images/photo1jpeg.jpeg"
 ---
 
 Hoje foi um dia maravilhoso na companhia de nossos amigos da terreira de Mãe Maria ( Nossa casa de Origem ). Juntos fomos à Tramandaí para realizarmos nossa homenagem à nossa Grande Mãe Iemanjá!
@@ -33,40 +32,40 @@ Parabéns Aline por ter guiado o melhor trabalho de homenagem que já participei
 
 
 
-![](/tmm7f/assets/images/photo1jpeg.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/photo1jpeg.jpeg?w=1024)
 
 
 
-![](/tmm7f/assets/images/photo2.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/photo2.jpeg?w=1024)
 
 
 
-![](/tmm7f/assets/images/photoa.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/photoa.jpeg?w=768)
 
 
 
-![](/tmm7f/assets/images/whatsapp-image-2022-12-11-at-114757.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/whatsapp-image-2022-12-11-at-11.47.57.jpeg?w=768)
 
 
 
-![](/tmm7f/assets/images/photo3.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/photo3.jpeg?w=1024)
 
 
 
-![](/tmm7f/assets/images/whatsapp-image-2022-12-11-at-114730.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/whatsapp-image-2022-12-11-at-11.47.30.jpeg?w=1024)
 
 
 
-![](/tmm7f/assets/images/whatsapp-image-2022-12-11-at-114759.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/whatsapp-image-2022-12-11-at-11.47.59.jpeg?w=768)
 
 
 
-![](/tmm7f/assets/images/whatsapp-image-2022-12-11-at-114755-edited.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/whatsapp-image-2022-12-11-at-11.47.55-edited.jpeg)
 
 
 
-![](/tmm7f/assets/images/1.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/1.jpeg?w=1024)
 
 
 
-![](/tmm7f/assets/images/2.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/2.jpeg?w=1024)

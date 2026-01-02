@@ -8,7 +8,7 @@ date: 2020-05-13
 
 
 
-![](/tmm7f/assets/images/20210204183448-e1612488120179.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/20210204_183448-e1612488120179.jpg?w=750)
 
 
 
@@ -24,7 +24,7 @@ date: 2020-05-13
 
 
 
-[![](/tmm7f/assets/images/ceu.jpg)](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/ceu.jpg?w=512)](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
 
 
 
@@ -41,7 +41,7 @@ date: 2020-05-13
 
 
 
-[![](/tmm7f/assets/images/orixas.jpg)](http://maemariaseteflechas.com.br/aos-orixas/)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/orixas.jpg?w=500)](http://maemariaseteflechas.com.br/aos-orixas/)
 
 
 
@@ -60,7 +60,7 @@ date: 2020-05-13
 
 
 
-[![](/tmm7f/assets/images/preto275.png)](https://maemariaseteflechas.com.br/oracoes-yorima/)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/preto275.png?w=275)](https://maemariaseteflechas.com.br/oracoes-yorima/)
 
 
 
@@ -76,7 +76,7 @@ date: 2020-05-13
 
 
 
-[![](/tmm7f/assets/images/ogum275.png)](https://maemariaseteflechas.com.br/oracoes-ogum/)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/ogum275.png?w=271)](https://maemariaseteflechas.com.br/oracoes-ogum/)
 
 
 
@@ -92,7 +92,7 @@ date: 2020-05-13
 
 
 
-[![](/tmm7f/assets/images/yemanja275.png)](https://maemariaseteflechas.com.br/oracoes-yemanja/)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/yemanja275.png?w=276)](https://maemariaseteflechas.com.br/oracoes-yemanja/)
 
 
 

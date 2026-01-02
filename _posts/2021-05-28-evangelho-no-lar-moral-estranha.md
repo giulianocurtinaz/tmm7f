@@ -2,10 +2,9 @@
 layout: post
 title: "Evangelho no Lar: Moral Estranha"
 date: 2021-05-28
-coverImage: "/tmm7f/assets/images/moral.jpg"
 ---
 
-[![](/tmm7f/assets/images/moral.jpg)](https://youtu.be/Q3nG6lC-4Z4)[https://youtu.be/Q3nG6lC-4Z4](https://youtu.be/Q3nG6lC-4Z4)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/05/moral.jpg?w=1024)](https://youtu.be/Q3nG6lC-4Z4)[https://youtu.be/Q3nG6lC-4Z4](https://youtu.be/Q3nG6lC-4Z4)
 
 
 

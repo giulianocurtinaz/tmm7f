@@ -62,7 +62,7 @@ Abaixo a primeira entrega de 50 cestas básicas do projeto ocorrida em 27 de Abr
 
 
 
-![](/tmm7f/assets/images/primeiraentrega.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/04/primeira_entrega.jpeg?w=1024)
 
 
 
@@ -103,7 +103,7 @@ Rua Bahia, 146, Bairro Niterói - Canoas - RS
 
 
 
-**Centro de Umbanda Ogum e IansÃ - Fraternidade Cabocla Jurema **
+**Centro de Umbanda Ogum e Iansã - Fraternidade Cabocla Jurema **
 Rua Rosa Cruz, 400, Bairro São Vicente  - Canoas - RS
 
 
@@ -162,11 +162,11 @@ Rua José Adair Fernandes, 185 Bairro Jardim Outeiral 94465-850 Viamão, RS
 
 
 
-![](/tmm7f/assets/images/doacao29062021.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/07/doacao29062021.jpeg?w=1006)
 
 
 
-![](/tmm7f/assets/images/20210629175305.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/07/20210629_175305.jpg?w=1024)
 
 
 

@@ -657,7 +657,7 @@ Já cruzou minha guia
 
 
 
-IansÃ estava sentada
+Iansã estava sentada
 Esperando o pai Xangô
 Veio **Corisco**, veio Trovão
 Seu filho não se assustou
@@ -765,7 +765,7 @@ Esse caboclo é nosso guia
 
 
 
-IansÃ é uma moça bonita
+Iansã é uma moça bonita
 Ela é dona do seu jacutá
 Eparrei, eparrei, eparrei
 O mamãe de aruanda

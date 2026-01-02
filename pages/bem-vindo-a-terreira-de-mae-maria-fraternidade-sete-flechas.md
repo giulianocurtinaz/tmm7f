@@ -2,10 +2,9 @@
 layout: page
 title: "Bem-Vindo"
 date: 2020-01-22
-coverImage: "/tmm7f/assets/images/20190830193041-e1615569126631.jpg"
 ---
 
-![](/tmm7f/assets/images/logo-terreira-sete-flechas.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/logo-terreira-sete-flechas.jpg?w=750)
 
 
 
@@ -23,7 +22,7 @@ Nossa Missão nas palavras do Caboclo Sete Flechas:
 
 
 
-![](/tmm7f/assets/images/20190830193002-e1580157019413.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/20190830_193002-e1580157019413.jpg?w=786)
 
 
 

@@ -2,10 +2,9 @@
 layout: post
 title: "A Fé Mãe da Esperança e da Caridade!"
 date: 2021-04-30
-coverImage: "/tmm7f/assets/images/a-fe-mae-da-esperanca-e-da-caridade.png"
 ---
 
-[![](/tmm7f/assets/images/a-fe-mae-da-esperanca-e-da-caridade.png)](https://youtu.be/FtsncIe8FOM)[https://youtu.be/FtsncIe8FOM](https://youtu.be/FtsncIe8FOM)
+[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/04/a-fe-mae-da-esperanca-e-da-caridade.png?w=1024)](https://youtu.be/FtsncIe8FOM)[https://youtu.be/FtsncIe8FOM](https://youtu.be/FtsncIe8FOM)
 
 
 

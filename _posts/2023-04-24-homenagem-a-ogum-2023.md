@@ -2,10 +2,9 @@
 layout: post
 title: "Homenagem a Ogum 2023"
 date: 2023-04-24
-coverImage: "/tmm7f/assets/images/whatsapp-image-2023-04-22-at-192446.jpeg"
 ---
 
-![](/tmm7f/assets/images/whatsapp-image-2023-04-22-at-192446.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/whatsapp-image-2023-04-22-at-19.24.46.jpeg?w=1024)
 
 
 
@@ -33,4 +32,4 @@ Confira as [Orações produzidas](https://maemariaseteflechas.com.br/oracoes-ogu
 
 
 
-![](/tmm7f/assets/images/whatsapp-image-2023-04-23-at-105429.jpeg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/whatsapp-image-2023-04-23-at-10.54.29.jpeg?w=768)
