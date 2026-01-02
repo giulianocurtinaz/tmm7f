@@ -2,6 +2,7 @@
 layout: post
 title: "Sexta-Feira Santa e A benção da quarentena. Live 10/4."
 date: 2020-04-10
+coverImage: "/tmm7f/assets/images/2020-04-transmissaoaovivo.jpg"
 ---
 
 Desde que esse novo vírus entrou em nossas vidas e nos vimos obrigados a nos recolhermos dentro de casa, temos assistido muitos programas espíritas, especialmente os vídeos da [Mansão do Caminho](https://www.youtube.com/channel/UCwrG3IHZaEaFCHY1lXnPS9g) de nosso ilustre Divaldo Pereira Franco no Youtube, bem como vídeos do [Haroldo Dutra Dias](https://www.youtube.com/channel/UC7263Wu5ruI38CyGi8TpfTA).

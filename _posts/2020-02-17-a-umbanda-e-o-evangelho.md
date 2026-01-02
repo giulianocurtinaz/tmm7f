@@ -2,6 +2,7 @@
 layout: post
 title: "A Umbanda e o Evangelho"
 date: 2020-02-17
+coverImage: "/tmm7f/assets/images/2020-02-13805565488008918561841600148733n.jpg"
 ---
 
 Texto originalmente publicado no livro [O que é Umbanda. Página 70](http://www.umbanda.com.br/phocadownload/livros/O%20QUE%20E%20UMBANDA%20-%20I.pdf)

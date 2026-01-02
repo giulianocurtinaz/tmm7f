@@ -2,9 +2,10 @@
 layout: post
 title: "Bandeirante do Evangelho retorna a casa do Pai"
 date: 2019-06-28
+coverImage: "/tmm7f/assets/images/2019-12-img-20190324-wa0000-e1580991860105.jpg"
 ---
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/img-20190324-wa0000-e1580991860105.jpg?w=228)
+![](/tmm7f/assets/images/2019-12-img-20190324-wa0000-e1580991860105.jpg)
 
 
 
