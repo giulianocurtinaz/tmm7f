@@ -3,36 +3,36 @@ title: "Sexta-Feira Santa e A benÃ§Ã£o da quarentena. Live 10/4."
 date: 2020-04-10
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/transmissao_ao_vivo.jpg"
+coverImage: "/tmm7f/assets/images/transmissaoaovivo.jpg"
 ---
 
-Desde que esse novo vÃ­rus entrou em nossas vidas e nos vimos obrigados a nos recolhermos dentro de casa, temos assistido muitos programas espÃ­ritas, especialmente os vÃ­deos da [MansÃ£o do Caminho](https://www.youtube.com/channel/UCwrG3IHZaEaFCHY1lXnPS9g) de nosso ilustre Divaldo Pereira Franco no Youtube, bem como vÃ­deos do [Haroldo Dutra Dias](https://www.youtube.com/channel/UC7263Wu5ruI38CyGi8TpfTA).
+Desde que esse novo vÃƒÂ­rus entrou em nossas vidas e nos vimos obrigados a nos recolhermos dentro de casa, temos assistido muitos programas espÃƒÂ­ritas, especialmente os vÃƒÂ­deos da [MansÃ£o do Caminho](https://www.youtube.com/channel/UCwrG3IHZaEaFCHY1lXnPS9g) de nosso ilustre Divaldo Pereira Franco no Youtube, bem como vÃƒÂ­deos do [Haroldo Dutra Dias](https://www.youtube.com/channel/UC7263Wu5ruI38CyGi8TpfTA).
 
-Em muitos vÃ­deos somos informados por eles que dentro da visÃ£o espÃ­rita, esse terrÃ­vel vÃ­rus, apesar de trazer muitas perdas e dor ao mundo, tambÃ©m estÃ¡ nos trazendo a oportunidade Ãºnica de nos recolhermos dentro de nossos lares e iniciarmos um processo de auto-conhecimento, aprendizado, espiritualizaÃ§Ã£o e valorizaÃ§Ã£o da famÃ­lia!
+Em muitos vÃƒÂ­deos somos informados por eles que dentro da visÃ£o espÃƒÂ­rita, esse terrÃƒÂ­vel vÃƒÂ­rus, apesar de trazer muitas perdas e dor ao mundo, tambÃ©m estÃ¡ nos trazendo a oportunidade Ãºnica de nos recolhermos dentro de nossos lares e iniciarmos um processo de auto-conhecimento, aprendizado, espiritualizaÃ§Ã£o e valorizaÃ§Ã£o da famÃƒÂ­lia!
 
 Nas palavras de Divaldo: "Nosso planeta tÃªm um comandante e nenhuma folha cai sem que Ele permita. O nome desse comandante Ã© Jesus!".
 
-Sem dÃºvida, esse vÃ­rus nÃ£o veio ao mundo sem a permissÃ£o de nosso mestre OxalÃ¡! Uma semana antes de sermos forÃ§ados por lei, jÃ¡ havÃ­amos encerrado nossos atendimentos pÃºblicos por intuiÃ§Ã£o espiritual.
+Sem dÃºvida, esse vÃƒÂ­rus nÃ£o veio ao mundo sem a permissÃ£o de nosso mestre OxalÃ¡! Uma semana antes de sermos forÃ§ados por lei, jÃ¡ havÃƒÂ­amos encerrado nossos atendimentos pÃºblicos por intuiÃ§Ã£o espiritual.
 
 O fato de estarmos "aprisionados" em casa e distantes fisicamente uns dos outros, obrigou-nos a encontrar novos meios de praticarmos nossa espiritualidade e nossa caridade espiritual!
 
-Inicialmente pensamos em fazer um encontro online no qual os mÃ©diuns dessa casa poderiam praticar um pouco da sua fÃ©, junto de seus familiares, em seus prÃ³prios lares, formando uma corrente espiritual em sintonia entre todos os integrantes da casa. Ao experimentarmos essa primeira reuniÃ£o virtual, percebemos fortemente a atuaÃ§Ã£o e a presenÃ§a de nossas entidades, pois como sabemos: para os espÃ­ritos nÃ£o hÃ¡ distancia que nÃ£o possa ser vencida pelo amor e pela fÃ©. Todos os mÃ©diuns relataram sentir suas entidades ao seu lado e abenÃ§oando seus lares apesar de estarmos fisicamente distantes, estÃ¡vamos de fato unidos pelo coraÃ§Ã£o e em espÃ­rito! Nossos guias nÃ£o falharam e mostraram-se ao lado de cada um ao longo de nossas oraÃ§Ãµes.
+Inicialmente pensamos em fazer um encontro online no qual os mÃ©diuns dessa casa poderiam praticar um pouco da sua fÃ©, junto de seus familiares, em seus prÃ³prios lares, formando uma corrente espiritual em sintonia entre todos os integrantes da casa. Ao experimentarmos essa primeira reuniÃ£o virtual, percebemos fortemente a atuaÃ§Ã£o e a presenÃ§a de nossas entidades, pois como sabemos: para os espÃƒÂ­ritos nÃ£o hÃ¡ distancia que nÃ£o possa ser vencida pelo amor e pela fÃ©. Todos os mÃ©diuns relataram sentir suas entidades ao seu lado e abenÃ§oando seus lares apesar de estarmos fisicamente distantes, estÃ¡vamos de fato unidos pelo coraÃ§Ã£o e em espÃƒÂ­rito! Nossos guias nÃ£o falharam e mostraram-se ao lado de cada um ao longo de nossas oraÃ§Ãµes.
 
-Uma semana depois resolvemos entÃ£o ampliar um pouco nossa corrente e convidamos os amigos mais chegados para assistir ao vivo nossa transmissÃ£o da Sexta-feira Santa. Nessa transmissÃ£o pretendÃ­amos atingir nÃ£o sÃ³ os mÃ©diuns da casa mas tambÃ©m amigos mais chegados que praticam o espiritismo e que conheceram nossa querida preta-velha VovÃ³ Faustina que realizava maravilhosas benzeduras nessa data tÃ£o especial.
+Uma semana depois resolvemos entÃ£o ampliar um pouco nossa corrente e convidamos os amigos mais chegados para assistir ao vivo nossa transmissÃ£o da Sexta-feira Santa. Nessa transmissÃ£o pretendÃƒÂ­amos atingir nÃ£o sÃ³ os mÃ©diuns da casa mas tambÃ©m amigos mais chegados que praticam o espiritismo e que conheceram nossa querida preta-velha VovÃ³ Faustina que realizava maravilhosas benzeduras nessa data tÃ£o especial.
 
 O evento online acabou reunindo mais pessoas que imaginÃ¡vamos e o resultado ficou tÃ£o bom, que resolvemos compartilhar publicamente nossa humilde oraÃ§Ã£o de PÃ¡scoa a fim de que mais pessoas no mundo possam evocar seus protetores, orar e obter dos cÃ©us os mesmos raios de Luz que nos foram presenteados nesse dia!
 
 Como nossa missÃ£o primordial nas palavras do caboclo Sete Flechas Ã© ensinar as pessoas a orar, o momento por qual passamos Ã© uma oportunidade Ãºnica de divulgarmos nossa querida Umbanda, e muito mais que isso: Ensinar as pessoas a orar!
 
-Por essa razÃ£o, hoje, nos vemos motivados a abrir um canal no YouTube divulgando nosso primeiro vÃ­deo: A Benzedura especial da Sexta-feira Santa!
+Por essa razÃ£o, hoje, nos vemos motivados a abrir um canal no YouTube divulgando nosso primeiro vÃƒÂ­deo: A Benzedura especial da Sexta-feira Santa!
 
-Esperamos continuar a produzir vÃ­deos, se assim, nossos guias nos conduzirem nas prÃ³ximas semanas e meses... Enfim... Enquanto eles estiverem nos intuindo a realizar esse trabalho. Pois na parte de cÃ¡, devemos apenas oferecer nossas mÃ£os ao trabalho espiritual, cabendo a eles nos guiarem pelos caminhos mais adequados conforme a vontade de nosso pai celestial.
+Esperamos continuar a produzir vÃƒÂ­deos, se assim, nossos guias nos conduzirem nas prÃ³ximas semanas e meses... Enfim... Enquanto eles estiverem nos intuindo a realizar esse trabalho. Pois na parte de cÃ¡, devemos apenas oferecer nossas mÃ£os ao trabalho espiritual, cabendo a eles nos guiarem pelos caminhos mais adequados conforme a vontade de nosso pai celestial.
 
 Que Jesus abenÃ§oe a todos nessa nova caminhada!
 
-Segue link do nosso primeiro vÃ­deo no [YouTube](https://youtu.be/Pc0C5neMwD4).
+Segue link do nosso primeiro vÃƒÂ­deo no [YouTube](https://youtu.be/Pc0C5neMwD4).
 
-Segue tambÃ©m roteiro impresso para melhor acompanhamento do vÃ­deo:
+Segue tambÃ©m roteiro impresso para melhor acompanhamento do vÃƒÂ­deo:
 
 [doc-roteiro-sexta-feita-santa](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/doc-roteiro-sexta-feita-santa.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/04/doc-roteiro-sexta-feita-santa.docx)
 

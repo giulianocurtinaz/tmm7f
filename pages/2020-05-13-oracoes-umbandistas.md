@@ -3,7 +3,7 @@ title: "OraÃ§Ãµes Umbandistas"
 date: 2020-05-13
 ---
 
-â€œ_Ao procurar por livros contendo oraÃ§Ãµes umbandÃ­sticas me deparei com uma grande carÃªncia literÃ¡ria. Como faz parte da missÃ£o desta casa divulgar o Evangelho do Cristo e â€œensinarâ€ o homem comum a rezar, procuramos incentivar em nossa corrente a prÃ¡tica da oraÃ§Ã£o. Assim sendo, a cada data comemorativa de algum OrixÃ¡, sempre que possÃ­vel, nossos mÃ©diuns produzem oraÃ§Ãµes, pois acreditamos que uma das maiores oferendas que podemos dar aos orixÃ¡s sÃ£o nossos melhores pensamentos e sentimentos. Espero que com o passar do anos, essas pÃ¡ginas se inundem de oraÃ§Ãµes e quem sabe bem no futuro um livro que inspire pessoas a encontrar sua prÃ³pria espiritualidade._â€œ
+Ã¢â‚¬Å“_Ao procurar por livros contendo oraÃ§Ãµes umbandÃƒÂ­sticas me deparei com uma grande carÃªncia literÃ¡ria. Como faz parte da missÃ£o desta casa divulgar o Evangelho do Cristo e Ã¢â‚¬Å“ensinarÃ¢â‚¬Â o homem comum a rezar, procuramos incentivar em nossa corrente a prÃ¡tica da oraÃ§Ã£o. Assim sendo, a cada data comemorativa de algum OrixÃ¡, sempre que possÃƒÂ­vel, nossos mÃ©diuns produzem oraÃ§Ãµes, pois acreditamos que uma das maiores oferendas que podemos dar aos orixÃ¡s sÃ£o nossos melhores pensamentos e sentimentos. Espero que com o passar do anos, essas pÃ¡ginas se inundem de oraÃ§Ãµes e quem sabe bem no futuro um livro que inspire pessoas a encontrar sua prÃ³pria espiritualidade._Ã¢â‚¬Å“
 
 ![](/tmm7f/assets/images/20210204183448-e1612488120179.jpg)
 

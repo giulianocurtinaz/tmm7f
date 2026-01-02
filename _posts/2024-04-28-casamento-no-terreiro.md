@@ -13,7 +13,7 @@ A forte chuva da vÃ©spera nÃ£o diminuiu a felicidade do noivo Alejandro que 
 
 Os noivos escolheram como padrinhos espirituais Ogum e IemanjÃ¡ por parte do Noivo e Nego Juca e Maria Conga por parte da Noiva! E na parte material foram escolhidos Robson e Ivana por parte do noivo e Cristiano e Jaqueline por parte da noiva!
 
-A CerimÃ´nia de casamento na Umbanda Ã© um evento serÃ­ssimo e de beleza singular. Entidades luminosas de Aruanda vÃªm no terreiro especialmente neste dia para abenÃ§oar os noivos e impregnÃ¡-los com as mais belas energias celestes de amor a fim de unir e proteger o casal!
+A CerimÃ´nia de casamento na Umbanda Ã© um evento serÃƒÂ­ssimo e de beleza singular. Entidades luminosas de Aruanda vÃªm no terreiro especialmente neste dia para abenÃ§oar os noivos e impregnÃ¡-los com as mais belas energias celestes de amor a fim de unir e proteger o casal!
 
 Alejandro e Daniela, que nosso Pai Ogum e nossa MÃ£e IemanjÃ¡ abenÃ§oem vocÃªs e seus filhos com todas as luzes e o Amor de OxalÃ¡ em suas vidas!
 

@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/livro-adri.png"
 ---
 
-Nossa amiga e cambona Adriana Zanette nos presenteia com sua obra maravilhosa sobre noÃ§Ãµes bÃ¡sicas da nossa religiÃ£o. ConheÃ§a um pouco dessa obra disponÃ­vel gratuitamente na Internet. Baixe aqui!
+Nossa amiga e cambona Adriana Zanette nos presenteia com sua obra maravilhosa sobre noÃ§Ãµes bÃ¡sicas da nossa religiÃ£o. ConheÃ§a um pouco dessa obra disponÃƒÂ­vel gratuitamente na Internet. Baixe aqui!
 
 [Guia RÃ¡pido Umbandista](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2020/11/guia-rapido-umbandista.pdf)
 

@@ -1,9 +1,9 @@
 ---
-title: "OraÃ§Ã£o Ã  IemanjÃ¡"
+title: "OraÃ§Ã£o ÃƒÂ  IemanjÃ¡"
 date: 2020-09-11
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/20200911_152744.jpg"
+coverImage: "/tmm7f/assets/images/20200911152744.jpg"
 ---
 
 Vamos juntos cantar alguns pontos de Umbanda e pedir as benÃ§Ã£os de nossa mÃ£e IemanjÃ¡. Praia da ConceiÃ§Ã£o em Bombinhas SC.

@@ -6,6 +6,6 @@ categories:
 coverImage: "/tmm7f/assets/images/domingo-divino.jpg"
 ---
 
-Obrigado mÃ©diuns por sua presenÃ§a, trabalho e amor nesse Domingo da Divina MisericÃ³rdia! Que Pai OxalÃ¡ abenÃ§oe cada um de vÃ³s e suas famÃ­lias!!!
+Obrigado mÃ©diuns por sua presenÃ§a, trabalho e amor nesse Domingo da Divina MisericÃ³rdia! Que Pai OxalÃ¡ abenÃ§oe cada um de vÃ³s e suas famÃƒÂ­lias!!!
 
 ![](/tmm7f/assets/images/domingo-divino.jpg)

@@ -3,7 +3,7 @@ title: "8 Dezembro Ã© dia de IemanjÃ¡!"
 date: 2021-12-08
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/20211208_112608.jpg"
+coverImage: "/tmm7f/assets/images/20211208112608.jpg"
 ---
 
 <figure>
@@ -18,5 +18,5 @@ coverImage: "/tmm7f/assets/images/20211208_112608.jpg"
 
 </figure>
 
-Cante conosco nossos pontos tradicionais em homenagem Ã  nossa grande MÃ£e!  
-Excepcionalmente hoje! Ã s 20hs!
+Cante conosco nossos pontos tradicionais em homenagem ÃƒÂ  nossa grande MÃ£e!  
+Excepcionalmente hoje! ÃƒÂ s 20hs!

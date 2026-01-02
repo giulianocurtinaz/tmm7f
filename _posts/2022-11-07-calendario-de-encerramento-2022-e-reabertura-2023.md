@@ -13,7 +13,7 @@ dias
 27/11 Preto-Velho
 
 04/12 Povo Oriente  
-11/12 TramandaÃ­ Reino IemanjÃ¡.  
+11/12 TramandaÃƒÂ­ Reino IemanjÃ¡.  
 18/12 Caboclo (sessÃ£o de encerramento)
 
 05/02 Retorno dos trabalhos pÃºblicos.

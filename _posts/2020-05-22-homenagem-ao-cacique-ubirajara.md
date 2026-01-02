@@ -3,7 +3,7 @@ title: "Homenagem ao Cacique Ubirajara"
 date: 2020-05-22
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/capa_jpeg_sem-titulo-1.jpg"
+coverImage: "/tmm7f/assets/images/capajpegsem-titulo-1.jpg"
 ---
 
 [![](/tmm7f/assets/images/capajpegsem-titulo.jpg)](https://youtu.be/CIfJwOOw3CM)

@@ -3,7 +3,7 @@ title: "A importÃ¢ncia da Amizade"
 date: 2021-07-23
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/screenshot_20210723-191412_youtube300057623317569770.jpg"
+coverImage: "/tmm7f/assets/images/screenshot20210723-191412youtube300057623317569770.jpg"
 ---
 
 <figure>

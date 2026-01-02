@@ -3,7 +3,7 @@ title: "Terceiro AniversÃ¡rio do Terreiro!"
 date: 2022-04-03
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/whatsapp-image-2022-04-03-at-14.20.02.jpeg"
+coverImage: "/tmm7f/assets/images/whatsapp-image-2022-04-03-at-142002.jpeg"
 ---
 
 Hoje nossa terreira comemorou seu terceiro aniversÃ¡rio com muita alegria, fÃ© e emoÃ§Ã£o!
@@ -14,7 +14,7 @@ Com a benÃ§Ã£o de nossas entidades voltaremos a atender o pÃºblico a parti
 
 **O nÃºmero de atendimentos serÃ¡ limitado e por ordem de chegada. O uso de mÃ¡scara e apresentaÃ§Ã£o da carteirinha de vacinaÃ§Ã£o serÃ¡ obrigatÃ³ria.**
 
-Nossos trabalhos ocorrem todos os domingos das 9hs Ã s 11hs da manhÃ£.
+Nossos trabalhos ocorrem todos os domingos das 9hs ÃƒÂ s 11hs da manhÃ£.
 
 ![](/tmm7f/assets/images/whatsapp-image-2022-04-03-at-142002.jpeg)
 

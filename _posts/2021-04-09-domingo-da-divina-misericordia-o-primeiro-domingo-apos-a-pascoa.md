@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/confio-em-vos-jpg.jpg"
 ---
 
-## _JESUS, EU CONFIO EM VÃ“S!_
+## _JESUS, EU CONFIO EM VÃƒâ€œS!_
 
 <figure>
 

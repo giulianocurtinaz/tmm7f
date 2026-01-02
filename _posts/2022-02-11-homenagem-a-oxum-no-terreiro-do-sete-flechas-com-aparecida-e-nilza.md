@@ -1,5 +1,5 @@
 ---
-title: "Homenagem ÃƒÂ  Oxum no Terreiro do Sete Flechas com Aparecida e Nilza!"
+title: "Homenagem ÃƒÃ‚Â  Oxum no Terreiro do Sete Flechas com Aparecida e Nilza!"
 date: 2022-02-11
 categories: 
   - "sem-categoria"

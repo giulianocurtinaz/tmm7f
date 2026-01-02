@@ -3,10 +3,10 @@ title: "EnergizaÃ§Ã£o dos Chakras. Live de sexta-feira 17 Abril"
 date: 2020-04-17
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/capa_chakras.jpg"
+coverImage: "/tmm7f/assets/images/capachakras.jpg"
 ---
 
-Ã‰ com muita alegria que convidamos a todos para nossa Live no Youtube nessa sexta-feira Ã s 20hs. Link
+Ã‰ com muita alegria que convidamos a todos para nossa Live no Youtube nessa sexta-feira ÃƒÂ s 20hs. Link
 
 Nela seguiremos o roteiro abaixo que pode ser impresso para melhor acompanhamento.
 

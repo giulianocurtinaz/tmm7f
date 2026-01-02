@@ -3,7 +3,7 @@ title: "Retrospectiva 2020 e o que esperar para 2021"
 date: 2021-01-01
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/captura-de-tela-2021-01-01-as-10.13.07.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-01-01-as-101307.png"
 ---
 
 Um sincero agradecimento a todos que nos auxiliaram na divulgaÃ§Ã£o da nossa Umbanda! O que esperar para 2021, com nosso amigo Gilberto!

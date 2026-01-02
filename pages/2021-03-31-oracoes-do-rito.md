@@ -10,25 +10,25 @@ Reunimos abaixo as principais oraÃ§Ãµes que utilizamos em nossos ritos.
 
 Pai Nosso que estais no espaÃ§o, nos mares, nas matas e em todos os mundos habitados. Santificado seja o teu nome, pelos teus filhos, pela natureza, pelas Ã¡guas, pela luz e pelo ar que respiramos. Que teu reino, reino do bem, do amor, e da fraternidade, nos una a todos e a tudo que criaste em torno da sagrada cruz, aos pÃ©s do Divino Salvador e Redentor. Que a tua vontade nos conduza sempre para o culto do amor e da caridade. Dai-nos hoje e sempre, a vontade firme para sermos virtuosos e Ãºteis aos nossos semelhantes. Dai- nos hoje o pÃ£o do corpo, o fruto das matas e a Ã¡gua das fontes, para nosso sustento material e espiritual.
 
-Perdoa se merecemos, as nossas faltas e dai-nos o sublime sentimento de perdÃ£o para os que nos ofenderam. NÃ£o nos deixeis sucumbir ante a luta, dissabores, ingratidÃµes, tentaÃ§Ãµes dos maus espÃ­ritos e ilusÃµes pecaminosas da matÃ©ria. Envia Pai, um raio da Tua Divina complacÃªncia, luz e misericÃ³rdia para os teus filhos pecadores, que aqui labutam pelo bem da humanidade nossa irmÃ£. QUE ASSIM SEJA!
+Perdoa se merecemos, as nossas faltas e dai-nos o sublime sentimento de perdÃ£o para os que nos ofenderam. NÃ£o nos deixeis sucumbir ante a luta, dissabores, ingratidÃµes, tentaÃ§Ãµes dos maus espÃƒÂ­ritos e ilusÃµes pecaminosas da matÃ©ria. Envia Pai, um raio da Tua Divina complacÃªncia, luz e misericÃ³rdia para os teus filhos pecadores, que aqui labutam pelo bem da humanidade nossa irmÃ£. QUE ASSIM SEJA!
 
 #### **Prece de CÃ¡ritas**
 
 Deus nosso Pai, que tendes poder e bondade,  
-daÃ­ forÃ§a Ã queles que passam pela provaÃ§Ã£o,  
-daÃ­ luz Ã queles que procuram a verdade,  
+daÃƒÂ­ forÃ§a ÃƒÂ queles que passam pela provaÃ§Ã£o,  
+daÃƒÂ­ luz ÃƒÂ queles que procuram a verdade,  
 e ponde no coraÃ§Ã£o do homem a compaixÃ£o e a caridade.  
-Deus, daÃ­ ao viajor a estrela Guia,  
+Deus, daÃƒÂ­ ao viajor a estrela Guia,  
 ao aflito a consolaÃ§Ã£o, ao doente o repouso.  
-Pai, daÃ­ ao culpado o arrependimento,  
-ao espÃ­rito, a verdade, Ã  crianÃ§a o guia,  
+Pai, daÃƒÂ­ ao culpado o arrependimento,  
+ao espÃƒÂ­rito, a verdade, ÃƒÂ  crianÃ§a o guia,  
 ao Ã³rfÃ£o, o pai.  
 Que a vossa bondade se estenda sobre tudo que criaste.  
 Piedade, meu Deus, para aqueles que nÃ£o Vos conhecem,  
 e esperanÃ§a para aqueles que sofrem.  
-Que a Vossa bondade permita aos espÃ­ritos consoladores,  
-derramarem por toda Ã  parte a paz, a esperanÃ§a e a fÃ©.  
-Deus, um raio, uma faÃ­sca do Vosso divino amor pode iluminar a Terra,  
+Que a Vossa bondade permita aos espÃƒÂ­ritos consoladores,  
+derramarem por toda ÃƒÂ  parte a paz, a esperanÃ§a e a fÃ©.  
+Deus, um raio, uma faÃƒÂ­sca do Vosso divino amor pode iluminar a Terra,  
 deixai-nos beber na fonte dessa bondade fecunda e infinita,  
 e todas as lagrimas secarÃ£o,  
 todas as dores se acalmarÃ£o.  
@@ -41,7 +41,7 @@ e queremos de alguma sorte alcanÃ§ar Vossa misericÃ³rdia.
 Deus, Dai-nos a forÃ§a no progresso a fim de subirmos atÃ© VÃ³s,  
 Dai-nos a caridade pura, Dai-nos a fÃ© e a razÃ£o,  
 Dai-nos a simplicidade que farÃ¡ de nossas almas  
-o espelho onde deve refletir a Vossa SantÃ­ssima imagem.  
+o espelho onde deve refletir a Vossa SantÃƒÂ­ssima imagem.  
 Que assim seja!
 
 #### **OraÃ§Ã£o de SÃ£o Francisco**
@@ -55,7 +55,7 @@ Onde houver erro, que eu leve a verdade
 Onde houver desespero, que eu leve a esperanÃ§a  
 Onde houver tristeza, que eu leve a alegria  
 Onde houver trevas, que eu leve a luz.  
-Ã“ mestre, fazei que eu procure mais consolar do que ser consolado  
+Ãƒâ€œ mestre, fazei que eu procure mais consolar do que ser consolado  
 Compreender do que ser compreendido  
 Amar que ser amado  
 Pois, Ã© dando que se recebe  

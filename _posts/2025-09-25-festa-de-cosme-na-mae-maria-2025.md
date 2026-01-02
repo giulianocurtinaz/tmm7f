@@ -3,14 +3,14 @@ title: "Festa de Cosme na MÃ£e Maria 2025"
 date: 2025-09-25
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-19.21.08_fd07f632.jpg"
+coverImage: "/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-192108fd07f632.jpg"
 ---
 
 Preparado com muito carinho e amor pelos mÃ©diuns da MÃ£e Maria com o colaboraÃ§Ã£o ativa dos mÃ©diuns do Sete Flechas e tambÃ©m da Terreira do Pai JoÃ£o, a festa de Cosme e DamiÃ£o de 2025 foi realmente uma das festas mais bonitas jÃ¡ realizadas!
 
-Foi uma noite inesquecÃ­vel para todos os presentes! Que a pureza dessas entidades possam vibrar em nossos coraÃ§Ãµes por muito tempo ainda!
+Foi uma noite inesquecÃƒÂ­vel para todos os presentes! Que a pureza dessas entidades possam vibrar em nossos coraÃ§Ãµes por muito tempo ainda!
 
-No prÃ³ximo domingo dia 28/09 faremos uma sessÃ£o Ã s 09hs em homenagem a Cosme e DamiÃ£o e todos os amigos sÃ£o bem-vindos!
+No prÃ³ximo domingo dia 28/09 faremos uma sessÃ£o ÃƒÂ s 09hs em homenagem a Cosme e DamiÃ£o e todos os amigos sÃ£o bem-vindos!
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-09-25-as-192108fd07f632.jpg)
 

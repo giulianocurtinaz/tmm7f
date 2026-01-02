@@ -1,5 +1,5 @@
 ---
-title: "Homenagem a Ogum Live! em 24/04 Ã s 20hs"
+title: "Homenagem a Ogum Live! em 24/04 ÃƒÂ s 20hs"
 date: 2020-04-21
 categories: 
   - "sem-categoria"

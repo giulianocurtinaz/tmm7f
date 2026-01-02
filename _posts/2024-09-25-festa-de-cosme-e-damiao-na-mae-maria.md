@@ -5,7 +5,7 @@ categories:
   - "sem-categoria"
 ---
 
-Como nÃ£o podia deixar de ser, com muitos doces, alegria e brincadeiras, participamos da homenagem Ã  Cosme e DamiÃ£o nesse 25 de Setembro!
+Como nÃ£o podia deixar de ser, com muitos doces, alegria e brincadeiras, participamos da homenagem ÃƒÂ  Cosme e DamiÃ£o nesse 25 de Setembro!
 
 Salve os Cosminhos! Salve a pureza das crianÃ§as do astral em nossos coraÃ§Ãµes!
 

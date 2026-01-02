@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/img-20250119-wa0049.jpg"
 ---
 
-Hoje com muita vibraÃ§Ã£o e proteÃ§Ã£o das matas fizemos nossa homenagem Ã  OxÃ³ssi juntamente com a corrente da MÃ£e Maria!
+Hoje com muita vibraÃ§Ã£o e proteÃ§Ã£o das matas fizemos nossa homenagem ÃƒÂ  OxÃ³ssi juntamente com a corrente da MÃ£e Maria!
 
 Trabalho maravilhoso ao lado de nossos melhores amigos materiais e espirituais!
 

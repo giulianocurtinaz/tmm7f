@@ -18,4 +18,4 @@ coverImage: "/tmm7f/assets/images/moral.jpg"
 
 </figure>
 
-"Deixar Pai, MÃ£e e Filhos". Vamos refletir um pouco a respeito desse capÃ­tulo diferenciado do Evangelho segundo o espiritismo.
+"Deixar Pai, MÃ£e e Filhos". Vamos refletir um pouco a respeito desse capÃƒÂ­tulo diferenciado do Evangelho segundo o espiritismo.

@@ -25,7 +25,7 @@ coverImage: "/tmm7f/assets/images/img-20190929-wa0008.jpg"
 - [![](/tmm7f/assets/images/whatsapp-image-2019-09-29-at-172804.jpeg)](https://maemariaseteflechas.com.br/wp-content/uploads/2020/02/whatsapp-image-2019-09-29-at-17.28.04.jpeg)
     
 
-Em 29 de setembro fomos Ã  pedreira na cidade de Santa Maria do Herval, acompanhados pela terreira de MÃ£e Maria fraternidade Ubirajara.
+Em 29 de setembro fomos ÃƒÂ  pedreira na cidade de Santa Maria do Herval, acompanhados pela terreira de MÃ£e Maria fraternidade Ubirajara.
 
 "Organizado, simples e vibrante!": assim ficou registrado no diÃ¡rio do terreiro o trabalho realizado neste lindo dia!
 
@@ -33,6 +33,6 @@ A cambona do terreiro do Ubirajara, Sra. Nilza, "enxergou" meu avÃ´ Jacy Olive
 
 ApÃ³s anos sem visitar pedreiras, minha vÃ³ Mercedes, mostrando toda a sua juventude aos 87 anos, participou ativamente dos trabalho nesse dia!
 
-Todos os mÃ©diuns ofereceram flores Ã  XangÃ´, as quais foram cuidadosamente preparadas e colocadas em consagraÃ§Ã£o na vÃ©spera.
+Todos os mÃ©diuns ofereceram flores ÃƒÂ  XangÃ´, as quais foram cuidadosamente preparadas e colocadas em consagraÃ§Ã£o na vÃ©spera.
 
 Vale lembrar ainda, que ao final dos trabalhos, a corrente foi "invadida" por uma "legiÃ£o" de motoqueiros, que com muito respeito vieram tomar passes e receber as benÃ§Ã£os desse grande orixÃ¡.

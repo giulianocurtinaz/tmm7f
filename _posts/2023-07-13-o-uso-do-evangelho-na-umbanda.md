@@ -18,19 +18,19 @@ Tenho cada vez mais certeza que este maravilhoso livro possui todas as respostas
 
 Ao realizar o estudo sÃ©rio do Evangelho Segundo o espiritismo, os mÃ©diuns se desenvolvem pois penetram profundamente em si mesmos, certamente guiados por suas entidades, a fim de encontrarem respostas para os dilemas do cotidiano e tambÃ©m refletirem sobre o modo com que conduzem sua vida dentro e fora da terreira.
 
-Compartilho com os amigos, um texto belÃ­ssimo produzido e lido recentemente por um de nossos mÃ©diuns, na abertura de nossos trabalhos:
+Compartilho com os amigos, um texto belÃƒÂ­ssimo produzido e lido recentemente por um de nossos mÃ©diuns, na abertura de nossos trabalhos:
 
 #### Sobre o medo da vida futura
 
-O Evangelho Segundo o Espiritismo,Â  um dos livros mais extensos para se terminar a leitura, pois apesar de ter 325 pÃ¡ginas, os ensinamentos nÃ£o sÃ£o totalmente absorvidos em uma Ãºnica leitura, nem em duas, nem em trÃªs. Este livro traz sempre novos ensinamentos Ã  medida que vamos melhorando, amadurecendo, envelhecendo e passando por situaÃ§Ãµes boas e mÃ¡s que a vida apresenta.Â 
+O Evangelho Segundo o Espiritismo,Ã‚Â  um dos livros mais extensos para se terminar a leitura, pois apesar de ter 325 pÃ¡ginas, os ensinamentos nÃ£o sÃ£o totalmente absorvidos em uma Ãºnica leitura, nem em duas, nem em trÃªs. Este livro traz sempre novos ensinamentos ÃƒÂ  medida que vamos melhorando, amadurecendo, envelhecendo e passando por situaÃ§Ãµes boas e mÃ¡s que a vida apresenta.Ã‚Â 
 
 Ele nÃ£o esgota seus ensinamentos, numa vida de leitura, e nem Ã© igual para cada leitor, pois cada um absorve aquilo que precisa, refuta com vieses aquilo que nÃ£o lhe interessa atÃ© o ponto em que a vida lhe manda entender.
 
-Ã‰ um livro de engenharia, pois mostra detalhadamente tudo o que se precisa fazer ou pelo menos tentar fazer, para construir e edificar uma estrutura espiritual mais evoluÃ­da.
+Ã‰ um livro de engenharia, pois mostra detalhadamente tudo o que se precisa fazer ou pelo menos tentar fazer, para construir e edificar uma estrutura espiritual mais evoluÃƒÂ­da.
 
-Ã‰ o melhor livro de exatas que jÃ¡ li, pois a racionalidade do homem permeia todo o seu conteÃºdo, muito os embora tenhamos a petulÃ¢ncia de discordar ou nÃ£o querer entender nos julgando isentos das falhas que ali nos preveem. Ã€ medida que o consumimos, e vamos alinhavando as idÃ©ias, que nÃ£o hÃ¡ um inÃ­cio, um meio e um fim precÃ­puo, percebemos que tudo Ã© arrematado, fechado numa lÃ³gica que ficamos sem qualquer argumento para contestar.
+Ã‰ o melhor livro de exatas que jÃ¡ li, pois a racionalidade do homem permeia todo o seu conteÃºdo, muito os embora tenhamos a petulÃ¢ncia de discordar ou nÃ£o querer entender nos julgando isentos das falhas que ali nos preveem. Ãƒâ‚¬ medida que o consumimos, e vamos alinhavando as idÃ©ias, que nÃ£o hÃ¡ um inÃƒÂ­cio, um meio e um fim precÃƒÂ­puo, percebemos que tudo Ã© arrematado, fechado numa lÃ³gica que ficamos sem qualquer argumento para contestar.
 
-Infelizmente, muitos, inclusive eu, jÃ¡ tive o pensamento de que se trata de um livro de ficÃ§Ã£o, pois cumprir o que estÃ¡ ali Ã© impossÃ­vel e Ã© deveras nÃ£o realizÃ¡vel, fora de nosso alcance. Pouco provÃ¡vel que possamos e consigamos fazer tudo o que ali descreve. Por ser tÃ£o incompreendido, muitos julgam que Ã© melhor nÃ£o fazer nada do que ali diz, mas Ã© bom tÃª-lo por perto em caso de necessidade.
+Infelizmente, muitos, inclusive eu, jÃ¡ tive o pensamento de que se trata de um livro de ficÃ§Ã£o, pois cumprir o que estÃ¡ ali Ã© impossÃƒÂ­vel e Ã© deveras nÃ£o realizÃ¡vel, fora de nosso alcance. Pouco provÃ¡vel que possamos e consigamos fazer tudo o que ali descreve. Por ser tÃ£o incompreendido, muitos julgam que Ã© melhor nÃ£o fazer nada do que ali diz, mas Ã© bom tÃª-lo por perto em caso de necessidade.
 
 Meus irmÃ£os, esse livro descreve a alma de Jesus, o que ele sente o que ele pensa o que ele fez e faz. NÃ£o queiramos em uma Ãºnica e mecÃ¢nica leitura, nem mesmo numa sÃ³ encarnaÃ§Ã£o absorvermos todo o bÃ¡lsamo que ali contÃ©m, quiÃ§Ã¡ praticarmos tudo e todos os dias.
 
@@ -38,7 +38,7 @@ Meus irmÃ£os, esse livro descreve a alma de Jesus, o que ele sente o que ele p
 
 Enfim, Ã© uma obra que transcende o tempo, o espaÃ§o e Ã© lei entre os mundos pelos quais estamos passando e pelos quais passaremos. E nÃ£o podemos mais uma vez, ter o atrevimento de tentar em uma Ãºnica existÃªncia adquirir todo aquele conhecimento.
 
-Sobre essa deixa, ligo o assunto que proponho a refletirmos, que estÃ¡ no capÃ­tulo 2 (Meu eino nÃ£o Ã© deste mundo), e que fala da vida futura, mais precisamente do medo ou da alienaÃ§Ã£o que temos dela.
+Sobre essa deixa, ligo o assunto que proponho a refletirmos, que estÃ¡ no capÃƒÂ­tulo 2 (Meu eino nÃ£o Ã© deste mundo), e que fala da vida futura, mais precisamente do medo ou da alienaÃ§Ã£o que temos dela.
 
 Quando me refiro a vida, falo tanto dos encarnados (nÃ³s), quanto dos desencarnados, pois todos estÃ£o vivendo, embora numa realidade paralela e em situaÃ§Ãµes diferentes, todos passarÃ£o para o outro lado e enfrentarÃ£o sua vida futura, com todos os merecimentos e expiaÃ§Ãµes dentro do seu adiantamento espiritual e obras deixadas como heranÃ§a.
 
@@ -48,38 +48,38 @@ Ela deve ser meta de todos os homens.
 
 Somente a continuaÃ§Ã£o da vida pode explicar a grandes diferenÃ§as que existem entre os homens aqui na terra e fazer com que a justiÃ§a de deus se cumpra ao longo do tempo.
 
-Se a morte fosse a destruiÃ§Ã£o completa do homem, (que Ã© nosso grande medo material e espiritual), seria uma grande vantagem para os maus, visto que esses se libertariam ao mesmo tempo do seu corpo, de sua alma e de seus vÃ­cios. Somente aquele que adornou sua alma com os verdadeiros enfeites poderÃ¡ esperar tranquilamente, a hora da sua partida para o outro mundo.
+Se a morte fosse a destruiÃ§Ã£o completa do homem, (que Ã© nosso grande medo material e espiritual), seria uma grande vantagem para os maus, visto que esses se libertariam ao mesmo tempo do seu corpo, de sua alma e de seus vÃƒÂ­cios. Somente aquele que adornou sua alma com os verdadeiros enfeites poderÃ¡ esperar tranquilamente, a hora da sua partida para o outro mundo.
 
-Este livro ensina tambÃ©m, que os espÃ­ritos continuam mantendo, no plano espiritual, as mesmas relaÃ§Ãµes que tinham quando encarnado, sendo assim, a morte nÃ£o se constitui numa interrupÃ§Ã£o para a vida, ela Ã© apenas uma contÃ­nua transformaÃ§Ã£o.
+Este livro ensina tambÃ©m, que os espÃƒÂ­ritos continuam mantendo, no plano espiritual, as mesmas relaÃ§Ãµes que tinham quando encarnado, sendo assim, a morte nÃ£o se constitui numa interrupÃ§Ã£o para a vida, ela Ã© apenas uma contÃƒÂ­nua transformaÃ§Ã£o.
 
 Continuaremos vivendo no mundo espiritual, de modo muito semelhante ao que vivemos na Terra.
 
-Para a doutrina espÃ­rita, a vida futura nÃ£o Ã© mais uma incerteza, Ã©, antes, uma realidade, pois sÃ£o os prÃ³prios espÃ­ritos que vÃªm descrevÃª-la em todos os seus detalhes, nÃ£o deixando margem a nenhuma dÃºvida.
+Para a doutrina espÃƒÂ­rita, a vida futura nÃ£o Ã© mais uma incerteza, Ã©, antes, uma realidade, pois sÃ£o os prÃ³prios espÃƒÂ­ritos que vÃªm descrevÃª-la em todos os seus detalhes, nÃ£o deixando margem a nenhuma dÃºvida.
 
 **O maior mal que possa ocorrer a um homem Ã© ir para o outro mundo com a alma carregada de culpas.**
 
-O espiritismo nos mostra, atravÃ©s de inÃºmeros exemplos, o quanto Ã© aflitivo para os maus a passagem de uma vida para outra, ou seja, a entrada na vida futura, pois nÃ£o importa para qual lado ele estarÃ¡ indo, sofrerÃ¡ as atribulaÃ§Ãµes morais ou materiais, para que no sofrimento este perceba seus erros e venha reparar incontestes seus males causados. Assim sendo, a verdadeira justiÃ§a de Deus somente irÃ¡ se cumprir na vida futura, onde atravÃ©s de sucessivas encarnaÃ§Ãµes serÃ¡ possÃ­vel resgatar nossos erros.
+O espiritismo nos mostra, atravÃ©s de inÃºmeros exemplos, o quanto Ã© aflitivo para os maus a passagem de uma vida para outra, ou seja, a entrada na vida futura, pois nÃ£o importa para qual lado ele estarÃ¡ indo, sofrerÃ¡ as atribulaÃ§Ãµes morais ou materiais, para que no sofrimento este perceba seus erros e venha reparar incontestes seus males causados. Assim sendo, a verdadeira justiÃ§a de Deus somente irÃ¡ se cumprir na vida futura, onde atravÃ©s de sucessivas encarnaÃ§Ãµes serÃ¡ possÃƒÂ­vel resgatar nossos erros.
 
-Aquele que acredita na vida futura atribui ao presente somente uma importÃ¢ncia relativa, e facilmente se consola com os insucessos que sofre, ao pensar no destino que o aguarda.Â 
+Aquele que acredita na vida futura atribui ao presente somente uma importÃ¢ncia relativa, e facilmente se consola com os insucessos que sofre, ao pensar no destino que o aguarda.Ã‚Â 
 
-**Esta obra tambÃ©m ilustra a luta do espiritismo contra a visÃ£o estreita e mesquinha, que faz com que o homem se concentre somente na vida presente, aumentando seu egoÃ­smo e orgulho desmedido**.
+**Esta obra tambÃ©m ilustra a luta do espiritismo contra a visÃ£o estreita e mesquinha, que faz com que o homem se concentre somente na vida presente, aumentando seu egoÃƒÂ­smo e orgulho desmedido**.
 
 Nossa alma jÃ¡ existia antes de reencarnarmos, e que jÃ¡ cometemos muitos erros e acertos em outras vidas. Ã‰ isso que explica naturalmente o que parece inexplicÃ¡vel, (o porquÃª das diferenÃ§as existentes entre os homens na terra).
 
-Disso meus irmÃ£os, peÃ§o que pensem sobre a sua vida futura. Se acreditarem que ela exista, esta certeza acarretarÃ¡ enormes consequencias na moralizaÃ§Ã£o de suas vidas, uma vez que mudarÃ£o completamente o ponto de vista sobre a maneira como encararÃ£o a vida terrena. Para todo aquele que acredita, as amarguras da vida terrena sÃ£o recebidas com mais paciÃªncia e terÃ£o um lenitivo para as fases difÃ­ceis que devem ser seguidas por futuros acontecimentos felizes.
+Disso meus irmÃ£os, peÃ§o que pensem sobre a sua vida futura. Se acreditarem que ela exista, esta certeza acarretarÃ¡ enormes consequencias na moralizaÃ§Ã£o de suas vidas, uma vez que mudarÃ£o completamente o ponto de vista sobre a maneira como encararÃ£o a vida terrena. Para todo aquele que acredita, as amarguras da vida terrena sÃ£o recebidas com mais paciÃªncia e terÃ£o um lenitivo para as fases difÃƒÂ­ceis que devem ser seguidas por futuros acontecimentos felizes.
 
-Quando o homem nÃ£o tem certeza ou nÃ£o quer acreditar na vida futura, este concentra todo o seu pensamento na vida terrena, dedicando-se inteiramente ao momento presente. Uma decepÃ§Ã£o sofrida, uma esperanÃ§a frustrada, uma ambiÃ§Ã£o nÃ£o satisfeita, uma injustiÃ§a de que Ã© vÃ­tima, a vaidade ou o orgulho ferido, fazem de sua vida uma eterna angÃºstia. Vivendo desse modo, o homem entrega-se voluntariamente a uma verdadeira tortura que o acompanha em todos os instantes, alÃ©m do medo de sua finitude.
+Quando o homem nÃ£o tem certeza ou nÃ£o quer acreditar na vida futura, este concentra todo o seu pensamento na vida terrena, dedicando-se inteiramente ao momento presente. Uma decepÃ§Ã£o sofrida, uma esperanÃ§a frustrada, uma ambiÃ§Ã£o nÃ£o satisfeita, uma injustiÃ§a de que Ã© vÃƒÂ­tima, a vaidade ou o orgulho ferido, fazem de sua vida uma eterna angÃºstia. Vivendo desse modo, o homem entrega-se voluntariamente a uma verdadeira tortura que o acompanha em todos os instantes, alÃ©m do medo de sua finitude.
 
 Pensemos hoje, sobre esses ensinamentos, fique com essa provocaÃ§Ã£o, melhore nem que seja um pouco em alguma falha que vocÃª tem.
 
 E como saber qual falha melhorar, o prÃ³prio evangelho diz que a ferramenta correta se chama consciÃªncia. Ela foi criada para te incomodar, para atormentar seu pensamento. VocÃª pode ouvi-la ou nÃ£o.
 
-**Quem decide, Ã© seu livre arbÃ­trio.**
+**Quem decide, Ã© seu livre arbÃƒÂ­trio.**
 
-â€œtenha fÃ© para se motivar,
+Ã¢â‚¬Å“tenha fÃ© para se motivar,
 
 esperanÃ§a para suportar,
 
-faÃ§a caridade para se salvar.â€
+faÃ§a caridade para se salvar.Ã¢â‚¬Â
 
 **21 de maio 2023**

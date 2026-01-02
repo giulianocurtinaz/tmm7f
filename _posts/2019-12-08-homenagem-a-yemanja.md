@@ -3,10 +3,10 @@ title: "Homenagem a YemanjÃ¡"
 date: 2019-12-08
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/whatsapp-image-2019-12-08-at-20.28.41.jpeg"
+coverImage: "/tmm7f/assets/images/whatsapp-image-2019-12-08-at-202841.jpeg"
 ---
 
-Nesse dia tÃ£o especial, a corrente de nossa casa homenageou nossa gloriosa MÃ£e YemanjÃ¡ num trabalho muito lindo realizado juntamente com a Terreira de MÃ£e Maria Fraternidade Cacique Ubirajara. Obrigado a todos os amigos que estiveram juntos nesse inesquecÃ­vel dia em nossas vidas!!!!! Os mÃ©diuns confeccionaram lindÃ­ssimas [oraÃ§Ãµes a YemanjÃ¡](https://maemariaseteflechas.com.br/oracoes-yemanja/), confira!
+Nesse dia tÃ£o especial, a corrente de nossa casa homenageou nossa gloriosa MÃ£e YemanjÃ¡ num trabalho muito lindo realizado juntamente com a Terreira de MÃ£e Maria Fraternidade Cacique Ubirajara. Obrigado a todos os amigos que estiveram juntos nesse inesquecÃƒÂ­vel dia em nossas vidas!!!!! Os mÃ©diuns confeccionaram lindÃƒÂ­ssimas [oraÃ§Ãµes a YemanjÃ¡](https://maemariaseteflechas.com.br/oracoes-yemanja/), confira!
 
 Um fato marcante nesse dia foi o fato de termos esquecido a oferenda de YemanjÃ¡ dentro da terreira em Canoas ao embarcarmos para a praia. No meio do caminho nos damos conta do esquecimento, mas entÃ£o jÃ¡ era tarde para retornarmos.
 

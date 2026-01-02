@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/00.jpg"
 ---
 
-JÃ¡ havÃ­amos recebido o recado do Astral de que nosso corpo mediÃºnico sofreria uma grande renovaÃ§Ã£o, mas nÃ£o imaginÃ¡vamos quÃ£o rÃ¡pido e forte seria essa transformaÃ§Ã£o!
+JÃ¡ havÃƒÂ­amos recebido o recado do Astral de que nosso corpo mediÃºnico sofreria uma grande renovaÃ§Ã£o, mas nÃ£o imaginÃ¡vamos quÃ£o rÃ¡pido e forte seria essa transformaÃ§Ã£o!
 
 Bem vindos Douglas, Quetiln, Bete e Rodrigo ao corpo mediÃºnico do Sete Flechas!
 

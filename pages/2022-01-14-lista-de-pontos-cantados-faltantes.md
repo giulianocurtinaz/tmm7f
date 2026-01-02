@@ -26,7 +26,7 @@ Que eu tivesse paciÃªncia de esperar
 Chegou chegou chegou  
 Afinal o dia dela chegou
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A IemanjÃ¡ nÃ£o Ã© uma sereia  
 Ela Ã© a rainha lÃ¡ do mar  
@@ -35,7 +35,7 @@ Ela Ã© a rainha lÃ¡ do mar
 E sua coroa reluz  
 IemanjÃ¡ Ã© a mÃ£e de Jesus
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Joga flores no mar  
 Bate com o pÃ© e pede fÃ©  
@@ -47,7 +47,7 @@ Quem sofre merece, precisa levar
 Ode odÃ¡ ode odÃ¡ ode odÃ¡  
 Joga flores no mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Salve IemanjÃ¡, salve Oxum e NanÃ£  
 A mÃ£e sereia nÃ³s vamos saudar  
@@ -70,7 +70,7 @@ MÃ£e IemanjÃ¡ mÃ£e IemanjÃ¡
 Com a luz da estrela guia  
 Eu sei que vou chegar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 IemanjÃ¡ Ã© a rainha do mar  
 IemanjÃ¡ Ã© a rainha do mar  
@@ -80,7 +80,7 @@ Salve os guias, salve os santos
 Salve meu pai OxalÃ¡  
 IemanjÃ¡ Ã© a rainha do ma
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vi sentada na areia  
 Uma linda seria tÃ£o triste a choraaar  
@@ -113,7 +113,7 @@ OxÃ³ssi jÃ¡ vem no terreiro
 OxÃ³ssi ao sair das matas  
 OxÃ³ssi assovia pra seus companheiros
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Na minha aldeia eu sou caboclo  
 Sou rompe mato e arranca toco  
@@ -128,7 +128,7 @@ Que ilumina OxÃ³ssi lÃ¡ na Jurema
 Coquei, coquei, coquei  
 Coquei meu caboclo Tupi
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu estava na mata virgem  
 Com minha flecha  
@@ -139,7 +139,7 @@ Aqui estÃ¡ o caboclo
 Da mata virgem  
 Pra trabalhar pros filhos de OxalÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 OxalÃ¡ Velhinho!  
 OxalÃ¡ daodÃ©!  
@@ -162,7 +162,7 @@ Na mata a trabalhar
 Arranca folha, soca erva, tira seiva  
 Pros filhos de umbanda reforÃ§ar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 O senhor pena branca, E Ã´  
 O senhor pena branca, E Ã¡  
@@ -173,7 +173,7 @@ Vem trabalhar nesse conga
 O senhor pena branca, E Ã´  
 O senhor pena branca, E Ã¡  
 JÃ¡ baixou nesse conga  
-Enviado de OxalÃ¡Â   
+Enviado de OxalÃ¡Ã‚Â   
 Para os filhos ajudar  
 A curar o mal q for  
 O senhor pena branca, E Ã´  
@@ -187,7 +187,7 @@ Salve senhor pena branca
 que baixou nesse conga  
 com a permissÃ£o de OxalÃ¡  
 Para os filhos ajudar sarava  
-Senhor pena brancaÂ  okÃª okÃª cabÃ´clo
+Senhor pena brancaÃ‚Â  okÃª okÃª cabÃ´clo
 
 Os filhos de umbanda  
 Vem de lÃ¡ e vem de cÃ¡  
@@ -203,7 +203,7 @@ Ele vem calÃ§ado
 Ele vem saudar  
 O Rei OxalÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Jurema, Oh Jurema, Jurema  
 Ela Ã© cabocla flecheira  
@@ -233,7 +233,7 @@ Jurema vem trabalhar
 Sua flecha caiu serena Oh Jurema  
 Dentro desse congÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ai Jureminha, ai Jurema  
 Sua flecha caiu serena Jurema  
@@ -253,19 +253,19 @@ Mas posso te ajudar
 SÃ³ quero ganhar depois  
 Balas, doces e guaranÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Jurema, sua flecha brilhou Jurema  
 Quando sua flecha atirou Jurema  
 E quando essa flecha subiu  
-Ã” Jurema flecheira  
+Ãƒâ€ Jurema flecheira  
 Essa terreira iluminou  
 Salve Jurema do Juremeiro  
 Que no reino vem trabalhar  
 Salve Jurema da mata virgem  
 Do reino de JuremÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ã‰ tÃ£o bonita a cabocla Jurema  
 Nas matas de OxÃ³ssi  
@@ -279,7 +279,7 @@ OxÃ³ssi na mata assoviou
 Ele saudou, ele saudou  
 A cabocla que chegou
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 O vento estÃ¡ soprando nas matas  
 Jogando as folhas da Jurema no chÃ£o  
@@ -292,7 +292,7 @@ Caboclo arriando
 Caboclo arriando  
 Olha a mata quebrando
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A mata estava tÃ£o linda  
 Brilhava a luz do luar  
@@ -309,7 +309,7 @@ Apareceu a rainha de NanÃ£
 E recolhendo as flores de Jurema  
 Jogou na areia uma estrela do mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vou chamar a corrente de Jurema  
 Ai vem a Jureminha, Ã© JuremÃª e JuremÃ¡
@@ -326,7 +326,7 @@ Jurema, Jurema
 Atirando suas flechas  
 Jurema vem no congÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Na mata eu vi o sabiÃ¡ cantar  
 Ai eu queria ver o sabiÃ¡ cantando  
@@ -353,7 +353,7 @@ JÃ¡ cruzou minha guia
 
 ....
 
-### #**XANGÃ”**
+### #**XANGÃƒâ€**
 
 IansÃ£ estava sentada  
 Esperando o pai XangÃ´  
@@ -363,9 +363,9 @@ Quem nÃ£o pode nÃ£o demanda
 Que o rei da umbanda  
 Ã‰ pai XangÃ´
 
-**Corisco**: faÃ­sca elÃ©trica da atmosfera, acompanhada ou nÃ£o de trovÃ£o; raio.
+**Corisco**: faÃƒÂ­sca elÃ©trica da atmosfera, acompanhada ou nÃ£o de trovÃ£o; raio.
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 XangÃ´, XangÃ´ meu pai XangÃ´  
 KaÃ´ kabecile obÃ¡ XangÃ´  
@@ -375,7 +375,7 @@ E manda relampiar
 KaÃ´ CabecilÃª obi XangÃ´  
 SaravÃ¡ XangÃ´, saravÃ¡ XangÃ´
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Bate, bate no tambor  
 Bate, bate pra XangÃ´  
@@ -405,7 +405,7 @@ Zum, zum, zum o caboclo assim dizia
 Sou caboclo e sou flecheiro  
 Sou Caboclo Ventania
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Veado no campo Ã© corredor  
 Caboclo no mato Ã© caÃ§ador  
@@ -413,7 +413,7 @@ CadÃª Caboclo Ventania?
 Esse caboclo Ã© nosso guia
 
   
-â€¦.
+Ã¢â‚¬Â¦.
 
 IansÃ£ Ã© uma moÃ§a bonita  
 Ela Ã© dona do seu jacutÃ¡  
@@ -444,7 +444,7 @@ Risca ponto meu irmÃ£o
 Quem Ã© da linha da Umbanda  
 Tem sempre a pemba na mÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SaravÃ¡, saravÃ¡ SÃ£o Jorge  
 Salve seu brado varonil  
@@ -457,7 +457,7 @@ Cor de anil
 Salve suas homenagens  
 Salve o 23 de abril
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Tem festa do terreiro  
 Tem festa no congÃ¡
@@ -479,7 +479,7 @@ Como SÃ£o Jorge venceu o dragÃ£o
 E eu vencerei na vida  
 Como SÃ£o Jorge venceu o dragÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Levanta a bandeira de Ogum  
 Que os seus filhos vÃ£o trabalhar  
@@ -487,7 +487,7 @@ Salve o reino de OxalÃ¡
 E salve esse congÃ¡  
 E as sete linhas de orixÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum que abalou as estrelas  
 Que abalou toda a areia  
@@ -496,7 +496,7 @@ Ogum ele veio de lÃ¡
 Ogum ele vem trabalhar  
 Ogum ele Ã© seu Ogum Beira Mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Olha que lindo barquinho  
 Que vem navegando em pleno luar  
@@ -553,7 +553,7 @@ Bahia Ã© terra de dois
 Governador da Bahia  
 Ã‰ Cosme e SÃ£o DamiÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Enfeitei meu jardim de rosas brancas  
 Violetas, miosÃ³tis e as flores do manacÃ¡  
@@ -580,7 +580,7 @@ Mensageiro de Deus que chegou
 E Zarthur, Ã© Zarthur, Ã© Zarthur  
 Mensageiro de Deus que baixou.
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Nasceu mais uma estrela  
 no oriente uma estrela que vai brilhar  
@@ -598,14 +598,14 @@ Saudamos povo africano
 Saudamos todas as linhas  
 SaravÃ¡ SÃ£o Cipriano
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pele castigada, carapinha branca  
-Gandola de renda caÃ­da na anca  
+Gandola de renda caÃƒÂ­da na anca  
 MÃ£e Preta gandola de renda  
 Pele castigada, carapinha branca
 
-Gandola de renda caÃ­da na anca  
+Gandola de renda caÃƒÂ­da na anca  
 Embalando o filho branco do sinhÃ´  
 Que hÃ¡ pouco tempo a sinhÃ¡ ganhou  
 Era assim que MÃ£e Preta fazia  
@@ -618,7 +618,7 @@ Enquanto a chibata batia no seu amor
 MÃ£e Preta embalava o filho do senhor  
 Era assim que MÃ£e Preta fazia  
 Criava todo filho branco com muita alegria  
-Mas na senzala Pai JoÃ£o apanhavaâ€¦
+Mas na senzala Pai JoÃ£o apanhavaÃ¢â‚¬Â¦
 
 ....
 
@@ -649,7 +649,7 @@ Pai Joaquim jÃ¡ vem
 LÃ¡ da Aruanda vem  
 Desce sobre este terreiro  
 AbenÃ§oa o mundo inteiro  
-Com toda luz e proteÃ§Ã£oÂ   
+Com toda luz e proteÃ§Ã£oÃ‚Â   
 Preto velho vencedor  
 Mensageiro do senhor  
 Que OxalÃ¡ nos enviou.  
@@ -667,7 +667,7 @@ Pai Joaquim de Angola, angola
 Pai Joaquim, Ãª, Ãª  
 Pai Joaquim, Ãª, Ã¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Quem quiser ver, que veja  
 Ele Ã© preto, Ã© assim  
@@ -677,7 +677,7 @@ Ele Ã© Pai Joaquim
 Ele vem de Angola  
 Ele Ã© preto, Ã© assim.
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A escravatura terminou  
 Maria Conga da senzala se libertou  
@@ -711,7 +711,7 @@ Pai JerÃ´nimo vai chegar
 Pai JerÃ´nimo Ã© feiticeiro  
 Pai JerÃ´nimo vai chegar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Foi a fÃ© em OxalÃ¡ que nos uniu  
 E o desejo de todo irmÃ£o ajudar  
@@ -743,14 +743,14 @@ Quando ela vem chegando
 Oh sacode a poeira da sua saia  
 Oi sacode a poeira da sua saia
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Tem mironga no conguÃª  
 Tem mironga no congÃ¡  
 Quem nÃ£o pode com macumba  
 NÃ£o carrega patuÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Benedito, Pai Benedito  
 Preto velho de umbanda  
@@ -766,7 +766,7 @@ E os filhos ajudando
 Olha pelas criancinhas  
 Que ficaram na orfandade  
 Pelo velho e pela velhinha  
-Nos quais dÃ¡ tranqÃ¼ilidade
+Nos quais dÃ¡ tranqÃƒÂ¼ilidade
 
 Olha pelo homem pobre  
 Pela moÃ§a desamparada  
@@ -780,10 +780,10 @@ E seus filhos ajudando
 
 ....
 
-AÃ­ vem chegando MÃ£e Maria Benedita  
+AÃƒÂ­ vem chegando MÃ£e Maria Benedita  
 junto vem a VovÃ³ Chica  
 Nossa mÃ£e de salvaÃ§Ã£o  
-AÃ­ vem chegando  
+AÃƒÂ­ vem chegando  
 Todo o povo africano  
 Junto vem o rei de congo  
 O Pai Bento e Pai JosÃ©.
@@ -797,7 +797,7 @@ Caminhei, caminhei, caminhei atÃ© o fim
 Vem chegando da senzala  
 Preto velho Pai Jobim
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Minha cachimba tÃ¡ no toco  
 Manda moleque buscar  
@@ -824,7 +824,7 @@ E o Caboclo Treme-Terra
 Que nos proteja agora  
 Com as suas bÃªnÃ§Ã£os vamos agora
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Vamos embora nÃ£o fica ninguÃ©m  
 E a Virgem do RosÃ¡rio  
@@ -846,29 +846,29 @@ Vai subindo pra aruanda
 Deixando as suas bÃªnÃ§Ã£os  
 Para os filhos de umbanda
 
-â€¦
+Ã¢â‚¬Â¦
 
 Ele vai, ele vai  
 Ele vai pra sua banda ele vai  
 Adeus terreira de umbanda  
 Ele foi pra sua banda, ele foi
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Adeus Treme-Terra, adeus  
 Sua banda lhe chama  
 Ele vai olÃ³, ele vai olÃ³  
 Nas folhas da Jurema  
 Na macaia de uma gira sÃ³  
-Adeus, adeusâ€¦  
+Adeus, adeusÃ¢â‚¬Â¦  
 Adeus Treme-Terra, adeus  
 Sua banda lhe chama  
 Ele foi olÃ³, ele foi olÃ³  
 Nas folhas da Jurema  
 Na macÃ¡ia de uma gira sÃ³  
-Adeus, adeusâ€¦
+Adeus, adeusÃ¢â‚¬Â¦
 
-**MACÃIA** â€” Lugar de retiro, em plena mata, onde os mÃ©diuns vÃ£o descansar e refazer as suas forÃ§as psÃ­quicas, no contato direto com a Natureza.
+**MACÃƒÂIA** Ã¢â‚¬â€ Lugar de retiro, em plena mata, onde os mÃ©diuns vÃ£o descansar e refazer as suas forÃ§as psÃƒÂ­quicas, no contato direto com a Natureza.
 
 ....
 
@@ -923,14 +923,14 @@ Com a graÃ§a de Deus
 Salve as Ã¡guas do mar  
 Salve MÃ£e Iara  
 Povo que sabe amar  
-Como o Ã­ndio Ibiraquara  
-Como o Ã­ndio Ibiraquara
+Como o ÃƒÂ­ndio Ibiraquara  
+Como o ÃƒÂ­ndio Ibiraquara
 
 Ã‰ do mar os marinheiros  
 Ã‰ das matas os caboclos  
 Manifesta-se no Brasil inteiro  
 Dispersa os maus em blocos  
-A alma do Ã­ndio brasileiro
+A alma do ÃƒÂ­ndio brasileiro
 
 SaravÃ¡, saravÃ¡, saravÃ¡  
 SaravÃ¡ Ondinas  

@@ -1,5 +1,5 @@
 ---\nlayout: page
-title: "PÃGINA DOS AMIGOS DIRIGENTES"
+title: "PÃƒÂGINA DOS AMIGOS DIRIGENTES"
 date: 2021-03-23
 ---
 
@@ -81,7 +81,7 @@ NÃ³s lhe imploramos toda graÃ§a e todo amor
 Na esperanÃ§a de cobrir com vosso manto
 
 MamÃ£e Oxum que vem de aruanda  
-Com divino espÃ­rito santo  
+Com divino espÃƒÂ­rito santo  
 Vem salvar filhos de umbanda
 
 MamÃ£e Oxum que vem de aruanda  
@@ -162,7 +162,7 @@ Na voz de Aladir e Isaura ( Hino da Casa de Ogum Beira-Mar)
 
 </figure>
 
-**CENTRO ESPÃRITA PAI JOÃƒO DE ARUANDA E SETE FLECHAS  
+**CENTRO ESPÃƒÂRITA PAI JOÃƒO DE ARUANDA E SETE FLECHAS  
 CABOCLO SETE FLECHAS** ( MÃ©dium Cleber )
 
 AtrÃ¡s daquela serra tem sete coqueiros  
@@ -182,7 +182,7 @@ Na voz de Cleber e ManuÃ©llu ( Pai JoÃ£o e Sete Flechas )
 
 </figure>
 
-**C****ENTRO ESPÃRITA REINO DE JANDIRA**  
+**C****ENTRO ESPÃƒÂRITA REINO DE JANDIRA**  
 **CABOCLA IANSÃƒ** ( MÃ©dium Sabrina )  
 
 Olha que o cÃ©u clareou  
@@ -224,8 +224,8 @@ Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )
 
 </figure>
 
-****ASSOCIAÃ‡ÃƒO DE UMBANDA PAI OXALÃ FRATERNIDADE PAI XANGÃ”****  
-**CABOCLO XANGÃ” DAS CACHOEIRAS** ( MÃ©dium _"Julinho"_ )
+****ASSOCIAÃ‡ÃƒO DE UMBANDA PAI OXALÃƒÂ FRATERNIDADE PAI XANGÃƒâ€****  
+**CABOCLO XANGÃƒâ€ DAS CACHOEIRAS** ( MÃ©dium _"Julinho"_ )
 
 Cachoeira da mata virgem  
 Aonde mora meu pai XangÃ´  

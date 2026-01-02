@@ -5,7 +5,7 @@ categories:
   - "sem-categoria"
 ---
 
-DifÃ­cil escolher palavras que transmitam tudo aquilo que sentimos nesse dia que ficarÃ¡ gravado pela eternidade em nossas almas!
+DifÃƒÂ­cil escolher palavras que transmitam tudo aquilo que sentimos nesse dia que ficarÃ¡ gravado pela eternidade em nossas almas!
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-11-09-as-11433199aeec6b.jpg)
 

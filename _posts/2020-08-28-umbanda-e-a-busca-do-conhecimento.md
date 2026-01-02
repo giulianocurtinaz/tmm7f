@@ -3,10 +3,10 @@ title: "Umbanda e a busca do conhecimento"
 date: 2020-08-28
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/screenshot_20200911-174815_wordpress.jpg"
+coverImage: "/tmm7f/assets/images/screenshot20200911-174815wordpress.jpg"
 ---
 
-Autores umbantistas e espÃ­ritias, recomendaÃ§Ãµes de obras bÃ¡sicas e o caminho do conhecimento espiritual.
+Autores umbantistas e espÃƒÂ­ritias, recomendaÃ§Ãµes de obras bÃ¡sicas e o caminho do conhecimento espiritual.
 
 <figure>
 

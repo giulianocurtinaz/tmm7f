@@ -3,7 +3,7 @@ title: "Primeira festa de Cosme e DamiÃ£o!"
 date: 2019-10-13
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/20191012_125552.jpg"
+coverImage: "/tmm7f/assets/images/20191012125552.jpg"
 ---
 
 - ![](/tmm7f/assets/images/20191012125558.jpg)

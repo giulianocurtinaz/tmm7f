@@ -14,7 +14,7 @@ Nesse dia 30 atendimentos foram realizados.
 
 Ao final dos trabalhos, o caboclo 7 flechas agradeceu e entregou uma flor para cada pessoa e mÃ©dium presente.
 
-O Evangelho nesse dia foi proferido pela irmÃ£ Terezinha e comentou-se sobre o capÃ­tulo 1 - **"Eu nÃ£o vim destruir a Lei"**.
+O Evangelho nesse dia foi proferido pela irmÃ£ Terezinha e comentou-se sobre o capÃƒÂ­tulo 1 - **"Eu nÃ£o vim destruir a Lei"**.
 
 ![](/tmm7f/assets/images/img-20190324-wa0005.jpg)
 

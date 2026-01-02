@@ -5,15 +5,15 @@ date: 2021-03-14
 
 [Ver somente os pontos faltantes](https://maemariaseteflechas.com.br/lista-de-pontos-cantados-faltantes/)
 
-Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras geraÃ§Ãµes que dirigirÃ£o nossos terreiros no futuro. Senti a necessidade de publicar esse riquÃ­ssimo material desenvolvido em 2007 pelos nossos amigos Darcy Dias da Silveira e Alcimar Bairros Pereira.
+Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras geraÃ§Ãµes que dirigirÃ£o nossos terreiros no futuro. Senti a necessidade de publicar esse riquÃƒÂ­ssimo material desenvolvido em 2007 pelos nossos amigos Darcy Dias da Silveira e Alcimar Bairros Pereira.
 
 Nossos irmÃ£o foram muito felizes ao reunirem em um Ãºnico livro os pontos cantados por nossas terreiras. **O objetivo agora, Ã© dar continuidade a esse trabalho, enaltecendo o passado e construindo o futuro**.
 
 Assim sendo, peÃ§o humildemente ajuda aos irmÃ£os umbandistas para literalmente **"darmos voz ao passado"**, **adicionando a esse rico material novos arquivos de Ã¡udio!**
 
-Com a permissÃ£o do Astral superior e sob a orientaÃ§Ã£o de nossos guias de Aruanda, peÃ§o que nos abenÃ§oem nesse novo movimento, tornando possÃ­vel a construÃ§Ã£o desse arquivo cultural da nossa Umbanda.
+Com a permissÃ£o do Astral superior e sob a orientaÃ§Ã£o de nossos guias de Aruanda, peÃ§o que nos abenÃ§oem nesse novo movimento, tornando possÃƒÂ­vel a construÃ§Ã£o desse arquivo cultural da nossa Umbanda.
 
-NÃ£o vamos permitir que pontos belÃ­ssimos sejam esquecidos! Umbanda Ã© movimento, Ã© forÃ§a, Ã© luz que chega a todos! Vamos juntos resgatar nosso passado, permitindo a construÃ§Ã£o de um futuro mais prÃ³spero e forte de nossa Umbanda!
+NÃ£o vamos permitir que pontos belÃƒÂ­ssimos sejam esquecidos! Umbanda Ã© movimento, Ã© forÃ§a, Ã© luz que chega a todos! Vamos juntos resgatar nosso passado, permitindo a construÃ§Ã£o de um futuro mais prÃ³spero e forte de nossa Umbanda!
 
 Ponto cantado Ã© forÃ§a! Ã‰ base, Ã© pilar de sustenÃ§Ã£o para nosso futuro! Que nossos guias permitam a realizaÃ§Ã£o desse projeto aqui na terra!
 
@@ -42,7 +42,7 @@ Para tudo iluminar
 A Umbanda Ã© paz e amor  
 Ã‰ um mundo cheio de Luz  
 Ã‰ forÃ§a que nos dÃ¡ vida  
-E Ã  grandeza nos conduz
+E ÃƒÂ  grandeza nos conduz
 
 Avante, filhos de fÃ©  
 Como a nossa lei nÃ£o hÃ¡  
@@ -60,7 +60,7 @@ Na voz de Giuliano (7 flechas)
 </figure>
 
   
-**â€¦.  
+**Ã¢â‚¬Â¦.  
 **
 
 Ã‰ um hino de glÃ³ria que fala  
@@ -171,7 +171,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 ....
 
-**HINO DA TURMA â€œFÃ‰, ESPERANÃ‡A E CARIDADEâ€**
+**HINO DA TURMA Ã¢â‚¬Å“FÃ‰, ESPERANÃ‡A E CARIDADEÃ¢â‚¬Â**
 
 Umbanda Ã© nosso caminho  
 A nossa forÃ§a nossa missÃ£o  
@@ -213,7 +213,7 @@ E por isso viveremos com amor
 
 MÃ£e Maria, proteja os seus filhos  
 Viemos lhe pedir com devoÃ§Ã£o  
-Suas bÃªnÃ§Ã£os e paz ao nosso espÃ­rito  
+Suas bÃªnÃ§Ã£os e paz ao nosso espÃƒÂ­rito  
 Seu amor em nossos coraÃ§Ãµes
 
 Queremos aprender a ser amigos  
@@ -253,7 +253,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 ....
 
-**TEMPLO DE UMBANDA PAI OXALÃ FRATERNIDADE OGUM DE RONDA**
+**TEMPLO DE UMBANDA PAI OXALÃƒÂ FRATERNIDADE OGUM DE RONDA**
 
 O negro nasceu escravo  
 Escravo o negro se criou  
@@ -317,7 +317,7 @@ Na voz de Alcimar Bairros Pereira (Terreira de Pai OxalÃ¡ Fat. Ogum de Ronda)
 
   
 
-## #OXALÃ
+## #OXALÃƒÂ
 
 Papai OxalÃ¡ tem pena de nÃ³s tem dÃ³  
 Se a volta do mundo Ã© grande  
@@ -336,7 +336,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 ....
 
 Abre a porta Oh gente  
-AÃ­ vÃªm Jesus  
+AÃƒÂ­ vÃªm Jesus  
 Ele vÃªm cansado  
 Com o peso da Cruz  
 Vem de rua em rua  
@@ -382,7 +382,7 @@ Na voz de Yaralacy ( Selma Neri de Campos )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Entrei na mata virgem  
 Foi OxalÃ¡ quem me guiou  
@@ -414,7 +414,7 @@ Na voz de Rosiclea ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Bendito e louvado seja  
 O nome de OxalÃ¡  
@@ -536,7 +536,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Foi Zambi que criou o mundo  
 E Ã© Zambi que vai comandar  
@@ -594,7 +594,7 @@ Quem sofre merece
 Pescador pegou veleiro e foi  
 Pescar no reino de YemanjÃ¡ | bis  
 Veleiro voltou sozinho  
-Pescador YemanjÃ¡ levouÂ   
+Pescador YemanjÃ¡ levouÃ‚Â   
 Ã‰ belo viver no mar  
 No reino de YemanjÃ¡ | bis  
   
@@ -610,9 +610,9 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 </figure>
 
-MÃ£e dâ€™Ã¡gua, rainha das ondas sereia do mar  
-MÃ£e dâ€™Ã¡gua seu canto Ã© bonito, quando tem luar  
-Vem Ã“h IemanjÃ¡, rainha das ondas sereia do mar  
+MÃ£e dÃ¢â‚¬â„¢Ã¡gua, rainha das ondas sereia do mar  
+MÃ£e dÃ¢â‚¬â„¢Ã¡gua seu canto Ã© bonito, quando tem luar  
+Vem Ãƒâ€œh IemanjÃ¡, rainha das ondas sereia do mar  
 Rainha das ondas sereia do mar  
 Como Ã© lindo o canto de IemanjÃ¡  
 faz atÃ© o pescador chorar
@@ -630,8 +630,8 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 </figure>
 
-Ã“h Iemanja, Ã³h Iemanja  
-Ã“h Iemanja vamos sarava, Ã³h Iemanja  
+Ãƒâ€œh Iemanja, Ã³h Iemanja  
+Ãƒâ€œh Iemanja vamos sarava, Ã³h Iemanja  
 Embarca na canoa passarinho voa  
 Quem manda lÃ¡ no mar, Ã© Iemanja  
 E a rainha lÃ¡ do mar, Ã© Iemanja  
@@ -716,7 +716,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Foi na areia, foi na areia  
 Eu fiz um pedido a mÃ£e sereia  
@@ -737,7 +737,7 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 MÃ£e Sereia tem o seu manto de ouro  
 Sua coroa brilha sobre as ondas do mar  
@@ -755,7 +755,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Sentada em cima de uma pedra  
 A pedra em cima da areia  
@@ -777,7 +777,7 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eram duas ventarolas, duas ventarolas  
 Que ventavam no mar  
@@ -794,7 +794,7 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Dia 8 de Dezembro dia de festa no mar  
 E eu quero ser o primeiro a saudar IemanjÃ¡  
@@ -806,7 +806,7 @@ Que eu tivesse paciÃªncia de esperar
 Chegou chegou chegou  
 Afinal o dia dela chegou
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Estava na beira da praia  
 Olhando as conchinhas brilhar  
@@ -904,7 +904,7 @@ Quem quer viver sobre a terra
 Quem quer viver sobre o mar  
 Ã‰ a cabocla Jandira  
 Ã‰ a serei do Mar  
-ÃŠ ruÃª ruÃª, ÃŠ ruÃª ruÃª, ÃŠ ruÃª ruÃª  
+ÃƒÅ  ruÃª ruÃª, ÃƒÅ  ruÃª ruÃª, ÃƒÅ  ruÃª ruÃª  
 Jandira
 
 <figure>
@@ -952,7 +952,7 @@ Todos os orixÃ¡s
 Pro alto do mar sagrado  
 Pra festa de IemanjÃ¡
 
-Ã‰s nossa mÃ£e Ã“h IemanjÃ¡  
+Ã‰s nossa mÃ£e Ãƒâ€œh IemanjÃ¡  
 Escuta a nossa prece e vem abenÃ§oar
 
 <figure>
@@ -965,7 +965,7 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A IemanjÃ¡ nÃ£o Ã© uma sereia  
 Ela Ã© a rainha lÃ¡ do mar  
@@ -974,7 +974,7 @@ Ela Ã© a rainha lÃ¡ do mar
 E sua coroa reluz  
 IemanjÃ¡ Ã© a mÃ£e de Jesus
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Joga flores no mar  
 Bate com o pÃ© e pede fÃ©  
@@ -986,7 +986,7 @@ Quem sofre merece, precisa levar
 Ode odÃ¡ ode odÃ¡ ode odÃ¡  
 Joga flores no mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Salve IemanjÃ¡, salve Oxum e NanÃ£  
 A mÃ£e sereia nÃ³s vamos saudar  
@@ -1009,7 +1009,7 @@ MÃ£e IemanjÃ¡ mÃ£e IemanjÃ¡
 Com a luz da estrela guia  
 Eu sei que vou chegar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Maria nossa mÃ£e extremosa  
 Baixai baixai como a rosa  
@@ -1029,7 +1029,7 @@ Na voz de RogÃ©rio (Sete Ondas)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Oh IemanjÃ¡, Oh IemanjÃ¡  
 Vamos saravÃ¡ Oh IemanjÃ¡  
@@ -1114,7 +1114,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 Oh Virgem Maria  
 Como Ã©s linda flor  
 Celeste harmonia  
-DulcÃ­ssimo amor
+DulcÃƒÂ­ssimo amor
 
 Manda em nossos lares  
 As bÃªnÃ§Ã£os de Deus  
@@ -1161,7 +1161,7 @@ Na voz de KÃ¡tia ( 7 flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 IemanjÃ¡ Ã© a rainha do mar  
 IemanjÃ¡ Ã© a rainha do mar  
@@ -1171,7 +1171,7 @@ Salve os guias, salve os santos
 Salve meu pai OxalÃ¡  
 IemanjÃ¡ Ã© a rainha do mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu fiz um pedido a sublime IemanjÃ¡  
 Rainha do sÃ©timo cÃ©u  
@@ -1217,7 +1217,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vi sentada na areia  
 Uma linda seria tÃ£o triste a choraaar  
@@ -1227,7 +1227,7 @@ Chora sereia, anareua
 Chora sereia e leva a tristeza  
 Pro fundo do maaar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Desce oh mÃ£e do teu reino dourado  
 Olha seus filhos com teu divino amor  
@@ -1283,7 +1283,7 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ele Ã© do mar, ele Ã© caboclo flecheiro  
 Ã‰ o Sete Ondas de IemanjÃ¡  
@@ -1316,8 +1316,8 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 Galera estÃ¡ no mar, ai vamos todos remar  
 Galera estÃ¡ no mar, ai vamos todos remar  
-AÃ­ vem pai Sete Ondas, mensageiro de IemanjÃ¡  
-AÃ­ vem pai Sete Ondas, vamos todos sarava
+AÃƒÂ­ vem pai Sete Ondas, mensageiro de IemanjÃ¡  
+AÃƒÂ­ vem pai Sete Ondas, vamos todos sarava
 
 <figure>
 
@@ -1339,7 +1339,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Quando a lua surgir  
 Ela vai clarear  
@@ -1376,7 +1376,7 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SaravÃ¡ OxalÃ¡ e IemanjÃ¡  
 SaravÃ¡ Ogum de Ronda  
@@ -1407,7 +1407,7 @@ Olha quem vem trabalhar
 Que vem lÃ¡ do mar  
 NÃ³s queremos o Sete Ondas  
 Cacique para nos guiar  
-AÃ­ vem o cacique Sete Ondas  
+AÃƒÂ­ vem o cacique Sete Ondas  
 Junto com a mÃ£e IemanjÃ¡ ( bis )  
 Nas ondas flutuando  
 Vem o cacique guerreiro  
@@ -1444,7 +1444,7 @@ Na voz de RogÃ©rio (Sete Ondas)
 ....
 
 Baixai, baixai,  
-Ã“h Virgem da ConceiÃ§Ã£o  
+Ãƒâ€œh Virgem da ConceiÃ§Ã£o  
 Maria Imaculada pra tirar perturbaÃ§Ã£o  
 Se tiveres praga de alguÃ©m,  
 desde jÃ¡ seja retirado  
@@ -1619,7 +1619,7 @@ NÃ³s lhe imploramos toda graÃ§a e todo amor
 Na esperanÃ§a de cobrir com vosso manto
 
 MamÃ£e Oxum que vem de aruanda  
-Com divino espÃ­rito santo  
+Com divino espÃƒÂ­rito santo  
 Vem salvar filhos de umbanda
 
 MamÃ£e Oxum que vem de aruanda  
@@ -1636,12 +1636,12 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ela Ã© uma flor, no jardim do Senhor  
-ElaÂ Ã© uma rosa, uma rosa em botÃ£o  
-ElaÂ Ã© toda **candura**,Â elaÂ Ã© toda pureza,Â elaÂ Ã© todo amor  
-ElaÂ Ã© a Senhora Da ConceiÃ§Ã£o
+ElaÃ‚Â Ã© uma rosa, uma rosa em botÃ£o  
+ElaÃ‚Â Ã© toda **candura**,Ã‚Â elaÃ‚Â Ã© toda pureza,Ã‚Â elaÃ‚Â Ã© todo amor  
+ElaÃ‚Â Ã© a Senhora Da ConceiÃ§Ã£o
 
 **Candura**: Qualidade de quem Ã© cÃ¢ndido, puro, inocente: trato, candidez, candor, amabilidade, candideza, castidade, doÃ§ura, gentileza, honestidade, honra, honradez, inocÃªncia, integridade, lhaneza, lhanura, lisura, pureza, singeleza, virgindade, virtude  
 
@@ -1687,16 +1687,16 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vi mamÃ£e Oxum na cachoeira  
 Sentada na beira do rio  
 Eu vi mamÃ£e Oxum na cachoeira  
 Sentada na beira do rio
 
-Colhendo lÃ­rio lÃ­rio Ãª  
-Colhendo lÃ­rio lÃ­rio Ã¡  
-Colhendo lÃ­rios pra enfeitar nosso congÃ¡
+Colhendo lÃƒÂ­rio lÃƒÂ­rio Ãª  
+Colhendo lÃƒÂ­rio lÃƒÂ­rio Ã¡  
+Colhendo lÃƒÂ­rios pra enfeitar nosso congÃ¡
 
 <figure>
 
@@ -1708,7 +1708,7 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Numa noite linda de lua cheia  
 Eu vi Oxum na cachoeira  
@@ -1745,7 +1745,7 @@ Na voz de Alcimar ( Ogum de Ronda
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A lua vem surgindo  
 Clareando a cachoeira  
@@ -1808,7 +1808,7 @@ OxÃ³ssi jÃ¡ vem no terreiro
 OxÃ³ssi ao sair das matas  
 OxÃ³ssi assovia pra seus companheiros
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Na minha aldeia eu sou caboclo  
 Sou rompe mato e arranca toco  
@@ -1830,7 +1830,7 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Que bombardeio que se deu lÃ¡ na aldeia  
 Que sua palhoÃ§a OxÃ³ssi quis abandonar  
@@ -1852,7 +1852,7 @@ Na voz de Rosiclea ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Caboclo roxo, da pele morena  
 Ele Ã© OxÃ³ssi, caÃ§ador lÃ¡ da Jurema  
@@ -1869,7 +1869,7 @@ Na voz de Nilza e Aparecida ( dirigentes do Terreiro de Ubirajara )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Foi Zambi quem criou o mundo  
 Ã‰ Zambi quem vai comandar  
@@ -1878,7 +1878,7 @@ Que ilumina OxÃ³ssi lÃ¡ na Jurema
 Coquei, coquei, coquei  
 Coquei meu caboclo Tupi
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Atira, atira  
 eu Atirei no BambÃ¡  
@@ -1940,7 +1940,7 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu estava na mata virgem  
 Com minha flecha  
@@ -1951,7 +1951,7 @@ Aqui estÃ¡ o caboclo
 Da mata virgem  
 Pra trabalhar pros filhos de OxalÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 OxalÃ¡ Velhinho!  
 OxalÃ¡ daodÃ©!  
@@ -1974,7 +1974,7 @@ Na mata a trabalhar
 Arranca folha, soca erva, tira seiva  
 Pros filhos de umbanda reforÃ§ar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vou pedir licenÃ§a pra OxÃ³ssi  
 Pra trabalhar lÃ¡ nas matas da Jurema  
@@ -2015,7 +2015,7 @@ AruÃª, aruÃª, aruÃ¡
 Chegou Araguassu  
 Das tribos Araguaia
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 AraguassÃº que vem de aruanda  
 Com suas flechas vem trabalhar  
@@ -2066,13 +2066,13 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 LÃ¡ na mata Ã© sÃ³ caboclo  
 LÃ¡ na mata Ã© sÃ³ caboclo  
 Quem manda nessa mata  
 Ã‰ o cacique Arranca Toco  
-AruÃª, AruÃª, AruÃ¡â€¦  
+AruÃª, AruÃª, AruÃ¡Ã¢â‚¬Â¦  
 Quem manda nessas matas  
 Ã‰ o cacique Arranca Toco
 
@@ -2086,7 +2086,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Caboclo Arranca-Toco  
 Ã‰ minha luz, Ã© minha guia  
@@ -2114,8 +2114,8 @@ Quem rompe a mata virgem
 Quem rompe a mata virgem  
 Ã‰ o cacique Ubirajara
 
-Corta lÃ­ngua, corta mironga  
-Corta lÃ­ngua de falador  
+Corta lÃƒÂ­ngua, corta mironga  
+Corta lÃƒÂ­ngua de falador  
 Pra sua espada nÃ£o hÃ¡ embaraÃ§o  
 Chegou Ubirajara do Peito de AÃ§o
 
@@ -2149,7 +2149,7 @@ Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Em cima de uma pedra branca  
 Ao lado de um pÃ© de aÃ§ucena  
@@ -2208,7 +2208,7 @@ Na voz de Aline - Dirigente MÃ£e Maria
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Como Ã© lindo o romper do dia  
 Na sua aldeia canta a passarada  
@@ -2241,7 +2241,7 @@ Vem trabalhar nesse conga
 O senhor pena branca, E Ã´  
 O senhor pena branca, E Ã¡  
 JÃ¡ baixou nesse conga  
-Enviado de OxalÃ¡Â   
+Enviado de OxalÃ¡Ã‚Â   
 Para os filhos ajudar  
 A curar o mal q for  
 O senhor pena branca, E Ã´  
@@ -2255,20 +2255,20 @@ Salve senhor pena branca
 que baixou nesse conga  
 com a permissÃ£o de OxalÃ¡  
 Para os filhos ajudar sarava  
-Senhor pena brancaÂ  okÃª okÃª cabÃ´clo
+Senhor pena brancaÃ‚Â  okÃª okÃª cabÃ´clo
 
 ....
 
 **Caboclo AimorÃ©**
 
-A Ã¡gua com areia nÃ£o pode demandar a Ã¡gua vai emboraÂ   
+A Ã¡gua com areia nÃ£o pode demandar a Ã¡gua vai emboraÃ‚Â   
 E a areia fica no lugar  
 Oi zum, zum, zum, zum,  
 Chegou o AimorÃ©  
 Caboclo guerreiro  
 Vem salvar filhos de fÃ©.
 
-**AimorÃ©**: Grupo indÃ­gena que nÃ£o falava Tupi  
+**AimorÃ©**: Grupo indÃƒÂ­gena que nÃ£o falava Tupi  
 
 <figure>
 
@@ -2319,14 +2319,14 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 ....
 
-**Ãguia Branca**
+**ÃƒÂguia Branca**
 
-Ãguia Branca que vem de Aruanda  
+ÃƒÂguia Branca que vem de Aruanda  
 E vem sozinho pra trabalhar  
 PorÃ©m apitando trÃªs vezes  
 Sua falange vem ajudar  
 Na terreira de MÃ£e Maria  
-O Ãguia Branca vem trabalhar  
+O ÃƒÂguia Branca vem trabalhar  
 Salve este grande luzeiro  
 Ã‰ mensageiro do Pai OxalÃ¡
 
@@ -2434,7 +2434,7 @@ Ele Ã© o rei da mata
 A sua bodoque atira paranga  
 Sua flecha mata
 
-**Paranga**Â Ã© um objeto parecido com uma flecha que Ã© "atirado" de uma arma indÃ­gena chamada bodoque (semelhante ao estilingue)
+**Paranga**Ã‚Â Ã© um objeto parecido com uma flecha que Ã© "atirado" de uma arma indÃƒÂ­gena chamada bodoque (semelhante ao estilingue)
 
 <figure>
 
@@ -2465,7 +2465,7 @@ Salve o Sete Flechas que chegou aqui
 Salve o Tabajara, TupinambÃ¡ e o Arari  
 Salve o Sete Flechas que baixou aqui  
 
-O ponto acima Ã© minha homenagem Ã s entidades que Marcaram meu desenvolvimento mediÃºnico (Giuliano Curtinaz)  
+O ponto acima Ã© minha homenagem ÃƒÂ s entidades que Marcaram meu desenvolvimento mediÃºnico (Giuliano Curtinaz)  
 
 <figure>
 
@@ -2538,7 +2538,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 TupinambÃ¡, TupinambÃ¡  
 Filho de umbanda  
@@ -2559,7 +2559,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Os filhos de umbanda  
 Vem de lÃ¡ e vem de cÃ¡  
@@ -2568,7 +2568,7 @@ Quem chega na terreira
 Traz sua proteÃ§Ã£o  
 Com sua flecha na mÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 LÃ¡ na mata tem guinÃ©  
 TupinambÃ¡ se ajoelhou, oh, oh, oh  
@@ -2607,9 +2607,9 @@ Quem Ã© aquele caboclo
 Que vem lÃ¡ de longe?  
 Ã‰ Tupimirim!  
 Filho de TupinambÃ¡  
-Ele vem montadoÂ   
-Ele vem calÃ§adoÂ   
-ele vem saudarÂ pai oxalÃ¡.
+Ele vem montadoÃ‚Â   
+Ele vem calÃ§adoÃ‚Â   
+ele vem saudarÃ‚Â pai oxalÃ¡.
 
 <figure>
 
@@ -2638,7 +2638,7 @@ Ele vem calÃ§ado
 Ele vem saudar  
 O Rei OxalÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Tupimirim, Ãªh, Ãªh TupinambÃ¡  
 Tupimirim, Ãªh, Ãªh TupinambÃ¡  
@@ -2688,7 +2688,7 @@ Que caiu aqui?
 Ã‰ arma de guerra  
 Do nosso pai Tupi
 
-SavarÃ¡ TupaÃ­ba  
+SavarÃ¡ TupaÃƒÂ­ba  
 SaravÃ¡ meu irmÃ£o  
 Salve o povo das matas  
 E o caboclo UbiratÃ£
@@ -2801,7 +2801,7 @@ Na Voz de Martinha (Cambona do Pai Bento - Terreira de MÃ£e Maria)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Jurema do juremeiro  
 Do reino de juemÃ¡  
@@ -2813,7 +2813,7 @@ Jurema vem trabalhar
 Sua flecha caiu serena Oh Jurema  
 Dentro desse congÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Jurema do juremeiro  
 Do reino de Jurema  
@@ -2835,7 +2835,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ai Jureminha, ai Jurema  
 Sua flecha caiu serena Jurema  
@@ -2855,7 +2855,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ai Jureminha, ai Jurema  
 Sua flecha caiu serena Jurema  
@@ -2875,19 +2875,19 @@ Mas posso te ajudar
 SÃ³ quero ganhar depois  
 Balas, doces e guaranÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Jurema, sua flecha brilhou Jurema  
 Quando sua flecha atirou Jurema  
 E quando essa flecha subiu  
-Ã” Jurema flecheira  
+Ãƒâ€ Jurema flecheira  
 Essa terreira iluminou  
 Salve Jurema do Juremeiro  
 Que no reino vem trabalhar  
 Salve Jurema da mata virgem  
 Do reino de JuremÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Como sÃ£o lindos os cabelos de Jurema  
 A luz brilhante do seu olhar  
@@ -2906,7 +2906,7 @@ Na voz de Rosiclea ( 7 flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ã‰ tÃ£o bonita a cabocla Jurema  
 Nas matas de OxÃ³ssi  
@@ -2920,7 +2920,7 @@ OxÃ³ssi na mata assoviou
 Ele saudou, ele saudou  
 A cabocla que chegou
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vim da mata virgem  
 DÃ¡ licenÃ§a que venho trabalhar  
@@ -2956,7 +2956,7 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A lua veio iluminou a mata virgem  
 Iluminou a linda cabocla Jurema  
@@ -2976,7 +2976,7 @@ Na voz de Rosiclea ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Jurema Ã© flecheira  
 A flecha nÃ£o erra pontaria  
@@ -2993,7 +2993,7 @@ Na Voz de Martinha (Cambona do Pai Bento - Terreira de MÃ£e Maria)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Companheiros de Jurema  
 Ai de mim tÃ£o sÃ³  
@@ -3018,7 +3018,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 O vento estÃ¡ soprando nas matas  
 Jogando as folhas da Jurema no chÃ£o  
@@ -3031,7 +3031,7 @@ Caboclo arriando
 Caboclo arriando  
 Olha a mata quebrando
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A mata estava tÃ£o linda  
 Brilhava a luz do luar  
@@ -3048,7 +3048,7 @@ Apareceu a rainha de NanÃ£
 E recolhendo as flores de Jurema  
 Jogou na areia uma estrela do mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eh JuremÃª, Eh Jurema  
 Sua flecha caiu serena Jurema  
@@ -3067,7 +3067,7 @@ Na voz de Rosiclea ( 7 flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu me perdi mamÃ£e  
 Eu me perdi, lÃ¡ na mata  
@@ -3124,7 +3124,7 @@ Na voz de Aline - Dirigente MÃ£e Maria
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vou chamar a corrente de Jurema  
 Ai vem a Jureminha, Ã© JuremÃª e JuremÃ¡
@@ -3141,7 +3141,7 @@ Jurema, Jurema
 Atirando suas flechas  
 Jurema vem no congÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Na mata eu vi o sabiÃ¡ cantar  
 Ai eu queria ver o sabiÃ¡ cantando  
@@ -3224,7 +3224,7 @@ Na voz de Martinha ( MÃ£e Maria )
 
 ....
 
-### #**XANGÃ”**
+### #**XANGÃƒâ€**
 
 No alto da pedreira, estÃ¡ XangÃ´  
 Senhor do meu destino atÃ© o fim ( bis )  
@@ -3272,7 +3272,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 XangÃ´ do fogo  
 Trazendo seus dois machados  
@@ -3325,7 +3325,7 @@ Na voz de AndrÃ©ia e Cleber (Pai JoÃ£o de Aruanda e 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pedra rolou pai XangÃ´  
 LÃ¡ na pedreira  
@@ -3346,7 +3346,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Por de trÃ¡s daquela serra  
 Tem uma linda cachoeira  
@@ -3365,7 +3365,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Quem rola pedra na pedreira  
 Ã‰ XangÃ´, Ã© XangÃ´  
@@ -3384,7 +3384,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 KaÃ´, kaÃ´ XangÃ´  
 XangÃ´ vem me ajudar
@@ -3438,7 +3438,7 @@ Na voz de Martinha - Cambona do Pai Bento ( MÃ£e Maria )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 O trovÃ£o na pedreira ribombo-Ã´  
 O trovÃ£o na pedreira ribombo-Ã´  
@@ -3463,7 +3463,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 LÃ¡ no alto daquela pedreira  
 Tem um livro que Ã© de XangÃ´  
@@ -3484,7 +3484,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ele bradou na aldeia  
 Bradou na cachoeira em noite de Luar  
@@ -3533,7 +3533,7 @@ Na voz de Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 IansÃ£ estava sentada  
 Esperando o pai XangÃ´  
@@ -3543,7 +3543,7 @@ Quem nÃ£o pode nÃ£o demanda
 Que o rei da umbanda  
 Ã‰ pai XangÃ´
 
-**Corisco**: faÃ­sca elÃ©trica da atmosfera, acompanhada ou nÃ£o de trovÃ£o; raio.
+**Corisco**: faÃƒÂ­sca elÃ©trica da atmosfera, acompanhada ou nÃ£o de trovÃ£o; raio.
 
 ....
 
@@ -3554,7 +3554,7 @@ Eu encontrei Pai XangÃ´ lÃ¡ sentado
 Com IemanjÃ¡ e Oxum  
 E Santa BÃ¡rbara a seu lado  
 
-**Cariri**: RegiÃ£o e Povo indÃ­gena do Nordeste brasileiro, significa Calado. Faria mais sentido no ponto se fosse cantado "Na terra de Cariri."
+**Cariri**: RegiÃ£o e Povo indÃƒÂ­gena do Nordeste brasileiro, significa Calado. Faria mais sentido no ponto se fosse cantado "Na terra de Cariri."
 
 <figure>
 
@@ -3566,7 +3566,7 @@ Na voz de Sandra ( Ubirajara )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 KenguelÃª, kenguelÃª XangÃ´  
 Ele Ã© filho da cobra coral  
@@ -3585,7 +3585,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 XangÃ´, XangÃ´ meu pai XangÃ´  
 KaÃ´ kabecile obÃ¡ XangÃ´  
@@ -3597,7 +3597,7 @@ SaravÃ¡ XangÃ´, saravÃ¡ XangÃ´
 
 **KaÃ´ CabecilÃª**: SaudaÃ§Ã£o utilizada para saudar o rei XangÃ´, significa: venham saudar o rei
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Na pedreira da mata virgem  
 Onde mora meu pai XangÃ´  
@@ -3627,7 +3627,7 @@ O seu grito Ã© muito forte
 Seu machado tem bom corte  
 O meu rei Ã© XangÃ´
 
-BombaruÃª: nome de uma pessoa, de uma montanha ou de um paÃ­s  
+BombaruÃª: nome de uma pessoa, de uma montanha ou de um paÃƒÂ­s  
   
 
 <figure>
@@ -3657,7 +3657,7 @@ E lÃ¡ encontrei pai XangÃ´ que dizia
 Zum, zum, zum Ã© XangÃ´, Ã© kaÃ´  
 Ã‰ zum, zum, zum Ã© XangÃ´ agodÃ´
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Bate, bate no tambor  
 Bate, bate pra XangÃ´  
@@ -3682,7 +3682,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 XangÃ´ Ã´, XangÃ´ Ã´  
 meu pai vem me ajudar  
@@ -3862,7 +3862,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Em cima de uma pedra branca  
 Ao lado de um pÃ© de aÃ§ucena  
@@ -3927,7 +3927,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Caboclo do Vento vem descendo da pedreira  
 Trazendo flores pra enfeitar nossa terreira  
@@ -3976,7 +3976,7 @@ Zum, zum, zum o caboclo assim dizia
 Sou caboclo e sou flecheiro  
 Sou Caboclo Ventania
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Veado no campo Ã© corredor  
 Caboclo no mato Ã© caÃ§ador  
@@ -4188,7 +4188,7 @@ Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )
 </figure>
 
   
-â€¦.
+Ã¢â‚¬Â¦.
 
 IansÃ£ Ã© uma moÃ§a bonita  
 Ela Ã© dona do seu jacutÃ¡  
@@ -4196,7 +4196,7 @@ Eparrei, eparrei, eparrei
 O mamÃ£e de aruanda  
 Firma seu ponto que eu quero ver
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SaravÃ¡ IansÃ£  
 Dos cabelos loiros  
@@ -4283,7 +4283,7 @@ Na voz de Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A trovoada trovejou lÃ¡ na pedreira  
 Iluminou a cachoeira, tremeu toda a terra  
@@ -4330,7 +4330,7 @@ forte e audaz cavaleiro.
 
 Eu vi os soldados de Ogum  
 Trabalhando na pedreira de XangÃ´, kaÃ´  
-tirando as pedras do caminhoÂ   
+tirando as pedras do caminhoÃ‚Â   
 Por onde OxalÃ¡ passou  
 Salve iansÃ£ lÃ¡ na pedreira  
 MÃ£e Oxum na cachoeira  
@@ -4355,7 +4355,7 @@ XangÃ´ rolou a pedra na pedreira
 No mar se estende o manto de YemanjÃ¡  
 MamÃ£e Oxum canta na cachoeira  
 Reluz a espada de Ogum a trabalhar  
-Ogum megÃª |Â   
+Ogum megÃª |Ã‚Â   
 Vem de aruanda | bis  
 Seus filhos proteger
 
@@ -4418,7 +4418,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
   
 ....
 
-Quem me dera OgumÂ   
+Quem me dera OgumÃ‚Â   
 Para ser meu guia  
 Mas, ele Ã© de cavalaria  
 Ã‰ ordenanÃ§a  
@@ -4488,7 +4488,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum olha sua bandeira  
 Ela Ã© branca, verde ou encarnada  
@@ -4523,7 +4523,7 @@ Na voz de Mercedes ( Sete Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu tenho sete espadas pra me defender  
 Eu tenho Ogum em minha companhia  
@@ -4551,7 +4551,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 ClarÃ£o da lua, clareou as matas  
 E uma luzinha jÃ¡ brilhou no ar  
@@ -4570,7 +4570,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Por entre matas, por entre mares,  
 e terras eu entendi o que meu pai quis dizer  
@@ -4590,7 +4590,7 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Salve SÃ£o Jorge Guerreiro  
 Traz a sua espada de aÃ§o  
@@ -4676,7 +4676,7 @@ Bravo soldado por Deus santificado
 Seu nome Ã© proclamado em todo o Brasil ( bis )
 
 **Altaneiro**: Elevado; que permanece numa altura excessiva: voo altaneiro.  
-**Varonil**: CaracterÃ­stico ou particular do homem; viril. Que apresenta coragem; que age de maneira destemida; arrojado.
+**Varonil**: CaracterÃƒÂ­stico ou particular do homem; viril. Que apresenta coragem; que age de maneira destemida; arrojado.
 
 <figure>
 
@@ -4688,7 +4688,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 EstÃ£o batendo na porta  
 Ã‰ SÃ£o Jorge, o guerreiro  
@@ -4737,7 +4737,7 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SÃ£o Jorge Ã© quem estÃ¡ de ronda  
 Com sua cavalaria  
@@ -4783,7 +4783,7 @@ Na hora de Deus, Ã´ meu Deus
 
 <figcaption>
 
-Ponto cantado pela Tenda EspÃ­rita Nossa Senhora da Piedade ( Terreira de **ZÃ©lio Fernandino de Moraes** )
+Ponto cantado pela Tenda EspÃƒÂ­rita Nossa Senhora da Piedade ( Terreira de **ZÃ©lio Fernandino de Moraes** )
 
 </figcaption>
 
@@ -4798,7 +4798,7 @@ Caminho longo nÃ£o hÃ¡
 Ã‰ militar quem estÃ¡ de ronda
 
   
-â€¦.
+Ã¢â‚¬Â¦.
 
 <figure>
 
@@ -4817,7 +4817,7 @@ Risca ponto meu irmÃ£o
 Quem Ã© da linha da Umbanda  
 Tem sempre a pemba na mÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SaravÃ¡, saravÃ¡ SÃ£o Jorge  
 Salve seu brado varonil  
@@ -4830,7 +4830,7 @@ Cor de anil
 Salve suas homenagens  
 Salve o 23 de abril
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Tem festa do terreiro  
 Tem festa no congÃ¡
@@ -4852,7 +4852,7 @@ Como SÃ£o Jorge venceu o dragÃ£o
 E eu vencerei na vida  
 Como SÃ£o Jorge venceu o dragÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum de lei, Ogum MegÃª, Ogum Iara  
 SÃ£o Jorge Ã© guerreiro  
@@ -4864,15 +4864,15 @@ Ogum Ã© sentinela de IemanjÃ¡
 Ogum venceu demanda  
 Aqui na terra e lÃ¡ no mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
-Ã” Ã” Ogum  
+Ãƒâ€ Ãƒâ€ Ogum  
 Ogum de Lei quem manda Ã© Zambi  
 Ogum de Lei quem manda Ã© Zambi  
 Corre corre toda a gira  
 Corre corre toda a gira  
 Oh pra saudar filhos de Umbanda  
-Ai foi o Sol, aÃ­ vem a Lua, eu vou girar  
+Ai foi o Sol, aÃƒÂ­ vem a Lua, eu vou girar  
 Eu vou girar na linha de Umbanda  
 Eu vou girar, Eu vou girar  
 Eu vou girar  
@@ -4964,7 +4964,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 <figcaption>
 
-Ponto cantado pela Tenda EspÃ­rita Nossa Senhora da Piedade ( Terreira de **ZÃ©lio Fernandino de Moraes** )
+Ponto cantado pela Tenda EspÃƒÂ­rita Nossa Senhora da Piedade ( Terreira de **ZÃ©lio Fernandino de Moraes** )
 
 </figcaption>
 
@@ -4976,7 +4976,7 @@ Ponto cantado pela Tenda EspÃ­rita Nossa Senhora da Piedade ( Terreira de **Z�
 Ai o meu pai Ã© o maior na espada  
 Vem comandando a sua cavalaria  
 Meu pai Ã© SÃ£o Jorge  
-E a estrela Dâ€™Alva Ã© a nossa guia  
+E a estrela DÃ¢â‚¬â„¢Alva Ã© a nossa guia  
 Meu pai que cavaleiro Ã© esse  
 Que pisa no chÃ£o  
 Matando o dragÃ£o?  
@@ -4993,7 +4993,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Levanta a bandeira de Ogum  
 Que os seus filhos vÃ£o trabalhar  
@@ -5001,7 +5001,7 @@ Salve o reino de OxalÃ¡
 E salve esse congÃ¡  
 E as sete linhas de orixÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Vence demanda, ele tocou clarim  
 Venceu demanda, ele tocou clarim  
@@ -5032,7 +5032,7 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum Ã© SÃ£o Jorge guerreiro  
 Vencedor de batalha em HumaitÃ¡  
@@ -5040,7 +5040,7 @@ Ele Ã© filho dileto de pai olorum
 Sentinela avanÃ§ada de pai OxalÃ¡  
 Vence batalha, vence demanda  
 Ogum glorioso orixÃ¡ na umbanda  
-Ilumina meu regi â€“ Ãª de meu arerÃª  
+Ilumina meu regi Ã¢â‚¬â€œ Ãª de meu arerÃª  
 Fortalece minha fÃ©, firma meu camutuÃª  
 Ogum MegÃª, Ogum de Lei  
 Ogum de Lei, Ogum MegÃª  
@@ -5063,13 +5063,13 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SaravÃ¡ Ogum e a coroa de lei | bis  
 Ogum de **NagÃ´**  
 Ogum de **MalÃª**
 
-**NagÃ´/MalÃª:** Uma revolta de escravos africanos ocorreu em Salvador, na madrugada de 25 de janeiro de 1835. O movimento envolveu cerca de 600 homens. Tratava-se, em sua imensa maioria, de negros muÃ§ulmanos, em especial da etnia nagÃ´, de lÃ­ngua iorubÃ¡. Vem daÃ­ o nome que a rebeliÃ£o recebeu: Revolta dos MalÃªs. A expressÃ£o "malÃª" provÃ©m de "imalÃª", que no idioma iorubÃ¡ significa muÃ§ulmano.
+**NagÃ´/MalÃª:** Uma revolta de escravos africanos ocorreu em Salvador, na madrugada de 25 de janeiro de 1835. O movimento envolveu cerca de 600 homens. Tratava-se, em sua imensa maioria, de negros muÃ§ulmanos, em especial da etnia nagÃ´, de lÃƒÂ­ngua iorubÃ¡. Vem daÃƒÂ­ o nome que a rebeliÃ£o recebeu: Revolta dos MalÃªs. A expressÃ£o "malÃª" provÃ©m de "imalÃª", que no idioma iorubÃ¡ significa muÃ§ulmano.
 
 <figure>
 
@@ -5106,22 +5106,22 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 **Ogum Beira Mar**
 
-Beira Mar auÃªâ€¦ Beira Mar  
-Beira Mar auÃªâ€¦ Beira Mar
+Beira Mar auÃªÃ¢â‚¬Â¦ Beira Mar  
+Beira Mar auÃªÃ¢â‚¬Â¦ Beira Mar
 
 Estava lÃ¡ na aruanda  
 Estava no meu congÃ¡  
 Estava na minha ronda  
 AlguÃ©m me mandou chamar  
-Beira Mar auÃªâ€¦ Beira Mar  
-Beira Mar auÃªâ€¦ Beira Mar
+Beira Mar auÃªÃ¢â‚¬Â¦ Beira Mar  
+Beira Mar auÃªÃ¢â‚¬Â¦ Beira Mar
 
 Ogum jÃ¡ jurou bandeira  
 Nas portas do HumaitÃ¡  
 Ogum jÃ¡ venceu demanda  
 Vamos todos saravar  
-Beira Mar auÃªâ€¦ Beira Mar  
-Beira Mar auÃªâ€¦ Beira Mar
+Beira Mar auÃªÃ¢â‚¬Â¦ Beira Mar  
+Beira Mar auÃªÃ¢â‚¬Â¦ Beira Mar
 
 <figure>
 
@@ -5133,7 +5133,7 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vi uma luzinha tÃ£o longe  
 Iluminava as ondas do mar  
@@ -5155,7 +5155,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A sua corrente Ã© tÃ£o forte  
 Que abalou o mundo inteiro  
@@ -5183,7 +5183,7 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum que abalou as estrelas  
 Que abalou toda a areia  
@@ -5192,7 +5192,7 @@ Ogum ele veio de lÃ¡
 Ogum ele vem trabalhar  
 Ogum ele Ã© seu Ogum Beira Mar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum quando chega no reino  
 Todos dizem que ele Ã© poderoso  
@@ -5222,7 +5222,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Como Ã© linda a coroa de IemanjÃ¡  
 Vem brilhando nas ondas do mar  
@@ -5256,7 +5256,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Oh seu Ogum Beira Mar  
 O que que trouxe do mar  
@@ -5278,7 +5278,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SÃ£o Jorge, SÃ£o Jorge  
 Olhai nossos terreiros  
@@ -5298,7 +5298,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ele Ã© Ogum, ele vem do mar  
 Trazendo as forÃ§as da mÃ£e IemanjÃ¡  
@@ -5323,7 +5323,7 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Que cavaleiro Ã© aquele  
 Que vem galopando pelo cÃ©u azul  
@@ -5362,7 +5362,7 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Olha que lindo barquinho  
 Que vem navegando em pleno luar  
@@ -5371,7 +5371,7 @@ Que vem ao encontro de Ogum Beira Mar
 Ele Ã©, ele Ã©, ele Ã©, ele Ã© o nosso defensor  
 Ele Ã©, ele Ã©, ele Ã© mensageiro de nosso senhor
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Em seu cavalo branco  
 Com sua espada  
@@ -5509,7 +5509,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Seu capacete Ã© de ouro  
 A sua espada Ã© dourada  
@@ -5553,7 +5553,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Cruza flechas e lanÃ§as  
 LÃ¡ no reino da Jurema  
@@ -5663,7 +5663,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Qual o Ogum que bebe  
 E fuma na Umbanda  
@@ -5754,7 +5754,7 @@ RogÃ©rio - Sete Ondas
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ogum da Lua, ori babÃ¡ orixÃ¡  
 Ogum do luar que gira pra OxalÃ¡  
@@ -5807,7 +5807,7 @@ SÃ£o Jorge Ã© guerreiro
 Que ronda na terra, que ronda no mar
 
 Segundo Alcimar, o termo "Girar"estÃ¡ empregado incorretamente neste ponto, no ponto original cantava-se "DINAR".  
-**Dinar** Ã© uma moeda de ouro cunhada pelos Ã¡rabes desde fins do sVII e corrente na penÃ­nsula IbÃ©rica no sXII;
+**Dinar** Ã© uma moeda de ouro cunhada pelos Ã¡rabes desde fins do sVII e corrente na penÃƒÂ­nsula IbÃ©rica no sXII;
 
 <figure>
 
@@ -5829,7 +5829,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 OxÃ³ssi assoviou lÃ¡ no HumaitÃ¡  
 OxÃ³ssi assoviou lÃ¡ no HumaitÃ¡  
@@ -5933,7 +5933,7 @@ Na voz de Alcimar ( Ogum de Ronda
 **COSME E DAMIÃƒO**
 
 Eu vou pedir a OxalÃ¡  
-Ã€ IemanjÃ¡ minha mÃ£e minha rainha  
+Ãƒâ‚¬ IemanjÃ¡ minha mÃ£e minha rainha  
 Para mandar Cosme e DamiÃ£o  
 Para que venham abenÃ§oar as criancinhas
 
@@ -5957,7 +5957,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Papai mandou as criancinhas  
 Apanhar as flores no jardim  
@@ -5979,7 +5979,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Cosme e DamiÃ£o  
 CrianÃ§as que contam conchinhas lÃ¡ na beira do mar  
@@ -5988,7 +5988,7 @@ Cantava a sereia
 Cantava a mÃ£e Iemanja  
 E cantava o pai Sete Ondas  
 E cantava Ogum beira-mar  
-Jandira, Jupira sÃ£o duasÂ   
+Jandira, Jupira sÃ£o duasÃ‚Â   
 Sereias do mar  
 Que ao ver as crianÃ§as brincando elas se puseram a cantar.  
 ....
@@ -6012,8 +6012,8 @@ Na voz de Nilza e Aparecida ( Ubirajara )
 
 Fui no jardim colher as rosas  
 A mÃ£e maria deu-me a rosa mais formosa  
-Cosme e DamiÃ£o, oi Doum,Â   
-Crispim e CrispinianoÂ   
+Cosme e DamiÃ£o, oi Doum,Ã‚Â   
+Crispim e CrispinianoÃ‚Â   
 SÃ£o os filhos de Ogum
 
 <figure>
@@ -6045,7 +6045,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Vai, vai, vai Doum  
 Vai, vai Cosme e DamiÃ£o  
@@ -6067,7 +6067,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 DamiÃ£o cadÃª Doum, Ã´ DamiÃ£o?  
 DamiÃ£o cadÃª Doum, Ã´ DamiÃ£o?  
@@ -6084,7 +6084,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu era crianÃ§a e tinha esperanÃ§a  
 De ser um dia feliz  
@@ -6113,7 +6113,7 @@ Na voz de Manuelly ( Pai JoÃ£o de Aruanda e Sete Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 27 de setembro, dia de festa e procissÃ£o  
 Os fieis rendem homenagens  
@@ -6137,7 +6137,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 De lÃ¡ do cÃ©u de lÃ¡ do cÃ©u  
 Ai vem SÃ£o Cosme e DamiÃ£o  
@@ -6159,7 +6159,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Doum, hoje Ã© teu dia  
 Hoje tem alegria em todos os terreiros  
@@ -6179,7 +6179,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SÃ£o Cosme e SÃ£o DamiÃ£o  
 Oi DamiÃ£o cadÃª Doum  
@@ -6200,14 +6200,14 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Bahia Ã© terra de dois  
 Ã‰ terra de dois irmÃ£os  
 Governador da Bahia  
 Ã‰ Cosme e SÃ£o DamiÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Salve Doum, SÃ£o Cosme e SÃ£o DamiÃ£o  
 PeÃ§a para os festeiros  
@@ -6227,7 +6227,7 @@ Maria InÃªs ( Pai JosÃ© de Aruanda )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Cosme e DamiÃ£o, dois dois dois  
 Dois dois dois, Cosme e DamiÃ£o  
@@ -6238,7 +6238,7 @@ Hoje Ã© dia de Cosme e DamiÃ£o
 Cosme e DamiÃ£o sua casa cheira  
 Cravos e rosas e manjericÃ£o
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Oi Cosme, oi Cosme, oi Cosme  
 Oi Cosme, oi Cosme e DamiÃ£o  
@@ -6257,7 +6257,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Enfeitei meu jardim de rosas brancas  
 Violetas, miosÃ³tis e as flores do manacÃ¡  
@@ -6291,7 +6291,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Cosme e damiÃ£o, doum  
 Crispim crispiniano  
@@ -6314,7 +6314,7 @@ na Voz de KÃ¡tia ( 7 Flechas )
 **POVO DO ORIENTE**
 
 Abra a porta, Oh gente  
-Que aÃ­ vem Jesus  
+Que aÃƒÂ­ vem Jesus  
 Ele vem cansado  
 Com o peso da cruz
 
@@ -6343,7 +6343,7 @@ Na voz de Juliane - Cambona ( MÃ£e Maria )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 SÃ£o JoÃ£o batista vem chegando  
 Vem chegando de Aruanda  
@@ -6361,11 +6361,11 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Oh JoÃ£o batista, enviado de Jesus  
 Guiai vossos filhos ao caminho da luz  
-Se veres um filho caÃ­do no chÃ£o  
+Se veres um filho caÃƒÂ­do no chÃ£o  
 Levanta, levanta, sÃ£o todos irmÃ£os  
 Que Filho de umbanda nÃ£o fica no chÃ£o  
 Levanta, levanta, sÃ£o todos irmÃ£os.
@@ -6401,7 +6401,7 @@ Mensageiro de Deus que chegou
 E Zarthur, Ã© Zarthur, Ã© Zarthur  
 Mensageiro de Deus que baixou.
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Nasceu mais uma estrela  
 no oriente uma estrela que vai brilhar  
@@ -6427,7 +6427,7 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Uma luz nasceu e clareou  
 Nossa corrente de paz e amor  
@@ -6584,7 +6584,7 @@ Dia de grande vibraÃ§Ã£o
 Chegou no terreiro de Ubirajara  
 Preto-velho Pai BastiÃ£o
 
-- **Pai BastiÃ£o** era o preto-velho que a Dona LucÃ­ola Couto ( minha madrinha Luci ) recebia ao trabalhar nas sextas-feiras no Terreiro de Ubirajara!
+- **Pai BastiÃ£o** era o preto-velho que a Dona LucÃƒÂ­ola Couto ( minha madrinha Luci ) recebia ao trabalhar nas sextas-feiras no Terreiro de Ubirajara!
 
 <figure>
 
@@ -6637,7 +6637,7 @@ Saudamos povo africano
 Saudamos todas as linhas  
 SaravÃ¡ SÃ£o Cipriano
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 LÃ¡ no alto da serra  
 Tem um congÃ¡ bem florido  
@@ -6668,7 +6668,7 @@ na Voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Bate, bate na cumbuca  
 **Repenica** no congÃ¡  
@@ -6687,7 +6687,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Preto velho pequenino  
 Corre o mundo sem cessar  
@@ -6753,7 +6753,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 XangÃ´, XangÃ´  
 Vai me buscar, quem mora longe XangÃ´  
@@ -6792,7 +6792,7 @@ Na voz de AndrÃ©ia e Cleber (Pai JoÃ£o de Aruanda e 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pai JoÃ£o e MÃ£e Maria  
 Pretos velhos de bom coraÃ§Ã£o  
@@ -6830,7 +6830,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 VovÃ³ nÃ£o quer casca de cÃ´co no terreiro  
 VovÃ³ nÃ£o quer casca de cÃ´co no terreiro  
@@ -6847,7 +6847,7 @@ Maria InÃªs CEJPA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vi no cÃ©u uma estrela correndo  
 E na pedreira eu vi pedra rolar  
@@ -6901,14 +6901,14 @@ Na Voz de Sandra (Terreira Ubirajara)
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pele castigada, carapinha branca  
-Gandola de renda caÃ­da na anca  
+Gandola de renda caÃƒÂ­da na anca  
 MÃ£e Preta gandola de renda  
 Pele castigada, carapinha branca
 
-Gandola de renda caÃ­da na anca  
+Gandola de renda caÃƒÂ­da na anca  
 Embalando o filho branco do sinhÃ´  
 Que hÃ¡ pouco tempo a sinhÃ¡ ganhou  
 Era assim que MÃ£e Preta fazia  
@@ -6921,7 +6921,7 @@ Enquanto a chibata batia no seu amor
 MÃ£e Preta embalava o filho do senhor  
 Era assim que MÃ£e Preta fazia  
 Criava todo filho branco com muita alegria  
-Mas na senzala Pai JoÃ£o apanhavaâ€¦
+Mas na senzala Pai JoÃ£o apanhavaÃ¢â‚¬Â¦
 
 ....
 
@@ -6989,7 +6989,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 MÃ£e Maria cadÃª Pai JosÃ©  
 Foi na mata buscar guinÃ©  
@@ -7023,7 +7023,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Quem quiser ver, que veja, auÃª  
 Quem quiser ver, que veja, auÃ¡  
@@ -7044,7 +7044,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Embala Ãª babÃ¡, embala Ãª  
 Embala Ãª babÃ¡, embala Ãª  
@@ -7141,7 +7141,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pinto piou lÃ¡ em Angola  
 Galo cantou lÃ¡ na calunga  
@@ -7229,7 +7229,7 @@ Pai Joaquim jÃ¡ vem
 LÃ¡ da Aruanda vem  
 Desce sobre este terreiro  
 AbenÃ§oa o mundo inteiro  
-Com toda luz e proteÃ§Ã£oÂ   
+Com toda luz e proteÃ§Ã£oÃ‚Â   
 Preto velho vencedor  
 Mensageiro do senhor  
 Que OxalÃ¡ nos enviou.  
@@ -7247,7 +7247,7 @@ Pai Joaquim de Angola, angola
 Pai Joaquim, Ãª, Ãª  
 Pai Joaquim, Ãª, Ã¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Quem quiser ver, que veja  
 Ele Ã© preto, Ã© assim  
@@ -7264,7 +7264,7 @@ Ele Ã© preto, Ã© assim.
 
 Pai JoÃ£o Ã© rei  
 Ã‰ rei de congÃ¡  
-AÃ­ vem Pai JoÃ£o  
+AÃƒÂ­ vem Pai JoÃ£o  
 Pai JoÃ£o vem trabalhar
 
 <figure>
@@ -7341,7 +7341,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Onde Ã© que Tia Maria mora?  
 Tia Maria nÃ£o tem morada  
@@ -7378,7 +7378,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Eu vou chamar a corrente do cipÃ³  
 Vou chamar Maria Conga pra cozer meu palitÃ³  
@@ -7395,7 +7395,7 @@ Na voz de KÃ¡tia ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A escravatura terminou  
 Maria Conga da senzala se libertou  
@@ -7407,11 +7407,11 @@ Aqui na terra, para cumprir a sua missÃ£o
 ....
 
 Tumbeiro tumbeiro lembranÃ§a da escravidÃ£o.  
-Tristeza corpo doÃ­do senzala de pÃ© no chÃ£o.  
+Tristeza corpo doÃƒÂ­do senzala de pÃ© no chÃ£o.  
 Quanto jÃ¡ sofreu o negro  
 Perdendo a liberdade  
 Vivendo como escravo sem ter sua identidade.  
-Na Ãfrica ele foi rei  
+Na ÃƒÂfrica ele foi rei  
 Chamado congo coroado  
 Chegando aqui no Brasil  
 O rei foi escravizado  
@@ -7426,7 +7426,7 @@ Hoje ele Ã© rei na Aruanda
 Rei congo Ã© rei coroado. Boa  
 Salve a princesa Isabel  
 LembranÃ§as de um treze de Maio nos  
-Tumbeiro tumbeiroâ€¦.
+Tumbeiro tumbeiroÃ¢â‚¬Â¦.
 
 <figure>
 
@@ -7499,9 +7499,9 @@ Nem sem os anjos da sua Aruanda
 **Maria TomÃ©**
 
 O Maria TomÃ©, vai ver quem Ã©  
-Vai ver quem Ã©â€¦  
+Vai ver quem Ã©Ã¢â‚¬Â¦  
 O Maria TomÃ©, vai ver quem Ã©  
-Vai ver quem Ã©â€¦  
+Vai ver quem Ã©Ã¢â‚¬Â¦  
 Quem chegou de aruanda?  
 VovÃ³ Joana e sua guinÃ©  
 Quem chegou de aruanda?  
@@ -7554,7 +7554,7 @@ Maria InÃªs CEPJA
 
 Gira na **cangira** de Umbanda  
 Gira que gira, olÃ©  
-Pisa no terreiro devagar, minha â€œzifiaâ€  
+Pisa no terreiro devagar, minha Ã¢â‚¬Å“zifiaÃ¢â‚¬Â  
 Que chegou o Pai Miguel
 
 **Cangira**: SinÃ´nimo de Gira de Umbanda
@@ -7569,7 +7569,7 @@ Na voz de KÃ¡tia e Giuliano ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Ouvi o rufar dos tambores  
 LÃ¡ pra banda de guinÃ©  
@@ -7604,7 +7604,7 @@ Pai Domingos vem chegando
 JÃ¡ passou pela Bahia  
 Vem chegando, vem chegando  
 Preto-velho da Bahia  
-Bumba ti bumba, ti bumba, ioiÃ´â€¦
+Bumba ti bumba, ti bumba, ioiÃ´Ã¢â‚¬Â¦
 
 <figure>
 
@@ -7616,7 +7616,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pai Domingos, cadÃª Pai Domingos  
 Veio lÃ¡ das matas pitando cachimbo  
@@ -7660,7 +7660,7 @@ Pai JerÃ´nimo vai chegar
 Pai JerÃ´nimo Ã© feiticeiro  
 Pai JerÃ´nimo vai chegar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 LÃ¡ do cÃ©u desceu uma estrela  
 Que veio nos avisar  
@@ -7692,14 +7692,14 @@ NÃ³s sabemos que a vida Ã© harmonia
 E por isso viveremos com amor  
 MÃ£e Maria proteja os seus filhos  
 Viemos lhe pedir com devoÃ§Ã£o  
-Suas bÃªnÃ§Ã£os e paz ao nosso espÃ­rito  
+Suas bÃªnÃ§Ã£os e paz ao nosso espÃƒÂ­rito  
 Seu amor em nossos coraÃ§Ãµes  
 Queremos aprender a ser amigos  
 Queremos aprender a perdoar  
 Quem dÃ¡ mais Ã© sempre quem mais ganha  
 Quem perdoa Ã© quem sabe mais amar
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Foi a fÃ© em OxalÃ¡ que nos uniu  
 E o desejo de todo irmÃ£o ajudar  
@@ -7790,14 +7790,14 @@ Quando ela vem chegando
 Oh sacode a poeira da sua saia  
 Oi sacode a poeira da sua saia
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Tem mironga no conguÃª  
 Tem mironga no congÃ¡  
 Quem nÃ£o pode com macumba  
 NÃ£o carrega patuÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Oh Preta-Velha vocÃª nÃ£o engana  
 Amarra a saia com folha de cana  
@@ -7866,7 +7866,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 A baiana chegou da Bahia  
 Todo mundo comeu vatapÃ¡  
@@ -8003,7 +8003,7 @@ Na voz de Cristiano ( MÃ£e Maria )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Pai Bento, Pai Bento  
 que veio de Aruanda  
@@ -8061,7 +8061,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Benedito, Pai Benedito  
 Preto velho de umbanda  
@@ -8077,7 +8077,7 @@ E os filhos ajudando
 Olha pelas criancinhas  
 Que ficaram na orfandade  
 Pelo velho e pela velhinha  
-Nos quais dÃ¡ tranqÃ¼ilidade
+Nos quais dÃ¡ tranqÃƒÂ¼ilidade
 
 Olha pelo homem pobre  
 Pela moÃ§a desamparada  
@@ -8091,10 +8091,10 @@ E seus filhos ajudando
 
 ....
 
-AÃ­ vem chegando MÃ£e Maria Benedita  
+AÃƒÂ­ vem chegando MÃ£e Maria Benedita  
 junto vem a VovÃ³ Chica  
 Nossa mÃ£e de salvaÃ§Ã£o  
-AÃ­ vem chegando  
+AÃƒÂ­ vem chegando  
 Todo o povo africano  
 Junto vem o rei de congo  
 O Pai Bento e Pai JosÃ©.
@@ -8153,7 +8153,7 @@ Na voz de Cristiano ( MÃ£e Maria )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Minha cachimba tÃ¡ no toco  
 Manda moleque buscar  
@@ -8181,7 +8181,7 @@ Maria InÃªs CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Corre ronda Pai Ogum  
 Filho quer se defumar  
@@ -8202,7 +8202,7 @@ Na voz de Giuliano, KÃ¡tia e AndrÃ© ( 7 Flechas )
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Defuma com as ervas da Jurema  
 Defuma com arruda e guinÃ©  
@@ -8249,7 +8249,7 @@ E o Caboclo Treme-Terra
 Que nos proteja agora  
 Com as suas bÃªnÃ§Ã£os vamos agora
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Vamos embora nÃ£o fica ninguÃ©m  
 E a Virgem do RosÃ¡rio  
@@ -8446,7 +8446,7 @@ Gravado durante a abertura dos trabalhos na MÃ£e Maria em Mar/2024
 Jesus, Maria, SÃ£o JoÃ£o e SÃ£o JosÃ©  
 SÃ£o Pedro abriu os cÃ©us  
 Para aqueles que tem fÃ©  
-Ã“h SÃ£o Miguel arcanjo  
+Ãƒâ€œh SÃ£o Miguel arcanjo  
 Por Deus quem sois quem Ã©s  
 Rogai ao nosso pai  
 Para aumentar a nossa fÃ©.
@@ -8502,7 +8502,7 @@ E vamos encerrar.
 
 Nota: Arriar ou arrear?  
 **Arriar** Ã© baixar, colocar no chÃ£o, descer, desanimar, perder as forÃ§as.  
-**Arrear**Â Ã© colocar arreiosÂ .
+**Arrear**Ã‚Â Ã© colocar arreiosÃ‚Â .
 
 <figure>
 
@@ -8563,29 +8563,29 @@ Vai subindo pra aruanda
 Deixando as suas bÃªnÃ§Ã£os  
 Para os filhos de umbanda
 
-â€¦
+Ã¢â‚¬Â¦
 
 Ele vai, ele vai  
 Ele vai pra sua banda ele vai  
 Adeus terreira de umbanda  
 Ele foi pra sua banda, ele foi
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Adeus Treme-Terra, adeus  
 Sua banda lhe chama  
 Ele vai olÃ³, ele vai olÃ³  
 Nas folhas da Jurema  
 Na macaia de uma gira sÃ³  
-Adeus, adeusâ€¦  
+Adeus, adeusÃ¢â‚¬Â¦  
 Adeus Treme-Terra, adeus  
 Sua banda lhe chama  
 Ele foi olÃ³, ele foi olÃ³  
 Nas folhas da Jurema  
 Na macÃ¡ia de uma gira sÃ³  
-Adeus, adeusâ€¦
+Adeus, adeusÃ¢â‚¬Â¦
 
-**MACÃIA** â€” Lugar de retiro, em plena mata, onde os mÃ©diuns vÃ£o descansar e refazer as suas forÃ§as psÃ­quicas, no contato direto com a Natureza.
+**MACÃƒÂIA** Ã¢â‚¬â€ Lugar de retiro, em plena mata, onde os mÃ©diuns vÃ£o descansar e refazer as suas forÃ§as psÃƒÂ­quicas, no contato direto com a Natureza.
 
 ....
 
@@ -8604,9 +8604,9 @@ Maria Ines CEPJA
 
 </figure>
 
-Congo, Monjolo: escravos africanos, angolas, congos, bengÃ¼elas, monjolos, cabindas, rebolos, moÃ§ambiques, vindos das regiÃµes mais variadas da Ãfrica
+Congo, Monjolo: escravos africanos, angolas, congos, bengÃƒÂ¼elas, monjolos, cabindas, rebolos, moÃ§ambiques, vindos das regiÃµes mais variadas da ÃƒÂfrica
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 LÃ¡ na Aruanda, estÃ£o lhe chamando  
 ForÃ§a de Jorge, mandou lhe chamar  
@@ -8622,7 +8622,7 @@ E o galo jÃ¡ cantou na Aruanda
 E OxalÃ¡ lhe chama  
 Para a sua banda de orixÃ¡
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Caboclo trabalhou  
 Fez a sua obrigaÃ§Ã£o  
@@ -8656,7 +8656,7 @@ Maria Ines CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Caboclos jÃ¡ trabalharam  
 Caboclos jÃ¡ vÃ£o embora  
@@ -8672,7 +8672,7 @@ Maria Ines CEPJA
 
 </figure>
 
-â€¦.
+Ã¢â‚¬Â¦.
 
 Caboclo jÃ¡ vai  
 JÃ¡ vai pra aruanda  
@@ -8694,7 +8694,7 @@ Maria Ines CEPJA
 **Natal na Umbanda**
 
 Coloquei uma estrela  
-junto Ã  estrela da manhÃ£,  
+junto ÃƒÂ  estrela da manhÃ£,  
 pedi a ObatalÃ¡,  
 e assim determinou Olorum,  
 e IansÃ£, IansÃ£ obedeceu.  
@@ -8711,7 +8711,7 @@ a nossa estrela guia Ã© Jesus de NazarÃ©
 Olorum abenÃ§oou a nossa banda,  
 nasceu de OxalÃ¡, o Natal da Umbanda  
 Olorum abenÃ§oou a nossa banda,  
-nasceu de OxalÃ¡, o NatalÂ daÂ Umbanda.
+nasceu de OxalÃ¡, o NatalÃ‚Â daÃ‚Â Umbanda.
 
 <figure>
 
@@ -8757,7 +8757,7 @@ Na voz de Alcimar ( Ogum de Ronda )
 **Antigo Hino de Natal da Umbanda**
 
 Coloquei uma estrela  
-junto Ã  estrela da manhÃ£,  
+junto ÃƒÂ  estrela da manhÃ£,  
 pedi a ObatalÃ¡,  
 e assim determinou Olorum,  
 e IansÃ£, IansÃ£ obedeceu.  
@@ -8918,14 +8918,14 @@ Com a graÃ§a de Deus
 Salve as Ã¡guas do mar  
 Salve MÃ£e Iara  
 Povo que sabe amar  
-Como o Ã­ndio Ibiraquara  
-Como o Ã­ndio Ibiraquara
+Como o ÃƒÂ­ndio Ibiraquara  
+Como o ÃƒÂ­ndio Ibiraquara
 
 Ã‰ do mar os marinheiros  
 Ã‰ das matas os caboclos  
 Manifesta-se no Brasil inteiro  
 Dispersa os maus em blocos  
-A alma do Ã­ndio brasileiro
+A alma do ÃƒÂ­ndio brasileiro
 
 SaravÃ¡, saravÃ¡, saravÃ¡  
 SaravÃ¡ Ondinas  
@@ -8997,12 +8997,12 @@ Na voz de Martinha ( MÃ£ Maria )
 
 **Ponto da Amizade**
 
-A amizade que invade o nosso peitoâ€¦  
+A amizade que invade o nosso peitoÃ¢â‚¬Â¦  
 Com igualdade tratamos nosso irmÃ£o  
-Fraternidade praticamos com respeitoâ€¦  
-Na Umbanda com fÃ© e devoÃ§Ã£oâ€¦
+Fraternidade praticamos com respeitoÃ¢â‚¬Â¦  
+Na Umbanda com fÃ© e devoÃ§Ã£oÃ¢â‚¬Â¦
 
-Na terreira de MÃ£e Mariaâ€¦  
+Na terreira de MÃ£e MariaÃ¢â‚¬Â¦  
 De mÃ£os dadas estamos unidos  
 Com amor, humildade e alegria  
 Na conquista de novos amigos
@@ -9015,9 +9015,9 @@ A Deus pai e tambÃ©m aos orixÃ¡s
 Eu vejo um longo caminho  
 Ã‰ o caminho de todos os orixÃ¡s  
 Vamos pedir com carinho..  
-As â€œbÃªnÃ§Ã£osâ€ do pai OxalÃ¡â€¦  
-Vamos pedir com Carinhoâ€¦  
-As â€œbÃªnÃ§Ã£osâ€ do pai OxalÃ¡
+As Ã¢â‚¬Å“bÃªnÃ§Ã£osÃ¢â‚¬Â do pai OxalÃ¡Ã¢â‚¬Â¦  
+Vamos pedir com CarinhoÃ¢â‚¬Â¦  
+As Ã¢â‚¬Å“bÃªnÃ§Ã£osÃ¢â‚¬Â do pai OxalÃ¡
 
 <figure>
 

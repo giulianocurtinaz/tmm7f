@@ -3,7 +3,7 @@ title: "Homenagem a Ogum 2021!"
 date: 2021-04-23
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/captura-de-tela-2021-04-23-acc80s-14.50.38.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-04-23-acc80s-145038.png"
 ---
 
 <figure>

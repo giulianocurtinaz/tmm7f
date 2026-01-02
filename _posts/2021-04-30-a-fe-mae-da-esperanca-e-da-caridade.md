@@ -18,4 +18,4 @@ coverImage: "/tmm7f/assets/images/a-fe-mae-da-esperanca-e-da-caridade.png"
 
 </figure>
 
-IrradiaÃ§Ã£o aos doentes, oraÃ§Ã£o umbandista e meditaÃ§Ã£o sobre o capÃ­tulo XIX do Evangelho segundo o espiritismo!
+IrradiaÃ§Ã£o aos doentes, oraÃ§Ã£o umbandista e meditaÃ§Ã£o sobre o capÃƒÂ­tulo XIX do Evangelho segundo o espiritismo!

@@ -17,9 +17,9 @@ K Curtinaz / Abril 23
 
 Senhor do fogo divino. Ilumina nossos caminhos para que possamos ver com clareza  
 os perigos que temos que enfrentar.  
-Com sua espada de luz corta todos os males do nosso corpo, mente e espÃ­rito.  
+Com sua espada de luz corta todos os males do nosso corpo, mente e espÃƒÂ­rito.  
 NÃ£o nos deixe seguir pelas estradas que nos levarÃ£o para longe do bem e da lei.  
-AbenÃ§oe nossos filhos, nossas famÃ­lias e nossos amigos  
+AbenÃ§oe nossos filhos, nossas famÃƒÂ­lias e nossos amigos  
 Traga atÃ© nÃ³s a forÃ§a e a coragem para continuarmos lutando no dia a dia das nossas vidas tribuladas e cheias de perigos materiais e espirituais.  
 Sete Oguns e seus chefes de falanges, enviem nossos guardiÃµes para que nenhum mal possa nos atingir.  
 Salve OrixÃ¡ Ogum, tocando seu clarim, acorde aqueles que ainda dormem no sono da ignorÃ¢ncia e da maldade.  
@@ -31,15 +31,15 @@ R Curtinaz / Abril 23
 
 ## Vencedor de demandas
 
-Ogum vencedor de demandas intercede pelos teus semelhantes dando-lhes a fibra, valentia e coragem para enfrentar as batalhas de todas as luas, que o Senhor faÃ§a suaÂ  ronda e nos de aÂ  proteÃ§Ã£o nos livrando de todos os males e abenÃ§oe a todos aqueles que crÃªem em Deus pai todo poderoso. Salve sÃ£o Jorge guerreiro, salve Ogum.
+Ogum vencedor de demandas intercede pelos teus semelhantes dando-lhes a fibra, valentia e coragem para enfrentar as batalhas de todas as luas, que o Senhor faÃ§a suaÃ‚Â  ronda e nos de aÃ‚Â  proteÃ§Ã£o nos livrando de todos os males e abenÃ§oe a todos aqueles que crÃªem em Deus pai todo poderoso. Salve sÃ£o Jorge guerreiro, salve Ogum.
 
 M Deon / Abril 23
 
 ## EsperanÃ§a e confianÃ§a
 
-Ã“ Pai Ogum, orixÃ¡ guerreiro, invencÃ­vel na FÃ© em Deus, que trazeis em vosso rosto a esperanÃ§a e confianÃ§a,Â  abra nossos caminhos, protege nos de todos os males, nos dÃª coragem para enfrentar os problemas do dia a dia, nos defenda de nossos inimigos e de todas asÂ  tentaÃ§Ãµes da matÃ©ria.
+Ãƒâ€œ Pai Ogum, orixÃ¡ guerreiro, invencÃƒÂ­vel na FÃ© em Deus, que trazeis em vosso rosto a esperanÃ§a e confianÃ§a,Ã‚Â  abra nossos caminhos, protege nos de todos os males, nos dÃª coragem para enfrentar os problemas do dia a dia, nos defenda de nossos inimigos e de todas asÃ‚Â  tentaÃ§Ãµes da matÃ©ria.
 
-Pai OgumÂ que vence as demandas, livrais nos dos males do corpo de alma e nos conduza, com o seu cavalo branco, a presenÃ§a de nossa mÃ£e Maria e do nosso senhor Jesus. Pai Ogum com a tua espada de ouro corta nosso egoismo e nos proteja na nossa ignorÃ¢ncia das vontades de Deus.Â  Nos ajude a ter sabedoria e lucidez para entender e amar o nosso prÃ³ximo, como a nos mesmo. Que assim seja!
+Pai OgumÃ‚Â que vence as demandas, livrais nos dos males do corpo de alma e nos conduza, com o seu cavalo branco, a presenÃ§a de nossa mÃ£e Maria e do nosso senhor Jesus. Pai Ogum com a tua espada de ouro corta nosso egoismo e nos proteja na nossa ignorÃ¢ncia das vontades de Deus.Ã‚Â  Nos ajude a ter sabedoria e lucidez para entender e amar o nosso prÃ³ximo, como a nos mesmo. Que assim seja!
 
 Sol / Abril 23
 
@@ -54,7 +54,7 @@ Defendes aqueles que te seguem com lealdade,
 Permite-me alcanÃ§ar a vitÃ³ria,  
 E afasta de mim os obstÃ¡culos que me impedem avanÃ§ar.  
 Sob a tua proteÃ§Ã£o, sinto-me forte e confiante,  
-E sei que, com a tua ajuda, nada Ã© impossÃ­vel,  
+E sei que, com a tua ajuda, nada Ã© impossÃƒÂ­vel,  
 Pois a tua energia Ã© forÃ§a que nos move e nos impulsiona,  
 Ã‰ o fogo flamejante da coragem!  
 E com muita humildade e respeito,  
@@ -68,11 +68,11 @@ M Dias / Abril 22
 
 ## Garupa
 
-Jesus, peÃ§o sua permissÃ£o para me dirigir Ã  Ogum nesta prece.  
+Jesus, peÃ§o sua permissÃ£o para me dirigir ÃƒÂ  Ogum nesta prece.  
 Te peÃ§o Pai Ogum, Vencedor de Demandas!  
 Livrai-me do mal que me assombra nessa hora!  
 Com tua espada de Luz, afasta essas negatividades que me assolam neste momento!  
-Te peÃ§o humildemente que me envolva com seu manto de guerreiro! Tornando-me invisÃ­vel aos meus inimigos!  
+Te peÃ§o humildemente que me envolva com seu manto de guerreiro! Tornando-me invisÃƒÂ­vel aos meus inimigos!  
 Dai-me tua forÃ§a senhor! Empresta-me teu escudo para que eu possa suportar e vencer todo o mal!  
 JÃ¡ sinto-me agora com nova esperanÃ§a dentro mim, por que a ti elevei meu pensamento!  
 Lembrai-me Senhor das batalhas que jÃ¡ venci estando o senhor ao meu lado!  
@@ -85,7 +85,7 @@ Obrigado Jesus por ser o comandante dessa cavalaria e permitir que estes guerrei
 Pai Ogum que no seu dia possamos lhe render glÃ³rias, lembrar de ti e elevar nossas almas na tua vibraÃ§Ã£o de amor que nos envolve e nos salva!  
 Obrigado Pai Ogum, tornai-me tambÃ©m um pequeno saldado da tua cavalaria!  
 Contigo posso vencer todas as demandas meu Pai!  
-OngunhÃª, SARAVÃ MEU PAI OGUM!
+OngunhÃª, SARAVÃƒÂ MEU PAI OGUM!
 
 G Curtinaz / Abril 23
 
@@ -93,15 +93,15 @@ G Curtinaz / Abril 23
 
 Oh Pai OGUM, peÃ§o-te humildemente que me dÃª todas as condiÃ§Ãµes necessÃ¡rias para os enfrentamentos diÃ¡rios desta grande batalha que Ã© o viver.  
 DÃª-me a fÃ© e a esperanÃ§a para derrotar todas as minhas fraquezas que tentam impedir-me de conquistar meus objetivos.  
-DÃª-me a coragem para nÃ£o temer o desconhecido, nem fraquejar perante os obstÃ¡culosÂ  postos para a minha evoluÃ§Ã£o aqui na terra. Estando comigo Ã  retaguarda, sei que terei tudo que Ã© preciso para manter a mente limpa e serena, bem como a cabeÃ§a erguida nas contendas do por vir.  
-AgradeÃ§o de todo coraÃ§Ã£o e alma Ã s provas que jÃ¡ enfrentei e venci para que hoje eu esteja melhor fisicamente e espiritualmente. Obrigado meu Pai por nunca ter me abandonado, pois sempre sentido tua presenÃ§a, sei que me guiaste nas minhas melhores escolhas. Salve, Salve.
+DÃª-me a coragem para nÃ£o temer o desconhecido, nem fraquejar perante os obstÃ¡culosÃ‚Â  postos para a minha evoluÃ§Ã£o aqui na terra. Estando comigo ÃƒÂ  retaguarda, sei que terei tudo que Ã© preciso para manter a mente limpa e serena, bem como a cabeÃ§a erguida nas contendas do por vir.  
+AgradeÃ§o de todo coraÃ§Ã£o e alma ÃƒÂ s provas que jÃ¡ enfrentei e venci para que hoje eu esteja melhor fisicamente e espiritualmente. Obrigado meu Pai por nunca ter me abandonado, pois sempre sentido tua presenÃ§a, sei que me guiaste nas minhas melhores escolhas. Salve, Salve.
 
 D.P. / Abril 23
 
 ## Meu Mestre
 
 Salve Ogum, salve sua cavalaria!  
-Meu pai, meu mestre meu guia â€¦  
+Meu pai, meu mestre meu guia Ã¢â‚¬Â¦  
 Com gratidÃ£o e louvaÃ§Ã£o te enalteÃ§o nesse dia.  
 GratidÃ£o pela forÃ§a e coragem para enfrentar todos os desafios  
 do dia- a- dia .  
@@ -112,7 +112,7 @@ Rafael / Abril 23
 
 ###### Pedido a Ogum
 
-PeÃ§o a Ogum e a todas as suas legiÃµes que abram os caminhos que estÃ£o fechados por causa da invasÃ£o de entidades do baixo astral, permitindo que os nossos chefes falangeiros consigam trabalhar com a devida ordem, obediÃªncia e forÃ§a, para vencer todas as demandas ora exigidas. Que nenhum soldado esmoreÃ§a nem fraqueje para manter a justiÃ§a divina, conforme a lei representada por XangÃ´ . Que as sua lanÃ§as de pura luz atinjam seus objetivos, vencendo esta Demanda Mundial.Que assim seja!ðŸ™ (Rosiclea - MarÃ§o 2021)
+PeÃ§o a Ogum e a todas as suas legiÃµes que abram os caminhos que estÃ£o fechados por causa da invasÃ£o de entidades do baixo astral, permitindo que os nossos chefes falangeiros consigam trabalhar com a devida ordem, obediÃªncia e forÃ§a, para vencer todas as demandas ora exigidas. Que nenhum soldado esmoreÃ§a nem fraqueje para manter a justiÃ§a divina, conforme a lei representada por XangÃ´ . Que as sua lanÃ§as de pura luz atinjam seus objetivos, vencendo esta Demanda Mundial.Que assim seja!Ã°Å¸â„¢Â (Rosiclea - MarÃ§o 2021)
 
 ###### OraÃ§Ãµes abaixo foram produzidas em 11 Maio de 2019
 
@@ -128,9 +128,9 @@ Hoje Jorge representa grande papel no planeta.
 
 Que ele possa semear esta terra mÃ£e, com sua paz e justiÃ§a a todo o povo de Deus.
 
-Que sua espada seja apontada contra os vÃ­cios que convivem entre nÃ³s:
+Que sua espada seja apontada contra os vÃƒÂ­cios que convivem entre nÃ³s:
 
-Orgulho, egoÃ­smo, ganÃ¢ncia, violÃªncia, vaidade, corrupÃ§Ã£o.
+Orgulho, egoÃƒÂ­smo, ganÃ¢ncia, violÃªncia, vaidade, corrupÃ§Ã£o.
 
 SÃ³ assim teremos sua proteÃ§Ã£o.
 
@@ -148,41 +148,41 @@ MÃ©dium Terezinha
 
 ###### Luz de Ogum
 
-Ogum, senhor da proteÃ§Ã£o,Â Â da forÃ§a e da coragem.Â Que suas bÃªnÃ§Ã£os nos protejam e nos conduzam para o bem e para a justiÃ§a em todas instÃ¢ncias de nossa vida, nos amparando em nossas necessidades e nos tornando dignos de sua luz.Que assim seja! SaravÃ¡(M Fonseca Abril/19)
+Ogum, senhor da proteÃ§Ã£o,Ã‚Â Ã‚Â da forÃ§a e da coragem.Ã‚Â Que suas bÃªnÃ§Ã£os nos protejam e nos conduzam para o bem e para a justiÃ§a em todas instÃ¢ncias de nossa vida, nos amparando em nossas necessidades e nos tornando dignos de sua luz.Que assim seja! SaravÃ¡(M Fonseca Abril/19)
 
 ###### Ogum Guerreiro
 
-Ogum, que sua espada flamejante venha para cortar todas as larvas e miasmas.Com a sua forÃ§a venceremos as demandasTrazendo a paz e amor aos irmÃ£o que lutam contra as forÃ§as inferiores. Ã“ Ogum o ogum, salve salve guerreiro.Â Olhos da leiGuerreiro doUniverso, regente deMarte !  
+Ogum, que sua espada flamejante venha para cortar todas as larvas e miasmas.Com a sua forÃ§a venceremos as demandasTrazendo a paz e amor aos irmÃ£o que lutam contra as forÃ§as inferiores. Ãƒâ€œ Ogum o ogum, salve salve guerreiro.Ã‚Â Olhos da leiGuerreiro doUniverso, regente deMarte !  
 Protejei-nos!  
 (M Mayer - Abril/19)
 
 ###### Salve Ogum!
 
-Salve Ogum!AgradeÃ§o toda a proteÃ§Ã£o divina, que com a sua espada flamejante tem cortado todos os males e nos protegido de todas as demandas.Â Se for de meu merecimento, que continue protegendo, guiando e amparando os meus passos no caminho do progresso espiritual.Que assim seja!  
+Salve Ogum!AgradeÃ§o toda a proteÃ§Ã£o divina, que com a sua espada flamejante tem cortado todos os males e nos protegido de todas as demandas.Ã‚Â Se for de meu merecimento, que continue protegendo, guiando e amparando os meus passos no caminho do progresso espiritual.Que assim seja!  
 (A Zanete - Abril/19)
 
 ###### Farol de Deus
 
-Do cÃ©u veio um cavaleiroÂ   
-Empunhando sua espada douradaÂ   
+Do cÃ©u veio um cavaleiroÃ‚Â   
+Empunhando sua espada douradaÃ‚Â   
 Seu nome Ã© Ogum guerreiro  
-Veio abrir a nossa estradaÂ   
+Veio abrir a nossa estradaÃ‚Â   
   
-Ele luta pela pazÂ Tocando o seu clarim  
+Ele luta pela pazÃ‚Â Tocando o seu clarim  
 Sem ele nada se faz  
-Desde o inÃ­cio atÃ© o fim  
+Desde o inÃƒÂ­cio atÃ© o fim  
   
 Nos ensina que a vida  
 Nos foi dada por amor  
 Que plantando em nossa lida  
-Seremos sempre um vencedorÂ   
+Seremos sempre um vencedorÃ‚Â   
   
 Caminhemos com muita fÃ©  
 Enfrentando todos os perigos  
 Com nossa bandeira de pÃ©  
 Seremos irmÃ£os e amigos  
-Â   
-Quem vai Ã  nossa frenteÂ   
+Ã‚Â   
+Quem vai ÃƒÂ  nossa frenteÃ‚Â   
 Ã‰ jesus de noite e de dia  
 Ele nos leva exatamente  
 Para os campos da alegria  
@@ -201,7 +201,7 @@ Traz mensagem de aruanda
 
 ###### GlÃ³ria de OGUM
 
-Ogum, Ogum, meu Pai - Vencedor de demanda,Â Poderoso guardiÃ£o das Leis, chamÃ¡-lo de Pai Ã© honra, esperanÃ§a, Ã© vida. VÃ³s sois meu aliado no combate Ã s minhas inferioridades. Mensageiro de OxalÃ¡ - Filho de OLORUN. Senhor, VÃ³s sois o domador dos sentimentos espÃºrios, depurai com vossa espada e lanÃ§a, minha consciente e inconsciente baixeza de carÃ¡ter. Ogum, irmÃ£o, amigo e companheiro, continuai em vossa ronda e na perseguiÃ§Ã£o aos defeitos que nos assaltam a cada instante. Ogum, glorioso OrixÃ¡, reinai com vossa falange de milhÃµes de guerreiros vermelhos e mostrai por piedade o bom caminho para o nosso coraÃ§Ã£o, consciÃªncia e espÃ­rito. DespedaÃ§ai, Ogum, os monstros que habitam nosso ser, expulsai-os da cidadela inferior. Ogum, Senhor da noite e do dia e de mÃ£e de todas as horas boas e mÃ¡s, livrai-nos da tentaÃ§Ã£o e apontai o caminho do nosso Eu. Vencedor contigo, descasaremos na paz e na glÃ³ria de OLORUN. OgumhiÃª Ogum!
+Ogum, Ogum, meu Pai - Vencedor de demanda,Ã‚Â Poderoso guardiÃ£o das Leis, chamÃ¡-lo de Pai Ã© honra, esperanÃ§a, Ã© vida. VÃ³s sois meu aliado no combate ÃƒÂ s minhas inferioridades. Mensageiro de OxalÃ¡ - Filho de OLORUN. Senhor, VÃ³s sois o domador dos sentimentos espÃºrios, depurai com vossa espada e lanÃ§a, minha consciente e inconsciente baixeza de carÃ¡ter. Ogum, irmÃ£o, amigo e companheiro, continuai em vossa ronda e na perseguiÃ§Ã£o aos defeitos que nos assaltam a cada instante. Ogum, glorioso OrixÃ¡, reinai com vossa falange de milhÃµes de guerreiros vermelhos e mostrai por piedade o bom caminho para o nosso coraÃ§Ã£o, consciÃªncia e espÃƒÂ­rito. DespedaÃ§ai, Ogum, os monstros que habitam nosso ser, expulsai-os da cidadela inferior. Ogum, Senhor da noite e do dia e de mÃ£e de todas as horas boas e mÃ¡s, livrai-nos da tentaÃ§Ã£o e apontai o caminho do nosso Eu. Vencedor contigo, descasaremos na paz e na glÃ³ria de OLORUN. OgumhiÃª Ogum!
 
 ###### Sabedoria
 
@@ -223,9 +223,9 @@ AmÃ©m.
 
 ##### Cavaleiro da esperanÃ§a
 
-Cavaleiro da esperanÃ§a, nos ajude a ter dias melhores na vida terrena, vem nos ensinar a vencer as demandas que se fazem presentes em nosso caminho.Â SÃ£o Jorge guerreiro nos traz forÃ§a e energia para lutar as batalhas do dia a dia.Que tenhamos a tua forÃ§a, amor e fÃ© em Deus e que estejamos sempre dispostos a lutar por um mundo melhor: de paz, luz, amor e uniÃ£o de todos os povos em nome do progresso espiritual para o nosso planeta. Que nÃ£o nos deixemos abater pelas dificuldades,Â que sempre fiquemos em pÃ© e com aÂ forÃ§a da tua espada possamos lutar em busca do caminho da luz. Assim seja (K Curtinaz Abril/19)
+Cavaleiro da esperanÃ§a, nos ajude a ter dias melhores na vida terrena, vem nos ensinar a vencer as demandas que se fazem presentes em nosso caminho.Ã‚Â SÃ£o Jorge guerreiro nos traz forÃ§a e energia para lutar as batalhas do dia a dia.Que tenhamos a tua forÃ§a, amor e fÃ© em Deus e que estejamos sempre dispostos a lutar por um mundo melhor: de paz, luz, amor e uniÃ£o de todos os povos em nome do progresso espiritual para o nosso planeta. Que nÃ£o nos deixemos abater pelas dificuldades,Ã‚Â que sempre fiquemos em pÃ© e com aÃ‚Â forÃ§a da tua espada possamos lutar em busca do caminho da luz. Assim seja (K Curtinaz Abril/19)
 
 ##### Guiai-nos senhor OGUM
 
-PeÃ§o a ti, Pai Ogum, que nos mostrou a trilha para abrir essa casa, que envie seus mensageiros e que possam iluminar nosso caminho como sentinelas na estrada escura, para que possamos seguir Ã  frente como soldados do Cristo, levando sua bandeira e o evangelho onde ninguÃ©m jamais foi, chamandoÂ Â com o Ãºltimo toque da corneta os ouvidos mais desatenciosos, chamando todos para o novo tempo, para a nova vida , para a nova terra ! VÃ¡ a nossa frente Pai OGUM , abra nossos caminhos, por que atrÃ¡s virÃ£o os que nos seguirÃ£o. AtrÃ¡s virÃ£o os que seguirem essa luz, a luz de nossos coraÃ§Ãµes, cansados mas esperanÃ§osos. Ajudai-nos OGUM a abrir a trilha e construir a estrada que nosso pai OxalÃ¡ ordenou, pois Ele vem logo ali e a estrada deverÃ¡ estar pronta quando ele chegar e passar por aqui! Sim vamos na frente, juntos com OGUM, abrindo o caminho no coraÃ§Ã£o do homem encarnado! Com a palavra do Cristo de apoio, seremos ouvidos e nos seguirÃ£o! Prepare-nos senhor!!! Protegei esses guerreiros encarnados aqui que anseiam por dias melhores neste orbe. Em ti confiamos! Guiai-nos senhor OGUM, guiai-nos.Â   
+PeÃ§o a ti, Pai Ogum, que nos mostrou a trilha para abrir essa casa, que envie seus mensageiros e que possam iluminar nosso caminho como sentinelas na estrada escura, para que possamos seguir ÃƒÂ  frente como soldados do Cristo, levando sua bandeira e o evangelho onde ninguÃ©m jamais foi, chamandoÃ‚Â Ã‚Â com o Ãºltimo toque da corneta os ouvidos mais desatenciosos, chamando todos para o novo tempo, para a nova vida , para a nova terra ! VÃ¡ a nossa frente Pai OGUM , abra nossos caminhos, por que atrÃ¡s virÃ£o os que nos seguirÃ£o. AtrÃ¡s virÃ£o os que seguirem essa luz, a luz de nossos coraÃ§Ãµes, cansados mas esperanÃ§osos. Ajudai-nos OGUM a abrir a trilha e construir a estrada que nosso pai OxalÃ¡ ordenou, pois Ele vem logo ali e a estrada deverÃ¡ estar pronta quando ele chegar e passar por aqui! Sim vamos na frente, juntos com OGUM, abrindo o caminho no coraÃ§Ã£o do homem encarnado! Com a palavra do Cristo de apoio, seremos ouvidos e nos seguirÃ£o! Prepare-nos senhor!!! Protegei esses guerreiros encarnados aqui que anseiam por dias melhores neste orbe. Em ti confiamos! Guiai-nos senhor OGUM, guiai-nos.Ã‚Â   
 (G Curtinaz Abril/19)

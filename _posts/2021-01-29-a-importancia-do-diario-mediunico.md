@@ -3,7 +3,7 @@ title: "A importÃ¢ncia do diÃ¡rio mediÃºnico"
 date: 2021-01-29
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/foto_coroacao.jpeg"
+coverImage: "/tmm7f/assets/images/fotocoroacao.jpeg"
 ---
 
 <figure>
@@ -18,50 +18,50 @@ coverImage: "/tmm7f/assets/images/foto_coroacao.jpeg"
 
 </figure>
 
-Assim que abrimos a Terreira do Sete Flechas, na segunda ou terceira sessÃ£o pÃºblica, nossa mÃ©dium Carmem que era mÃ©dium de psicografia Kardecista, ao finalÂ da sessÃ£o disse-me: "Estou recebendo uma mensagem do Sr. Darcy Dias da Silveira e ele estÃ¡ mandando te perguntar se vocÃª estÃ¡ registrando tudo que estÃ¡ ocorrendo em seu diÃ¡rio ?
+Assim que abrimos a Terreira do Sete Flechas, na segunda ou terceira sessÃ£o pÃºblica, nossa mÃ©dium Carmem que era mÃ©dium de psicografia Kardecista, ao finalÃ‚Â da sessÃ£o disse-me: "Estou recebendo uma mensagem do Sr. Darcy Dias da Silveira e ele estÃ¡ mandando te perguntar se vocÃª estÃ¡ registrando tudo que estÃ¡ ocorrendo em seu diÃ¡rio ?
 
-Fiquei muito emocionado por receber uma mensagem de meu amigo e mestre Darcy e logo providenciei o inÃ­cio dos registros.
+Fiquei muito emocionado por receber uma mensagem de meu amigo e mestre Darcy e logo providenciei o inÃƒÂ­cio dos registros.
 
-Como nÃ£o possuÃ­a um caderno especÃ­fico para tal, lembrei-me que havia ganho da minha diretora espiritual Maria Aparecida do terreiro do Ubirajara, um pequeno caderninho contendo o registro das datas de batizado, consagraÃ§Ãµes de sentido e CoroaÃ§Ã£o.
+Como nÃ£o possuÃƒÂ­a um caderno especÃƒÂ­fico para tal, lembrei-me que havia ganho da minha diretora espiritual Maria Aparecida do terreiro do Ubirajara, um pequeno caderninho contendo o registro das datas de batizado, consagraÃ§Ãµes de sentido e CoroaÃ§Ã£o.
 
 JÃ¡ havia utilizado esse mesmo caderninho para realizar anotaÃ§Ãµes que recebia nas aulas de cacique das Ãºltima turmas da MÃ£e Maria.
 
-Assim comecei logo a relembrar e anotar como tudo havia realizado, bem como, a partir de entÃ£o, a quantidade de fichas atendÃ­amos por sessÃ£o, presenÃ§a dos mÃ©diuns e observaÃ§Ãµes a respeito da gira.
+Assim comecei logo a relembrar e anotar como tudo havia realizado, bem como, a partir de entÃ£o, a quantidade de fichas atendÃƒÂ­amos por sessÃ£o, presenÃ§a dos mÃ©diuns e observaÃ§Ãµes a respeito da gira.
 
-Mais tarde essas anotaÃ§Ãµes foram transcritas para a Internet, tornando possÃ­vel a construÃ§Ã£o de nosso site.
+Mais tarde essas anotaÃ§Ãµes foram transcritas para a Internet, tornando possÃƒÂ­vel a construÃ§Ã£o de nosso site.
 
-Similarmente, o diÃ¡rio de anotaÃ§Ãµes do Sr. Darcy tornou possÃ­vel a ediÃ§Ã£o do livro da histÃ³ria da MÃ£e Maria. Nosso mestre Darcy anotava tudo o que ocorria na MÃ£e Maria em pormenores em seu diÃ¡rio, como as giras se davam, quantidade de passes, quantidade de consultas, visitas honrosas de personalidades polÃ­ticas ou chefes de outras casas.
+Similarmente, o diÃ¡rio de anotaÃ§Ãµes do Sr. Darcy tornou possÃƒÂ­vel a ediÃ§Ã£o do livro da histÃ³ria da MÃ£e Maria. Nosso mestre Darcy anotava tudo o que ocorria na MÃ£e Maria em pormenores em seu diÃ¡rio, como as giras se davam, quantidade de passes, quantidade de consultas, visitas honrosas de personalidades polÃƒÂ­ticas ou chefes de outras casas.
 
 Todos esses registros servem primeiramente para o prÃ³prio autor, pois eles permitem que nos recordamos de coisas importantes realizadas, de como ultrapassamos desafios e de como vale a pena toda a luta que travamos para seguirmos nessa estrada de caridade e de amor.
 
-HÃ¡ poucos dias, o diÃ¡rio de meu avÃ´ Jacy Oliveira â€œcaiu-meâ€ nas mÃ£os, uma verdadeira relÃ­quia de famÃ­lia, com as devida autorizaÃ§Ã£o da minha VÃ³, hoje compartilho com vocÃªs na Ã­ntegra, como meu avÃ´ realizou suas anotaÃ§Ãµes pessoais ao longo de sua caminhada mediÃºnica, o que era importante para ele na Ã©poca e como via e sentia os trabalhos que participava.
+HÃ¡ poucos dias, o diÃ¡rio de meu avÃ´ Jacy Oliveira Ã¢â‚¬Å“caiu-meÃ¢â‚¬Â nas mÃ£os, uma verdadeira relÃƒÂ­quia de famÃƒÂ­lia, com as devida autorizaÃ§Ã£o da minha VÃ³, hoje compartilho com vocÃªs na ÃƒÂ­ntegra, como meu avÃ´ realizou suas anotaÃ§Ãµes pessoais ao longo de sua caminhada mediÃºnica, o que era importante para ele na Ã©poca e como via e sentia os trabalhos que participava.
 
 Espero com isso, motivar os atuais e futuros dirigentes de terreiros a tomar nota de todas as coisas que ocorrem suas casas, bem como a motivar todos os mÃ©diuns novos a registrarem seus passos, seguindo a trilha de luz deixada por nossos antepassados.
 
-Espero de todo o meu coraÃ§Ã£o que um dia meu filho e talvez meu neto possa ler esse Post, a fim de conhecer como seus antepassadosÂ  pensavam, sentiam e agiam nessa caminhada de elevaÃ§Ã£o espiritual denominada Umbanda.
+Espero de todo o meu coraÃ§Ã£o que um dia meu filho e talvez meu neto possa ler esse Post, a fim de conhecer como seus antepassadosÃ‚Â  pensavam, sentiam e agiam nessa caminhada de elevaÃ§Ã£o espiritual denominada Umbanda.
 
-**MEU DIÃRIO ESPIRITUAL - JACY OLIVEIRA 13-09-72**
+**MEU DIÃƒÂRIO ESPIRITUAL - JACY OLIVEIRA 13-09-72**
 
 ![](/tmm7f/assets/images/image-1.png)
 
-_Nesta simples pagina nÃ£o seria possÃ­vel expressar minha alegria quando ingressei na corrente da â€œTerreira MÃ£e Maria Fraternidade de Ubirajaraâ€._
+_Nesta simples pagina nÃ£o seria possÃƒÂ­vel expressar minha alegria quando ingressei na corrente da Ã¢â‚¬Å“Terreira MÃ£e Maria Fraternidade de UbirajaraÃ¢â‚¬Â._
 
-_Aqui neste pequeno diÃ¡rio escreverei os momentos mais importantes durante minha vida de mÃ©dium,Â  desde o meu primeiro dia como membro da corrente._
+_Aqui neste pequeno diÃ¡rio escreverei os momentos mais importantes durante minha vida de mÃ©dium,Ã‚Â  desde o meu primeiro dia como membro da corrente._
 
 ![](/tmm7f/assets/images/image-3.png)
 
-_1Âº Batismo 8-10-72  
-2Âº Mar 10-12-72  
-3Âº Pedreira 30-09-73  
-4Âº Cachoeira 22-10-74  
-5Âº Rio Ãgua Doce 02-02-76  
-6Âº Mata 17-01-99  
-7Âº CoroaÃ§Ã£o 22-04-2001_  
+_1Ã‚Âº Batismo 8-10-72  
+2Ã‚Âº Mar 10-12-72  
+3Ã‚Âº Pedreira 30-09-73  
+4Ã‚Âº Cachoeira 22-10-74  
+5Ã‚Âº Rio ÃƒÂgua Doce 02-02-76  
+6Ã‚Âº Mata 17-01-99  
+7Ã‚Âº CoroaÃ§Ã£o 22-04-2001_  
   
 _Primeira incorporaÃ§Ã£o do Preto Velho em 18-11-77  
 Primeira incorporaÃ§Ã£o do TupinambÃ¡ em 28-03-78_
 
-OS SETE ORIXÃS E SUAS CORES
+OS SETE ORIXÃƒÂS E SUAS CORES
 
 ![](/tmm7f/assets/images/image-4.png)
 
@@ -83,7 +83,7 @@ _Aproximava o fim do ano, vinha o ano de 1973, grandes esperanÃ§as de um ano c
 
 ![](/tmm7f/assets/images/image-7.png)
 
-_Para tal fizemos alguns meses depois, alguns desenvolvimentos, no qual recebi as vibraÃ§Ãµes, mas nÃ£o continuava a trabalhar com o Guia. Em fevereiro no dia 4 fomos ao rio, Ã¡gua doce, para fazer reforÃ§o e oferendas, mas nÃ£o foi possÃ­vel (fazer o reforÃ§o) por causa do mal tempo reinante. SÃ³ fizemos as oferendas e as obrigaÃ§Ãµes rituais._
+_Para tal fizemos alguns meses depois, alguns desenvolvimentos, no qual recebi as vibraÃ§Ãµes, mas nÃ£o continuava a trabalhar com o Guia. Em fevereiro no dia 4 fomos ao rio, Ã¡gua doce, para fazer reforÃ§o e oferendas, mas nÃ£o foi possÃƒÂ­vel (fazer o reforÃ§o) por causa do mal tempo reinante. SÃ³ fizemos as oferendas e as obrigaÃ§Ãµes rituais._
 
 _Continuava eu trabalhando como cambono e ajudante no terreiro, participando de trabalhos externos, sem faltar nunca a qualquer trabalho ou sessÃ£o._
 
@@ -97,7 +97,7 @@ _Vem o mÃªs de Setembro de 1973, aproximava-se a excursÃ£o ao reino da cacho
 
 _Realizamos a excursÃ£o no reino da Pedreira no dia 30/9/73, dia de XangÃ´! Quando na abertura dos trabalhos veio o guia XangÃ´ da Pedra Branca, o Guia do Cacique Chefe da terreira. No mesmo dia eu fiz uma oferenda para XangÃ´, oferenda designada pelo guia chefe Ubirajara._
 
-_Neste mesmo dia o Ãºnico mÃ©dium que fez cruzamento de pedreira foi eu. O Nosso cacique foi quem designou. Realizamos os outros trabalhos de rotina de final de ano, ou seja, Mar, Mata e Ãgua doce. Nos trabalho de Ã¡gua doce era para mim fazer o cruzamento mas nÃ£o fiz por motivo de saÃºde._
+_Neste mesmo dia o Ãºnico mÃ©dium que fez cruzamento de pedreira foi eu. O Nosso cacique foi quem designou. Realizamos os outros trabalhos de rotina de final de ano, ou seja, Mar, Mata e ÃƒÂgua doce. Nos trabalho de Ã¡gua doce era para mim fazer o cruzamento mas nÃ£o fiz por motivo de saÃºde._
 
 ![](/tmm7f/assets/images/image-9.png)
 
@@ -109,7 +109,7 @@ _No mesmo mÃªs de Dezembro houve uma eleiÃ§Ã£o para dirigentes materiais (
 
 ![](/tmm7f/assets/images/image-10.png)
 
-_No ano de 76 em 2/2 eu fiz o cruzamento de Ã¡gua doce pois no ano inteiro nÃ£o foi possÃ­vel por motivo de saÃºde. Em fevereiro tivemos fÃ©rias, logo apÃ³s as fÃ©rias retomamos os trabalhos e foi decidido que terÃ­amos coroaÃ§Ã£o de cacique e comeÃ§ava as aulas de preparaÃ§Ã£o, sendo os alunos coroados em dezembro de 76._
+_No ano de 76 em 2/2 eu fiz o cruzamento de Ã¡gua doce pois no ano inteiro nÃ£o foi possÃƒÂ­vel por motivo de saÃºde. Em fevereiro tivemos fÃ©rias, logo apÃ³s as fÃ©rias retomamos os trabalhos e foi decidido que terÃƒÂ­amos coroaÃ§Ã£o de cacique e comeÃ§ava as aulas de preparaÃ§Ã£o, sendo os alunos coroados em dezembro de 76._
 
 _Realizamos a coroaÃ§Ã£o em Dezembro, foi uma festa muito bonita, cheia de alegria e contentamento._
 
@@ -119,7 +119,7 @@ _No ano de 1977 fomos obrigados a mudar nossa terreira para outro terreno, pois 
 
 _ApÃ³s 9 meses de trabalho na obra do terreiro, nÃ³s ficamos sem trabalho espirituais. Eu desiludido do trabalho que fazia, jÃ¡ tinha resolvido deixar minha carreira de mÃ©dium, pois atÃ© esta data nÃ£o recebia mais vibraÃ§Ã£o alguma. Falei com o Cacique Chefe e ele mandou fazer uma oferenda no cemitÃ©rio, o cavalo chefe foi quem foi comigo para fazer. Assim mesmo isso nÃ£o provocou-me motivaÃ§Ã£o alguma. Quando fomos ao reino da pedreira no ano de 77, o Cacique chefe mandou que eu levasse uma oferenda para Oxossi, e eu levei, isto foi em Outubro de 77. Em 18/11/77 num desenvolvimento eu recebi o preto-velho Pai Francisco e continuei a trabalhar com ele. Entrava o ano de 1978, veio as fÃ©rias de fevereiro de 78, apÃ³s as fÃ©rias em MarÃ§o, dia 28 teve desenvolvimento e eu recebi o caboclo TupinambÃ¡. Dai por diante continuei a trabalhar com os guias espirituais._
 
-FIM DO DIÃRIO MANUSCRITO
+FIM DO DIÃƒÂRIO MANUSCRITO
 
 Abaixo copio informaÃ§Ãµes registradas pela minha mÃ£e no dia da coroaÃ§Ã£o de meu avÃ´ em 22/04/2001. 
 

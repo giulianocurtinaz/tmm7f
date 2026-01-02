@@ -3,7 +3,7 @@ title: "Amor, fÃ© e JustiÃ§a! Na terreira de Ogum da Mata Virgem e InhasÃ£
 date: 2020-05-08
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/capa_suely.png"
+coverImage: "/tmm7f/assets/images/capasuely.png"
 ---
 
 Ore e assista conosco esse bate bato papo com a diretora espiritual da Terreira de Ogum da Mata Virgem e InhasÃ£, nossa amiga Suely.

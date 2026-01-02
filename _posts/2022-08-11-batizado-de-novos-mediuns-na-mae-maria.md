@@ -3,7 +3,7 @@ title: "Batizado de novos MÃ©diuns na MÃ£e Maria"
 date: 2022-08-11
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/20220810_221453.jpg"
+coverImage: "/tmm7f/assets/images/20220810221453.jpg"
 ---
 
 Com muita alegria hoje ganhei duas novas afilhadas, Roberta e Simone!

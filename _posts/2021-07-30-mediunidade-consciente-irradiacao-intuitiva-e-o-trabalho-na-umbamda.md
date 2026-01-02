@@ -3,7 +3,7 @@ title: "Mediunidade Consciente, IrradiaÃ§Ã£o intuitiva e o trabalho na Umbam
 date: 2021-07-30
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/screenshot_20210730-180631_photos6956702720956895950.jpg"
+coverImage: "/tmm7f/assets/images/screenshot20210730-180631photos6956702720956895950.jpg"
 ---
 
 <figure>

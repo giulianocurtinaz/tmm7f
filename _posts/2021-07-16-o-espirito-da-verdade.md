@@ -1,5 +1,5 @@
 ---
-title: "O EspÃ­rito da Verdade"
+title: "O EspÃƒÂ­rito da Verdade"
 date: 2021-07-16
 categories: 
   - "sem-categoria"

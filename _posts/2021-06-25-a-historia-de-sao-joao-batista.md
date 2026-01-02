@@ -3,7 +3,7 @@ title: "A HistÃ³ria de SÃ£o JoÃ£o Batista"
 date: 2021-06-25
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/captura-de-tela-2021-06-25-acc80s-16.55.20.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-06-25-acc80s-165520.png"
 ---
 
 <figure>

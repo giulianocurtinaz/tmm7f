@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/capa.jpeg"
 ---
 
-Em 19/6/20 vamos visitar o Centro EspÃ­rita de Umbanda - Reino de Jandira, dirigidos pela nossa amiga Sabrina no bairro Mathias Velho em Canoas/RS. Nesse dia vamos conversar sobre nossa amada Umbanda, conhecer a histÃ³ria desse terreiro e cantar pontos em homenagem aos OrixÃ¡s!
+Em 19/6/20 vamos visitar o Centro EspÃƒÂ­rita de Umbanda - Reino de Jandira, dirigidos pela nossa amiga Sabrina no bairro Mathias Velho em Canoas/RS. Nesse dia vamos conversar sobre nossa amada Umbanda, conhecer a histÃ³ria desse terreiro e cantar pontos em homenagem aos OrixÃ¡s!
 
 <figure>
 

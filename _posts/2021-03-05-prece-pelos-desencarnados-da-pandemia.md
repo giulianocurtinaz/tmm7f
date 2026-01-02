@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/prece-aos-desencarnados.png"
 ---
 
-Vamos orar em favor de todos que estÃ£o desencarnando nessa hora tÃ£o difÃ­cil.
+Vamos orar em favor de todos que estÃ£o desencarnando nessa hora tÃ£o difÃƒÂ­cil.
 
 <figure>
 

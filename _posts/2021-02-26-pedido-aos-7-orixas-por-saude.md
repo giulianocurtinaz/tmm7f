@@ -3,7 +3,7 @@ title: "Pedido aos 7 OrixÃ¡s por saÃºde"
 date: 2021-02-26
 categories: 
   - "sem-categoria"
-coverImage: "/tmm7f/assets/images/captura-de-tela-2021-02-26-acc80s-18.01.42.png"
+coverImage: "/tmm7f/assets/images/captura-de-tela-2021-02-26-acc80s-180142.png"
 ---
 
 Esse Ã© o momento de orarmos juntos!
