@@ -166,7 +166,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-7.png?w=377)
+![](/tmm7f/assets/images/2021-01-image-7.png)
 
 
 
@@ -194,7 +194,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-8.png?w=336)
+![](/tmm7f/assets/images/2021-01-image-8.png)
 
 
 
@@ -216,7 +216,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-9.png?w=336)
+![](/tmm7f/assets/images/2021-01-image-9.png)
 
 
 
@@ -238,7 +238,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-10.png?w=329)
+![](/tmm7f/assets/images/2021-01-image-10.png)
 
 
 
