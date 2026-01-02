@@ -2,6 +2,7 @@
 layout: post
 title: "Guia Rápido Umbandista disponível na Livraria AGBook!"
 date: 2020-12-08
+coverImage: "/tmm7f/assets/images/2020-12-screenshot20201208-101612chrome.jpg"
 ---
 
 O livro GUIA RAPIDO UMBANDISTA da nossa Cambona e amiga Adriana Zanette encontra-se agora disponível a venda em todo o Brasil pela livraria Agbook. 
@@ -14,4 +15,4 @@ https://www.agbook.com.br/book/350229--Guia_Rapido_Umbandista[Compre o livro imp
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/12/screenshot_20201208-101612_chrome7203785040760342207.jpg?w=1024)](https://www.agbook.com.br/book/350229--Guia_Rapido_Umbandista)
+[![](/tmm7f/assets/images/2020-12-screenshot20201208-101612chrome7203785040760342207.jpg)](https://www.agbook.com.br/book/350229--Guia_Rapido_Umbandista)

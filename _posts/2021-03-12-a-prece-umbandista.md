@@ -2,13 +2,14 @@
 layout: post
 title: "A Prece Umbandista"
 date: 2021-03-12
+coverImage: "/tmm7f/assets/images/2021-03-a-prece-umbandista.png"
 ---
 
 A oração proferida do fundo da alma é a maior oferenda que podes entregar ao plano espiritual. Embarque conosco nessa construção psíquica, etérica e espiritual.
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/a-prece-umbandista.png?w=1024)](https://youtu.be/iRYzVVGKLOQ)[https://youtu.be/iRYzVVGKLOQ](https://youtu.be/iRYzVVGKLOQ)
+[![](/tmm7f/assets/images/2021-03-a-prece-umbandista.png)](https://youtu.be/iRYzVVGKLOQ)[https://youtu.be/iRYzVVGKLOQ](https://youtu.be/iRYzVVGKLOQ)
 
 
 
