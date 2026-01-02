@@ -2,9 +2,10 @@
 layout: post
 title: "Homenagem a Yorimá (pretos velhos da Umbanda)"
 date: 2019-05-12
+coverImage: "/tmm7f/assets/images/2019-12-yorima.jpg"
 ---
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/yorima.jpg?w=1024)
+![](/tmm7f/assets/images/2019-12-yorima.jpg)
 
 
 
