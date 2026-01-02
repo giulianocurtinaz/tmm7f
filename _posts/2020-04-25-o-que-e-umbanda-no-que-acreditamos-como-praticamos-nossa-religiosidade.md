@@ -2,7 +2,7 @@
 layout: post
 title: "O que é umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
 date: 2020-04-25
-image: "/tmm7f/assets/images/2020-04-jesuscaboclopv.png"
+image: "assets/images/2020-04-jesuscaboclopv.png"
 ---
 
 Somos Monoteístas.

@@ -2,7 +2,7 @@
 layout: post
 title: "Pontos Cantados - Nossa Origem e Resgate às tradições"
 date: 2021-03-18
-image: "/tmm7f/assets/images/2021-03-alcimar.png"
+image: "assets/images/2021-03-alcimar.png"
 ---
 
 [![](/tmm7f/assets/images/2021-03-alcimar.png)](https://youtu.be/LIlt536A_qc)[https://youtu.be/LIlt536A_qc](https://youtu.be/LIlt536A_qc)

@@ -4,7 +4,7 @@ title: "Uma jornada ao passado com olhos no futuro"
 date: 2025-10-17
 categories:
   - "Nossa Cultura"
-image: "/tmm7f/assets/images/2025-10-isaias3.png"
+image: "assets/images/2025-10-isaias3.png"
 ---
 
 **Introdução**

@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem a São João Batista e Batizado de Médiuns no Sete Flechas"
 date: 2024-06-23
-image: "/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.05cb6f1f01.jpg"
+image: "assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.05cb6f1f01.jpg"
 ---
 
 Em seu último dia antes de mudarem-se para a Argentina, nossos médiuns Daniela e Alejandro batizaram-se Médiuns de Umbanda!

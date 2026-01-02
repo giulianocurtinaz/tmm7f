@@ -2,7 +2,7 @@
 layout: post
 title: "Batizado de novos Médiuns na Mãe Maria"
 date: 2022-08-10
-image: "/tmm7f/assets/images/2022-08-20220810221453.jpg"
+image: "assets/images/2022-08-20220810221453.jpg"
 ---
 
 Com muita alegria hoje ganhei duas novas afilhadas, Roberta e Simone!

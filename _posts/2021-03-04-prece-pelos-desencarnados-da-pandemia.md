@@ -2,7 +2,7 @@
 layout: post
 title: "Prece pelos desencarnados da Pandemia"
 date: 2021-03-04
-image: "/tmm7f/assets/images/2021-03-prece-aos-desencarnados.png"
+image: "assets/images/2021-03-prece-aos-desencarnados.png"
 ---
 
 Vamos orar em favor de todos que estão desencarnando nessa hora tão difícil.

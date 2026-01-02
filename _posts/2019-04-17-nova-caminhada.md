@@ -2,7 +2,7 @@
 layout: post
 title: "Nova caminhada"
 date: 2019-04-17
-image: "/tmm7f/assets/images/2020-02-c84f0cc0b2.png"
+image: "assets/images/2020-02-c84f0cc0b2.png"
 ---
 
 ![](/tmm7f/assets/images/2020-02-c84f0cc0b2.png)

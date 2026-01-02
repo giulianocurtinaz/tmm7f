@@ -2,7 +2,7 @@
 layout: post
 title: "Vó Mercedes mudou-se para Aruanda!"
 date: 2024-02-19
-image: "/tmm7f/assets/images/2024-03-1.jpg"
+image: "assets/images/2024-03-1.jpg"
 ---
 
 É com o coração apertado mais cheio de amor e desejo de prosperidade ao espírito da minha amada vó Mercedes que despedimo-nos dela nesse 19 de Fevereiro de 2024!

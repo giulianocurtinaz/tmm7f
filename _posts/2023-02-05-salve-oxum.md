@@ -2,7 +2,7 @@
 layout: post
 title: "Salve Oxum!"
 date: 2023-02-05
-image: "/tmm7f/assets/images/2023-02-img-20230205-wa0029.jpg"
+image: "assets/images/2023-02-img-20230205-wa0029.jpg"
 ---
 
 Em 05 de Fevereiro acompanhamos nossos amigos da terreira de Mãe Maria na homenagem realizada em Tapes/RS.  Para nós que respeitamos a tradição deixada pelo nosso amigo Darcy Dias da Silveira, o qual fundou e dirigiu a Mãe Maria desde 1955, o dia 02 de Fevereiro é destinado a prestar homenagens a Oxum pois Nossa Senhora dos Navegantes é a protetora dos rios de água doce, portanto representa nossa Oxum da Umbanda.

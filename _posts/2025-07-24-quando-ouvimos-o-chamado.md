@@ -2,7 +2,7 @@
 layout: post
 title: "Quando ouvimos o chamado"
 date: 2025-07-24
-image: "/tmm7f/assets/images/2025-07-batismo.jpg"
+image: "assets/images/2025-07-batismo.jpg"
 ---
 
 O chamado mediúnico e para a vida religiosa ocorre de forma muito individual; cada um recebe e atende esse chamado com mais ou menos ênfase, permitindo-se mergulhar em si mesmo com maior ou menor lucidez. O acendimento da chama Crística, que reside latente em cada um, é como uma lamparina que não pode ser escondida embaixo da mesa. É luz que precisa se propagar e crescer! É amor que precisa ser doado e multiplicado! É nesse ínterim, e com muita alegria no coração, que compartilho com vocês o relato honesto de meu grande amigo Douglas, que acaba de "ouvir o chamado" em sua vida e, decidindo praticar a caridade na Umbanda, relata, num artigo emocionante e envolvente, como a espiritualidade entrou em sua vida e como decidiu abraçar essa nova experiência.

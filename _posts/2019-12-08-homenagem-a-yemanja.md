@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem a Yemanjá"
 date: 2019-12-08
-image: "/tmm7f/assets/images/2020-01-whatsapp-image-2019-12-08-at-20.28.41.jpeg"
+image: "assets/images/2020-01-whatsapp-image-2019-12-08-at-20.28.41.jpeg"
 ---
 
 Nesse dia tão especial, a corrente de nossa casa homenageou nossa gloriosa Mãe Yemanjá num trabalho muito lindo realizado juntamente com a Terreira de Mãe Maria Fraternidade Cacique Ubirajara. Obrigado a todos os amigos que estiveram juntos nesse inesquecível dia em nossas vidas!!!!! Os médiuns confeccionaram lindíssimas [orações a Yemanjá](https://maemariaseteflechas.com.br/oracoes-yemanja/), confira!

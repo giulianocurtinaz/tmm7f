@@ -2,7 +2,7 @@
 layout: post
 title: "São João é dia de Batizado na Terreira!"
 date: 2025-06-22
-image: "/tmm7f/assets/images/2025-06-00.jpg"
+image: "assets/images/2025-06-00.jpg"
 ---
 
 Já havíamos recebido o recado do Astral de que nosso corpo mediúnico sofreria uma grande renovação, mas não imaginávamos quão rápido e forte seria essa transformação!

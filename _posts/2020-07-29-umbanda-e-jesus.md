@@ -2,7 +2,7 @@
 layout: post
 title: "Umbanda e Jesus"
 date: 2020-07-29
-image: "/tmm7f/assets/images/2020-07-captura-de-tela-2020-07-28-c3a0s-21.09.14.png"
+image: "assets/images/2020-07-captura-de-tela-2020-07-28-c3a0s-21.09.14.png"
 ---
 
 31.07 20hs! Venha orar conosco pelos irmãos doentes e logo em seguida ouvir uma lindíssima palestra sobre o pai Oxalá da Umbanda e as raízes históricas e linguísticas de seu santo nome! Palestra com a médium da terreira do Sete Flechas, minha querida mãe de sangue, Rosiclea.

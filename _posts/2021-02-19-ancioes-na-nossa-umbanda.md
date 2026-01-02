@@ -2,7 +2,7 @@
 layout: post
 title: "Anciões na nossa Umbanda"
 date: 2021-02-19
-image: "/tmm7f/assets/images/2021-02-anciao.png"
+image: "assets/images/2021-02-anciao.png"
 ---
 
 A importância dos médiuns da terceira idade em nossa corrente!

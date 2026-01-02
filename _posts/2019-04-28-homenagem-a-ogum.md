@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem a Ogum"
 date: 2019-04-28
-image: "/tmm7f/assets/images/2020-01-oum3.jpg"
+image: "assets/images/2020-01-oum3.jpg"
 ---
 
 Recebemos a visita do terreiro do Sr Alcimar ( OGUM de Ronda ) acompanhado do médium Marcelo.

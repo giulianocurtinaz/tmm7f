@@ -2,7 +2,7 @@
 layout: post
 title: "Jesus, eu confio em ti!"
 date: 2021-01-06
-image: "/tmm7f/assets/images/2021-01-merciful-jesus-300dpi.jpg"
+image: "assets/images/2021-01-merciful-jesus-300dpi.jpg"
 ---
 
 ![](/tmm7f/assets/images/2021-01-merciful-jesus-pq.jpg)Jesus Misericordioso

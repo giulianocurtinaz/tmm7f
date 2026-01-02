@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem a Ogum 2023"
 date: 2023-04-24
-image: "/tmm7f/assets/images/2023-04-whatsapp-image-2023-04-22-at-19.24.46.jpeg"
+image: "assets/images/2023-04-whatsapp-image-2023-04-22-at-19.24.46.jpeg"
 ---
 
 ![](/tmm7f/assets/images/2023-04-whatsapp-image-2023-04-22-at-19.24.46.jpeg)

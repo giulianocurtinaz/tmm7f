@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem à Iemanjá 2022"
 date: 2022-12-11
-image: "/tmm7f/assets/images/2022-12-photo1jpeg.jpeg"
+image: "assets/images/2022-12-photo1jpeg.jpeg"
 ---
 
 Hoje foi um dia maravilhoso na companhia de nossos amigos da terreira de Mãe Maria ( Nossa casa de Origem ). Juntos fomos à Tramandaí para realizarmos nossa homenagem à nossa Grande Mãe Iemanjá!

@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem a Oxóssi 2025"
 date: 2025-01-19
-image: "/tmm7f/assets/images/2025-01-img-20250119-wa0049.jpg"
+image: "assets/images/2025-01-img-20250119-wa0049.jpg"
 ---
 
 Hoje com muita vibração e proteção das matas fizemos nossa homenagem à Oxóssi juntamente com a corrente da Mãe Maria!

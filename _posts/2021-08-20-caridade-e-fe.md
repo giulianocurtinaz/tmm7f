@@ -2,7 +2,7 @@
 layout: post
 title: "Caridade e Fé"
 date: 2021-08-20
-image: "/tmm7f/assets/images/2021-08-fecc81-e-caridadejpg.jpg"
+image: "assets/images/2021-08-fecc81-e-caridadejpg.jpg"
 ---
 
 É possível praticar a caridade sem fé ?
