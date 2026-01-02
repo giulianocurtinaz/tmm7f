@@ -26,21 +26,10 @@ footer-links:
   # rss: rss
   # twitter: 
   # stackoverflow: 
-  youtube: channel/UCRxKGCSZ4UUJxlijM9zhbnA # Using channel ID from investigation
+  youtube: channel/UCRxKGCSZ4UUJxlijM9zhbnA 
   # googleplus: 
 
-# Navigation (Jekyll Now usually has a simple nav or uses simple logic)
-# We can keep our explicit header_pages or let it use the default if we updated the layout.
-# Jekyll Now default.html typically iterates over `site.pages` and filters by `title`.
-# However, I preserved our custom `header_pages` list below just in case we want to customize the `default.html` logic later
-# OR if we want to rely on the previous logic (BUT we overwrote the layout).
-# Standard Jekyll Now `default.html` header logic:
-# <nav> ... {% for my_page in site.pages %} ... {% endfor %} ... </nav>
-# It does NOT use `header_pages` variable by default. 
-# BUT, since I want to maintain the specific order requested by the user, I might need to editing `_layouts/default.html` or `_includes/svg-icons` is enough?
-# No, `default.html` handles the top nav.
-# For now, I will keep the list here for reference/backup.
-
+# Navigation (Manual Order preserved from logic)
 header_pages:
   - index.md
   - pages/calendario-2025.md
@@ -58,4 +47,9 @@ highlighter: rouge
 sass:
   style: compressed
 
-# Theme: minima  <-- REMOVED to use local layouts
+# Theme Settings
+remote_theme: barryclark/jekyll-now
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
