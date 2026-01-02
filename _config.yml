@@ -1,29 +1,61 @@
 title: "Terreira de Mãe Maria fraternidade Sete Flechas"
-email: terreira@itinformatica.com.br
 description: >-
   Espaço dedicado à divulgação da cultura, orações e pontos cantados da 
   Terreira de Mãe Maria fraternidade Sete Flechas.
 baseurl: "/tmm7f"
 url: "https://giulianocurtinaz.github.io"
 
-# Menu Navigation (Manual Order)
+# Jekyll Now Settings
+# -------------------
+# To enable Google Analytics, change the following value to your tracking ID
+# google_analytics: UA-123456-7
+
+# Your avatar will be displayed in the header. (Optional)
+# avatar: 
+
+# Footer Social Links
+footer-links:
+  # dribbble: 
+  # email: terreira@itinformatica.com.br
+  facebook: MaeMariaSeteFlechas 
+  # flickr: 
+  # github: 
+  # instagram: 
+  # linkedin: 
+  # pinterest: 
+  # rss: rss
+  # twitter: 
+  # stackoverflow: 
+  youtube: channel/UCRxKGCSZ4UUJxlijM9zhbnA # Using channel ID from investigation
+  # googleplus: 
+
+# Navigation (Jekyll Now usually has a simple nav or uses simple logic)
+# We can keep our explicit header_pages or let it use the default if we updated the layout.
+# Jekyll Now default.html typically iterates over `site.pages` and filters by `title`.
+# However, I preserved our custom `header_pages` list below just in case we want to customize the `default.html` logic later
+# OR if we want to rely on the previous logic (BUT we overwrote the layout).
+# Standard Jekyll Now `default.html` header logic:
+# <nav> ... {% for my_page in site.pages %} ... {% endfor %} ... </nav>
+# It does NOT use `header_pages` variable by default. 
+# BUT, since I want to maintain the specific order requested by the user, I might need to editing `_layouts/default.html` or `_includes/svg-icons` is enough?
+# No, `default.html` handles the top nav.
+# For now, I will keep the list here for reference/backup.
+
 header_pages:
   - index.md
   - pages/calendario-2025.md
   - pages/missao.md
   - pages/links-e-livros.md
-  - pages/raiz-ubirajara.md       # Mapped from "a-nossa-cultura.md"
-  - pages/localizacao.md          # Mapped from "localizacao-e-contato.md"
+  - pages/raiz-ubirajara.md
+  - pages/localizacao.md
   - pages/pontos-cantados.md
-  - pages/pagina-dos-amigos-dirigentes.md # Mapped from "amigos-dirigentes.md"
+  - pages/pagina-dos-amigos-dirigentes.md
   - pages/oracoes-umbandistas.md
 
-# Build Configuration
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# Build settings
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
 
-# Social Media
-youtube_username: c/TerreiraMaeMaria
-facebook_username: terreiramaria
+# Theme: minima  <-- REMOVED to use local layouts
