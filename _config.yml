@@ -1,41 +1,6 @@
-baseurl: "/tmm7f"
-url: "https://giulianocurtinaz.github.io"
 title: "Terreira de Mãe Maria"
-mail: "terreira@itinformatica.com.br"
-avatar: "https://secure.gravatar.com/avatar/602af976451e605d58852a4401c90066?s=150" # Default or User Provided
-description: "Espaço dedicado à divulgação da cultura, orações e pontos cantados."
-
-permalink: /:title/
-
-# Theme Settings
+baseurl: "/tmm7f"
 remote_theme: wowthemesnet/mediumish-theme-jekyll
-
-# Authors
-authors:
-  maemaria:
-    name: Mãe Maria
-    display_name: Mãe Maria
-    avatar: https://secure.gravatar.com/avatar/602af976451e605d58852a4401c90066?s=150
-    web: https://giulianocurtinaz.github.io/tmm7f
-    twitter: https://twitter.com/
-    description: "Autora do Site"
-
-# Lazy Images
-lazyimages: "enabled"
-
-# Pagination
-paginate: 8
-paginate_path: /page:num/
-
-# Disqus
-disqus: ""
-
-# Google Analytics
-google_analytics: ""
-
-# Build Settings
-markdown: kramdown
-highlighter: rouge
 
 plugins:
   - jekyll-paginate
@@ -44,5 +9,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-sass:
-  style: compressed
+paginate: 8
+paginate_path: /page:num/
