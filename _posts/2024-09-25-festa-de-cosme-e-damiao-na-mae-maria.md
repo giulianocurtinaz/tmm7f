@@ -28,7 +28,7 @@ Obrigado Cosme e Damião pelo maior presente que poderia nos conceder: Nosso ama
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/img-20240926-wa0015.jpg?w=768)
+![](/tmm7f/assets/images/2024-12-img-20240926-wa0015.jpg)
 
 
 
@@ -40,4 +40,4 @@ Obrigado Cosme e Damião pelo maior presente que poderia nos conceder: Nosso ama
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/img-20240926-wa0025.jpg?w=768)
+![](/tmm7f/assets/images/2024-12-img-20240926-wa0025.jpg)

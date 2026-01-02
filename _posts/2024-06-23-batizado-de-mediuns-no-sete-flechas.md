@@ -2,6 +2,7 @@
 layout: post
 title: "Homenagem a São João Batista e Batizado de Médiuns no Sete Flechas"
 date: 2024-06-23
+coverImage: "/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.05cb6f1f01.jpg"
 ---
 
 Em seu último dia antes de mudarem-se para a Argentina, nossos médiuns Daniela e Alejandro batizaram-se Médiuns de Umbanda!
@@ -24,7 +25,7 @@ Padrinhos espirituais: Nego Juca e Maria Conga, materiais: Giuliano e Kátia!
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/imagem-do-whatsapp-de-2024-12-23-as-15.47.05_78a84ba8.jpg?w=580)
+![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.0578a84ba8.jpg)
 
 
 
