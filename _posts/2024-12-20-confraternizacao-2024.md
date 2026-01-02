@@ -30,7 +30,7 @@ Viva o Natal e nosso Pai Oxalá!
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/img-20241221-wa0010.jpg?w=1024)
+![](/tmm7f/assets/images/2024-12-img-20241221-wa0010.jpg)
 
 
 

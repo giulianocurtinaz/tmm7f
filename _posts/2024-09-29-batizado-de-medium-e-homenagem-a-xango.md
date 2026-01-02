@@ -14,12 +14,12 @@ Foi um dia muito especial, pois além da homenagem realizamos o batizado de noss
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/imagem-do-whatsapp-de-2024-09-29-as-13.15.11_daea49a2.jpg?w=1024)
+![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.11daea49a2.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/imagem-do-whatsapp-de-2024-09-29-as-13.15.11_2acdbb12.jpg?w=1024)
+![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.112acdbb12.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/12/imagem-do-whatsapp-de-2024-09-29-as-13.15.12_dafd61b3.jpg?w=1024)
+![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.12dafd61b3.jpg)
