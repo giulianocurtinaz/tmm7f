@@ -8,4 +8,4 @@ Aos vinte e três dias do mês de junho de 2019, no terreiro de Mae Maria Frater
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia3.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia2.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia_principal.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia_principal2.jpg)
+![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia3.jpg)![](/tmm7f/assets/images/2020-01-batizadokatia2.jpg)![](/tmm7f/assets/images/2020-01-batizadokatia.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia_principal.jpg)![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/01/batizadokatia_principal2.jpg)

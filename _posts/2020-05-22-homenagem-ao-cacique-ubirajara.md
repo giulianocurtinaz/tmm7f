@@ -5,7 +5,7 @@ date: 2020-05-22
 coverImage: "/tmm7f/assets/images/2020-05-capajpegsem-titulo-1.jpg"
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/capa_jpeg_sem-titulo.jpg?w=1024)](https://youtu.be/CIfJwOOw3CM)
+[![](/tmm7f/assets/images/2020-05-capajpegsem-titulo.jpg)](https://youtu.be/CIfJwOOw3CM)
 
 
 

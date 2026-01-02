@@ -60,7 +60,7 @@ date: 2020-05-13
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/preto275.png?w=275)](https://maemariaseteflechas.com.br/oracoes-yorima/)
+[![](/tmm7f/assets/images/2020-05-preto275.png)](https://maemariaseteflechas.com.br/oracoes-yorima/)
 
 
 
@@ -92,7 +92,7 @@ date: 2020-05-13
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/yemanja275.png?w=276)](https://maemariaseteflechas.com.br/oracoes-yemanja/)
+[![](/tmm7f/assets/images/2020-05-yemanja275.png)](https://maemariaseteflechas.com.br/oracoes-yemanja/)
 
 
 

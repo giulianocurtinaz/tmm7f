@@ -97,4 +97,4 @@ https://youtu.be/Pc0C5neMwD4
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/capa.jpg?w=1024)
+![](/tmm7f/assets/images/2020-05-capa.jpg)

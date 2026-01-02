@@ -31,4 +31,4 @@ https://youtu.be/xlW2hLe_zGA
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/capa_nova2.jpg?w=1024)](https://youtu.be/xlW2hLe_zGA)
+[![](/tmm7f/assets/images/2020-05-capanova2.jpg)](https://youtu.be/xlW2hLe_zGA)
