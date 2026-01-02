@@ -2,6 +2,7 @@
 layout: post
 title: "Festa de Cosme na Mãe Maria 2025"
 date: 2025-09-25
+coverImage: "/tmm7f/assets/images/2025-09-imagem-do-whatsapp-de-2025-09-25-as-19.21.08fd07f632.jpg"
 ---
 
 Preparado com muito carinho e amor pelos médiuns da Mãe Maria com o colaboração ativa dos médiuns do Sete Flechas e também da Terreira do  Pai João, a festa de Cosme e Damião de 2025 foi realmente uma das festas mais bonitas já realizadas!
