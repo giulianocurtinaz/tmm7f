@@ -8,4 +8,4 @@ date: 2023-04-07
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/screenshot_20230406_183726_google5629295114337943442.jpg?w=664)
+![](/tmm7f/assets/images/2023-04-screenshot20230406183726google5629295114337943442.jpg)

@@ -12,7 +12,7 @@ Foi com muita alegria, emoção e forte vibração que realizamos nesse dia ilum
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/07/img-20230625-wa0012989691698604762135.jpg?w=768)
+![](/tmm7f/assets/images/2023-07-img-20230625-wa0012989691698604762135.jpg)
 
 
 

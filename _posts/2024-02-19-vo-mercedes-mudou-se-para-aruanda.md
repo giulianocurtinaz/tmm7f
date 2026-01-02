@@ -33,7 +33,7 @@ Quando vires me buscar, não esqueça das polentas fritas!
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/03/imagem-do-whatsapp-de-2024-03-08-as-13.28.57_e381411f.jpg?w=720)
+![](/tmm7f/assets/images/2024-03-imagem-do-whatsapp-de-2024-03-08-as-13.28.57e381411f.jpg)
 
 
 

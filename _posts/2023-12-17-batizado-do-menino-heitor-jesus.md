@@ -13,8 +13,8 @@ Em nossa última sessão pública do ano de 2023 realizamos o batizado de nosso 
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2023-12-21-as-17.47.59_b50ceacd.jpg?w=768)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2023-12-21-as-17.47.59b50ceacd.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2023-12-21-as-17.48.01_57264752.jpg?w=1024)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2023-12-21-as-17.48.0157264752.jpg)
