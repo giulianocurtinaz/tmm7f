@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "jekyll", "~> 3.9"
+gem "jekyll", "~> 3.9.0"
 gem "jekyll-remote-theme"
 group :jekyll_plugins do
   gem "jekyll-paginate"
