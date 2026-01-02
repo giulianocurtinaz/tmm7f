@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Semente do Evangelho encontra solo fértil em mais um Terreiro"
+title: "Semente do Evangelho encontra “solo fértil” em mais um Terreiro"
 date: 2019-04-04 15:50:00 -0300
 image: "assets/images/2019-12-20190929204214.jpg"
 ---
