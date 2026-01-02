@@ -76,7 +76,7 @@ date: 2020-05-13
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2020/05/ogum275.png?w=271)](https://maemariaseteflechas.com.br/oracoes-ogum/)
+[![](/tmm7f/assets/images/2020-05-ogum275.png)](https://maemariaseteflechas.com.br/oracoes-ogum/)
 
 
 
