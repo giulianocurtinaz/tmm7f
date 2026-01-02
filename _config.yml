@@ -1,0 +1,23 @@
+title: "Mãe Maria Seteflechas"
+description: "Blog de Umbanda e Espiritualidade"
+theme: minima
+
+# Configurações para funcionar no repositório tmm7f
+baseurl: "/tmm7f"
+url: "https://giulianocurtinaz.github.io"
+
+# Organização de Coleções e Menus
+header_pages:
+  - pages/sobre.md  # Substitua pelo nome real dos seus arquivos na pasta pages
+  - pages/contato.md
+
+# Configurações de Markdown e Performance
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Excluir arquivos desnecessários do build final
+exclude:
+  - meusite.xml
+  - meusite.zip
+  - vendor/
