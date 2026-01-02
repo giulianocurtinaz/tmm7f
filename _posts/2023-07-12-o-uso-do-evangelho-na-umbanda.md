@@ -4,7 +4,7 @@ title: "O uso do Evangelho na Umbanda"
 date: 2023-07-12
 ---
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/07/oevangelho.jpg?w=363)
+![](/tmm7f/assets/images/2023-07-oevangelho.jpg)
 
 
 
