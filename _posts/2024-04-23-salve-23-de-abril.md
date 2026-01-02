@@ -9,4 +9,4 @@ Salve meu Pai Ogum! Livrai-nos de nossa própria ignorância! Dai-nos tua força
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/04/ogum2494424102257355690.jpg?w=1024)
+![](/tmm7f/assets/images/2024-04-ogum2494424102257355690.jpg)

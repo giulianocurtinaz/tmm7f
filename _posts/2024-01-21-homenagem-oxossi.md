@@ -14,19 +14,19 @@ Hoje também tivemos o ingresso de mais uma trabalhadora da casa! Seja bem-vinda
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2024-01-21-as-22.21.11_238e4235.jpg?w=1024)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-22.21.11238e4235.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2024-01-21-as-22.01.21_1ab0b04c.jpg?w=1024)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-22.01.211ab0b04c.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2024-01-21-as-22.21.15_3d0b2698.jpg?w=1024)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-22.21.153d0b2698.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2024-01-21-as-22.21.15_310b6851.jpg?w=1024)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-22.21.15310b6851.jpg)
 
 
 
@@ -34,4 +34,4 @@ Hoje também tivemos o ingresso de mais uma trabalhadora da casa! Seja bem-vinda
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2024/01/imagem-do-whatsapp-de-2024-01-21-as-22.21.16_496a40a8.jpg?w=768)
+![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-22.21.16496a40a8.jpg)
