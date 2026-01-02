@@ -8,15 +8,15 @@ Foi com muita alegria que finalmente cantamos esse parabéns ! Pela primeira vez
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/20230325_1645122008295571071307109.jpg?w=1024)
+![](/tmm7f/assets/images/2023-04-202303251645122008295571071307109.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/20230326_113741816142024769609502.jpg?w=1024)
+![](/tmm7f/assets/images/2023-04-20230326113741816142024769609502.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/20230326_113734154911791834378163.jpg?w=1024)
+![](/tmm7f/assets/images/2023-04-20230326113734154911791834378163.jpg)
 
 
 
@@ -48,8 +48,8 @@ Foi com muita alegria que finalmente cantamos esse parabéns ! Pela primeira vez
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/20230407_1144022695516864793800810.jpg?w=485)
+![](/tmm7f/assets/images/2023-04-202304071144022695516864793800810.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2023/04/20230325_1705143956930877261553198.jpg?w=1024)
+![](/tmm7f/assets/images/2023-04-202303251705143956930877261553198.jpg)

@@ -27,4 +27,4 @@ dias
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/08/ehluz.jpg?w=905)
+![](/tmm7f/assets/images/2021-08-ehluz.jpg)
