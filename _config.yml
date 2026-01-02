@@ -1,23 +1,29 @@
-title: "Mãe Maria Seteflechas"
-description: "Blog de Umbanda e Espiritualidade"
-theme: minima
-
-# Configurações para funcionar no repositório tmm7f
+title: "Terreira de Mãe Maria fraternidade Sete Flechas"
+email: terreira@itinformatica.com.br
+description: >-
+  Espaço dedicado à divulgação da cultura, orações e pontos cantados da 
+  Terreira de Mãe Maria fraternidade Sete Flechas.
 baseurl: "/tmm7f"
 url: "https://giulianocurtinaz.github.io"
 
-# Organização de Coleções e Menus
+# Menu Navigation (Manual Order)
 header_pages:
-  - pages/sobre.md  # Substitua pelo nome real dos seus arquivos na pasta pages
-  - pages/contato.md
+  - index.md
+  - pages/calendario-2025.md
+  - pages/missao.md
+  - pages/links-e-livros.md
+  - pages/raiz-ubirajara.md       # Mapped from "a-nossa-cultura.md"
+  - pages/localizacao.md          # Mapped from "localizacao-e-contato.md"
+  - pages/pontos-cantados.md
+  - pages/pagina-dos-amigos-dirigentes.md # Mapped from "amigos-dirigentes.md"
+  - pages/oracoes-umbandistas.md
 
-# Configurações de Markdown e Performance
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# Build Configuration
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Excluir arquivos desnecessários do build final
-exclude:
-  - meusite.xml
-  - meusite.zip
-  - vendor/
+# Social Media
+youtube_username: c/TerreiraMaeMaria
+facebook_username: terreiramaria
