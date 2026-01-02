@@ -4,7 +4,7 @@ title: "O Cristo Consolador"
 date: 2021-07-09
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/07/amor2.png?w=1002)](https://youtu.be/HyiUHC_hJx0)[https://youtu.be/HyiUHC_hJx0](https://youtu.be/HyiUHC_hJx0)
+[![](/tmm7f/assets/images/2021-07-amor2.png)](https://youtu.be/HyiUHC_hJx0)[https://youtu.be/HyiUHC_hJx0](https://youtu.be/HyiUHC_hJx0)
 
 
 

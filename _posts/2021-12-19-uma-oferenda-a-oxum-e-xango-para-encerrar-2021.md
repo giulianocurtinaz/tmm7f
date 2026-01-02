@@ -15,23 +15,23 @@ Obrigado Pai Xangô por nos transmitir tua força e determinação. Obrigado Mã
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/20211219_1008578143694485763293166.jpg?w=1024)
+![](/tmm7f/assets/images/2021-12-202112191008578143694485763293166.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/20211219_1013112835165108721420571.jpg)
+![](/tmm7f/assets/images/2021-12-202112191013112835165108721420571.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/20211219_1004443423326448764778973.jpg)
+![](/tmm7f/assets/images/2021-12-202112191004443423326448764778973.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/20211219_100458457649713863866400.jpg)
+![](/tmm7f/assets/images/2021-12-20211219100458457649713863866400.jpg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/12/20211219_1004418723874237570303925.jpg)
+![](/tmm7f/assets/images/2021-12-202112191004418723874237570303925.jpg)
 
 
 
