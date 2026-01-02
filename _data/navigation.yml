@@ -1,46 +1,26 @@
-# Navigation Menu
-# Ordem solicitada: Home, Calendário, Missão, Links, Cultura, Contato, YouTube, Pontos Cantados, Amigos, TimeLine, Facebook e Orações.
-
 - title: Home
   url: /
-  
-- title: Calendário
-  url: /pages/calendario-2025.html
-  
-- title: Missão
-  url: /pages/missao.html
-  
-- title: Links
-  url: /pages/links-e-livros.html
-  
-- title: Cultura
-  # "nossa-cultura" was requested. Closest matches: "raiz-de-ubirajara.md" or "raiz-ubirajara.md" or maybe a category?
-  # User prompt said "pages/a-nossa-cultura.md".
-  # Detailed file list showed "pages/raiz-ubirajara.md" and "pages/raiz-de-ubirajara.md".
-  # I will use "pages/raiz-ubirajara.md" as a placeholder for "Cultura" or maybe create "a-nossa-cultura.md" if it doesn't exist?
-  # The user said "A IA deve ajustar os nomes ... para os nomes reais".
-  # I don't see "nossa-cultura" in the file list. I see "fome-tem-pressa", "aos-orixas", etc.
-  # "Raiz de Ubirajara" seems like "Cultura". I'll use that.
-  url: /pages/raiz-ubirajara.html
 
-- title: Contato
-  url: /pages/localizacao.html
+- title: A Casa
+  url: /pages/a-casa.md
+
+- title: O Fundador
+  url: /pages/o-fundador.md
+
+- title: Estatuto
+  url: /pages/estatuto-da-crianca-e-do-adolescente.md
+
+- title: Raiz Ubirajara
+  url: /pages/raiz-ubirajara.md
+
+- title: Cultura
+  url: /categories#Cultura
+
+- title: Orações
+  url: /categories#Orações
+
+- title: Facebook
+  url: https://www.facebook.com/TerreiraMaeMariadoPaiUbirajara
 
 - title: YouTube
-  url: https://www.youtube.com/channel/UCRxKGCSZ4UUJxlijM9zhbnA
-  
-- title: Pontos Cantados
-  url: /pages/pontos-cantados.html
-
-- title: Amigos
-  url: /pages/pagina-dos-amigos-dirigentes.html
-
-- title: TimeLine
-  url: /pages/timeline.html
-  
-- title: Facebook
-  url: https://www.facebook.com/MaeMariaSeteFlechas/
-  
-- title: Orações
-  # "oracoes-umbandistas.md" seems general.
-  url: /pages/oracoes-umbandistas.html
+  url: https://www.youtube.com/channel/UCf5w9FbFGDco9OXnfWi9Ogw

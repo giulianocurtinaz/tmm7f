@@ -1,55 +1,49 @@
-title: "Terreira de Mãe Maria fraternidade Sete Flechas"
-description: >-
-  Espaço dedicado à divulgação da cultura, orações e pontos cantados da 
-  Terreira de Mãe Maria fraternidade Sete Flechas.
 baseurl: "/tmm7f"
 url: "https://giulianocurtinaz.github.io"
+title: "Terreira de Mãe Maria"
+mail: "terreira@itinformatica.com.br"
+avatar: "https://secure.gravatar.com/avatar/602af976451e605d58852a4401c90066?s=150" # Default or User Provided
+description: "Espaço dedicado à divulgação da cultura, orações e pontos cantados."
 
-# Jekyll Now Settings
-# -------------------
-# To enable Google Analytics, change the following value to your tracking ID
-# google_analytics: UA-123456-7
+permalink: /:title/
 
-# Your avatar will be displayed in the header. (Optional)
-# avatar: 
+# Navigation
+# Mediumish typically uses standard 'header_pages' or its own 'navigation.yml' in _data but usually iterates existing pages in specific ways.
+# Current _includes/header.html in Mediumish likely looks at 'site.pages' with a title.
+# We will verify if we need to update navigation.yml logic.
 
-# Footer Social Links
-footer-links:
-  # dribbble: 
-  # email: terreira@itinformatica.com.br
-  facebook: MaeMariaSeteFlechas 
-  # flickr: 
-  # github: 
-  # instagram: 
-  # linkedin: 
-  # pinterest: 
-  # rss: rss
-  # twitter: 
-  # stackoverflow: 
-  youtube: channel/UCRxKGCSZ4UUJxlijM9zhbnA 
-  # googleplus: 
+# Authors
+authors:
+  maemaria:
+    name: Mãe Maria
+    display_name: Mãe Maria
+    avatar: https://secure.gravatar.com/avatar/602af976451e605d58852a4401c90066?s=150
+    web: https://giulianocurtinaz.github.io/tmm7f
+    twitter: https://twitter.com/
+    description: "Autora do Site"
 
-# Navigation (Manual Order preserved from logic)
-header_pages:
-  - index.md
-  - pages/calendario-2025.md
-  - pages/missao.md
-  - pages/links-e-livros.md
-  - pages/raiz-ubirajara.md
-  - pages/localizacao.md
-  - pages/pontos-cantados.md
-  - pages/pagina-dos-amigos-dirigentes.md
-  - pages/oracoes-umbandistas.md
+# Lazy Images
+lazyimages: "enabled"
 
-# Build settings
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Disqus
+disqus: ""
+
+# Google Analytics
+google_analytics: ""
+
+# Build Settings
 markdown: kramdown
 highlighter: rouge
-sass:
-  style: compressed
 
-# Theme Settings
-remote_theme: barryclark/jekyll-now
 plugins:
+  - jekyll-paginate
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
+  - jekyll-sitemap
+
+sass:
+  style: compressed
