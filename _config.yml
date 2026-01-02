@@ -7,10 +7,8 @@ description: "Espaço dedicado à divulgação da cultura, orações e pontos ca
 
 permalink: /:title/
 
-# Navigation
-# Mediumish typically uses standard 'header_pages' or its own 'navigation.yml' in _data but usually iterates existing pages in specific ways.
-# Current _includes/header.html in Mediumish likely looks at 'site.pages' with a title.
-# We will verify if we need to update navigation.yml logic.
+# Theme Settings
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 
 # Authors
 authors:
@@ -26,7 +24,7 @@ authors:
 lazyimages: "enabled"
 
 # Pagination
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
 
 # Disqus
@@ -44,6 +42,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 sass:
   style: compressed

@@ -2,7 +2,7 @@
 layout: post
 title: "Semente do Evangelho encontra "solo fértil" em mais um Terreiro"
 date: 2019-04-04
-coverImage: "/tmm7f/assets/images/2019-12-20190929204214.jpg"
+image: "/tmm7f/assets/images/2019-12-20190929204214.jpg"
 ---
 
 ![](/tmm7f/assets/images/2019-12-20190929204214.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: "Aniversário de 6 anos do Sete Flechas"
 date: 2025-03-23
-coverImage: "/tmm7f/assets/images/2025-03-img-20250323-wa0108.jpg"
+image: "/tmm7f/assets/images/2025-03-img-20250323-wa0108.jpg"
 ---
 
 Hoje rodeado de amigos desse e do outro plano, comemoramos o sexto aniversário de nossa casa.

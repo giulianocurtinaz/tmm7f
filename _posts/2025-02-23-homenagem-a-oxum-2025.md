@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem à Oxum 2025"
 date: 2025-02-23
-coverImage: "/tmm7f/assets/images/2025-02-img-20250223-wa0115.jpg"
+image: "/tmm7f/assets/images/2025-02-img-20250223-wa0115.jpg"
 ---
 
 Ao lado dos amigos da Mãe Maria realizamos nossa mais bela homenagem à Oxum!

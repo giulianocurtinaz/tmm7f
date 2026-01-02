@@ -2,7 +2,7 @@
 layout: post
 title: "Segundo batizado de médiuns no terreiro"
 date: 2020-01-26
-coverImage: "/tmm7f/assets/images/2020-01-20200126102347.jpg"
+image: "/tmm7f/assets/images/2020-01-20200126102347.jpg"
 ---
 
 Tomar a decisão de entrar para uma corrente mediúnica de Umbanda não é algo fácil! Muitos são os entraves, contratempos e pensamentos diversos que nos afastam de praticar a caridade por livre e espontânea vontade!

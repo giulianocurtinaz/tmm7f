@@ -2,7 +2,7 @@
 layout: post
 title: "Umbanda e a busca do conhecimento"
 date: 2020-08-28
-coverImage: "/tmm7f/assets/images/2020-09-screenshot20200911-174815wordpress.jpg"
+image: "/tmm7f/assets/images/2020-09-screenshot20200911-174815wordpress.jpg"
 ---
 
 Autores umbantistas e espíritias, recomendações de obras básicas e o caminho do conhecimento espiritual.

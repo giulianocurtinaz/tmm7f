@@ -2,7 +2,7 @@
 layout: post
 title: "Preparação da próxima turma de Caciques!"
 date: 2025-06-15
-coverImage: "/tmm7f/assets/images/2025-06-1.jpg"
+image: "/tmm7f/assets/images/2025-06-1.jpg"
 ---
 
 Foi com forte vibração de caboclos que hoje nossa querida Cambona Kátia realizou a abertura dos trabalhos espirituais na manhã desse domingo! Juntamente com nossa médium Táscilla, as médiuns se preparam para sua coroação de Sacerdotisas de Umbanda (Caciques) em novembro próximo. 

@@ -2,7 +2,7 @@
 layout: post
 title: "O que ocorreu espiritualmente na Sexta-Feira Santa !?"
 date: 2024-03-30
-coverImage: "/tmm7f/assets/images/2021-01-merciful-jesus-300dpi.jpg"
+image: "/tmm7f/assets/images/2021-01-merciful-jesus-300dpi.jpg"
 ---
 
 ![](/tmm7f/assets/images/2021-01-merciful-jesus-pq.jpg)Jesus Misericordioso

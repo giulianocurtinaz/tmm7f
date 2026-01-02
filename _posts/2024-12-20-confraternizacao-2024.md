@@ -2,7 +2,7 @@
 layout: post
 title: "Confraternização 2024"
 date: 2024-12-20
-coverImage: "/tmm7f/assets/images/2024-12-img-20241221-wa0015.jpg"
+image: "/tmm7f/assets/images/2024-12-img-20241221-wa0015.jpg"
 ---
 
 Não é só de branco que nos reunimos! 

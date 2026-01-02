@@ -2,7 +2,7 @@
 layout: post
 title: "A importância da Amizade"
 date: 2021-07-23
-coverImage: "/tmm7f/assets/images/2021-07-screenshot20210723-191412youtube300057623317569770.jpg"
+image: "/tmm7f/assets/images/2021-07-screenshot20210723-191412youtube300057623317569770.jpg"
 ---
 
 [![](/tmm7f/assets/images/2021-07-screenshot20210723-191412youtube300057623317569770.jpg)](https://youtu.be/eMk433dLcxQ)[https://youtu.be/eMk433dLcxQ](https://youtu.be/eMk433dLcxQ)

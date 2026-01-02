@@ -2,7 +2,7 @@
 layout: post
 title: "Uma oferenda à Oxum e Xangô para encerrar 2021"
 date: 2021-12-19
-coverImage: "/tmm7f/assets/images/2021-12-20211219100857.jpg"
+image: "/tmm7f/assets/images/2021-12-20211219100857.jpg"
 ---
 
 Hoje, com muita alegria, fé e devoção, realizamos uma pequena oferenda à Oxum e Xangô na caverna dos Bugres  em Santa Maria do Herval/RS.

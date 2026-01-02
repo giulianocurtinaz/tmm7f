@@ -2,7 +2,7 @@
 layout: post
 title: "A importância do diário mediúnico"
 date: 2021-01-29
-coverImage: "/tmm7f/assets/images/2021-01-fotocoroacao.jpeg"
+image: "/tmm7f/assets/images/2021-01-fotocoroacao.jpeg"
 ---
 
 [![](/tmm7f/assets/images/2021-01-fotocoroacao.jpeg)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)

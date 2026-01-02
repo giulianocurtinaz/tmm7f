@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem à Oxum"
 date: 2020-02-02
-coverImage: "/tmm7f/assets/images/2020-02-whatsapp-image-2020-02-02-at-19.39.05.jpeg"
+image: "/tmm7f/assets/images/2020-02-whatsapp-image-2020-02-02-at-19.39.05.jpeg"
 ---
 
 Em 02 de fevereiro de 2020 nossa terreira uniu-se à sua casa de origem, terreira de Mãe Maria, somando-se ainda à outras 4 casas numa linda homenagem à nossa Mãe Oxum realizada em Tapes-RS.

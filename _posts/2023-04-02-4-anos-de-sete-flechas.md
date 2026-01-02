@@ -2,7 +2,7 @@
 layout: post
 title: "4 anos de Sete Flechas!"
 date: 2023-04-02
-coverImage: "/tmm7f/assets/images/2023-04-20230325170514.jpg"
+image: "/tmm7f/assets/images/2023-04-20230325170514.jpg"
 ---
 
 Foi com muita alegria que finalmente cantamos esse parabéns ! Pela primeira vez pudemos confraternizar essa data com as portas da casa aberta ao público! Salve essa casa de Luz e que venham os próximos de caridade! Agradecimento aos Médiuns da casa: Kátia, Rosiclea, Rafael, Darwin, Sol, Denise e Deon! Agradecimento especial aos dirigentes que nos apoiaram muito nesse período : Suely, Aline e Cleber!

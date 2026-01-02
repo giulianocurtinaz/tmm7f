@@ -2,7 +2,7 @@
 layout: post
 title: "Bandeirante do Evangelho retorna a casa do Pai"
 date: 2019-06-28
-coverImage: "/tmm7f/assets/images/2019-12-img-20190324-wa0000-e1580991860105.jpg"
+image: "/tmm7f/assets/images/2019-12-img-20190324-wa0000-e1580991860105.jpg"
 ---
 
 ![](/tmm7f/assets/images/2019-12-img-20190324-wa0000-e1580991860105.jpg)

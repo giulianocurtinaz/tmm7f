@@ -2,7 +2,7 @@
 layout: post
 title: "114 Anos deUmbanda"
 date: 2022-11-13
-coverImage: "/tmm7f/assets/images/2022-11-capalivro.jpg"
+image: "/tmm7f/assets/images/2022-11-capalivro.jpg"
 ---
 
 No dia 15 de Novembro de 2022 nossa amada Umbanda completará 114 anos ! Convido os amigos a conhecerem os detalhes da fundação da nossa religião através da leitura da Obra **[Origens da Umbanda](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)** do autor Padrinho Juruá.

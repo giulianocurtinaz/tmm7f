@@ -4,7 +4,7 @@ title: "A Umbanda praticada nas casas da raiz de Ubirajara Peito de Aço"
 date: 2025-10-17
 categories:
   - "Nossa Cultura"
-coverImage: "/tmm7f/assets/images/2025-10-livreo-magia-das-tres-colunas-na-umbanda2.png"
+image: "/tmm7f/assets/images/2025-10-livreo-magia-das-tres-colunas-na-umbanda2.png"
 ---
 
 Falar de ramificações da Umbanda nunca foi um tópico fácil e categórico. Sabemos que há inúmeras práticas, formas de culto, rituais e entendimentos distintos sobre o que é essa religião genuína do Brasil, mista e plural. Moldável em sua forma de prática conforme a região e a necessidade da comunidade — mas nunca adaptável em seus fundamentos. Aqui falamos da essência da Umbanda, que é a prática da caridade pura, dos ensinamentos de humildade e simplicidade dos espíritos que nela se manifestam, de jamais cobrar por atendimento algum e nunca influenciar no livre-arbítrio de nenhum indivíduo.

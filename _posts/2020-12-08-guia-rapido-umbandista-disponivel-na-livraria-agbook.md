@@ -2,7 +2,7 @@
 layout: post
 title: "Guia Rápido Umbandista disponível na Livraria AGBook!"
 date: 2020-12-08
-coverImage: "/tmm7f/assets/images/2020-12-screenshot20201208-101612chrome.jpg"
+image: "/tmm7f/assets/images/2020-12-screenshot20201208-101612chrome.jpg"
 ---
 
 O livro GUIA RAPIDO UMBANDISTA da nossa Cambona e amiga Adriana Zanette encontra-se agora disponível a venda em todo o Brasil pela livraria Agbook. 

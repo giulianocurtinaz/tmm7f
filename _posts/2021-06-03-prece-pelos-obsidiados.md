@@ -2,7 +2,7 @@
 layout: post
 title: "Prece pelos obsidiados"
 date: 2021-06-03
-coverImage: "/tmm7f/assets/images/2021-06-afastar-obsessores.png"
+image: "/tmm7f/assets/images/2021-06-afastar-obsessores.png"
 ---
 
 [![](/tmm7f/assets/images/2021-06-afastar-obsessores.png)](https://youtu.be/KAfBE8SKUPg)[https://youtu.be/KAfBE8SKUPg](https://youtu.be/KAfBE8SKUPg)

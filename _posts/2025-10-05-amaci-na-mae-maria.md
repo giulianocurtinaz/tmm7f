@@ -2,7 +2,7 @@
 layout: post
 title: "Amaci na Mãe Maria"
 date: 2025-10-05
-coverImage: "/tmm7f/assets/images/2025-10-1.jpg"
+image: "/tmm7f/assets/images/2025-10-1.jpg"
 ---
 
 Respeito, Aprendizado e Fé! Esses foram os sentimentos que guiaram nossos trabalhos na Mãe Maria nesse sábado! Envolvidos na egrégora de amor e amizade dessa maravilhosa casa, realizamos nosso ritual de Amaci juntamente com o corpo mediúnico da Mãe Maria!

@@ -2,7 +2,7 @@
 layout: post
 title: "Amaci abençoado!"
 date: 2019-11-09
-coverImage: "/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.57-1.jpeg"
+image: "/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.57-1.jpeg"
 ---
 
 Preparado com muita fé, dedicação e amor. Muitas foram as ervas utilizadas em nosso ritual de Amaci! Alecrim e Girasol para Oxalá, Rosas Brancas e Manjerona para Yemanjá, Canela para Cosme Damião, Gervão para Xangô, Guiné e Arruda para Oxossi, Espadas de S. Jorge para Ogum, Eucalipto e Capim vidro para Prestos-Velhos e Ervas de São João para o Povo do Oriente. 

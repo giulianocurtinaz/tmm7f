@@ -2,7 +2,7 @@
 layout: post
 title: "Homenagem a Xangô 2025"
 date: 2025-10-19
-coverImage: "/tmm7f/assets/images/2025-10-0000.jpg"
+image: "/tmm7f/assets/images/2025-10-0000.jpg"
 ---
 
 No dia 19 de Outubro fomos à RPPN Morro Sapucaia em Sapucaia do Sul-RS realizar nossa homenagem à Xangô!

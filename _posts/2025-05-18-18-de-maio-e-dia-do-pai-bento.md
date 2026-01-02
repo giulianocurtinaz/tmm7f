@@ -2,7 +2,7 @@
 layout: post
 title: "18 de Maio é dia do Pai Bento!"
 date: 2025-05-18
-coverImage: "/tmm7f/assets/images/2025-05-20250521211413.jpg"
+image: "/tmm7f/assets/images/2025-05-20250521211413.jpg"
 ---
 
 Nesse domingo, com muita alegria e forte emoção, homenageamos nosso querido e saudoso preto-velho, patriarca da Mãe Maria, nosso amado Pai Bento!

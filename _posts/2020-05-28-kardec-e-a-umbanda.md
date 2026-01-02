@@ -2,7 +2,7 @@
 layout: post
 title: "Kardec e a Umbanda"
 date: 2020-05-28
-coverImage: "/tmm7f/assets/images/2020-05-foto-1.jpg"
+image: "/tmm7f/assets/images/2020-05-foto-1.jpg"
 ---
 
 29 Maio de 2020.

@@ -2,7 +2,7 @@
 layout: post
 title: "Batizado de Médium no Terreiro!"
 date: 2025-11-30
-coverImage: "/tmm7f/assets/images/2025-11-000.jpg"
+image: "/tmm7f/assets/images/2025-11-000.jpg"
 ---
 
 No dia 30 de novembro de 2025, batizou-se Médium de Umbanda na Terreira de Mãe Maria Fraternidade Sete Flechas nossa amiga Carol, tendo como padrinhos espirituais o Caboclo Sete Flechas e a Cabocla das Sete Ondas e padrinhos materiais os médiuns Rodrigo e  Táscilla !

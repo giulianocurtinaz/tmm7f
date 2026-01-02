@@ -2,7 +2,7 @@
 layout: post
 title: "Sexta-feira Santa 2025!"
 date: 2025-04-18
-coverImage: "/tmm7f/assets/images/2025-04-img-20250418-wa0014.jpg"
+image: "/tmm7f/assets/images/2025-04-img-20250418-wa0014.jpg"
 ---
 
 Foi com lágrimas nos olhos e muitas bênçãos do céu que realizamos hoje nossa sessão de benzeduras da Sexta-feira Santa!

@@ -2,7 +2,7 @@
 layout: post
 title: "Domingo da Divina Misericórdia: O primeiro Domingo após a Páscoa!"
 date: 2021-04-09
-coverImage: "/tmm7f/assets/images/2021-04-confio-em-vos-jpg.jpg"
+image: "/tmm7f/assets/images/2021-04-confio-em-vos-jpg.jpg"
 ---
 
 *JESUS, EU CONFIO EM VÓS!*
