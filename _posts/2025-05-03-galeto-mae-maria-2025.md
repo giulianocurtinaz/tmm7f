@@ -5,7 +5,7 @@ categories:
   - "sem-categoria"
 ---
 
-Desde a Pandemina de 2020 nÃ£o realizÃ¡vamos essa importante confraternizaÃ§Ã£o entre amigos! ParabÃ©ns formandos do SeptuagenÃ¡rio pelo belÃƒÂ­ssimo evento!
+Desde a Pandemina de 2020 nÃ£o realizÃ¡vamos essa importante confraternizaÃ§Ã£o entre amigos! ParabÃ©ns formandos do SeptuagenÃ¡rio pelo belÃƒÆ’Ã‚Â­ssimo evento!
 
 ![](/tmm7f/assets/images/img-20250504-wa00497886526755044705955.jpg)
 

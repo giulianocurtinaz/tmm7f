@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/fecc81-e-caridadejpg.jpg"
 ---
 
-Ã‰ possÃƒÂ­vel praticar a caridade sem fÃ© ?
+Ãƒâ€° possÃƒÆ’Ã‚Â­vel praticar a caridade sem fÃ© ?
 
 <figure>
 

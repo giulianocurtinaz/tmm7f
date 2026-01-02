@@ -5,7 +5,7 @@ categories:
   - "sem-categoria"
 ---
 
-Vamos conhecer este novo Centro EspÃƒÂ­rita RecÃ©m inaugurado por nossos amigos e dirigentes Cleber e sua esposa AndrÃ©ia no bairro EstÃ¢ncia Velha em Canoas/RS.
+Vamos conhecer este novo Centro EspÃƒÆ’Ã‚Â­rita RecÃ©m inaugurado por nossos amigos e dirigentes Cleber e sua esposa AndrÃ©ia no bairro EstÃƒÂ¢ncia Velha em Canoas/RS.
 
 <figure>
 

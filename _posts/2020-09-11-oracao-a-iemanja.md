@@ -1,5 +1,5 @@
 ---
-title: "OraÃ§Ã£o ÃƒÂ  IemanjÃ¡"
+title: "OraÃ§Ã£o ÃƒÆ’Ã‚Â  IemanjÃ¡"
 date: 2020-09-11
 categories: 
   - "sem-categoria"

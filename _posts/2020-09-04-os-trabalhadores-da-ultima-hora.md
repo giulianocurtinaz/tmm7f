@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/screenshot20200904-180104video-player.jpg"
 ---
 
-Vamos ler um trechinho do Evangelho, orar juntos e elevar nossas vibraÃ§Ãµes.
+Vamos ler um trechinho do Evangelho, orar juntos e elevar nossas vibraÃ§ÃƒÂµes.
 
 <figure>
 

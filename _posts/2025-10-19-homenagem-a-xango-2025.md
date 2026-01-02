@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/0000.jpg"
 ---
 
-No dia 19 de Outubro fomos ÃƒÂ  RPPN Morro Sapucaia em Sapucaia do Sul-RS realizar nossa homenagem ÃƒÂ  XangÃ´!
+No dia 19 de Outubro fomos ÃƒÆ’Ã‚Â  RPPN Morro Sapucaia em Sapucaia do Sul-RS realizar nossa homenagem ÃƒÆ’Ã‚Â  XangÃ´!
 
 As correntes de MÃ£e Maria e Sete Flechas realizaram em conjunto esse importante trabalho de renovaÃ§Ã£o de energias de nossos mÃ©diuns! Foi uma manhÃ£ realmente abenÃ§oada! Que nosso Pai XangÃ´ abenÃ§oe todos nÃ³s renovando as forÃ§as de nossas almas!
 

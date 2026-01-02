@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/vovofaustina.jpeg"
 ---
 
-Hoje completamos 1 ano de Lives em nosso canal no YouTube! Quem diria que irÃƒÂ­amos fazer Umbanda pela Internet! Tudo comeÃ§ou com a vontade de compartilhar com nossos mÃ©diuns e simpatizantes a benzedura da VovÃ³ Faustina! Assista e aprenda a fazer a benzedura da sexta-feira santa em casa e benza sua famÃƒÂ­lia!!!!
+Hoje completamos 1 ano de Lives em nosso canal no YouTube! Quem diria que irÃƒÆ’Ã‚Â­amos fazer Umbanda pela Internet! Tudo comeÃ§ou com a vontade de compartilhar com nossos mÃ©diuns e simpatizantes a benzedura da VovÃ³ Faustina! Assista e aprenda a fazer a benzedura da sexta-feira santa em casa e benza sua famÃƒÆ’Ã‚Â­lia!!!!
 
 <figure>
 

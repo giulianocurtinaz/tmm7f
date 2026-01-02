@@ -5,13 +5,13 @@ categories:
   - "sem-categoria"
 ---
 
-DifÃƒÂ­cil escolher palavras que transmitam tudo aquilo que sentimos nesse dia que ficarÃ¡ gravado pela eternidade em nossas almas!
+DifÃƒÆ’Ã‚Â­cil escolher palavras que transmitam tudo aquilo que sentimos nesse dia que ficarÃ¡ gravado pela eternidade em nossas almas!
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2025-11-09-as-11433199aeec6b.jpg)
 
 No dia 09 de Novembro de 2025, comemoramos os 70 anos da Terreira de MÃ£e Maria! Neste mesmo dia, 11 alunos formaram-se Sacerdotes e Sacerdotisas de Umbanda! Sim temos a partir de hoje 11 novos Caciques que levarÃ£o consigo os valores da nossa Umbanda praticada com tanto amor, dedicaÃ§Ã£o e caridade!
 
-ParabÃ©ns mÃ©diuns por sua formatura! Levem convosco o Evangelho do Cristo atravÃ©s de suas aÃ§Ãµes, prÃ¡ticas e caridade espiritual! Nunca deixem de praticar sua mediunidade em favor do prÃ³ximo!!!
+ParabÃ©ns mÃ©diuns por sua formatura! Levem convosco o Evangelho do Cristo atravÃ©s de suas aÃ§ÃƒÂµes, prÃ¡ticas e caridade espiritual! Nunca deixem de praticar sua mediunidade em favor do prÃ³ximo!!!
 
 https://youtu.be/-C3aDLLA-9E
 

@@ -7,7 +7,7 @@ coverImage: "/tmm7f/assets/images/20190830193041-e1615569126631.jpg"
 ![](/tmm7f/assets/images/logo-terreira-sete-flechas.jpg)
 
 **MissÃ£o**  
-"_Perpetuar o trabalho de caridade espiritual praticando a Umbanda com amor,Ã‚Â fÃ© e simplicidade. Buscando com afinco o aprimoramento moral do mÃ©dium e da sociedade atravÃ©s do estudo, divulgaÃ§Ã£o e vivÃªncia do Evangelho do Cristo._"
+"_Perpetuar o trabalho de caridade espiritual praticando a Umbanda com amor,Ãƒâ€šÃ‚Â fÃ© e simplicidade. Buscando com afinco o aprimoramento moral do mÃ©dium e da sociedade atravÃ©s do estudo, divulgaÃ§Ã£o e vivÃªncia do Evangelho do Cristo._"
 
 Nossa MissÃ£o nas palavras do Caboclo Sete Flechas:  
 _**"Ensinar o homem a orar"**._
@@ -16,7 +16,7 @@ _**"Ensinar o homem a orar"**._
 
   
 
-Localizado na rua FAB, 155 (Fundos) em Canoas, com sessÃµes pÃºblicas de Umbanda, todos os domingos ÃƒÂ s 09 horas da manhÃ£.
+Localizado na rua FAB, 155 (Fundos) em Canoas, com sessÃƒÂµes pÃºblicas de Umbanda, todos os domingos ÃƒÆ’Ã‚Â s 09 horas da manhÃ£.
 
 [https://maps.app.goo.gl/vWPikk9etPMwon3u8](https://maps.app.goo.gl/vWPikk9etPMwon3u8)
 

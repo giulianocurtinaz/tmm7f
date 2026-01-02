@@ -1,14 +1,14 @@
 ---
-title: "Homenagem ÃƒÂ  IemanjÃ¡ 2022"
+title: "Homenagem ÃƒÆ’Ã‚Â  IemanjÃ¡ 2022"
 date: 2022-12-11
 categories: 
   - "sem-categoria"
 coverImage: "/tmm7f/assets/images/photo1jpeg.jpeg"
 ---
 
-Hoje foi um dia maravilhoso na companhia de nossos amigos da terreira de MÃ£e Maria ( Nossa casa de Origem ). Juntos fomos ÃƒÂ  TramandaÃƒÂ­ para realizarmos nossa homenagem ÃƒÂ  nossa Grande MÃ£e IemanjÃ¡!
+Hoje foi um dia maravilhoso na companhia de nossos amigos da terreira de MÃ£e Maria ( Nossa casa de Origem ). Juntos fomos ÃƒÆ’Ã‚Â  TramandaÃƒÆ’Ã‚Â­ para realizarmos nossa homenagem ÃƒÆ’Ã‚Â  nossa Grande MÃ£e IemanjÃ¡!
 
-Estar com a famÃƒÂ­lia e na companhia de nossos melhores amigos ao praticar nossa fÃ© nÃ£o tem preÃ§o!
+Estar com a famÃƒÆ’Ã‚Â­lia e na companhia de nossos melhores amigos ao praticar nossa fÃ© nÃ£o tem preÃ§o!
 
 Obrigado Jesus por nos abenÃ§oar com dias assim em nossa vida!
 

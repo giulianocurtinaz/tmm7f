@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/screenshot20200911-174815wordpress.jpg"
 ---
 
-Autores umbantistas e espÃƒÂ­ritias, recomendaÃ§Ãµes de obras bÃ¡sicas e o caminho do conhecimento espiritual.
+Autores umbantistas e espÃƒÆ’Ã‚Â­ritias, recomendaÃ§ÃƒÂµes de obras bÃ¡sicas e o caminho do conhecimento espiritual.
 
 <figure>
 

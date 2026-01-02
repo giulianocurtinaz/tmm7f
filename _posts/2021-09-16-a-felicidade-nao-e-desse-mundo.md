@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/novo-conga.png"
 ---
 
-Leitura e reflexÃ£o sobre um trecho do capÃƒÂ­tulo V do Evangelho Segundo o Espiritismo.
+Leitura e reflexÃ£o sobre um trecho do capÃƒÆ’Ã‚Â­tulo V do Evangelho Segundo o Espiritismo.
 
 <figure>
 

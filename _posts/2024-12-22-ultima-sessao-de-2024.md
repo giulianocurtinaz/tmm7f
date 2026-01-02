@@ -1,5 +1,5 @@
 ---
-title: "ÃƒÅ¡ltima SessÃ£o de 2024!"
+title: "ÃƒÆ’Ã…Â¡ltima SessÃ£o de 2024!"
 date: 2024-12-22
 categories: 
   - "sem-categoria"

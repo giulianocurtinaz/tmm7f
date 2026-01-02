@@ -5,7 +5,7 @@ date: 2020-01-23
 
 Rua FAB, 155 ( Fundos ) - Bairro Nossa Senhora das GraÃ§as - Canoas - RS
 
-HorÃ¡rio de atendimento: Todos os domingos das 09hs ÃƒÂ s 11hs
+HorÃ¡rio de atendimento: Todos os domingos das 09hs ÃƒÆ’Ã‚Â s 11hs
 
 contato: [terreira@maemariaseteflechas.com.br](mailto:terreira@maemariaseteflechas.com.br)
 

@@ -6,11 +6,11 @@ categories:
 coverImage: "/tmm7f/assets/images/00.jpg"
 ---
 
-JÃ¡ havÃƒÂ­amos recebido o recado do Astral de que nosso corpo mediÃºnico sofreria uma grande renovaÃ§Ã£o, mas nÃ£o imaginÃ¡vamos quÃ£o rÃ¡pido e forte seria essa transformaÃ§Ã£o!
+JÃ¡ havÃƒÆ’Ã‚Â­amos recebido o recado do Astral de que nosso corpo mediÃºnico sofreria uma grande renovaÃ§Ã£o, mas nÃ£o imaginÃ¡vamos quÃ£o rÃ¡pido e forte seria essa transformaÃ§Ã£o!
 
 Bem vindos Douglas, Quetiln, Bete e Rodrigo ao corpo mediÃºnico do Sete Flechas!
 
-No dia em que prestamos homenagem a SÃ£o JoÃ£o Batista, quatro novos amigos reafirmaram suas intenÃ§Ãµes, batizando-se mÃ©diuns de Umbanda!
+No dia em que prestamos homenagem a SÃ£o JoÃ£o Batista, quatro novos amigos reafirmaram suas intenÃ§ÃƒÂµes, batizando-se mÃ©diuns de Umbanda!
 
 A partir de agora um novo caminho se inicia para esses quatro mÃ©diuns, tanto no plano material como no plano espiritual! Com a benÃ§Ã£o e a proteÃ§Ã£o de seus padrinhos materiais e espirituais, muitos desafios e lÃ¡grimas de alegria e fÃ© os aguardam nesta nova jornada!
 

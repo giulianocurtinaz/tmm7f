@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/captura-de-tela-2020-08-20-acc80s-220009.png"
 ---
 
-ConheÃ§a um pouco de nossa histÃ³ria e vamos orar juntos por ÃƒÂ queles que estÃ£o precisando de nossa prece!
+ConheÃ§a um pouco de nossa histÃ³ria e vamos orar juntos por ÃƒÆ’Ã‚Â queles que estÃ£o precisando de nossa prece!
 
 <figure>
 

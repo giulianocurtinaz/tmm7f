@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/1.jpg"
 ---
 
-Ã‰ com o coraÃ§Ã£o apertado mais cheio de amor e desejo de prosperidade ao espÃƒÂ­rito da minha amada vÃ³ Mercedes que despedimo-nos dela nesse 19 de Fevereiro de 2024!
+Ãƒâ€° com o coraÃ§Ã£o apertado mais cheio de amor e desejo de prosperidade ao espÃƒÆ’Ã‚Â­rito da minha amada vÃ³ Mercedes que despedimo-nos dela nesse 19 de Fevereiro de 2024!
 
 VÃ³! Obrigado por cada gesto de amor que deixaste gravado em nossa alma! Obrigado por ter nos permitido abrir a terreira do Sete Flechas em sua garagem!
 

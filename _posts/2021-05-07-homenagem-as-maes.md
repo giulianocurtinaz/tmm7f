@@ -1,5 +1,5 @@
 ---
-title: "Homenagem ÃƒÂ s MÃ£es!"
+title: "Homenagem ÃƒÆ’Ã‚Â s MÃ£es!"
 date: 2021-05-07
 categories: 
   - "sem-categoria"

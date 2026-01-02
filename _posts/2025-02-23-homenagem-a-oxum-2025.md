@@ -1,12 +1,12 @@
 ---
-title: "Homenagem ÃƒÂ  Oxum 2025"
+title: "Homenagem ÃƒÆ’Ã‚Â  Oxum 2025"
 date: 2025-02-23
 categories: 
   - "sem-categoria"
 coverImage: "/tmm7f/assets/images/img-20250223-wa0115.jpg"
 ---
 
-Ao lado dos amigos da MÃ£e Maria realizamos nossa mais bela homenagem ÃƒÂ  Oxum!
+Ao lado dos amigos da MÃ£e Maria realizamos nossa mais bela homenagem ÃƒÆ’Ã‚Â  Oxum!
 
 Os amigos espirituais e nossos ancestrais estavam lÃ¡ desde a abertura dos trabalhos nos acompanhando do alto da cachoeira!
 

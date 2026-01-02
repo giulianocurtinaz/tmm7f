@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/captura-de-tela-2021-01-14-acc80s-155919.png"
 ---
 
-Vamos ler uma prece do Ãºltimo capÃƒÂ­tulo do Evangelho Segundo o Espiritismo a fim de afastar obsessores e pedir a IemanjÃ¡ para auxiliar-nos nesse processo de limpeza, amor e caridade em favor de nossos irmÃ£os espirituais.
+Vamos ler uma prece do Ãºltimo capÃƒÆ’Ã‚Â­tulo do Evangelho Segundo o Espiritismo a fim de afastar obsessores e pedir a IemanjÃ¡ para auxiliar-nos nesse processo de limpeza, amor e caridade em favor de nossos irmÃ£os espirituais.
 
 <figure>
 

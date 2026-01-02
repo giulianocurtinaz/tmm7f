@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/captura-de-tela-2020-07-28-c3a0s-210914.png"
 ---
 
-31.07 20hs! Venha orar conosco pelos irmÃ£os doentes e logo em seguida ouvir uma lindÃƒÂ­ssima palestra sobre o pai OxalÃ¡ da Umbanda e as raÃƒÂ­zes histÃ³ricas e linguÃƒÂ­sticas de seu santo nome! Palestra com a mÃ©dium da terreira do Sete Flechas, minha querida mÃ£e de sangue, Rosiclea.
+31.07 20hs! Venha orar conosco pelos irmÃ£os doentes e logo em seguida ouvir uma lindÃƒÆ’Ã‚Â­ssima palestra sobre o pai OxalÃ¡ da Umbanda e as raÃƒÆ’Ã‚Â­zes histÃ³ricas e linguÃƒÆ’Ã‚Â­sticas de seu santo nome! Palestra com a mÃ©dium da terreira do Sete Flechas, minha querida mÃ£e de sangue, Rosiclea.
 
 <figure>
 

@@ -10,7 +10,7 @@ Preparado com muita fÃ©, dedicaÃ§Ã£o e amor. Muitas foram as ervas utiliza
 
 Pela primeira vez, foram consagrados os sentidos dos mÃ©diuns KÃ¡tia, Darwin, Sol e Rafael.
 
-Entra oficialmente para a corrente neste dia, Darwin e Sol. A amiga e mÃ©dium Victoria fez o evangelho pela primeira vez falando sobre "ReuniÃµes espÃƒÂ­ritas".
+Entra oficialmente para a corrente neste dia, Darwin e Sol. A amiga e mÃ©dium Victoria fez o evangelho pela primeira vez falando sobre "ReuniÃƒÂµes espÃƒÆ’Ã‚Â­ritas".
 
 Ao final da sessÃ£o de Amaci, toda a assistÃªncia recebeu um passe coletivo, onde todos os mÃ©diuns projetaram simultaneamente energias para os consulentes.
 

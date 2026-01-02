@@ -10,7 +10,7 @@ Hoje rodeado de amigos desse e do outro plano, comemoramos o sexto aniversÃ¡ri
 
 Agradecemos todos os amigos que compareceram nesse importante dia!
 
-Nossos mediuns redigiram oraÃ§Ãµes pessoais como forma de oferenda ÃƒÂ  casa! Nosso amado filho AndrÃ© de 8 anos redigiu sua primeira oraÃ§Ã£o:
+Nossos mediuns redigiram oraÃ§ÃƒÂµes pessoais como forma de oferenda ÃƒÆ’Ã‚Â  casa! Nosso amado filho AndrÃ© de 8 anos redigiu sua primeira oraÃ§Ã£o:
 
 OraÃ§Ã£o do AndrÃ©  
   

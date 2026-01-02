@@ -18,5 +18,5 @@ coverImage: "/tmm7f/assets/images/20211208112608.jpg"
 
 </figure>
 
-Cante conosco nossos pontos tradicionais em homenagem ÃƒÂ  nossa grande MÃ£e!  
-Excepcionalmente hoje! ÃƒÂ s 20hs!
+Cante conosco nossos pontos tradicionais em homenagem ÃƒÆ’Ã‚Â  nossa grande MÃ£e!  
+Excepcionalmente hoje! ÃƒÆ’Ã‚Â s 20hs!

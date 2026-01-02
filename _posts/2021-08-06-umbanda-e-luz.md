@@ -18,4 +18,4 @@ coverImage: "/tmm7f/assets/images/captura-de-tela-2021-08-06-as-182703.png"
 
 </figure>
 
-ReflexÃµes e leitura de um trecho do livro Umbanda Ã© luz! De Wilson T. Rivas.
+ReflexÃƒÂµes e leitura de um trecho do livro Umbanda Ã© luz! De Wilson T. Rivas.

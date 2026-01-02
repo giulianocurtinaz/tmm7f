@@ -1,5 +1,5 @@
 ---
-title: "InvocaÃ§Ã£o aos OrixÃ¡s e oraÃ§Ãµes por nossa saÃºde!"
+title: "InvocaÃ§Ã£o aos OrixÃ¡s e oraÃ§ÃƒÂµes por nossa saÃºde!"
 date: 2021-09-10
 categories: 
   - "sem-categoria"

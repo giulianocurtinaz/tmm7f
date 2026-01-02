@@ -18,4 +18,4 @@ coverImage: "/tmm7f/assets/images/amor-e-caridade3.jpeg"
 
 </figure>
 
-Trabalhar na caridade nÃ£o Ã© pesado! "Meu jugo Ã© suave e meu fardo Ã© leve". Vamos ler e refletir sobre o capÃƒÂ­tulo VI do Evangelho Segundo o Espiritismo e sua relaÃ§Ã£o com a Umbanda!
+Trabalhar na caridade nÃ£o Ã© pesado! "Meu jugo Ã© suave e meu fardo Ã© leve". Vamos ler e refletir sobre o capÃƒÆ’Ã‚Â­tulo VI do Evangelho Segundo o Espiritismo e sua relaÃ§Ã£o com a Umbanda!

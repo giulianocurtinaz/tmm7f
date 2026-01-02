@@ -5,7 +5,7 @@ categories:
   - "sem-categoria"
 ---
 
-O Sete Flechas terÃ¡ sessÃµes ainda em  
+O Sete Flechas terÃ¡ sessÃƒÂµes ainda em  
 novembro:  
 dias  
 13/11 Preto-Velho  
@@ -13,7 +13,7 @@ dias
 27/11 Preto-Velho
 
 04/12 Povo Oriente  
-11/12 TramandaÃƒÂ­ Reino IemanjÃ¡.  
+11/12 TramandaÃƒÆ’Ã‚Â­ Reino IemanjÃ¡.  
 18/12 Caboclo (sessÃ£o de encerramento)
 
 05/02 Retorno dos trabalhos pÃºblicos.

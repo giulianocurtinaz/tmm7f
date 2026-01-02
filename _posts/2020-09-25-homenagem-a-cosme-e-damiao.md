@@ -1,5 +1,5 @@
 ---
-title: "Homenagem ÃƒÂ  Cosme e DamiÃ£o!"
+title: "Homenagem ÃƒÆ’Ã‚Â  Cosme e DamiÃ£o!"
 date: 2020-09-25
 categories: 
   - "sem-categoria"

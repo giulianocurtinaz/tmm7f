@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/giuliano-e-andre-padilha.jpg"
 ---
 
-Como ZÃ©lio Fernandino de Moraes em 1908 anunciou a criaÃ§Ã£o dessa humildade religiÃ£o voltada a prÃ¡tica da Caridade Espiritual! ConheÃ§a tambÃ©m as caracterÃƒÂ­sticas que diferenciam a Umbanda das demais prÃ¡ticas religiosas na visÃ£o de nosso amigo AndrÃ© Luis Padilha!
+Como ZÃ©lio Fernandino de Moraes em 1908 anunciou a criaÃ§Ã£o dessa humildade religiÃ£o voltada a prÃ¡tica da Caridade Espiritual! ConheÃ§a tambÃ©m as caracterÃƒÆ’Ã‚Â­sticas que diferenciam a Umbanda das demais prÃ¡ticas religiosas na visÃ£o de nosso amigo AndrÃ© Luis Padilha!
 
 <figure>
 

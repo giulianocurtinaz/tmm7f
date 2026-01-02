@@ -1,5 +1,5 @@
 ---
-title: "Umbanda e nossas raÃƒÂ­zes! Com Alcimar na terreira de Pai OxalÃ¡ fraternidade Ogum de Ronda."
+title: "Umbanda e nossas raÃƒÆ’Ã‚Â­zes! Com Alcimar na terreira de Pai OxalÃ¡ fraternidade Ogum de Ronda."
 date: 2020-07-10
 categories: 
   - "sem-categoria"

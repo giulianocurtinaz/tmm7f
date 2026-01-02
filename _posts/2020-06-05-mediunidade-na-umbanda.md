@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/20200605210129.jpg"
 ---
 
-05 de Junho de 2020 ÃƒÂ s 20 hs, vamos falar com nossa amiga Sandra da terreira do Cacique Ubirajara sobre Mediunidade na Umbanda e preparaÃ§Ã£o do mÃ©dium no dia de sessÃ£o. AlÃ©m disso evocaremos as forÃ§as de MamÃ£e Oxum para harmonizaÃ§Ã£o familiar!
+05 de Junho de 2020 ÃƒÆ’Ã‚Â s 20 hs, vamos falar com nossa amiga Sandra da terreira do Cacique Ubirajara sobre Mediunidade na Umbanda e preparaÃ§Ã£o do mÃ©dium no dia de sessÃ£o. AlÃ©m disso evocaremos as forÃ§as de MamÃ£e Oxum para harmonizaÃ§Ã£o familiar!
 
 <figure>
 

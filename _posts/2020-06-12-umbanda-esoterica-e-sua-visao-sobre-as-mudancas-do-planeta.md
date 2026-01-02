@@ -10,7 +10,7 @@ coverImage: "/tmm7f/assets/images/20200611183319.jpg"
 
 Descubra a visÃ£o da Umbanda iniciÃ¡tica a respeito dos atuais eventos do planeta nas palavras da sacerdotisa Yaralacy em Caxias do Sul/RS.
 
-Clique na imagem para abrir o vÃƒÂ­deo!
+Clique na imagem para abrir o vÃƒÆ’Ã‚Â­deo!
 
 [roteiro\_12\_junho](https://maemariaseteflechas.com.br/wp-content/uploads/2020/06/roteiro_12_junho.pdf)[](https://maemariaseteflechas.com.br/wp-content/uploads/2020/06/roteiro_12_junho.pdf)
 

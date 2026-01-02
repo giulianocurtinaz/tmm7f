@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/a-prece-umbandista.png"
 ---
 
-A oraÃ§Ã£o proferida do fundo da alma Ã© a maior oferenda que podes entregar ao plano espiritual. Embarque conosco nessa construÃ§Ã£o psÃƒÂ­quica, etÃ©rica e espiritual.
+A oraÃ§Ã£o proferida do fundo da alma Ã© a maior oferenda que podes entregar ao plano espiritual. Embarque conosco nessa construÃ§Ã£o psÃƒÆ’Ã‚Â­quica, etÃ©rica e espiritual.
 
 <figure>
 
@@ -20,9 +20,9 @@ A oraÃ§Ã£o proferida do fundo da alma Ã© a maior oferenda que podes entreg
 
 </figure>
 
-Hoje antes de gravar esse vÃƒÂ­deo, recebi pela manhÃ£ uma intuiÃ§Ã£o do caboclo na qual me pediu para que eu solicitasse a todos os amigos que nos enviassem suas preces para que pudÃ©ssemos ler ao longo de nossas Lives.
+Hoje antes de gravar esse vÃƒÆ’Ã‚Â­deo, recebi pela manhÃ£ uma intuiÃ§Ã£o do caboclo na qual me pediu para que eu solicitasse a todos os amigos que nos enviassem suas preces para que pudÃ©ssemos ler ao longo de nossas Lives.
 
-A partir de hoje, pretendo em todos os nossos vÃƒÂ­deos, ler preces confeccionadas pelos nossos mÃ©diuns, amigos e seguidores. Afinal de contas, como disse-nos o caboclo Sete Flecha: _**"A missÃ£o de nossa casa Ã© ensinar o homem a rezar"**_.
+A partir de hoje, pretendo em todos os nossos vÃƒÆ’Ã‚Â­deos, ler preces confeccionadas pelos nossos mÃ©diuns, amigos e seguidores. Afinal de contas, como disse-nos o caboclo Sete Flecha: _**"A missÃ£o de nossa casa Ã© ensinar o homem a rezar"**_.
 
 Nada melhor que incentivarmos a criaÃ§Ã£o de novas preces diariamente.
 
@@ -34,27 +34,27 @@ Abaixo as primeiras preces que recebi dos amigos abaixo identificados:
 
 Te agradeÃ§o muito por todas graÃ§as concedidas a mim e meus familiares!!! Cuida de nÃ³s, pois sabe o quanto ainda necessitamos de seu amor e misericÃ³rdia!!
 
-Neste momento tÃ£o difÃƒÂ­cil que estamos passando no orbe terrestre, quero te pedir amparo espiritual e que as tuas benÃ§Ã£os de paz e cura sejam derramadas em todos nÃ³s!! Que tenhamos fÃ© e forÃ§a na oraÃ§Ã£o e na crenÃ§a em vÃ³sÃ¢â‚¬Â¦
+Neste momento tÃ£o difÃƒÆ’Ã‚Â­cil que estamos passando no orbe terrestre, quero te pedir amparo espiritual e que as tuas benÃ§Ã£os de paz e cura sejam derramadas em todos nÃ³s!! Que tenhamos fÃ© e forÃ§a na oraÃ§Ã£o e na crenÃ§a em vÃ³sÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦
 
-Cuida de nÃ³s!!!Ã°Å¸â„¢ÂÃ°Å¸ÂÂ»Ã°Å¸â„¢ÂÃ°Å¸ÂÂ»Ã°Å¸â„¢ÂÃ°Å¸ÂÂ»Ã¢ÂÂ¤Ã¯Â¸ÂÃ¢ÂÂ¤Ã¯Â¸ÂÃ¢ÂÂ¤Ã¯Â¸ÂÃ°Å¸â€™ÂªÃ°Å¸ÂÂ»Ã°Å¸â€™ÂªÃ°Å¸ÂÂ»Ã°Å¸â€™ÂªÃ°Å¸ÂÂ» \[11/03/2021\] - KÃ¡tia
+Cuida de nÃ³s!!!ÃƒÂ°Ã…Â¸Ã¢â€žÂ¢Ã‚ÂÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»ÃƒÂ°Ã…Â¸Ã¢â€žÂ¢Ã‚ÂÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»ÃƒÂ°Ã…Â¸Ã¢â€žÂ¢Ã‚ÂÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»ÃƒÂ¢Ã‚ÂÃ‚Â¤ÃƒÂ¯Ã‚Â¸Ã‚ÂÃƒÂ¢Ã‚ÂÃ‚Â¤ÃƒÂ¯Ã‚Â¸Ã‚ÂÃƒÂ¢Ã‚ÂÃ‚Â¤ÃƒÂ¯Ã‚Â¸Ã‚ÂÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚ÂªÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚ÂªÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã‚ÂªÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â» \[11/03/2021\] - KÃ¡tia
 
 ###### **MÃ£e rainha - protetora dos caminhos**
 
-Ãƒâ€œ minha MÃ£e, rainha e protetora dos meus caminhos. Que a senhora me guie e ampare. Eu me protejo com o seu manto divino. E sinto o seu amor de MÃ£e no meu coraÃ§Ã£o. Saio do seu colo amparada, fortalecida e mais confiante para enfrentar as dificuldades. GRATIDÃƒO MÃ£e!!! Por mim, minha famÃƒÂ­lia e todos os teus filhos. Salve a sua forÃ§a, MÃ£e !!! \[11/03/2021\] Leila Pai Jose De Aruanda: AmÃ©m Ã°Å¸â„¢ÂÃ°Å¸â„¢Â
+ÃƒÆ’Ã¢â‚¬Å“ minha MÃ£e, rainha e protetora dos meus caminhos. Que a senhora me guie e ampare. Eu me protejo com o seu manto divino. E sinto o seu amor de MÃ£e no meu coraÃ§Ã£o. Saio do seu colo amparada, fortalecida e mais confiante para enfrentar as dificuldades. GRATIDÃƒÆ’O MÃ£e!!! Por mim, minha famÃƒÆ’Ã‚Â­lia e todos os teus filhos. Salve a sua forÃ§a, MÃ£e !!! \[11/03/2021\] Leila Pai Jose De Aruanda: AmÃ©m ÃƒÂ°Ã…Â¸Ã¢â€žÂ¢Ã‚ÂÃƒÂ°Ã…Â¸Ã¢â€žÂ¢Ã‚Â
 
 ###### **OraÃ§Ã£o de Agradecimento**
 
-Deus nosso Pai venho nesse momento tÃ£o difÃƒÂ­cil de nossas vidas , agradecer. AgradeÃ§o por cada amanhecer estarmos vivos, onde cada dia me questiono: Oque Ã© maior? O medo? Ou a minha FÃ©? Com certeza Ã© minha FÃ© . Pois diante a tudo que estamos vivenciando encontro forÃ§as para seguir lutando. AgradeÃ§o por ter forÃ§as para levar conforto a tantos que choram, peÃ§o luz ao Grande Pai para ter sabedoria, para dizer as palavras certas aos que nos procuram tÃ£o machucados, tÃ£o sofridos com suas perdas. Obrigada Pai por conseguir deixar o que me aflige de lado, para conseguir com algumas palavras levar um pouco de alento aos nossos irmÃ£os. Obrigada Pai por poder ver o sol ou a chuva a cada amanhecer. \[11/03/2021\] MÃ©dium Ana do Terreiro de Ogum da Mata Virgem.
+Deus nosso Pai venho nesse momento tÃ£o difÃƒÆ’Ã‚Â­cil de nossas vidas , agradecer. AgradeÃ§o por cada amanhecer estarmos vivos, onde cada dia me questiono: Oque Ã© maior? O medo? Ou a minha FÃ©? Com certeza Ã© minha FÃ© . Pois diante a tudo que estamos vivenciando encontro forÃ§as para seguir lutando. AgradeÃ§o por ter forÃ§as para levar conforto a tantos que choram, peÃ§o luz ao Grande Pai para ter sabedoria, para dizer as palavras certas aos que nos procuram tÃ£o machucados, tÃ£o sofridos com suas perdas. Obrigada Pai por conseguir deixar o que me aflige de lado, para conseguir com algumas palavras levar um pouco de alento aos nossos irmÃ£os. Obrigada Pai por poder ver o sol ou a chuva a cada amanhecer. \[11/03/2021\] MÃ©dium Ana do Terreiro de Ogum da Mata Virgem.
 
 ###### **OraÃ§Ã£o aos OrixÃ¡s**
 
-Que a mÃ£e IemanjÃ¡ esteja ÃƒÂ  nossa frente, lavando com suas Ã¡guas sagradas todo o caminho a ser percorrido.
+Que a mÃ£e IemanjÃ¡ esteja ÃƒÆ’Ã‚Â  nossa frente, lavando com suas Ã¡guas sagradas todo o caminho a ser percorrido.
 
-Que o pai OxÃ³ssi, mantenha a nossa saÃºde sempre em equilÃƒÂ­brio.
+Que o pai OxÃ³ssi, mantenha a nossa saÃºde sempre em equilÃƒÆ’Ã‚Â­brio.
 
 Que o pai XangÃ´ possa sempre praticar a justiÃ§a, em nossas vidas, pelo merecimento de cada um.
 
-Que o pai Ogum esteja protegendo ÃƒÂ s nossas costas de todo perigo material e espiritual.
+Que o pai Ogum esteja protegendo ÃƒÆ’Ã‚Â s nossas costas de todo perigo material e espiritual.
 
 Que a MamÃ£e Oxum, segure em nossas mÃ£os, a seguranÃ§a e confianÃ§a de seu amor de mÃ£e.
 
@@ -64,7 +64,7 @@ Que a humildade e a sabedoria dos pretos velhos seja para nÃ³s exemplo de cres
 
 Que o conhecimento das Leis de Umbanda, do povo do oriente, seja o nosso instrumento de aprendizagem material e espiritual.
 
-E que OXALÃƒÂ seja o nosso ponto de chegada, o porto seguro que todo ser humano necessita.
+E que OXALÃƒÆ’Ã‚Â seja o nosso ponto de chegada, o porto seguro que todo ser humano necessita.
 
 SaravÃ¡!  
 Oxum da Praia.

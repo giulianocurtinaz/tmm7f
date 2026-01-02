@@ -14,7 +14,7 @@ Com a benÃ§Ã£o de nossas entidades voltaremos a atender o pÃºblico a parti
 
 **O nÃºmero de atendimentos serÃ¡ limitado e por ordem de chegada. O uso de mÃ¡scara e apresentaÃ§Ã£o da carteirinha de vacinaÃ§Ã£o serÃ¡ obrigatÃ³ria.**
 
-Nossos trabalhos ocorrem todos os domingos das 9hs ÃƒÂ s 11hs da manhÃ£.
+Nossos trabalhos ocorrem todos os domingos das 9hs ÃƒÆ’Ã‚Â s 11hs da manhÃ£.
 
 ![](/tmm7f/assets/images/whatsapp-image-2022-04-03-at-142002.jpeg)
 

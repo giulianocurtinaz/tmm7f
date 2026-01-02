@@ -18,4 +18,4 @@ coverImage: "/tmm7f/assets/images/captura-de-tela-2021-04-16-acc80s-193734.png"
 
 </figure>
 
-Adquira tesouros imensurÃ¡veis no mundo espiritual atravÃ©s da caridade! Seja Umbandista, seja EspÃƒÂ­rita, seja CristÃ£o!
+Adquira tesouros imensurÃ¡veis no mundo espiritual atravÃ©s da caridade! Seja Umbandista, seja EspÃƒÆ’Ã‚Â­rita, seja CristÃ£o!

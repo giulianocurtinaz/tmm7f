@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/screenshot20200716-063014youtube812573376676698234.jpg"
 ---
 
-Assista em 17.07 ÃƒÂ s 20hs essa maravilhosa palestra com nossa amiga e sacerdotisa Yaralacy de Caxias do Sul a respeito de como vocÃª pode montar seu congÃ¡ pessoal (ponto de luz) em casa para realizar suas oraÃ§Ãµes com a famÃƒÂ­lia!
+Assista em 17.07 ÃƒÆ’Ã‚Â s 20hs essa maravilhosa palestra com nossa amiga e sacerdotisa Yaralacy de Caxias do Sul a respeito de como vocÃª pode montar seu congÃ¡ pessoal (ponto de luz) em casa para realizar suas oraÃ§ÃƒÂµes com a famÃƒÆ’Ã‚Â­lia!
 
 <figure>
 

@@ -8,7 +8,7 @@ coverImage: "/tmm7f/assets/images/img-20241221-wa0015.jpg"
 
 NÃ£o Ã© sÃ³ de branco que nos reunimos!
 
-Com direito a amigo secreto. muita alegria, trocas de presentes e bastante emoÃ§Ã£o, comemoramos o encerramento de um ciclo de muitas renovaÃ§Ãµes e provaÃ§Ãµes de 2024!
+Com direito a amigo secreto. muita alegria, trocas de presentes e bastante emoÃ§Ã£o, comemoramos o encerramento de um ciclo de muitas renovaÃ§ÃƒÂµes e provaÃ§ÃƒÂµes de 2024!
 
 Viva a amizade! A fraternidade e a Caridade!
 

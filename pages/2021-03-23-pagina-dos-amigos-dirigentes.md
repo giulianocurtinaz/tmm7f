@@ -1,11 +1,11 @@
 ---\nlayout: page
-title: "PÃƒÂGINA DOS AMIGOS DIRIGENTES"
+title: "PÃƒÆ’Ã‚ÂGINA DOS AMIGOS DIRIGENTES"
 date: 2021-03-23
 ---
 
 Com o objetivo de auxiliar-nos em nossos encontros, reunimos abaixo os pontos cantados dos AMIGOS DIRIGENTES!
 
-**TERREIRA DE MÃƒE MARIA  
+**TERREIRA DE MÃƒÆ’E MARIA  
 CABOCLA JUREMA** ( MÃ©dium Aline )
 
 MoÃ§a bonita Ã© a cabocla Jurema  
@@ -13,12 +13,12 @@ Ele tem, ela tem seu diadema
 LÃ¡ na aldeia, oh, lÃ¡ na aldeia  
 Ela Ã© a rainha da flecha de ouro e saiote de penas
 
-Ã‰ como um girassol  
+Ãƒâ€° como um girassol  
 A coroa dela Ã© como um girassol  
-Ã‰ a luz do amanhecer  
+Ãƒâ€° a luz do amanhecer  
 Doces sonhos de arrebol  
 A coroa da Jurema Ã© como um girassol  
-Ã‰ como um girassol
+Ãƒâ€° como um girassol
 
 <figure>
 
@@ -81,7 +81,7 @@ NÃ³s lhe imploramos toda graÃ§a e todo amor
 Na esperanÃ§a de cobrir com vosso manto
 
 MamÃ£e Oxum que vem de aruanda  
-Com divino espÃƒÂ­rito santo  
+Com divino espÃƒÆ’Ã‚Â­rito santo  
 Vem salvar filhos de umbanda
 
 MamÃ£e Oxum que vem de aruanda  
@@ -162,7 +162,7 @@ Na voz de Aladir e Isaura ( Hino da Casa de Ogum Beira-Mar)
 
 </figure>
 
-**CENTRO ESPÃƒÂRITA PAI JOÃƒO DE ARUANDA E SETE FLECHAS  
+**CENTRO ESPÃƒÆ’Ã‚ÂRITA PAI JOÃƒÆ’O DE ARUANDA E SETE FLECHAS  
 CABOCLO SETE FLECHAS** ( MÃ©dium Cleber )
 
 AtrÃ¡s daquela serra tem sete coqueiros  
@@ -182,8 +182,8 @@ Na voz de Cleber e ManuÃ©llu ( Pai JoÃ£o e Sete Flechas )
 
 </figure>
 
-**C****ENTRO ESPÃƒÂRITA REINO DE JANDIRA**  
-**CABOCLA IANSÃƒ** ( MÃ©dium Sabrina )  
+**C****ENTRO ESPÃƒÆ’Ã‚ÂRITA REINO DE JANDIRA**  
+**CABOCLA IANSÃƒÆ’** ( MÃ©dium Sabrina )  
 
 Olha que o cÃ©u clareou  
 Quando o dia raiou  
@@ -224,8 +224,8 @@ Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )
 
 </figure>
 
-****ASSOCIAÃ‡ÃƒO DE UMBANDA PAI OXALÃƒÂ FRATERNIDADE PAI XANGÃƒâ€****  
-**CABOCLO XANGÃƒâ€ DAS CACHOEIRAS** ( MÃ©dium _"Julinho"_ )
+****ASSOCIAÃƒâ€¡ÃƒÆ’O DE UMBANDA PAI OXALÃƒÆ’Ã‚Â FRATERNIDADE PAI XANGÃƒÆ’Ã¢â‚¬Â****  
+**CABOCLO XANGÃƒÆ’Ã¢â‚¬Â DAS CACHOEIRAS** ( MÃ©dium _"Julinho"_ )
 
 Cachoeira da mata virgem  
 Aonde mora meu pai XangÃ´  

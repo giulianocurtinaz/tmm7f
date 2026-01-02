@@ -1,5 +1,5 @@
 ---
-title: "A importÃ¢ncia da Amizade"
+title: "A importÃƒÂ¢ncia da Amizade"
 date: 2021-07-23
 categories: 
   - "sem-categoria"

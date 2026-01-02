@@ -6,7 +6,7 @@ categories:
 coverImage: "/tmm7f/assets/images/capachakras.jpg"
 ---
 
-Ã‰ com muita alegria que convidamos a todos para nossa Live no Youtube nessa sexta-feira ÃƒÂ s 20hs. Link
+Ãƒâ€° com muita alegria que convidamos a todos para nossa Live no Youtube nessa sexta-feira ÃƒÆ’Ã‚Â s 20hs. Link
 
 Nela seguiremos o roteiro abaixo que pode ser impresso para melhor acompanhamento.
 
