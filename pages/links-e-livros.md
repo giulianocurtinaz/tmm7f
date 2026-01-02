@@ -14,7 +14,7 @@ Não poderíamos de listar logo de início o singelo e grandioso livro de nossa 
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/captura-de-tela-2021-02-13-as-15.41.21.png?w=556)
+![](/tmm7f/assets/images/2021-02-captura-de-tela-2021-02-13-as-15.41.21.png)
 
 
 

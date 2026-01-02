@@ -2,9 +2,10 @@
 layout: post
 title: "Caridade: Construa seu tesouro espiritual na Umbanda!"
 date: 2021-04-16
+coverImage: "/tmm7f/assets/images/2021-04-captura-de-tela-2021-04-16-acc80s-19.37.34.png"
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/04/captura-de-tela-2021-04-16-acc80s-19.37.34.png?w=1024)](https://youtu.be/kf6YkBgA6v8)[https://youtu.be/kf6YkBgA6v8](https://youtu.be/kf6YkBgA6v8)
+[![](/tmm7f/assets/images/2021-04-captura-de-tela-2021-04-16-acc80s-19.37.34.png)](https://youtu.be/kf6YkBgA6v8)[https://youtu.be/kf6YkBgA6v8](https://youtu.be/kf6YkBgA6v8)
 
 
 

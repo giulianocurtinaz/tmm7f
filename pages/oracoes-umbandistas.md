@@ -24,7 +24,7 @@ date: 2020-05-13
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/ceu.jpg?w=512)](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
+[![](/tmm7f/assets/images/2021-03-ceu.jpg)](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
 
 
 

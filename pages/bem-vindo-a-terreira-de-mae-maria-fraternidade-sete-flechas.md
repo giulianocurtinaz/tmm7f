@@ -2,9 +2,10 @@
 layout: page
 title: "Bem-Vindo"
 date: 2020-01-22
+coverImage: "/tmm7f/assets/images/2019-12-20190830193041-e1615569126631.jpg"
 ---
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2019/12/logo-terreira-sete-flechas.jpg?w=750)
+![](/tmm7f/assets/images/2019-12-logo-terreira-sete-flechas.jpg)
 
 
 
