@@ -1,23 +1,48 @@
 ---
-title: "O que Ã© umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
+layout: post
+title: "O que é umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
 date: 2020-04-25
-categories: 
-  - "sem-categoria"
 coverImage: "/tmm7f/assets/images/jesuscaboclopv.png"
 ---
 
-SomosÃƒâ€šÃ‚Â MonoteÃƒÆ’Ã‚Â­stas.
+Somos Monoteístas.
 
-Deus se expressa na natureza eÃƒâ€šÃ‚Â essas forÃ§as chamamos OrixÃ¡s.
 
-Somos CristÃ£os,Ãƒâ€šÃ‚Â  Jesus Ã© nosso modelo divino e o caminho para o homem chegar a Deus.
 
-Umbanda Ã©Ãƒâ€šÃ‚Â  a manifestaÃ§Ã£oÃƒâ€šÃ‚Â  do espÃƒÆ’Ã‚Â­rito para aÃƒâ€šÃ‚Â caridade, portanto, se envolver dinheiro nÃ£o Ã© Umbanda.
 
-Somos espÃƒÆ’Ã‚Â­ritas, acreditamos na imortalidade da alma, na reencarnaÃ§Ã£o, na comunicaÃ§Ã£o com os espÃƒÆ’Ã‚Â­ritos de forma direta e indireta atravÃ©s da mediunidade humana.
 
-Umbanda Ã© espiritismo de caboclo e preto velho, Ã© o consolo e a palavra de amor ao prÃ³ximoÃƒâ€šÃ‚Â voltado aosÃƒâ€šÃ‚Â humildes e aos simples.
+Deus se expressa na natureza e essas forças chamamos Orixás.
 
-Umbanda Ã©Ãƒâ€šÃ‚Â Amor e energiaÃƒâ€šÃ‚Â doadaÃƒâ€šÃ‚Â ao prÃ³ximo pelaÃƒâ€šÃ‚Â palavra do caboclo e do preto velho com a forÃ§aÃƒâ€šÃ‚Â vital eÃƒâ€šÃ‚Â amorosaÃƒâ€šÃ‚Â  doada pelo mÃ©dium. Ãƒâ€° o encontro do amor divinoÃƒâ€šÃ‚Â espiritualÃƒâ€šÃ‚Â com a energia e aÃ§Ã£oÃƒâ€šÃ‚Â material. Ãƒâ€° o amor divino derramado a todos sem perguntar-lhes qual o seu credo.
+
+
+
+
+Somos Cristãos,  Jesus é nosso modelo divino e o caminho para o homem chegar a Deus.
+
+
+
+
+
+Umbanda é  a manifestação  do espírito para a caridade, portanto, se envolver dinheiro não é Umbanda.
+
+
+
+
+
+Somos espíritas, acreditamos na imortalidade da alma, na reencarnação, na comunicação com os espíritos de forma direta e indireta através da mediunidade humana.
+
+
+
+
+
+Umbanda é espiritismo de caboclo e preto velho, é o consolo e a palavra de amor ao próximo voltado aos humildes e aos simples.
+
+
+
+
+
+Umbanda é Amor e energia doada ao próximo pela palavra do caboclo e do preto velho com a força vital e amorosa  doada pelo médium. É o encontro do amor divino espiritual com a energia e ação material. É o amor divino derramado a todos sem perguntar-lhes qual o seu credo.
+
+
 
 ![](/tmm7f/assets/images/jesuscaboclopv.png)

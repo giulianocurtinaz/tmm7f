@@ -1,0 +1,9 @@
+---
+layout: page
+title: "Calendário 2023"
+date: 2023-01-01
+---
+
+**FEVEREIRO**26/02Reabertura ( Caboclos )**MARÇO**05/03Povo do Oriente12/03Pretos-Velhos19/03Caboclos26/03Pretos-Velhos Aniversário 7 Flechas**ABRIL**02/04Povo do Oriente07/04Benzeduras da Sexta-Feira Santa09/04Não abriremos Domingo de Páscoa16/04Pretos-Velhos23/04Caboclos - Homenagem a Ogum30/04Pretos-Velhos**MAIO**07/05Povo do Oriente14/05Não abriremos Dia das Mães21/05Pretos-Velhos Homenagem aos P. Velhos28/05Caboclos**JUNHO**04/06Povo do Oriente11/06Pretos-Velhos18/06Caboclos25/06Pretos-Velhos**JULHO**02/07Povo do Oriente09/07Caboclos16/07Pretos-Velhos23/07Caboclos30/07Pretos-Velhos**AGOSTO**06/08Povo do Oriente13/08Não abriremos Dia dos Pais20/08Caboclos27/08Pretos-Velhos**SETEMBRO**03/09Povo do Oriente10/09Caboclos17/09Pretos-Velhos24/09Festa de Cosme e Damião**OUTUBRO**01/10
+externoHomenagem Xangô em Sta Maria do Herval08/10Pretos-Velhos15/10Caboclos22/10Amaci - Dia do Treme-Terra29/10Pretos-Velhos**NOVEMBRO**05/11Povo do Oriente12/11Caboclos19/11Pretos-Velhos26/11Caboclos**DEZEMBRO**03/12Povo do Oriente10/12
+externoHomenagem Yemanjá na Praia17/12Caboclos - Encerramento

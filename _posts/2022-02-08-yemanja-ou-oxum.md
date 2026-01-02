@@ -1,69 +1,188 @@
 ---
-title: "YemanjÃ¡ ou Oxum"
+layout: post
+title: "Yemanjá ou Oxum"
 date: 2022-02-08
-categories: 
-  - "sem-categoria"
 ---
 
 ![](/tmm7f/assets/images/20211208112608.jpg)
 
-  
-2 de fevereiro, dia de YemanjÃ¡ na maior parte do brasil, mas para nÃ³s da fraternidade de MÃ£e Maria, hoje Ã© dia de Oxum!
 
-Dia 02 de fevereiro Ã© dia de Maria, dia da Grande mÃ£e, dia da MÃ£e Terra!
 
-O criador se fez criaÃ§Ã£o atravÃ©s de Maria. HÃ¡ livros que nos contam que Cristo Ã© nosso arquiteto planetÃ¡rio, criou nosso mundo desde o inÃƒÆ’Ã‚Â­cio, programou e executou cada fase de sua evoluÃ§Ã£o como orbe, como casa para nossas almas. Portanto ele jÃ¡ estava aqui, mesma antes de existir esse belo mundo azul!
 
-Mas hÃ¡ tambÃ©m livros que nos contam que nÃ³s "consciÃªncias pensantes" somos filhos da terra, somos produto desse orbe, jÃ¡ habitamos o reino mineral, vegetal e animal e hoje com consciÃªncia e individualidade somos espÃƒÆ’Ã‚Â­ritos em busca de nosso supremo criador.
 
-SerÃ¡ que isso Ã© verdade ? Assim sendo, poderia-nos questionarmos se tambÃ©m Cristo nÃ£o poderia ser o filho mais perfeito e mais ilustre que nossa MÃ£e terra jÃ¡ gerou ?
 
-Assim sendo, Ele seria criador ? ou criaÃ§Ã£o desse planeta ?
+2 de fevereiro, dia de Yemanjá na maior parte do brasil, mas para nós da fraternidade de Mãe Maria, hoje é dia de Oxum!
 
-SerÃ¡ que este questionamento tem algum significado?
 
-SenÃ£o vejamos:
 
-Qual a origem da Ã¡gua ?
 
-Se Ã¡gua evapora e cai sobre a terra, onde estÃ¡ a primeira fonte que deu origem ao primeiro rio que evaporou e virou chuva ?
 
-Onde estÃ¡ a fonte primeva ?
+Dia 02 de fevereiro é dia de Maria, dia da Grande mãe, dia da Mãe Terra!
 
-Esta pergunta tem o mesmo sentido de perguntamo-nos se Cristo Ã© o criador ou o filho perfeito da criaÃ§Ã£o!
 
-Da mesma forma, nÃ³s umbandistas por vezes perguntamo-nos onde estÃ¡ a verdadeira Umbanda ? Qual Ã© a correta ? Quem sÃ£o os sete orixÃ¡s ? SÃ£o realmente 7 ? Meu CongÃ¡ deve estar firmando para o norte ou para o sul?
+
+
+
+O criador se fez criação através de Maria. Há livros que nos contam que Cristo é nosso arquiteto planetário, criou nosso mundo desde o início, programou e executou cada fase de sua evolução como orbe, como casa para nossas almas. Portanto ele já estava aqui, mesma antes de existir esse belo mundo azul!
+
+
+
+
+
+Mas há também livros que nos contam que nós "consciências pensantes" somos filhos da terra, somos produto desse orbe, já habitamos o reino mineral, vegetal e animal e hoje com consciência e individualidade somos espíritos em busca de nosso supremo criador.
+
+
+
+
+
+Será que isso é verdade ? Assim sendo, poderia-nos questionarmos se também Cristo não poderia ser o filho mais perfeito e mais ilustre que nossa Mãe terra já gerou ?
+
+
+
+
+
+Assim sendo, Ele seria criador ? ou criação desse planeta ?
+
+
+
+
+
+Será que este questionamento tem algum significado?
+
+
+
+
+
+Senão vejamos:
+
+
+
+
+
+Qual a origem da água ?
+
+
+
+
+
+Se água evapora e cai sobre a terra, onde está a primeira fonte que deu origem ao primeiro rio que evaporou e virou chuva ?
+
+
+
+
+
+Onde está a fonte primeva ?
+
+
+
+
+
+Esta pergunta tem o mesmo sentido de perguntamo-nos se Cristo é o criador ou o filho perfeito da criação!
+
+
+
+
+
+Da mesma forma, nós umbandistas por vezes perguntamo-nos onde está a verdadeira Umbanda ? Qual é a correta ? Quem são os sete orixás ? São realmente 7 ? Meu Congá deve estar firmando para o norte ou para o sul?
+
+
+
+
 
 Se abandonarmos um pouquinho nosso orgulho e sermos um pouco mais humildes veremos que....
 
-A Ã¡gua simplesmente vem do cÃ©u, assim como a Umbanda do seu bairro Ã© a fonte de Ã¡gua mais prÃ³xima para se beber e alimentar o espÃƒÆ’Ã‚Â­rito.
 
-Nem todas as Ã¡guas sÃ£o puras, eu sei, mas toda a Ã¡gua tem sua utilidade... assim como todas as Umbandas...
 
-Qual Ã© a imagem da verdadeira Maria? o dia dela Ã© 8 de dezembro ou 2 de fevereiro ? Isso realmente importa?
 
-Quantos dias e quantas mais imagens necessitamos para finalmente ouvir a mensagem jÃ¡ dita aos 4 ventos ? Em todas as lÃƒÆ’Ã‚Â­nguas! IncontÃ¡veis vezes!
 
-Cristo Ã© nosso criador ? ou criatura ? Ãƒâ€° Pai da Terra ou Filho perfeito da MÃ£e Natureza ? Quem Ã© Maria, afinal de contas ?
+A água simplesmente vem do céu, assim como a Umbanda do seu bairro é a fonte de água mais próxima para se beber e alimentar o espírito.
+
+
+
+
+
+Nem todas as águas são puras, eu sei, mas toda a água tem sua utilidade... assim como todas as Umbandas...
+
+
+
+
+
+Qual é a imagem da verdadeira Maria? o dia dela é 8 de dezembro ou 2 de fevereiro ? Isso realmente importa?
+
+
+
+
+
+Quantos dias e quantas mais imagens necessitamos para finalmente ouvir a mensagem já dita aos 4 ventos ? Em todas as línguas! Incontáveis vezes!
+
+
+
+
+
+Cristo é nosso criador ? ou criatura ? É Pai da Terra ou Filho perfeito da Mãe Natureza ? Quem é Maria, afinal de contas ?
+
+
+
+
 
 O que isso importa ? Do que nos serve discutir o sexo dos anjos ?
 
-Sinceramente, devemos aceitar que isso simplesmente estÃ¡ acima de nossa compreensÃ£o vulgar e animalesca da divina criaÃ§Ã£o.
 
-Acho que nos cabe um pouco de humildade, por hora e por vezes e aceitar que a "Ã¡gua", o conhecimento e o amor simplesmente vem do cÃ©u e a mensagem estÃ¡ aÃƒÆ’Ã‚Â­ para quem quiser ouvir.
 
-EstÃ¡ na hora realmente de despertarmos nossas almas para um novo mundo. Mundo esse que nÃ³s construiremos de amor e paz, de perdÃ£o e de amor ao prÃ³ximo!
 
-Devemos sair desse casulo do egoÃƒÆ’Ã‚Â­smo e deixarmo-nos levar pelos ventos divinos, exatamente faz como a borboleta, quando salta " no escuro" para seu primeiro voo. Devemos acreditar que nossa alma com o Cristo voarÃ¡ sim, mas antes deveremos deixar de rastejar!
 
-EntÃ£o tenha coragem irmÃ£o de abandonar seu egoÃƒÆ’Ã‚Â­smo e seu casulo. O roteiro de como fazer isso, estÃ¡ no Evangelho, bem claro e explicado a todos! Quando vocÃª vai querer abandonar o seu casulo?
+Sinceramente, devemos aceitar que isso simplesmente está acima de nossa compreensão vulgar e animalesca da divina criação.
 
-Que a mÃ£e Terra, MamÃ£e Oxum, MÃ£o Maria e Nossa Senhora nos abenÃ§oe nesse dia! AbenÃ§oe seu lar e faÃ§a vibrar dentro de vocÃª essa centelha divina que mora aÃƒÆ’Ã‚Â­ e que lhe incomoda, que de um jeito ou de outro, mais ou menos hora, encontrarÃ¡ um forma de se fazer luz iluminando teu espÃƒÆ’Ã‚Â­rito e iluminado aqueles que estiverem prÃ³ximo a vocÃª.
 
-Salve Oxum, Salve YemanjÃ¡, Salve MÃ£e Maria!
 
-Salve Sereia, Deusa e MÃ£e de todos nÃ³s!
 
-Salve nossa Umbanda, a fÃ© e a Caridade!
 
-Salve Cristo em nossos coraÃ§ÃƒÂµes e AÃƒâ€¡ÃƒÆ’Ã¢â‚¬Â¢ES!
+Acho que nos cabe um pouco de humildade, por hora e por vezes e aceitar que a "água", o conhecimento e o amor simplesmente vem do céu e a mensagem está aí para quem quiser ouvir.
+
+
+
+
+
+Está na hora realmente de despertarmos nossas almas para um novo mundo. Mundo esse que nós construiremos de amor e paz, de perdão e de amor ao próximo!
+
+
+
+
+
+Devemos sair desse casulo do egoísmo e deixarmo-nos levar pelos ventos divinos, exatamente faz como a borboleta, quando salta " no escuro" para seu primeiro voo. Devemos acreditar que nossa alma com o Cristo voará sim, mas antes deveremos deixar de rastejar!
+
+
+
+
+
+Então tenha coragem irmão de abandonar seu egoísmo e seu casulo. O roteiro de como fazer isso, está no Evangelho, bem claro e explicado a todos! Quando você vai querer abandonar o seu casulo?
+
+
+
+
+
+Que a mãe Terra, Mamãe Oxum, Mão Maria e Nossa Senhora nos abençoe nesse dia! Abençoe seu lar e faça vibrar dentro de você essa centelha divina que mora aí e que lhe incomoda, que de um jeito ou de outro, mais ou menos hora, encontrará um forma de se fazer luz iluminando teu espírito e iluminado aqueles que estiverem próximo a você.
+
+
+
+
+
+Salve Oxum, Salve Yemanjá, Salve Mãe Maria!
+
+
+
+
+
+Salve Sereia, Deusa e Mãe de todos nós!
+
+
+
+
+
+Salve nossa Umbanda, a fé e a Caridade!
+
+
+
+
+
+Salve Cristo em nossos corações e AÇÕES!

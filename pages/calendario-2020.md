@@ -1,0 +1,131 @@
+---
+layout: page
+title: "Calendário 2020"
+date: 2020-01-22
+---
+
+**JANEIRO**
+
+
+
+**12****REABERTURA 2020 - Caboclos****19****Pretos-Velhos****26****Homenagem Oxossi + Batizado**
+
+
+
+
+
+**FEVEREIRO**
+
+
+
+**2****OXUM - TAPES-RS  (NÃO ABRIREMOS)****9****Energização****16****Caboclos****23****FERIADO DE CARNAVAL (NÃO ABRIREMOS)**
+
+
+
+
+
+**MARÇO**
+
+
+
+**1****Pretos-Velhos****8****Energização****15****Caboclos****22****Pretos-Velhos****29****Caboclo + ANIVERSÁRIO 7 FLECHAS**
+
+
+
+
+
+**ABRIL**
+
+
+
+**5****Energização****10****SEXTA-FEIRA SANTA - BENZEDURAS****12****FERIADO DE PÁSCOA (NÃO ABRIREMOS)****19****Caboclos + HOMENAGEM OGUM****26****Energização**
+
+
+
+
+
+**MAIO**
+
+
+
+**3****Caboclos****10****DIA DAS MÃES  (NÃO ABRIREMOS)****13****4a.Feira - Visita à terreira Jurema.****17****Homenagem Pretos-Velhos****23****Visita Aniversário Ubirajara****24****Energização****31****Caboclos**
+
+
+
+
+
+**JUNHO**
+
+
+
+**7****Pretos-Velhos****14****Energização****21****Caboclos****28****Pretos-Velhos**
+
+
+
+
+
+**JULHO**
+
+
+
+**5****Energização****12****Caboclos****19****Pretos-Velhos****26****Energização**
+
+
+
+
+
+**AGOSTO**
+
+
+
+**2****Caboclos****9****Pretos-Velhos****16****Energização****23****Caboclos****30****Pretos-Velhos**
+
+
+
+
+
+**SETEMBRO**
+
+
+
+**6****Energização****13****Caboclos****20****Pretos-Velhos****27****HOMENAGEM A COSME**
+
+
+
+
+
+**OUTUBRO**
+
+
+
+**4****HOMENAGEM A XANGÔ (NÃO ABRIREMOS)****11****Energização****18****Caboclos****22****5a.Feira Visita Aniversário Treme-Terra****24****Preparação Amacy****25****AMACY**
+
+
+
+
+
+**NOVEMBRO**
+
+
+
+**1****Energização****8****Caboclos****11****4a.Feira - Visita Aniversário Mãe-Maria****15****Pretos-Velhos** - **DIA DA UMBANDA****22****Energização****29****Caboclos**
+
+
+
+
+
+**DEZEMBRO**
+
+
+
+**6****HOMENAGEM YEMANJÁ (NÃO ABRIREMOS)****13****Pretos-Velhos****20****Energização - ENCERRAMENTO**
+
+
+
+
+
+**2021**
+
+
+
+**10/1****Caboclos - REABERTURA 2021**

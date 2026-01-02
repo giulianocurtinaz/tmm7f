@@ -1,21 +1,14 @@
 ---
-title: "Homenagem ÃƒÆ’Ãƒâ€šÃ‚Â  Oxum no Terreiro do Sete Flechas com Aparecida e Nilza!"
+layout: post
+title: "Homenagem à Oxum no Terreiro do Sete Flechas com Aparecida e Nilza!"
 date: 2022-02-11
-categories: 
-  - "sem-categoria"
 coverImage: "/tmm7f/assets/images/oxum2022.jpg"
 ---
 
-Medite, ore e receba as vibraÃ§ÃƒÂµes dessa singela homenagem a nossa MÃ£e Oxum!
+Medite, ore e receba as vibrações dessa singela homenagem a nossa Mãe Oxum!
 
-<figure>
+
+
 
 https://youtu.be/bnp-BYAjLz4
-
-<figcaption>
-
 [https://youtu.be/bnp-BYAjLz4](https://youtu.be/bnp-BYAjLz4)
-
-</figcaption>
-
-</figure>

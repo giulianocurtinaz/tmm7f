@@ -1,23 +1,18 @@
 ---
-title: "Domingo da Divina MisericÃ³rdia: O primeiro Domingo apÃ³s a PÃ¡scoa!"
+layout: post
+title: "Domingo da Divina Misericórdia: O primeiro Domingo após a Páscoa!"
 date: 2021-04-09
-categories: 
-  - "sem-categoria"
 coverImage: "/tmm7f/assets/images/confio-em-vos-jpg.jpg"
 ---
 
-## _JESUS, EU CONFIO EM VÃƒÆ’Ã¢â‚¬Å“S!_
+*JESUS, EU CONFIO EM VÓS!*
 
-<figure>
 
-[![](/tmm7f/assets/images/merciful-jesus-300dpi.jpg)](https://youtu.be/2BkuIGp-r7o)
 
-<figcaption>
+[![](/tmm7f/assets/images/merciful-jesus-300dpi.jpg)](https://youtu.be/2BkuIGp-r7o)[https://youtu.be/2BkuIGp-r7o](https://youtu.be/2BkuIGp-r7o)
 
-[https://youtu.be/2BkuIGp-r7o](https://youtu.be/2BkuIGp-r7o)
 
-</figcaption>
 
-</figure>
 
-Jesus Ã© OxalÃ¡, Ãƒâ€° Caridade, Ãƒâ€° MisericÃ³rdia! Ãƒâ€° Umbanda! Prepare-se para receber as bÃªnÃ§Ã£os desse dia Ãºnico do ano! Saiba o que Ã© o Domingo da Divina MisericÃ³rdia! ConheÃ§a quem foi a irmÃ£ Faustina e a origem da imagem de Jesus Misericordioso e sua mensagem!
+
+Jesus é Oxalá, É Caridade, É Misericórdia! É Umbanda! Prepare-se para receber as bênçãos desse dia único do ano! Saiba o que é o Domingo da Divina Misericórdia! Conheça quem foi a irmÃ Faustina e a origem da imagem de Jesus Misericordioso e sua mensagem!

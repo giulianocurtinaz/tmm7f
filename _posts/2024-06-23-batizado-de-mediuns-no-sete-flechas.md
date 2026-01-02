@@ -1,31 +1,68 @@
 ---
-title: "Homenagem a SÃ£o JoÃ£o Batista e Batizado de MÃ©diuns no Sete Flechas"
+layout: post
+title: "Homenagem a São João Batista e Batizado de Médiuns no Sete Flechas"
 date: 2024-06-23
-categories: 
-  - "sem-categoria"
 coverImage: "/tmm7f/assets/images/imagem-do-whatsapp-de-2024-12-23-as-154705cb6f1f01.jpg"
 ---
 
-Em seu Ãºltimo dia antes de mudarem-se para a Argentina, nossos mÃ©diuns Daniela e Alejandro batizaram-se MÃ©diuns de Umbanda!
+Em seu último dia antes de mudarem-se para a Argentina, nossos médiuns Daniela e Alejandro batizaram-se Médiuns de Umbanda!
 
-Que a Umbanda siga com vocÃªs onde estiverem meus amigos!
 
-Padrinhos espirituais: Nego Juca e Maria Conga, materiais: Giuliano e KÃ¡tia!
+
+
+
+Que a Umbanda siga com vocês onde estiverem meus amigos!
+
+
+
+
+
+Padrinhos espirituais: Nego Juca e Maria Conga, materiais: Giuliano e Kátia!
+
+
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2024-12-23-as-15470669935b03.jpg)
 
+
+
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2024-12-23-as-15470578a84ba8.jpg)
+
+
 
 ![](/tmm7f/assets/images/imagem-do-whatsapp-de-2024-12-23-as-1547076de356c7.jpg)
 
-**Ritual**: ApÃ³s sermÃ£o da Entidade Chefe,Ãƒâ€šÃ‚Â  o mÃ©dium ajoelha-se em frente ao CongÃ¡, tendo ao lado os padrinhos materiais, ele segurando uma vela acesa e ela uma espada de Ogum. O Cambono lÃª o Juramento que Ã© repetido pelo MÃ©dium. ApÃ³s o juramento a corrente canta o Ponto de SÃ£o JoÃ£o Batista enquanto o Chefe realiza o batismo com Ã¡gua do mar. ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œEm nome de Deus eu batizo esse filho como filho da Lei para que venÃ§as todas as demandas do bem contra o malÃƒÂ¢Ã¢â€šÂ¬Ã‚Â.Ãƒâ€šÃ‚Â  O Guia espiritual ÃƒÂ¢Ã¢â€šÂ¬Ã…â€œencruzaÃƒÂ¢Ã¢â€šÂ¬Ã‚Â os pontos energÃ©ticos do mÃ©dium com a pemba virgem. A espada deve ser plantada pelo mÃ©dium batizado.
+
+
+
+
+**Ritual**: Após sermão da Entidade Chefe,  o médium ajoelha-se em frente ao Congá, tendo ao lado os padrinhos materiais, ele segurando uma vela acesa e ela uma espada de Ogum. O Cambono lê o Juramento que é repetido pelo Médium. Após o juramento a corrente canta o Ponto de São João Batista enquanto o Chefe realiza o batismo com água do mar. “Em nome de Deus eu batizo esse filho como filho da Lei para que venças todas as demandas do bem contra o mal”.  O Guia espiritual “encruza” os pontos energéticos do médium com a pemba virgem. A espada deve ser plantada pelo médium batizado.
+
+
+
+
 
 **JURAMENTO**
 
-Ao receber o Sacramento do Santo Batismo, tornando-me mÃ©dium de Umbanda, PROMETO, perante este Altar Sagrado, com o testemunho dos meus padrinhos materiais: ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦...Ãƒâ€šÃ‚Â  e ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦... eabenÃ§oado pelos meus padrinhos espirituais: ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦.e **ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦.**, dedicar-me inteiramente a servir a Umbanda, tudo fazendo para vÃª-la cada vez mais acatada e respeitada no conceito das demais crenÃ§as religiosas.
 
-PROMETO cumprir, fielmente, os Estatutos da Sociedade, o Regimento Interno, bem como as ordens e recomendaÃ§ÃƒÂµes do Diretor Espiritual da Terreira.
 
-PROMETO, AINDA, prestar a caridade a todos que dela necessitar, sem distinÃ§Ã£o de classe, cor ou crenÃ§a religiosa, dando de graÃ§a tudo aquilo que de graÃ§a receber, bem como exercer minha mediunidade dentro da moral EspÃƒÆ’Ã‚Â­rita CristÃ£, e que, quando desejar me afastar da Terreira, pedir demissÃ£o por escrito, fazendo a entrega da guia e de tudo que a ela pertencer.
 
-DECLARO, AINDA, que assumo este compromisso de livre e espontÃƒÂ¢nea vontade, sem coaÃ§Ã£o de qualquer espÃ©cie e que cumprirei integralmente.
+
+Ao receber o Sacramento do Santo Batismo, tornando-me médium de Umbanda, PROMETO, perante este Altar Sagrado, com o testemunho dos meus padrinhos materiais: ………...  e ………... eabençoado pelos meus padrinhos espirituais: ………….e **………….**, dedicar-me inteiramente a servir a Umbanda, tudo fazendo para vê-la cada vez mais acatada e respeitada no conceito das demais crenças religiosas.
+
+
+
+
+
+PROMETO cumprir, fielmente, os Estatutos da Sociedade, o Regimento Interno, bem como as ordens e recomendações do Diretor Espiritual da Terreira.
+
+
+
+
+
+PROMETO, AINDA, prestar a caridade a todos que dela necessitar, sem distinção de classe, cor ou crença religiosa, dando de graça tudo aquilo que de graça receber, bem como exercer minha mediunidade dentro da moral Espírita Cristã, e que, quando desejar me afastar da Terreira, pedir demissão por escrito, fazendo a entrega da guia e de tudo que a ela pertencer.
+
+
+
+
+
+DECLARO, AINDA, que assumo este compromisso de livre e espontânea vontade, sem coação de qualquer espécie e que cumprirei integralmente.
