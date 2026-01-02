@@ -2,7 +2,7 @@ title: "Terreira de Mãe Maria"
 baseurl: "/tmm7f"
 remote_theme: wowthemesnet/mediumish-theme-jekyll
 description: "Fraternidade Sete Flechas"
-search_placeholder: "Pesquisar..."
+search_placeholder: "Pesquisar no site..."
 
 plugins:
   - jekyll-paginate
