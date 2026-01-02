@@ -9,7 +9,7 @@ coverImage: "/tmm7f/assets/images/2021-04-confio-em-vos-jpg.jpg"
 
 
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/merciful-jesus-300dpi.jpg?w=526)](https://youtu.be/2BkuIGp-r7o)[https://youtu.be/2BkuIGp-r7o](https://youtu.be/2BkuIGp-r7o)
+[![](/tmm7f/assets/images/2021-01-merciful-jesus-300dpi.jpg)](https://youtu.be/2BkuIGp-r7o)[https://youtu.be/2BkuIGp-r7o](https://youtu.be/2BkuIGp-r7o)
 
 
 

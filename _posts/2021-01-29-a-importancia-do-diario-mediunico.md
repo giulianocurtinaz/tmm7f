@@ -96,7 +96,7 @@ Espero de todo o meu coração que um dia meu filho e talvez meu neto possa ler 
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-3.png?w=462)
+![](/tmm7f/assets/images/2021-01-image-3.png)
 
 
 
@@ -121,11 +121,11 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-4.png?w=433)
+![](/tmm7f/assets/images/2021-01-image-4.png)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-5.png?w=364)
+![](/tmm7f/assets/images/2021-01-image-5.png)
 
 
 
@@ -136,11 +136,11 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-12.png?w=347)
+![](/tmm7f/assets/images/2021-01-image-12.png)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-13.png?w=354)
+![](/tmm7f/assets/images/2021-01-image-13.png)
 
 
 
@@ -150,7 +150,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-6.png?w=330)
+![](/tmm7f/assets/images/2021-01-image-6.png)
 
 
 
@@ -260,7 +260,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/image-11.png?w=394)
+![](/tmm7f/assets/images/2021-01-image-11.png)
 
 
 

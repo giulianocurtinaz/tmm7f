@@ -8,7 +8,7 @@ date: 2020-05-13
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/20210204_183448-e1612488120179.jpg?w=750)
+![](/tmm7f/assets/images/2021-02-20210204183448-e1612488120179.jpg)
 
 
 

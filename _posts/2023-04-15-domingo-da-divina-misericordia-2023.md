@@ -15,4 +15,4 @@ Bom dia amigos! Amanhã será uma grande dia na espiritualidade e na Terra! Aman
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/01/wp_story1609931215337_04096775788691033432.jpg?w=576)
+![](/tmm7f/assets/images/2021-01-wpstory160993121533704096775788691033432.jpg)
