@@ -50,11 +50,11 @@ Baixe gratuitamente o livro original de pontos:
 
 
 
-[Pontos_Cantados DOC](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.docx)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.docx)
+[Pontos_Cantados DOC](/tmm7f/assets/images/2021-03-pontoscantados.docx)[Baixar](/tmm7f/assets/images/2021-03-pontoscantados.docx)
 
 
 
-[Pontos_Cantados PDF](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.pdf)[Baixar](https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/pontos_cantados.pdf)
+[Pontos_Cantados PDF](/tmm7f/assets/images/2021-03-pontoscantados.pdf)[Baixar](/tmm7f/assets/images/2021-03-pontoscantados.pdf)
 
 
 

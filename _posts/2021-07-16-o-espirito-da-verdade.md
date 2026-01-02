@@ -2,9 +2,10 @@
 layout: post
 title: "O Espírito da Verdade"
 date: 2021-07-16
+coverImage: "/tmm7f/assets/images/2021-07-amor-e-caridade3.jpeg"
 ---
 
-[![](https://maemariaseteflechas.com.br/wp-content/uploads/2021/07/amor-e-caridade3.jpeg?w=1006)](https://youtu.be/MsFYhi4yXWI)[https://youtu.be/MsFYhi4yXWI](https://youtu.be/MsFYhi4yXWI)
+[![](/tmm7f/assets/images/2021-07-amor-e-caridade3.jpeg)](https://youtu.be/MsFYhi4yXWI)[https://youtu.be/MsFYhi4yXWI](https://youtu.be/MsFYhi4yXWI)
 
 
 

@@ -45,15 +45,15 @@ Parabéns Aline por ter guiado o melhor trabalho de homenagem que já participei
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/whatsapp-image-2022-12-11-at-11.47.57.jpeg?w=768)
+![](/tmm7f/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.57.jpeg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/photo3.jpeg?w=1024)
+![](/tmm7f/assets/images/2022-12-photo3.jpeg)
 
 
 
-![](https://maemariaseteflechas.com.br/wp-content/uploads/2022/12/whatsapp-image-2022-12-11-at-11.47.30.jpeg?w=1024)
+![](/tmm7f/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.30.jpeg)
 
 
 
