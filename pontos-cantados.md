@@ -28,49 +28,65 @@ permalink: /pontos-cantados/
 </header>
 
 <style>
-  .filter-container { margin: 20px 0; text-align: center; position: sticky; top: 0; background: white; z-index: 100; padding: 10px; border-bottom: 1px solid #eee; }
-  .filter-btn { 
-    background: #f0f0f0; border: 1px solid #ccc; padding: 8px 15px; margin: 3px; 
-    border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: 0.3s;
+  /* Layout Base */
+  .layout-container { display: flex; gap: 30px; align-items: flex-start; }
+  
+  /* Menu Lateral Fixo */
+  .sidebar-filter { 
+    width: 220px; 
+    position: sticky; 
+    top: 20px; 
+    background: #f9f9f9; 
+    padding: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
   }
-  .filter-btn:hover { background: #e0e0e0; }
-  .filter-btn.active { background: #2196F3; color: white; border-color: #0b7dda; }
-  .ponto-cantado { transition: opacity 0.3s ease; }
+
+  .sidebar-filter h3 { margin-top: 0; font-size: 1.2em; border-bottom: 2px solid #2196F3; padding-bottom: 10px; }
+
+  .filter-nav { display: flex; flex-direction: column; gap: 8px; }
+
+  .filter-btn { 
+    text-align: left; background: white; border: 1px solid #ddd; 
+    padding: 10px 15px; border-radius: 8px; cursor: pointer; 
+    transition: 0.3s; font-size: 0.95em;
+  }
+
+  .filter-btn:hover { background: #f0f7ff; border-color: #2196F3; }
+  .filter-btn.active { background: #2196F3; color: white; border-color: #0b7dda; font-weight: bold; }
+
+  /* Área de Conteúdo */
+  .content-points { flex: 1; min-width: 0; } /* min-width 0 prevents overflow issues */
+
+  /* Ajuste para Celular */
+  @media (max-width: 768px) {
+    .layout-container { flex-direction: column; }
+    .sidebar-filter { width: 100%; position: relative; top: 0; }
+    .filter-nav { flex-direction: row; flex-wrap: wrap; justify-content: center; }
+  }
 </style>
 
-<div class="filter-container">
-  <button class="filter-btn active" onclick="filterPoints('all', this)">Todos</button>
-  <button class="filter-btn" onclick="filterPoints('Hinos', this)">Hinos</button>
-  <button class="filter-btn" onclick="filterPoints('Oxalá', this)">Oxalá</button>
-  <button class="filter-btn" onclick="filterPoints('Ogum', this)">Ogum</button>
-  <button class="filter-btn" onclick="filterPoints('Oxóssi', this)">Oxóssi</button>
-  <button class="filter-btn" onclick="filterPoints('Xangô', this)">Xangô</button>
-  <button class="filter-btn" onclick="filterPoints('Iansã', this)">Iansã</button>
-  <button class="filter-btn" onclick="filterPoints('Oxum', this)">Oxum</button>
-  <button class="filter-btn" onclick="filterPoints('Iemanjá', this)">Iemanjá</button>
-  <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">Pretos Velhos</button>
-  <button class="filter-btn" onclick="filterPoints('Oriente', this)">Oriente</button>
-  <button class="filter-btn" onclick="filterPoints('Diversos', this)">Diversos</button>
-</div>
+<div class="layout-container">
+  
+  <aside class="sidebar-filter">
+    <h3>Categorias</h3>
+    <nav class="filter-nav">
+      <button class="filter-btn active" onclick="filterPoints('all', this)">✨ Todos</button>
+      <button class="filter-btn" onclick="filterPoints('Hinos', this)">📜 Hinos</button>
+      <button class="filter-btn" onclick="filterPoints('Oxalá', this)">🕊️ Oxalá</button>
+      <button class="filter-btn" onclick="filterPoints('Iemanjá', this)">🌊 Iemanjá</button>
+      <button class="filter-btn" onclick="filterPoints('Oxum', this)">🍯 Oxum</button>
+      <button class="filter-btn" onclick="filterPoints('Oxóssi', this)">🏹 Oxóssi</button>
+      <button class="filter-btn" onclick="filterPoints('Xangô', this)">⚒️ Xangô</button>
+      <button class="filter-btn" onclick="filterPoints('Iansã', this)">⚡ Iansã</button>
+      <button class="filter-btn" onclick="filterPoints('Ogum', this)">⚔️ Ogum</button>
+      <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">☕ Pretos Velhos</button>
+      <button class="filter-btn" onclick="filterPoints('Oriente', this)">🕌 Oriente</button>
+      <button class="filter-btn" onclick="filterPoints('Diversos', this)">🌀 Diversos</button>
+    </nav>
+  </aside>
 
-<script>
-function filterPoints(category, btn) {
-  // Atualiza classe ativa dos botões
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-
-  // Filtra os pontos
-  const points = document.querySelectorAll('.ponto-cantado');
-  points.forEach(point => {
-    const pointCat = point.getAttribute('data-category');
-    if (category === 'all' || pointCat === category) {
-      point.style.display = 'block';
-    } else {
-      point.style.display = 'none';
-    }
-  });
-}
-</script>
+  <main class="content-points">
 
 
 <div class="lista-pontos">
@@ -4998,3 +5014,24 @@ function filterPoints(category, btn) {
 </article>
 
 </div>
+  </main>
+</div>
+
+<script>
+function filterPoints(category, btn) {
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  const points = document.querySelectorAll('.ponto-cantado');
+  points.forEach(point => {
+    if (category === 'all' || point.getAttribute('data-category') === category) {
+      point.style.display = 'block';
+    } else {
+      point.style.display = 'none';
+    }
+  });
+  
+  // No mobile, volta o topo da página ao filtrar
+  if(window.innerWidth < 768) window.scrollTo(0,0);
+}
+</script>
