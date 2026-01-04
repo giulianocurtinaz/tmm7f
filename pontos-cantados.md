@@ -3,7 +3,6 @@ layout: page
 title: Pontos Cantados
 permalink: /pontos-cantados/
 ---
-
 <header id="introducao-site">
 <p><a href="https://maemariaseteflechas.com.br/lista-de-pontos-cantados-faltantes/">Ver somente os pontos faltantes</a>
 </p>
@@ -39,7 +38,7 @@ permalink: /pontos-cantados/
 <p>Luz que refletiu na terra<br>Luz que refletiu no mar<br>Luz que veio de Aruanda<br>Para tudo iluminar</p>
 <p>A Umbanda é paz e amor<br>É um mundo cheio de Luz<br>É força que nos dá vida<br>E à grandeza nos conduz</p>
 <p>Avante, filhos de fé<br>Como a nossa lei não há<br>Levando ao mundo inteiro<br>A bandeira de Oxalá.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-001-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-001-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano (7 flechas)</figcaption>
 </figure>
     </div>
@@ -57,11 +56,11 @@ permalink: /pontos-cantados/
 <p>Com a bandeira sagrada erguida<br>E a cruz da redenção<br>Salve todo o universo<br>Salve Brasil, querida nação</p>
 <p>Na bandeira divina está<br>Os louros da vitória conquistada<br>E a Umbanda toca o reunir<br>Mostrando a seus filhos a
     estrada</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-002-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-002-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar Bairros Pereira (Terreira de Pai Oxalá Fat. Ogum de Ronda)
     </figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-002-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-002-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -77,7 +76,7 @@ permalink: /pontos-cantados/
 <p>Nós queremos que acabe na terra<br>A opressão, a injustiça e o terror</p>
 <p>Nós queremos a paz contra a guerra<br>Contra o ódio queremos o amor</p>
 <p>Nós queremos a paz contra a guerra<br>Contra o ódio queremos o amor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-003-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-003-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Mercedes Oliveira ( Sete Flechas ) gravado em 19/10/2023</figcaption>
 </figure>
     </div>
@@ -91,7 +90,7 @@ permalink: /pontos-cantados/
 <p>Umbanda é Paz e Amor<br>É luz divina de Pai Oxalá<br>Seus filhos de Umbanda<br>No terreiro vêm saravar</p>
 <p>Oxalá e Iemanjá<br>Nossos pais de religião<br>Umbanda é o nosso lema<br>Venha abençoar a nossa associação</p>
 <p>No reino do senhor<br>Nosso imenso congá<br>Salve o grande defensor<br>Salve salve nosso pai Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-004-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-004-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -108,7 +107,7 @@ permalink: /pontos-cantados/
 <p>Umbanda é nossa jornada<br>A nossa força nossa missão<br>Pai Oxalá nos mostra a estrada<br>De paz amor e de redenção
 </p>
 <p>Com fé, esperança e caridade<br>Fazer nossa vontade<br>De auxiliar a cada irmão</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-005-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-005-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Duda Porto ( Aluno da Turma que confeccionou o Livo de Pontos )
     </figcaption>
 </figure>
@@ -125,14 +124,14 @@ permalink: /pontos-cantados/
     em nossos corações</p>
 <p>Queremos aprender a ser amigos<br>Queremos aprender a perdoar<br>Quem dá mais é sempre quem mais ganha<br>Quem perdoa
     é quem sabe mais amar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-006-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-006-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline ( Diretora da Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-006-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-006-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-006-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-006-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -153,7 +152,7 @@ permalink: /pontos-cantados/
 <p>Mas a lei de Zamby é maior<br>Amai os vossos irmãos<br>Perdoe a todo mal<br>E a todos estende a mão<br></p>
 <p>E a todos estende a mão<br>Perdoe todo mal<br>Amai os vossos irmãos<br>A lei de Zamby é maior<br><br>O negro nasceu
     escravo<br>Escravo o negro se criou<br>O negro morreu escravo<br>Só assim se libertou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-007-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-007-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar Bairros Pereira (Terreira de Pai Oxalá Fat. Ogum de Ronda)
     </figcaption>
 </figure>
@@ -165,7 +164,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <h2 class="wp-block-heading" id="oxala">#OXALÁ</h2>
 <p>Papai Oxalá tem pena de nós tem dó<br>Se a volta do mundo é grande<br>Seu poder ainda é maior</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-008-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-008-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -184,7 +183,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Lá vem jesus <br>A caminhar <br>Já começou a nos chamar <br>Vamos sim, com jesus <br>Vamos sim, trabalhar <br>Pelos
     nossos irmãos <br>Sem parar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-010-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-010-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -195,7 +194,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Jesus, estrela guia<br>Me ilumina, noite, dia ( bis )</p>
 <p>Ilumina terreiro de UmbandaPai <br>Com as luzes dos senhores de Aruanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-011-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-011-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Yaralacy ( Selma Neri de Campos )</figcaption>
 </figure>
     </div>
@@ -207,10 +206,10 @@ permalink: /pontos-cantados/
 <p>Entrei na mata virgem<br>Foi Oxalá quem me guiou<br>Eu fui chamar seu Sete Arranca-Toco<br>Sete Oguns, Seu
     Sete-Flechas<br>E também sete Xangôs<br>E depois veio sete Juremas<br>Que Tupinambá mandou<br>E depois veio Sete
     Juremas<br>Com as bênçãos de nosso Senhor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-012-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-012-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-012-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-012-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -222,7 +221,7 @@ permalink: /pontos-cantados/
 <p>Bendito e louvado seja<br>O nome de Oxalá<br>E leva pras ondas do mar ó Iemanjá<br>Os pedidos dos filhos de
     Oxalá<br>Corre, corre rio abaixo<br>Corre que Oxum mandou<br>E leva pras ondas do mar ó Iemanjá<br>Os pedidos dos
     filhos do congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-013-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-013-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -234,7 +233,7 @@ permalink: /pontos-cantados/
 <p>Saravá, saravá, saravá<br>Esse povo de pemba que é filho de fé no congá<br>Sarava, saravá, Oxalá<br>Que é pai de
     cabeça, não deixa seu filho queda<br>Lua ó lua ilumina o terreiro<br>Que pai de cabeça chegou<br>Lua ó lua ilumina o
     terreiro<br>Que pai de cabeça baixou.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-014-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-014-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Sandra (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -246,10 +245,10 @@ permalink: /pontos-cantados/
 <p>Oxalá mandou,<br>Ele mandou chamar<br>Os caboclos da jurema, lá no juremá.<br>Oxalá mandou,<br>Ele mandou
     chamar<br>Os caboclos da jurema, lá no juremá.<br>Mandai, mandai, linda cabocla jurema<br>Manda seus mensageiros,
     que é ordem suprema.<br>Pai Oxalá é rei no mundo inteiro<br>Manda ordem pra jurema<br>Mandar seus mensageiros</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-015-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-015-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-015-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-015-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -262,7 +261,7 @@ permalink: /pontos-cantados/
     vem, Oxalá está chamando,<br>Se tens no peito um coração,<br>Por que não ouves o teu irmão?<br>Que está sem
     teto,<br>Que está sem pão<br>Fora da caridade não há salvação<br>Estende a mão ao teu irmão<br>Se tens Umbanda como
     religião.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-016-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-016-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Rogério ( Sete Ondas )</figcaption>
 </figure>
     </div>
@@ -273,7 +272,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Um novo dia vai nascer<br>Um raio de sol a brilhar<br>A luz que vem lá no infinito<br>Aonde mora Oxalá<br>Dai-nos
     forças meu pai<br>Num novo amanhecer<br>Perdoa as nossas faltas<br>Com vós iremos vencer</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-017-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-017-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -287,7 +286,7 @@ permalink: /pontos-cantados/
     universal<br>Abençoai os nossos trabalhos<br>Nos dando força espiritual<br>Okê, okê, okê<br>Okê meus caboclos
     okê<br>Salve Ogum e salve Oxum<br>Salve Oxóssi e salve Xangô<br>Salve Ibeji e os pretos velhos<br>A Mãe Maria e os
     povo do oriente<br>Okê, okê, okê<br>Okê meus caboclos okê<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-018-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-018-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -310,7 +309,7 @@ permalink: /pontos-cantados/
 <p>Mãe d’água, rainha das ondas sereia do mar<br>Mãe d’água seu canto é bonito, quando tem luar<br>Vem Óh Iemanjá,
     rainha das ondas sereia do mar<br>Rainha das ondas sereia do mar<br>Como é lindo o canto de Iemanjá<br>faz até o
     pescador chorar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-020-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-020-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -321,7 +320,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Pescador pegou veleiro e foi<br>Pescar no reino de Yemanjá | bis<br>Veleiro voltou sozinho<br>Pescador Yemanjá
     levou&nbsp;<br>É belo viver no mar<br>No reino de Yemanjá | bis<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-021-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-021-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -332,7 +331,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Óh Iemanja, óh Iemanja<br>Óh Iemanja vamos sarava, óh Iemanja<br>Embarca na canoa passarinho voa<br>Quem manda lá no
     mar, é Iemanja<br>E a rainha lá do mar, é Iemanja<br>Vamos todos sarava , óh Iemanja</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-022-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-022-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -345,10 +344,10 @@ permalink: /pontos-cantados/
 <p>Oh Vem, vem, vem oh Sereia<br>Vem do fundo do mar<br>Oh Vem, vem, vem oh sereia<br>Quero o seu canto escutar<br></p>
 <p>E o seu canto traduz<br>Mensagens de fé e de luz ( bis )<br>E o seu lindo cantar<br>A todos seduz ( bis )<br></p>
 <p>Oh Vem, vem, vem oh Sereia<br>Vem do fundo do mar<br>Oh Vem, vem, vem oh sereia<br>Quero o seu canto escutar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-023-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-023-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aladir e Isaura ( Ogum Beira-Mar)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-023-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-023-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -361,7 +360,7 @@ permalink: /pontos-cantados/
     a negra escrava tristonha a rezar<br>Saravá nossa mãe Iemanjá<br>Saravá nossa mãe Iemanjá<br>A estrela brilhou quem
     veio nos salvarNa mata, no campo, na areia e no mar<br>Caçamba virou de fundo pro ar<br>Mas quem veio nos salvar foi
     nossa mãe Iemanjá<br>Saravá nossa mãe Iemanjá<br>Saravá nossa mãe Iemanjá<br>Saravá nossa mãe Iemanjá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-024-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-024-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -373,7 +372,7 @@ permalink: /pontos-cantados/
 <p>Foi na areia, foi na areia<br>Eu fiz um pedido a mãe sereia<br>Para nunca mais penar<br>Foi na areia, numa noite na
     areia branca do mar<br>E a lua brilhou no céu<br>Iluminou os meus pedidos<br>Sereia rainha do mar<br>Sereia rainha
     do mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-025-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-025-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -384,7 +383,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Mãe Sereia tem o seu manto de ouro<br>Sua coroa brilha sobre as ondas do mar<br>Mãe sereia traga sua luz
     divina<br>Venha clarear os passos dos filhos<br>Da mãe Iemanjá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-026-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-026-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -396,7 +395,7 @@ permalink: /pontos-cantados/
 <p>Sentada em cima de uma pedra<br>A pedra em cima da areia<br>Eu vi a rainha das ondas<br>Eu vi minha mãe sereia</p>
 <p>Ela tinha uma rosa na mão<br>Ela brincava com a estrela do mar<br>Ela riscava seu ponto na areia<br>Com a espada de
     Ogum Beira-Mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-027-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-027-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -406,7 +405,7 @@ permalink: /pontos-cantados/
     <h2>Eram duas ventarolas, duas ventarolas</h2>
     <div class="letra">
 <p>Eram duas ventarolas, duas ventarolas<br>Que ventavam no mar<br>Uma era Iansã oaieieeu<br>A outra era Iemanjá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-028-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-028-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -428,7 +427,7 @@ permalink: /pontos-cantados/
     trabalhar</p>
 <p>Mas uma voz veio lá das ondas<br>Estava na beira do mar<br>Era ela era ela que cantava<br>Ela era a nossa mãe Iemanjá
 </p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-030-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-030-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -438,7 +437,7 @@ permalink: /pontos-cantados/
     <h2>Jandira, Jandira</h2>
     <div class="letra">
 <p>Jandira, Jandira<br>Da beira da praia<br>Vem Vindo com a Maré<br>Pra saudar a Mãe Iara</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-031-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-031-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Mercedes (Terreira 7 Flechas)</figcaption>
 </figure>
     </div>
@@ -450,7 +449,7 @@ permalink: /pontos-cantados/
 <p><strong>Iara</strong></p>
 <p>Iara, Iara, Flecheira<br>Que mora nas ondas do mar<br>Salve a Iara flecheira<br>É ela quem vem trabalhar, Iara<br>Eu
     via a Iara Flecheira<br>Alegre ao clarão do luar<br>Iara brincava na areia<br>Pertinho de Ogum Beira-Mar, Iara</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-032-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-032-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -464,7 +463,7 @@ permalink: /pontos-cantados/
     beira-mar,<br>Venceu demanda é beira-mar<br>---</p>
 <p>A cabocla Iara, ela pisa no terreiro<br>Seu povo está lhe chamando<br>Oh Iara vem ligeiro<br>Ora, pisa, mas pisa
     devagar<br>Cabocla verdadeira, pisa em qualquer lugar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-033-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-033-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -475,10 +474,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem quer viver sobre a terra<br>Quem quer viver sobre o mar<br>É a cabocla Jandira<br>É a serei do Mar<br>Ê ruê ruê,
     Ê ruê ruê, Ê ruê ruê<br>Jandira</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-034-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-034-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-034-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-034-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -489,7 +488,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Atraca Atraca quem vem na onda é Nanã<br>Atraca Atraca quem vem na onda é Nanã<br>É Nanã é Oxum é sereia do mar
     auê<br>É Nanã é Oxum é mamãe Iemanjá auê</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-035-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-035-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -500,7 +499,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><br>A onda do mar levou, levou<br>Todos os orixás<br>Pro alto do mar sagrado<br>Pra festa de Iemanjá</p>
 <p>És nossa mãe Óh Iemanjá<br>Escuta a nossa prece e vem abençoar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-036-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-036-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -544,7 +543,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Maria nossa mãe extremosa<br>Baixai baixai como a rosa<br>Anda a ver a teus filhos de aruanda<br>Trabalhando no
     congá<br>Na santa lei de Umbanda<br>Baixai baixai como a rosa<br>Maria nossa mãe extremosa</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-041-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-041-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
 <p></p>
@@ -557,7 +556,7 @@ permalink: /pontos-cantados/
 <p>Oh Iemanjá, Oh Iemanjá<br>Vamos saravá Oh Iemanjá<br>Embarca na canoa, passarinho voa<br>Quem manda lá no mar é
     Iemanjá<br>É a rainha lá do mar, é Iemanjá<br>Vamos todos saravá, oh Iemanjá<br>Zum zum zum lá no meio do mar<br>Zum
     zum zum lá no meio do mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-042-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-042-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Letra Parcial</figcaption>
 </figure>
     </div>
@@ -569,7 +568,7 @@ permalink: /pontos-cantados/
 <p><br>Zum, Zum, Zum<br>Lá no meio do mar<br>O canto da mãe sereia<br>Nos faz entristecer<br>Parece que ela
     adivinha<br>O que vai acontecer<br><br>Ajudai-me rainha do mar<br>Ajudai-me rainha do mar<br>Ajudai-me rainha do
     mar<br>Que vence na terra<br>E que vence no mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-043-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-043-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
 <p>---<br>Zum, Zum, Zum<br>Lá no meio do mar<br>O canto da mãe sereia<br>Nos faz entristecer<br>Parece que ela
@@ -577,7 +576,7 @@ permalink: /pontos-cantados/
     atrapalha<br>Nas ondas do mar tem fim<br>Nas ondas do mar se acalmam<br>Zum, Zum, Zum<br>Lá no meio do mar<br>Zum,
     Zum, Zum<br>Lá no meio do mar<br>Ajudai-me rainha do mar<br>Ajudai-me rainha do mar<br>Ajudai-me rainha do
     mar<br>Que vence na terra<br>E que vence no mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-043-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-043-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -590,14 +589,14 @@ permalink: /pontos-cantados/
 <p>Manda em nossos lares<br>As bênçãos de Deus<br>Rainha dos mares<br>Da terra e dos céus</p>
 <p>Em risos encobres<br>Maria seus dons<br>Tesouro dos pobres<br>Riqueza dos bons</p>
 <p>Manda em nossos lares<br>As bênçãos de Deus<br>Rainha dos mares<br>Da terra e dos céus</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-044-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-044-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-044-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-044-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Manuelly ( Pai João de Aruanda e Sete Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-044-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-044-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia ( 7 flechas )</figcaption>
 </figure>
     </div>
@@ -622,7 +621,7 @@ permalink: /pontos-cantados/
     pérolas<br>Vinho branco e guaraná<br>E um braçado de flores<br>E uma fita de Oxalá</p>
 <p>Hoje a noite ao luar<br>Vou deitar tudo no mar</p>
 <p>A benção santa das santas<br>Me abençoe Iemanjá<br>A benção santa das santas<br>Abençoe meu doce orixá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-046-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-046-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -647,7 +646,7 @@ permalink: /pontos-cantados/
     heróis no terreiro</p>
 <p>Agradecemos nossos mestres queridos<br>Que nos ajudam e ensinam a lutar<br>Com a bandeira de umbanda erguida<br>Para
     Deus e por Cristo brilhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-048-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-048-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -659,7 +658,7 @@ permalink: /pontos-cantados/
 <p><strong>Sete Ondas</strong></p>
 <p>A estrela lá no mar brilhou<br>A estrela do Pai Oxalá<br>Chamando o povo da água<br>Com as forças da mãe Iemanjá</p>
 <p>Salve o Pai Sete Ondas<br>Salve a mãe Iemanjá<br>Salve a mãe sereia<br>Salve Ogum Beira-Mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-049-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-049-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -670,10 +669,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ele é do mar, ele é caboclo flecheiro<br>É o Sete Ondas de Iemanjá<br>Vence demanda, tudo ele vence<br>Com os poderes
     de Oxalá<br>Umbanda, salve Umbanda<br>Salve seus filhos que estão no congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-050-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-050-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-050-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-050-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -685,10 +684,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Galera está no mar, ai vamos todos remar<br>Galera está no mar, ai vamos todos remar<br>Aí vem pai Sete Ondas,
     mensageiro de Iemanjá<br>Aí vem pai Sete Ondas, vamos todos sarava</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-051-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-051-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-051-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-051-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -701,10 +700,10 @@ permalink: /pontos-cantados/
 <p>Quando a lua surgir<br>Ela vai clarear<br>O terreiro de umbanda<br>De nosso pai Oxalá</p>
 <p>É o pai Sete Ondas<br>Que vem chegando do mar<br>Com seu escudo de ouro<br>Ele vem trabalhar</p>
 <p>Ele já está no terreiro<br>Ele já está no congá<br>Seus filhos batem cabeça<br>Pro Sete Ondas saudar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-052-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-052-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-052-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-052-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -716,7 +715,7 @@ permalink: /pontos-cantados/
 <p>Saravá Oxalá e Iemanjá<br>Saravá Ogum de Ronda<br>Abre a porta do terreiro meu pai<br>Que vai chegar o cacique Sete
     Ondas</p>
 <p>Sete Ondas auê Auê<br>Sete Ondas auê auá<br>Sete Ondas que vem no terreiro<br>Sete Ondas que vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-053-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-053-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -729,7 +728,7 @@ permalink: /pontos-cantados/
     Ondas<br>Que vem lá do mar<br>Nós queremos o Sete Ondas<br>Cacique para nos guiar<br>Aí vem o cacique Sete
     Ondas<br>Junto com a mãe Iemanjá ( bis )<br>Nas ondas flutuando<br>Vem o cacique guerreiro<br>Salve o nosso cacique
     é o Sete Ondas<br>É o Sete Ondas que está no terreiro ( bis )</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-054-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-054-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber ( Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -739,7 +738,7 @@ permalink: /pontos-cantados/
     <h2>Descarrega, descarrega</h2>
     <div class="letra">
 <p>Descarrega, descarrega<br>Todo o mal que aqui está<br>Leva, leva, leva<br>Tudo pro fundo do Mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-055-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-055-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -750,7 +749,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Baixai, baixai,<br>Óh Virgem da Conceição<br>Maria Imaculada pra tirar perturbação<br>Se tiveres praga de
     alguém,<br>desde já seja retirado<br>Levando pro mar ardente<br>Pras ondas do mar sagrado</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-056-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-056-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -762,7 +761,7 @@ permalink: /pontos-cantados/
 <p></p>
 <p>E a marola lá do mar<br>Ae vem rolando<br>Mãe Iara com seu povo<br>Trabalhando<br>E a pombinha do divino<br>Ai vem
     voando<br>E o cacique Sete Flechas<br>Com seus filhos (Reforçando, abençoando)<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-057-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-057-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -786,10 +785,10 @@ permalink: /pontos-cantados/
     manto da mãe Iemanjá</p>
 <p>Sou a Cabocla das Sete Ondas<br>Das Sete Ondas do reino de Iemanjá<br>Trago na fronte um emblema dos céus<br>Trago
     nas mãos as vibrações do mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-059-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-059-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-059-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-059-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -810,7 +809,7 @@ permalink: /pontos-cantados/
 <p><strong>Tarimá</strong></p>
 <p>Tarimá é marinheiro<br>Marinheiro de Iemanjá<br>Tarimá vem no terreiro<br>Ele vem pra trabalhar</p>
 <p>No terreiro de umbanda<br>Tarimá vem trabalhar<br>Vem trazer a proteção<br>Pra seus filhos guiar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-061-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-061-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -827,7 +826,7 @@ permalink: /pontos-cantados/
 <p>Não chores meu filho querido<br>Pois ao seu lado estarei<br>Ela jogou-me uma rosa<br>E nas águas desapareceu</p>
 <p><br>A iê iê ô, A iê iê ô<br>Chegou Mamãe Oxum e maré chorou<br>A iê iê ô, A iê iê ô<br>Chegou Mamãe Oxum e maré
     chorou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-062-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-062-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Cida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -840,7 +839,7 @@ permalink: /pontos-cantados/
     e todo amor<br>Na esperança de cobrir com vosso manto</p>
 <p>Mamãe Oxum que vem de aruanda<br>Com divino espírito santo<br>Vem salvar filhos de umbanda</p>
 <p>Mamãe Oxum que vem de aruanda<br>Com São Cosme e São Damião<br>Vem remando sobre as ondas</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-063-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-063-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -855,7 +854,7 @@ permalink: /pontos-cantados/
 <p style="font-size:12px"><strong>Candura</strong>: Qualidade de quem é cândido, puro, inocente: trato, candidez,
     candor, amabilidade, candideza, castidade, doçura, gentileza, honestidade, honra, honradez, inocência, integridade,
     lhaneza, lhanura, lisura, pureza, singeleza, virgindade, virtude<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-064-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-064-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aladir e Isaura ( Ogum Beira-Mar )</figcaption>
 </figure>
     </div>
@@ -868,10 +867,10 @@ permalink: /pontos-cantados/
     pedreira<br>Que vem descendo lá do alto da pedreira</p>
 <p>Ai como é linda a cachoeira de Oxum<br>Que está guardada por soldados de Ogum<br>Ai como é linda a cachoeira de
     Oxum<br>Que está guardada por soldados de Ogum</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-065-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-065-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-065-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-065-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -883,7 +882,7 @@ permalink: /pontos-cantados/
 <p>Eu vi mamãe Oxum na cachoeira<br>Sentada na beira do rio<br>Eu vi mamãe Oxum na cachoeira<br>Sentada na beira do rio
 </p>
 <p>Colhendo lírio lírio ê<br>Colhendo lírio lírio á<br>Colhendo lírios pra enfeitar nosso congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-066-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-066-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -894,12 +893,12 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Numa noite linda de lua cheia<br>Eu vi Oxum na cachoeira<br>E a mata inteira se iluminou<br>E a cachoeira onde Oxum
     se banhou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-067-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-067-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
 <p>---<br><strong>Junco-Verde</strong></p>
 <p>Caboclo atirador<br>Atira flecha no congá<br>Chegou seu Junco-Verde<br>É mensageiro de Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-067-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-067-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda </figcaption>
 </figure>
     </div>
@@ -909,10 +908,10 @@ permalink: /pontos-cantados/
     <h2>A lua vem surgindo</h2>
     <div class="letra">
 <p>A lua vem surgindo<br>Clareando a cachoeira<br>Ah, iê iê mamãe Oxum<br>Ah ei ei Oxumaré</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-068-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-068-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-068-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-068-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -926,7 +925,7 @@ permalink: /pontos-cantados/
     quindim e guaraná, oh oh oh</p>
 <p>O meu pedido foi aceito, oh oh oh<br>Prometi eu vou levar, oh oh oh<br>Vou levar rosas amarelas, oh oh oh<br>Com
     quindim e guaraná, oh oh oh</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-069-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-069-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -947,7 +946,7 @@ permalink: /pontos-cantados/
 <p>Na minha aldeia eu sou caboclo<br>Sou rompe mato e arranca toco<br>Na minha aldeia lá na jurema<br>Não se faz nada
     sem a lei suprema<br>---</p>
 <p>Assovia, assovia, ele assoviou<br>Cadê o caboclo das matas<br>Que ainda não chegou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-071-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-071-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -960,7 +959,7 @@ permalink: /pontos-cantados/
     Jurema<br>Veio do reino pra seus filhos saravá</p>
 <p>Estava chovendo e relampeando<br>Mas mesmo assim o céu estava azul<br>Com sua pemba e as folhas da Jurema<br>Eu vi
     Oxóssi em seu aracajá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-072-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-072-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -971,7 +970,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Caboclo roxo, da pele morena<br>Ele é Oxóssi, caçador lá da Jurema<br>Ele jurou e ele jurará<br>Aceitar os conselhos
     que a Jurema veio dar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-073-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-073-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( dirigentes do Terreiro de Ubirajara )
     </figcaption>
 </figure>
@@ -992,7 +991,7 @@ permalink: /pontos-cantados/
 <p>Atira, atira <br>eu Atirei no Bambá<br>Eu vou atirar ( 2x)<br>Veado no mato é corredor<br>Oxossi na Mata é
     caçador<br>Atira, atira <br>eu atirei no Bambá</p>
 <p><br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-075-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-075-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1003,7 +1002,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>A mata estava escura<br>Um anjo iluminou<br>No meio da mata virgem<br>O rei Oxóssi ali chegou</p>
 <p>Mas ele é rei, ele é rei, ele é rei<br>Mas ele é rei na aruanda ele é rei</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-076-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-076-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Ponto Parcial</figcaption>
 </figure>
     </div>
@@ -1015,7 +1014,7 @@ permalink: /pontos-cantados/
 <p>Um diadema lá no céu brilhou<br>A mata virgem veio iluminar<br>É de aruanda, é na lei de umbanda<br>Nosso rei Oxóssi
     vamos saravá<br>Oxóssi é, é, é, é, é, Oxóssi é, é, é, é, á<br>Lá na Jurema, lá na Jurema<br>Oxóssi é dono do
     congá<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-077-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-077-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1054,10 +1053,10 @@ permalink: /pontos-cantados/
 <p>Eu vou pedir licença pra Oxóssi<br>Pra trabalhar lá nas matas da Jurema<br>Eu vou pedir licença pra Oxóssi<br>Pra
     trabalhar lá nas matas da Jurema</p>
 <p>Bater cabeça pra Xangô<br>Lá na pedreira<br>E levar flores pra Oxum<br>Na cachoeira</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-081-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-081-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Victor ( Ubirajara)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-081-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-081-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -1075,7 +1074,7 @@ permalink: /pontos-cantados/
     <h2>Araguassú que vem de aruanda</h2>
     <div class="letra">
 <p>Araguassú que vem de aruanda<br>Com suas flechas vem trabalhar<br>Araguassú é curador<br>É guerreiro de Iemanjá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-083-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-083-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1088,10 +1087,10 @@ permalink: /pontos-cantados/
 <p>Oxóssi mora na raiz da gameleira<br>Na raiz da gameleira<br>Salve Rompe Mato<br>Salve Arranca Toco<br>E salve o Tira
     Teima<br>Ele é caboclo em qualquer lugar<br>Firma seu ponto sem medo de errar<br>Só não me toque na flor da
     Jurema<br>Sem a lei suprema do pai Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-084-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-084-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-084-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-084-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -1103,7 +1102,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Lá na mata é só caboclo<br>Lá na mata é só caboclo<br>Quem manda nessa mata<br>É o cacique Arranca Toco<br>Aruê,
     Aruê, Aruá<br>Quem manda nessas matas<br>É o cacique Arranca Toco</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-085-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-085-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1114,7 +1113,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Caboclo Arranca-Toco<br>É minha luz, é minha guia<br>Ele é Oxóssi, é filho da virgem Maria<br>A sua luz ilumina o
     escuro<br>Quando ele gira, o terreiro está seguro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-086-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-086-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1128,13 +1127,13 @@ permalink: /pontos-cantados/
     Ubirajara</p>
 <p>Corta língua, corta mironga<br>Corta língua de falador<br>Pra sua espada não há embaraço<br>Chegou Ubirajara do Peito
     de Aço</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-087-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-087-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda) - Completo</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-087-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-087-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-087-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-087-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial</figcaption>
 </figure>
     </div>
@@ -1146,7 +1145,7 @@ permalink: /pontos-cantados/
 <p>Em cima de uma pedra branca<br>Ao lado de um pé de açucena<br>Eu vi o cacique Ubirajara<br>Fazendo seu saiote de pena
 </p>
 <p>Ubirajara auê auê<br>Ubirajara auê, auá<br>Ubirajara que vem das matas<br>Ubirajara que vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-088-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-088-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra e Mercedes (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -1160,10 +1159,10 @@ permalink: /pontos-cantados/
     Pena Branca passou me chamando</p>
 <p>É bom, é bom<br>Onde é que mora?<br>Eu moro nas matas<br>De Nossa Senhora</p>
 <p>E ele vem<br>Ele vem trabalhar<br>Ele é Pena Branca<br>Das tribos guarás</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-089-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-089-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-089-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-089-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline - Dirigente Mãe Maria</figcaption>
 </figure>
     </div>
@@ -1176,7 +1175,7 @@ permalink: /pontos-cantados/
     saiote de penas douradas</p>
 <p>Pai Pena Branca veio das matas<br>Pai Pena Branca tem a cor morena<br>Na mão direita traz a sua flecha<br>E na cabeça
     um cocar de penas</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-090-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-090-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1201,7 +1200,7 @@ permalink: /pontos-cantados/
 <p>A água com areia não pode demandar a água vai embora&nbsp;<br>E a areia fica no lugar<br>Oi zum, zum, zum,
     zum,<br>Chegou o Aimoré<br>Caboclo guerreiro<br>Vem salvar filhos de fé.</p>
 <p style="font-size:12px"><strong>Aimoré</strong>: Grupo indígena que não falava Tupi<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-092-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-092-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1214,7 +1213,7 @@ permalink: /pontos-cantados/
 <p>A estrela no céu brilhou<br>Minha choupana já clareou (bis)</p>
 <p>Ele vem lá, do Humaitá<br>Com sua falange pra trabalhar ( bis )</p>
 <p>Ele é seu Pena Verde na Luz de Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-093-v1.ogg"></audio></figure>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-093-v1.ogg' | relative_url }}" type="audio/ogg"></audio></figure>
     </div>
 </article>
 <article class="ponto-cantado" id="ponto-094" data-category="Oxóssi">
@@ -1224,7 +1223,7 @@ permalink: /pontos-cantados/
 <p>Corre, corre meu veado<br>O meu veado é corredor<br>Vai avisar lá na Jurema<br>Que o Pena Verde já chegou<br><br>Quem
     manda na mata é Oxóssi<br>Oxóssi é caçador, Oxóssi é caçador<br>Eu vi meu pai assoviar<br>E eu o mandei chamar<br>É
     na aruanda é, é na aruanda<br>Seu Pena Verde é rei de umbanda<br>É na aruanda, é na aruanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-094-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-094-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1237,10 +1236,10 @@ permalink: /pontos-cantados/
 <p>Águia Branca que vem de Aruanda<br>E vem sozinho pra trabalhar<br>Porém apitando três vezes<br>Sua falange vem
     ajudar<br>Na terreira de Mãe Maria<br>O Águia Branca vem trabalhar<br>Salve este grande luzeiro<br>É mensageiro do
     Pai Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-095-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-095-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-095-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-095-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline (Mãe Maria)</figcaption>
 </figure>
     </div>
@@ -1252,7 +1251,7 @@ permalink: /pontos-cantados/
 <p><strong>Sete Encruzilhadas</strong></p>
 <p>Salve o Caboclo das Sete Encruzilhadas<br>Com sua falange ele vem pra trabalhar<br>Salve este grande luzeiro<br>É
     mensageiro do Pai Oxalá<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-096-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-096-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1265,7 +1264,7 @@ permalink: /pontos-cantados/
 <p>Fui buscar o congá<br>Que deixei lá na Aruanda<br>Chegou o caboclo Arruda<br>Pra vencer essa demanda</p>
 <p>A falange do Arruda<br>É sempre de boa vontade<br>Ela anda por toda a parte<br>Espalhando a caridade</p>
 <p>A falange do Arruda<br>É de força e de ação<br>Da Virgem Nossa Senhora<br>Ele traz a proteção</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-097-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-097-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1278,7 +1277,7 @@ permalink: /pontos-cantados/
 <p>Seu Rompe Mato coroou<br>Seu Sete-Flechas na floresta<br>E toda a mata se enfeitou<br>Era uma cidade em festa<br>E os
     caboclos se enfeitaram<br>Com a folhas da guiné<br>E toda a mata estava em festa<br>Pra saldar o senhor Odé<br>Oi
     quem manda, Odé<br>Oi quem manda, Odé<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-098-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-098-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1291,10 +1290,10 @@ permalink: /pontos-cantados/
 <p>Saravá seu Sete-Flechas<br>Ele é o rei da mata<br>A sua bodoque atira paranga<br>Sua flecha mata</p>
 <p style="font-size:12px"><strong>Paranga</strong>&nbsp;é um objeto parecido com uma flecha que é "atirado" de uma arma
     indígena chamada bodoque (semelhante ao estilingue)</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-099-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-099-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Giuliano (7 Flechas)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-099-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-099-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Cleber e Manuélly ( Pai João de Aruanda e Sete Flechas)
     </figcaption>
 </figure>
@@ -1308,7 +1307,7 @@ permalink: /pontos-cantados/
     o Arari<br>Salve o Sete Flechas que chegou aqui<br>Salve o Tabajara, Tupinambá e o Arari<br>Salve o Sete Flechas que
     baixou aqui<br></p>
 <p>O ponto acima é minha homenagem às entidades que Marcaram meu desenvolvimento mediúnico (Giuliano Curtinaz)<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-100-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-100-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano (Sete Flechas)</figcaption>
 </figure>
     </div>
@@ -1320,7 +1319,7 @@ permalink: /pontos-cantados/
 <p>Atrás daquela serra tem sete coqueiros<br>Tem sete cobras todas a piar<br>Atrás daquela serra tem sete
     coqueiros<br>Tem sete cobras todas a piar<br>Elas se chamam Sete Flechas de Aruanda que Deus demanda a vir
     trabalhar<br>Elas se chamam Sete Flechas de Aruanda que Deus demanda a vir trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-101-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-101-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Cleber e Manuéllu ( Pai João e Sete Flechas )</figcaption>
 </figure>
     </div>
@@ -1332,7 +1331,7 @@ permalink: /pontos-cantados/
 <p><strong>Tupayba</strong></p>
 <p>Nós somos dois guerreiros<br>Dois irmãos sempre unidos<br>Meu nome é Tupayba<br>Eu sou filho de Aymoré<br>Lá nas
     tribos guarani<br>Meu irmão chama Pery</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-102-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-102-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1344,7 +1343,7 @@ permalink: /pontos-cantados/
 <p><strong>Tupinambá</strong></p>
 <p>Catuca na cangira<br>Se é Tupinambá<br>Se é de pena branca<br>Se é de pena amarela<br>Flecha, flecha, flecha<br>Para
     todo o mal levar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-103-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-103-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1355,7 +1354,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Tupinambá, Tupinambá<br>Filho de umbanda<br>Tupinambá, Tupinambá<br>Vence demanda<br>Tupinambá, Tupinambá<br>Chefe
     guerreiro<br>Tupinambá, Tupinambá<br>Vem no terreiro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-104-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-104-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1374,10 +1373,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Lá na mata tem guiné<br>Tupinambá se ajoelhou, oh, oh, oh<br>Com suas flechas na mão<br>Pedindo fora e proteção, oh,
     oh, oh<br>Na terreira de Mãe Maria<br>Um clarim eu vi tocar<br>São guerreiros de aruanda<br>Vem saudar Tupinambá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-106-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-106-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-106-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-106-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -1390,10 +1389,10 @@ permalink: /pontos-cantados/
 <p><strong>Tupimirim</strong></p>
 <p>Quem é aquele caboclo<br>Que vem lá de longe?<br>É Tupimirim!<br>Filho de Tupinambá<br>Ele vem montado&nbsp;<br>Ele
     vem calçado&nbsp;<br>ele vem saudar&nbsp;pai oxalá.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-107-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-107-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-107-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-107-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -1412,7 +1411,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Tupimirim, êh, êh Tupinambá<br>Tupimirim, êh, êh Tupinambá<br>Arranca Toco manda a Jurema pra cá<br>Seu Ogum, Seu
     Sete Flechas a Jurema foi buscar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-109-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-109-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1426,7 +1425,7 @@ permalink: /pontos-cantados/
     bronze</p>
 <p>A lua vem surgindo<br>E o sol já vai sumindo<br>E ele para saudar a estrela guia<br>E traz em seu manto sagrado<br>O
     nome da Virgem Maria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-110-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-110-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1438,7 +1437,7 @@ permalink: /pontos-cantados/
 <p><strong>Ubiratã</strong></p>
 <p>Oi que flecha é essa<br>Que caiu aqui?<br>É arma de guerra<br>Do nosso pai Tupi</p>
 <p>Savará Tupaíba<br>Saravá meu irmão<br>Salve o povo das matas<br>E o caboclo Ubiratã</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-111-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-111-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -1458,10 +1457,10 @@ permalink: /pontos-cantados/
     de Oxossi,<br>Onde Jurema é rainha,<br>Pois um homem sem amor é um morto que caminha.<br><br>Irmã de Oxalá, Filha de
     Tupã,<br>Da linha de Oxossi,<br>E da legião de Urubatã.<br>Jupira, Jandira, Janaina e Iracema.<br>É a falange
     suprema.<br>Da linda cabocla Jurema.<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-112-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-112-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-112-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-112-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -1489,7 +1488,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem não conhece a linda cabocla Jurema<br>Ela é filha de Tupinambá ( bis )<br>Jurema tem o seu bodoque<br>Tem a sua
     Flecha<br>Tem a sua Pemba</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-115-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-115-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -1509,7 +1508,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Jurema do juremeiro<br>Do reino de Jurema<br>Salve a cabocla Jurema<br>Salve o nosso pai Oxalá</p>
 <p>No terreiro de Ogum de Ronda<br>Jurema vem trabalhar<br>Salve a cabocla Jurema<br>Salve o nosso pai Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-117-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-117-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -1520,7 +1519,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ai Jureminha, ai Jurema<br>Sua flecha caiu serena Jurema<br>Dentro desse congá<br>Salve Ogum, Xangô, Oxóssi<br>Salve
     Cosme e Damião<br>Salve o chefe do terreiro<br>Que nos dá a proteção Jurema!</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-118-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-118-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1550,7 +1549,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Como são lindos os cabelos de Jurema<br>A luz brilhante do seu olhar<br>Salve a Jurema, saia das matas<br>Vem no
     terreiro pra trabalhar<br>Saia Jurema, saia das matas<br>Vem no terreiro pra trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-121-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-121-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 flechas )</figcaption>
 </figure>
     </div>
@@ -1570,7 +1569,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Eu vim da mata virgem<br>Dá licença que venho trabalhar<br>Cabocla Jurema e seus flecheiros<br>Da mata virgem na fé
     de<br>Jurema são seus filhos que te chamam<br>Jurema salve o povo de Aruanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-123-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-123-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1581,7 +1580,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem é de Aruanda, não é de aruê<br>Caboclos das matas não são brincadeiras<br>Zum zum zum, chegou a Jurema<br>E sua
     falange de guaranis</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-124-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-124-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1593,7 +1592,7 @@ permalink: /pontos-cantados/
 <p>A lua veio iluminou a mata virgem<br>Iluminou a linda cabocla Jurema<br>Chegou a hora do revoar dos
     passarinhos<br>Vão reportando ao redor da sua rede<br>Jurema, a noite já vem chegando<br>Seus filhos estão lhe
     chamando<br>Salve a ti, linda Jurema</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-125-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-125-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1603,7 +1602,7 @@ permalink: /pontos-cantados/
     <h2>Jurema é flecheira</h2>
     <div class="letra">
 <p>Jurema é flecheira<br>A flecha não erra pontaria<br>Jurema, Jurema<br>Ela é flecheira de Mãe Maria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-126-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-126-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -1616,7 +1615,7 @@ permalink: /pontos-cantados/
 <p>Companheiros de Jurema<br>Ai de mim tão só<br>Companheiros de Jurema<br>Ai de mim tem dó<br>Com sete dias de
     nascida<br>Sua mãe lhe abandonou<br>Salve o reino de Oxóssi<br>Foi Tupi quem me criou<br>Ai de mim meus
     companheiros<br>Ai de mim, tenham dó<br>Companheiros de Jurema<br>Ai de mim assim tão só<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-127-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-127-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1646,7 +1645,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Eh Juremê, Eh Jurema<br>Sua flecha caiu serena Jurema<br>Dentro desse congá</p>
 <p>Vem trazer sua falange<br>Para todo o mal levar, oi Juremê</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-130-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-130-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rosiclea ( 7 flechas )</figcaption>
 </figure>
     </div>
@@ -1657,7 +1656,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Eu me perdi mamãe<br>Eu me perdi, lá na mata<br>Do amazonas, eu me perdi<br>Fui procurar o meu caboclo<br>E não
     achei<br>E foi na folha da jurema<br>Que o encontrei</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-131-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-131-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1672,10 +1671,10 @@ permalink: /pontos-cantados/
     <strong>arrebol</strong><br>A coroa da Jurema é como um girassol<br>É como um girass</p>
 <p style="font-size:12px"><strong>Arrebol</strong>: Cor avermelhada do crepúsculo, a hora em que o sol está surgindo ou
     sumindo no horizonte.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-132-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-132-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-132-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-132-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline - Dirigente Mãe Maria</figcaption>
 </figure>
     </div>
@@ -1706,7 +1705,7 @@ permalink: /pontos-cantados/
 <p><strong>Caboclo Arari</strong></p>
 <p>Arari é guerreiro<br>É guerreiro de Oxalá<br>Arari vem no terreiro<br>Ele vem pra trabalhar ( bis )<br>No Terreiro de
     Ubirajara<br>Arari vem trabalhar<br>Ele vem com sua falange<br>Pra seus filhos Abençoar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-135-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-135-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Maria Aparecida - Dirigentes do Terreiro de Ubirajara
     </figcaption>
 </figure>
@@ -1728,10 +1727,10 @@ permalink: /pontos-cantados/
 <p><strong>Caboclo Flecheiro</strong></p>
 <p>Ele é caboclo, ele é flecheiro<br>Bumba na calunga<br>É vencedor de feiticeiro<br>Bumba na calunga<br>Ele vai firmar
     seu ponto<br>Bumba na calunga<br>E vai firmar é na Angola<br>Bumba na calunga</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-137-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-137-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-137-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-137-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -1744,7 +1743,7 @@ permalink: /pontos-cantados/
 <p></p>
 <p>No alto da pedreira, está Xangô<br>Senhor do meu destino até o fim ( bis )<br><br>O dia que eu não tiver<br>a fé que
     Deus me deu<br>Que caia essa pedreira sobre mim</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-138-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-138-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -1757,10 +1756,10 @@ permalink: /pontos-cantados/
 <p>Meu pai Xangô é rei lá na pedreira<br>Também é rei, caboclo das cachoeiras<br>Na sua aldeia tem os seus
     caboclos<br>Nas suas matas tem as cachoeiras<br>No seu saiote tem pena dourada<br>Seu capacete brilha na alvorada
 </p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-139-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-139-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-139-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-139-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -1773,7 +1772,7 @@ permalink: /pontos-cantados/
 <p>Xangô do fogo<br>Trazendo seus dois machados<br>Vem girando pro terreiro<br>Por seus filhos foi chamado<br>Xangô,
     Xangô, Xangô auê<br>Xangô, Xangô, oi vem de lá<br>Guiado pela flecha<br>De mãe Jurema flecheira<br>Vem girando pro
     terreiro<br>Seu Xangô já foi chamado<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-140-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-140-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -1784,10 +1783,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Cachoeira da mata virgem<br>Aonde mora meu pai Xangô<br>Pedra rolou, Naná Buruquê<br>Pedra rolou, saravá pai
     Xangô<br>Saravá pai Xangô ê, ê, ê, ê, ê, á<br>Quem é filho de fé<br>Bate a cabeça lá no congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-141-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-141-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Julinho ( Terreira de Pai Xangô )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-141-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-141-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1798,7 +1797,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Pedra rolou pai Xangô<br>Lá na pedreira<br>Segura a pedra meu pai<br>Na cachoeira<br>Tenho o meu corpo
     fechado<br>Xangô é meu protetor<br>Segura o ponto meu filho<br>Pai de cabeça chegou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-142-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-142-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1809,7 +1808,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Por de trás daquela serra<br>Tem uma linda cachoeira<br>Aonde mora Xangô, kaô<br>É dono das sete pedreiras<br>Mas é
     de Xangô Agodô<br>Dono das sete pedreiras</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-143-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-143-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1820,7 +1819,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem rola pedra na pedreira<br>É Xangô, é Xangô<br>Quem é o dono da gira?<br>Quem é o rei da umbanda?<br>Quem é que
     vence demanda?<br>É Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-144-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-144-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1832,10 +1831,10 @@ permalink: /pontos-cantados/
 <p>Kaô, kaô Xangô<br>Xangô vem me ajudar</p>
 <p>Xangô é meu guia<br>Xangô é meu pai<br>A pedra na pedreira<br>Ela rola mas não cai</p>
 <p>Vem saravar Xangô<br>Vem me ajudar<br>Na mata ele é caboclo<br>Na pedreira é orixá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-145-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-145-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Victor Fernandes ( Terreira Ubirajara )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-145-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-145-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -1846,7 +1845,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Supremo da Montanha<br>Numa noite escura<br>Sentado no toco<br>Curingando a lua<br>Chegou chegou o Supremo da
     Montanha<br>Chegou chegou com a tribo Guarani</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-146-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-146-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -1859,7 +1858,7 @@ permalink: /pontos-cantados/
     Xangô<br>Xangô, Xangô Pai Xangô<br>Xangô, Xangô Pai Xangô<br>Justiça, justiça divina<br>O homem da lei é
     Xangô<br>Justiça, justiça divina<br>O dono da lei é Xangô</p>
 <p style="font-size:12px"><strong>Ribombo</strong>: Ato de ribombar; barulho surdo e prolongado</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-147-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-147-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -1872,7 +1871,7 @@ permalink: /pontos-cantados/
     kaô<br>Kabecilê meu senhor</p>
 <p style="font-size:12px"><strong>Kaô Cabecilê</strong>: Saudação utilizada para saudar o rei Xangô, significa: venham
     saudar o rei</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-148-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-148-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1884,7 +1883,7 @@ permalink: /pontos-cantados/
 <p>Ele bradou na aldeia<br>Bradou na cachoeira em noite de Luar<br>No alto da pedreira<br>Vai fazer justiça<br>Pra nos
     ajudar<br>Ele brado na aldeia, Kaô, Kaô<br>E aqui vai bradar, Kaô Kaô<br>Ele é Xangô da pedreira<br>Nasceu na
     cachoeira<br>Lá no juremá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-149-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-149-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -1896,7 +1895,7 @@ permalink: /pontos-cantados/
 <p>Sua machada é de ouro<br>É de ouro<br>Sua machada é de ouro<br>É de ouro<br>Machadinha que corta mironga<br>É
     machadinha de Xangô<br>Machadinha que corta mironga<br>É machadinha de Xangô<br>Xangô vem me ajudar<br>Foi numa
     sexta-feira<br>Que eu tratei de me curar<br>Xangô kaô meu pai<br>Xangô kaô meu pai</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-150-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-150-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -1919,7 +1918,7 @@ permalink: /pontos-cantados/
     Oxum<br>E Santa Bárbara a seu lado<br></p>
 <p style="font-size:12px"><strong>Cariri</strong>: Região e Povo indígena do Nordeste brasileiro, significa Calado.
     Faria mais sentido no ponto se fosse cantado "Na terra de Cariri."</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-152-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-152-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Sandra ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -1930,7 +1929,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Kenguelê, kenguelê Xangô<br>Ele é filho da cobra coral<br>Kenguelê, kenguelê Xangô<br>Ele é filho da cobra
     coral<br>Olha preto está trabalhando<br>Olha branco não está ajudando</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-153-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-153-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -1951,7 +1950,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Na pedreira da mata virgem<br>Onde mora meu pai Xangô<br>Se as águas <strong>minou</strong> é Naná Buruquê<br>Se a
     pedra rolou saravá Pai Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-155-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-155-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
 <p style="font-size:12px"><br><br><strong>minar</strong> (verbo): alastrar-se lentamente. Nanâ buruquê é a senhora dos
@@ -1965,10 +1964,10 @@ permalink: /pontos-cantados/
 <p>Bambaruê<br>A terra é de jurema<br>O leão veio das matas<br>O seu grito é muito forte<br>Seu machado tem bom
     corte<br>O meu rei é Xangô</p>
 <p style="font-size:12px">Bombaruê: nome de uma pessoa, de uma montanha ou de um país<br><br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-156-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-156-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-156-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-156-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -1979,7 +1978,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Eu fui lá na mata buscar minha guia<br>E lá encontrei pai Xangô que dizia<br>Zum, zum, zum é Xangô, é kaô<br>É zum,
     zum, zum é Xangô agodô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-157-v1.ogg"></audio></figure>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-157-v1.ogg' | relative_url }}" type="audio/ogg"></audio></figure>
     </div>
 </article>
 <article class="ponto-cantado" id="ponto-158" data-category="Oxum">
@@ -1990,7 +1989,7 @@ permalink: /pontos-cantados/
     os seus filhos<br>Com a água da cachoeira<br>---</p>
 <p>Xangô, Xangô kaô, meu pai Xangô<br>Xangô, Xangô kaô, meu pai Xangô<br>Tira macumba de cima desse filho<br>Que filho
     de pemba não pode tirar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-158-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-158-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -2007,12 +2006,12 @@ permalink: /pontos-cantados/
     <small class="id-ponto">ID: 160</small>
     <h2>A lua vem nascendo no horizonte</h2>
     <div class="letra">
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-160-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-160-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
 <p>A lua vem nascendo no horizonte<br>Clareou a pedreira, clareou<br>Eu ouvi o roncar das cachoeiras<br>Chegou a hora de
     chamar o rei Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-160-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-160-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2023,7 +2022,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Sao Miguel Arcanjo<br></p>
 <p>Oh São Miguel Arcanjo<br>Por Deus, Quem sois, Quem és<br>Rogai ao nosso Pai<br>Para aumentar a nossa fé</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-161-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-161-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2037,7 +2036,7 @@ permalink: /pontos-cantados/
     mensageiros de Pai Oxalá<br>Irmanados os filhos de Umbanda<br>Para louvar esse grande orixá<br>São Miguel é o rei da
     Umbanda<br>Mensageiro do pai Oxalá<br>Hoje é dia de São Miguel Arcanjo<br>Que na glória de Deus ele está<br>Abençoa
     teus filhos na terra<br>De Mãe Maria e Pai Oxalá<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-162-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-162-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
 <p><br></p>
@@ -2050,7 +2049,7 @@ permalink: /pontos-cantados/
 <p><br><strong>Xangô e Oxóssi</strong></p>
 <p>A sua machadinha brilhou<br>A sua machadinha cortou<br>Quem manda lá na mata é Oxóssi<br>Quem manda na pedreira é
     Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-163-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-163-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Sabrina ( C.E. Reino de Jandira )</figcaption>
 </figure>
     </div>
@@ -2067,10 +2066,10 @@ permalink: /pontos-cantados/
 <p>Desceu a água na cachoeira<br>Na sua terra, pedra rolou<br>Com sua machada, corta pedra na pedreira<br>E vamos todos
     saravar o rei Xangô</p>
 <p>A espada reluziu no ar trovejou<br>Salve Ogum e salve Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-164-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-164-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-164-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-164-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2082,10 +2081,10 @@ permalink: /pontos-cantados/
 <p><strong>Treme Terra</strong></p>
 <p>Trovoada trovejou e o relâmpago relampiou<br>Veio do fundo da terra<br>Seu Treme Terra chegou<br>Veio do fundo da
     terra<br>Seu Treme Terra baixou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-165-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-165-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline - Dirigente da Mãe Maria</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-165-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-165-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2106,7 +2105,7 @@ permalink: /pontos-cantados/
 <p>Quando a lua surgir<br>Ela vai clarear<br>O terreiro de umbanda<br>De nosso pai Oxalá</p>
 <p>É o pai Treme-Terra<br>Que vem chegando de lá<br>Com seu machado de ouro<br>Ele vem trabalhar</p>
 <p>Ele já está no terreiro<br>Ele já está no congá<br>Seus filhos batem cabeça<br>Pro Sete Ondas saudar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-167-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-167-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Em dia de sessão na Mãe Maria Mar/2024</figcaption>
 </figure>
     </div>
@@ -2117,10 +2116,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>Caboclo do Vento</strong></p>
 <p>Peguei na pemba<br>Pemba balanceou<br>Chegou o Caboclo do Vento<br>Caboclo do Vento baixou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-168-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-168-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-168-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-168-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2131,7 +2130,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Caboclo do Vento vem descendo da pedreira<br>Trazendo flores pra enfeitar nossa terreira<br>Salve esse
     cacique<br>Nosso mestre e nosso guia<br>Ilumina a nossa estrada<br>E nos dá muita alegria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-169-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-169-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2143,7 +2142,7 @@ permalink: /pontos-cantados/
 <p><strong>Caboclo Ventania</strong></p>
 <p>Jurema sua flecha subiu<br>E ninguém sabe, ninguém viu<br>Eu vou chamar o Caboclo Ventania<br>Só ele sabe onde a
     flecha caiu</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-170-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-170-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -2171,10 +2170,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>Caboclo do Sol e da Lua</strong></p>
 <p>Ele vem do sol, ele vem da Lua<br>Ele vai girar, ele vai girar<br>Na terreira de Umbanda<br>Ele vai girar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-173-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-173-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-173-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-173-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Marcelo Ferreira ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -2186,7 +2185,7 @@ permalink: /pontos-cantados/
 <p>Xangô, Xangô<br>No alto da pedreira<br>A justiça é certeira<br>Xangô, Xangô<br>Com sua falange<br>Oh Xangô vem pra
     terreira<br>Da luz do sol do brilho da lua<br>Vem de Xangô o caboclo Sol e Lua<br>Da luz do sol do brilho da
     lua<br>Vem saravá o caboclo Sol e Lua</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-174-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-174-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Marcelo Ferreira ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -2200,7 +2199,7 @@ permalink: /pontos-cantados/
     saravar</p>
 <p>Seu grito de guerra<br>Ecoou lá na mata e lá na serra<br>Seu canto de guerra<br>Lá na serra ecoou</p>
 <p>Saravando todo povo de umbanda<br>O Caboclo Serra Negra baixou<br>Serra Negra, Serra negra<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-175-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-175-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz da Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -2220,12 +2219,12 @@ permalink: /pontos-cantados/
     <small class="id-ponto">ID: 177</small>
     <h2>Caboclo Girassol</h2>
     <div class="letra">
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-177-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-177-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
 <p><strong>Caboclo Girassol</strong></p>
 <p>Gira, gira, gira<br>Sua estrela no arrebol<br>Vem chegando e vem girando<br>O Caboclo Girassol</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-177-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-177-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2238,10 +2237,10 @@ permalink: /pontos-cantados/
 <p>Iansã, orixá da umbanda<br>Rainha do nosso congá<br>Saravá Iansã lá na aruanda ê<br>Lá na aruanda Iansã vence demanda
 </p>
 <p>Iansã saravou com Xangô<br>No céu trovão roncou<br>E lá na mata um leão bradou<br>Saravá Iansã, saravá Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-178-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-178-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-178-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-178-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Sandra e Mercedes ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2258,7 +2257,7 @@ permalink: /pontos-cantados/
 <p>A eparrei ela é Oyá, ela é Oyá<br>A eparrei é Iansã, é Iansã<br>A eparrei<br>Quando Iansã vai pra batalha<br>Todos os
     cavaleiros param<br>Só pra ver ela passar<br>A eparrei ela é Oyá, ela é Oyá<br>A eparrei é Iansã, é Iansã<br>A
     eparrei<br>Quando Iansã vai pra batalha<br>Todos os cavaleiros param<br>Só para ver ela passar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-179-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-179-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )</figcaption>
 </figure>
     </div>
@@ -2277,7 +2276,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Saravá Iansã<br>Dos cabelos loiros<br>No mar tem água<br>Na sua terra tem ouro<br>ê, ê,ê, ê, ê, ê, ê, á saravá
     Iansã<br>E a sereia do mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-181-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-181-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2290,7 +2289,7 @@ permalink: /pontos-cantados/
     Oxalá<br>Iansã, minha mãe, Iansã<br>Sua espada de ouro no céu brilhou<br>Iansã, minha mãe, Iansã<br>Obrigado
     senhora<br>Porque a <strong>bonanza</strong> chegou</p>
 <p style="font-size:12px"><strong>Bonanza</strong> :Abundância de coisa boa, muita sorte, mina de ouro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-182-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-182-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2302,7 +2301,7 @@ permalink: /pontos-cantados/
 <p>Iansã ela é santa bárbara<br>Ela é dona do seu <strong>jacutá</strong><br>Auê, auê, auê<br>Segura o terreiro mamãe de
     aruanda<br>que eu quero ver. | bis</p>
 <p style="font-size:12px"><strong>Jacutá</strong>: Denominação de altar. Casa do santo.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-183-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-183-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2313,7 +2312,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>O ronco da pedreira<br>E a trovoada<br>Ecoou lá na mata<br>Ecoou lá na serra<br>Todo o povo de Iansã<br>Todo o povo
     de Xangô<br>Chegou cá na terra<br>Chegou para a guerra</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-184-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-184-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2324,10 +2323,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>A trovoada trovejou lá na pedreira<br>Iluminou a cachoeira, tremeu toda a terra<br>E o vento soprou, saravá todo o
     povo de Iansã<br>Nossa mãe já vem girando com o rei Xangô<br>Kaô, kaô, protegei os vossos filhos Xangô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-185-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-185-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Victor Fernandes (Terreira de Ubirajara)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-185-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-185-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -2355,7 +2354,7 @@ permalink: /pontos-cantados/
 <p>Eu vi os soldados de Ogum<br>Trabalhando na pedreira de Xangô, kaô<br>tirando as pedras do caminho&nbsp;<br>Por onde
     Oxalá passou<br>Salve iansã lá na pedreira<br>Mãe Oxum na cachoeira<br>E nossa mãe Yemanjá<br>Salve são Jorge
     guerreiro<br>Que baixou neste terreiro<br>Pra seus filhos abençoar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-188-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-188-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2366,7 +2365,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Xangô rolou a pedra na pedreira<br>No mar se estende o manto de Yemanjá<br>Mamãe Oxum canta na cachoeira<br>Reluz a
     espada de Ogum a trabalhar <br>Ogum megê |&nbsp;<br>Vem de aruanda | bis<br>Seus filhos proteger</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-189-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-189-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2379,7 +2378,7 @@ permalink: /pontos-cantados/
     chamar<br>Tempo tem, caminho não há<br>Mas ele é general<br>Tempo tem, caminho não há<br>Mas ele é general<br>Tempo
     tem, caminho não há<br>Ele mora na lua,<br>Ele gira na Terra<br>Ele brilha no mar<br>É São Jorge Guerreiro<br>que
     vem de Aruanda<br>Que vem trabalhar<br>São Jorge Guerreiro mandou me chamar<br>Tempo tem, caminho não há.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-190-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-190-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2390,7 +2389,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem é a aquele lindo cavalheiro?<br>Que vem em seu cavalo branco<br>É o nosso pai Ogum da mata virgem<br>que vem
     para vencer toda demanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-191-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-191-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2400,7 +2399,7 @@ permalink: /pontos-cantados/
     <h2>Quem me dera Ogum</h2>
     <div class="letra">
 <p>Quem me dera Ogum&nbsp;<br>Para ser meu guia<br>Mas, ele é de cavalaria<br>É ordenança<br>Da Virgem Maria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-192-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-192-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2411,7 +2410,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ai vem Ogum em seu cavalo<br>Com sua espada<br>E sua lança de luz<br>Vem galopando<br>Vem a correr<br>Vem saravá Ogum
     megê<br>A mata clareou<br>Eu vi a estrela guia<br>Chegou Ogum megê<br>Com sua cavalaria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-193-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-193-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2423,10 +2422,10 @@ permalink: /pontos-cantados/
 <p>Ogum é guerreiro de umbanda<br>Ele segura sua espada no ar<br>Ele ganhou uma lança de ouro<br>Porque venceu a guerra
     nos campos de Humaitá</p>
 <p>Avante, avante, avante lanceiro<br>Pra vencer demanda<br>Oh chama o Jorge guerreiro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-194-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-194-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-194-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-194-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -2438,7 +2437,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ogum olha sua bandeira<br>Ela é branca, verde ou encarnada<br>Ogum nos campos de batalha<br>Ele venceu a guerra<br>E
     não perdeu soldados</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-195-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-195-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2449,7 +2448,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ele é filho do major Heitor<br>ele é soldado de cavalaria<br>Tenho o Sete Espadas para me defender<br>Eu tenho Ogum
     em minha companhia<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-196-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-196-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Mercedes ( Sete Flechas )</figcaption>
 </figure>
     </div>
@@ -2460,10 +2459,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Eu tenho sete espadas pra me defender<br>Eu tenho Ogum em minha companhia<br>Ogum é meu pai, Ogum é meu guia<br>Ogum
     vai baixar<br>Na fé de Zambi e da Virgem Maria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-197-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-197-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-197-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-197-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2474,7 +2473,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Clarão da lua, clareou as matas<br>E uma luzinha já brilhou no ar<br>É a espada de Jorge Guerreiro<br>Que é o
     mensageiro de pai Oxalá<br>Brilhou, brilhou a espada de Ogum<br>Brilhou no ar pra todos seus filhos salvar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-198-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-198-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2485,7 +2484,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Por entre matas, por entre mares, <br>e terras eu entendi o que meu pai quis dizer<br>Ogum não devia beber<br>Ogum
     não devia fumar<br>Mas a fumaça é a nuvem que passa no céu<br>E a bebida é a espuma do mar<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-199-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-199-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption"><br>Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2497,7 +2496,7 @@ permalink: /pontos-cantados/
 <p>Salve São Jorge Guerreiro<br>Traz a sua espada de aço<br>São Jorge é quem clareia meus caminhos<br>São Jorge venha
     guiar os meus passos<br>Salve São Jorge Guerreiro<br>Sua homenagem é a 23 de Abril<br>São Jorge levanta sua
     bandeira<br>Ele é o padroeiro do Brasil</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-200-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-200-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês - CEPJA</figcaption>
 </figure>
     </div>
@@ -2508,7 +2507,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Na minha porta bateu<br>Passei a mão na pemba<br>Era São Jorge guerreiro, minha gente <br>Cavaleiro da força e da fé
     <br>Era São Jorge guerreiro, <br>minha gente Cavaleiro da força e da fé</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-201-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-201-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda)</figcaption>
 </figure>
     </div>
@@ -2521,7 +2520,7 @@ permalink: /pontos-cantados/
     outro São João<br>São Jorge na parede com a espada em sua mão ( bis )<br>Bem feliz será o lar<br>Que tem muita
     devoção<br>E respeito o Santo Antônio ( bis )<br>São Pedro e São João<br>E São Jorge na parede ( bis )<br>Com a
     espada na mão</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-202-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-202-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2538,7 +2537,7 @@ permalink: /pontos-cantados/
 <p style="font-size:12px"><strong>Altaneiro</strong>: Elevado; que permanece numa altura excessiva: voo
     altaneiro.<br><strong>Varonil</strong>: Característico ou particular do homem; viril. Que apresenta coragem; que age
     de maneira destemida; arrojado.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-203-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-203-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2550,7 +2549,7 @@ permalink: /pontos-cantados/
 <p>Estão batendo na porta<br>É São Jorge, o guerreiro<br>Ele vem de aruanda<br>Pra salvar este terreiro<br>Estão batendo
     na porta<br>Deixa então São Jorge entrar<br>Ele vem de aruanda<br>Pra seus filhos saravar<br>Lá na mata tem um
     toco<br>Que a machada não cortou<br>É a espada de São Jorge<br>Que Arranca Toco plantou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-204-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-204-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2562,7 +2561,7 @@ permalink: /pontos-cantados/
 <p>Ogum cavaleiro da lua<br>Sua espada regente<br>Já se encontra no ar</p>
 <p>Ogum, com seus filhos de Umbanda<br>Pela lei da demanda<br>Ele vai Comandar</p>
 <p>É é é de Ogum<br>É é é de Oxalá<br>É Ogum de Ronda que ilumina esse congá (bis)</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-205-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-205-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2574,10 +2573,10 @@ permalink: /pontos-cantados/
 <p>São Jorge é quem está de ronda<br>Com sua cavalaria<br>Na ponta da romaria<br>Salve Deus, salve Santa Maria</p>
 <p>Ora, vamos saravá Ogum<br>Ora, vamos saravá Ogum<br>Nas horas Deus, oh meu Deus<br>Nas horas Deus, oh meu
     Deus<br>Saravá, saravá, saravá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-206-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-206-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-206-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-206-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -2588,7 +2587,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>São Jorge é quem está de ronda<br>Com sua cavalaria<br>Na ponta da romaria<br>Roga a Deus, Santa Maria<br>Ora vamos
     salvar Ogum<br>Ora vamos salvar Ogum<br>Na hora de Deus, ô meu Deus<br>Na hora de Deus, ô meu Deus</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-207-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-207-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Ponto cantado pela Tenda Espírita Nossa Senhora da Piedade ( Terreira de
         <strong>Zélio Fernandino de Moraes</strong> )</figcaption>
 </figure>
@@ -2600,7 +2599,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Capitão do mato mandou me chamar<br>Caminho longo não há<br>É militar quem está de ronda é militar<br>É militar quem
     está de ronda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-208-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-208-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -2650,7 +2649,7 @@ permalink: /pontos-cantados/
 <p>Ô Ô Ogum<br>Ogum de Lei quem manda é Zambi<br>Ogum de Lei quem manda é Zambi<br>Corre corre toda a gira<br>Corre
     corre toda a gira<br>Oh pra saudar filhos de Umbanda<br>Ai foi o Sol, aí vem a Lua, eu vou girar<br>Eu vou girar na
     linha de Umbanda<br>Eu vou girar, Eu vou girar<br>Eu vou girar<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-213-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-213-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -2661,13 +2660,13 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>O seu cavalo corre<br>A sua espada reluz<br>A Sua bandeira cobre<br>Todos os filhos de Jesus<br>O seu cavalo
     corre<br>A sua espada reluz<br>Auê Ogum-Iara<br>Aos pés da Santa Cruz<br>Auê Ogum-Iara<br>Aos pés da Santa Cruz</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-214-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-214-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-214-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-214-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ponto do dirigente da casa Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-214-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-214-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado em dia de sessão na Mãe Maria Mar/2024</figcaption>
 </figure>
     </div>
@@ -2678,13 +2677,13 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Pisa na linha de umbanda<br>Que eu quero ver Ogum Sete Ondas<br>Pisa na linha de umbanda<br>Que eu quero ver Ogum
     Beira Mar<br>Pisa na linha de umbanda<br>Que eu quero ver Ogum Iara<br>Ogum Megê, olha a banda aruê</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-215-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-215-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-215-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-215-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-215-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-215-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Ponto cantado pela Tenda Espírita Nossa Senhora da Piedade ( Terreira de
         <strong>Zélio Fernandino de Moraes</strong> )</figcaption>
 </figure>
@@ -2697,7 +2696,7 @@ permalink: /pontos-cantados/
 <p>Ai o meu pai é o maior na espada<br>Vem comandando a sua cavalaria<br>Meu pai é São Jorge<br>E a estrela D’Alva é a
     nossa guia<br>Meu pai que cavaleiro é esse<br>Que pisa no chão<br>Matando o dragão?<br>Ai ele é São Jorge
     guerreiro<br>É o vencedor de todas demandas</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-216-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-216-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2717,10 +2716,10 @@ permalink: /pontos-cantados/
 <p>Vence demanda, ele tocou clarim<br>Venceu demanda, ele tocou clarim<br>Venceu demanda ao raiar do dia<br>Salve Ogum
     de Ronda e sua cavalaria<br>Venceu demanda ele tocou clarim<br>Venceu demanda ele tocou clarim<br>Ele foi soldado,
     Ogum é o maior do dia<br>Hoje ele é ordenança da Virgem Maria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-218-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-218-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-218-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-218-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2734,7 +2733,7 @@ permalink: /pontos-cantados/
     meu arerê<br>Fortalece minha fé, firma meu camutuê<br>Ogum Megê, Ogum de Lei<br>Ogum de Lei, Ogum Megê<br>Em nome de
     pai Olorum<br>Eu vou saravar a linha de Ogum<br>Saravá Ogum Beira Mar<br>Ogum Rompe Mato, Ogum Iara<br>Saravá Ogum
     Megê, Ogum Naruê<br>Ogum de Malei<br>Saravá Ogum de Nagô<br>Nosso povo é nossa lei</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-219-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-219-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2748,7 +2747,7 @@ permalink: /pontos-cantados/
     madrugada de 25 de janeiro de 1835. O movimento envolveu cerca de 600 homens. Tratava-se, em sua imensa maioria, de
     negros muçulmanos, em especial da etnia nagô, de língua iorubá. Vem daí o nome que a rebelião recebeu: Revolta dos
     Malês. A expressão "malê" provém de "imalê", que no idioma iorubá significa muçulmano.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-220-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-220-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2759,7 +2758,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Oh Jorge, Oh Jorge<br>Vem de Aruanda<br>Vem salvar os vossos filhos<br>São Jorge venceu demanda<br>Ogum, Ogum, meu
     pai<br>Ogum meu pai<br>Foi o senhor mesmo quem disse<br>Filho de umbanda não cai ( bis )<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-221-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-221-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2774,7 +2773,7 @@ permalink: /pontos-cantados/
     auê-Beira Mar<br>Beira Mar auê-Beira Mar</p>
 <p>Ogum já jurou bandeira<br>Nas portas do Humaitá<br>Ogum já venceu demanda<br>Vamos todos saravar<br>Beira Mar
     auê-Beira Mar<br>Beira Mar auê-Beira Mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-222-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-222-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2787,7 +2786,7 @@ permalink: /pontos-cantados/
 </p>
 <p>E quando chegava na praia<br>Quem vinha na proa era Ogum Beira Mar (2x)<br>Vem pai Beira Mar, traz a
     proteção<br>Chegou pai Beira Mar com sua espada na mão</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-223-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-223-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2801,7 +2800,7 @@ permalink: /pontos-cantados/
 <p>Sentado em seu lindo barquinho<br>Navegando sobre as ondas do mar<br>Salve, salve, salve<br>Salve Ogum Beira Mar</p>
 <p>Ele corre terra, ele corre mar<br>E ele é Ogum, ele é Ogum<br>Ogum Beira Mar<br>Beira Mar, auê, Beira Mar<br>Beira
     Mar, auê, Beira Mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-224-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-224-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -2820,10 +2819,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ogum quando chega no reino<br>Todos dizem que ele é poderoso<br>Saldai Ogum Beira Mar<br>Na linha de umbanda
     auê<br>Auê Ogum Beira Mar<br>Auê meu pai Ogum<br>Auê papai de umbanda, auê</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-226-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-226-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aladir e Isaura ( Hino da Casa de Ogum Beira-Mar)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-226-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-226-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2835,10 +2834,10 @@ permalink: /pontos-cantados/
 <p>Como é linda a coroa de Iemanjá<br>Vem brilhando nas ondas do mar<br><br>Com seus raios na beira da praia<br>Refletem
     na capa de Ogum Beira Mar ( bis )<br><br>Beira Mar, Beira Mar<br>Com sua espada de aço na mão<br><br>Está de ronda
     na beira da praia<br>No reino de Iemanjá ele é guardião ( bis )</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-227-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-227-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mae Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-227-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-227-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -2850,7 +2849,7 @@ permalink: /pontos-cantados/
 <p>Oh seu Ogum Beira Mar<br>O que que trouxe do mar<br>Ele vem do mar, beirando a areia<br>Na mão direita ele traz a
     guia da mãe sereia</p>
 <p>No fundo do mar tem espelho<br>Espelho da mãe Iemanjá<br>A Oxum é a rainha do ouro<br>Oxalá é do meu saravá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-228-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-228-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2861,7 +2860,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>São Jorge, São Jorge<br>Olhai nossos terreiros<br>Ai meu São Jorge<br>Salve a Bahia, tradição do brasileiro<br>Saravá
     meu São Jorge<br>Saravá meu São Jorge<br>Saravá o padroeiro do Brasil</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-229-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-229-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -2874,7 +2873,7 @@ permalink: /pontos-cantados/
 <p>Ele é Ogum, ele é seu Ogum, Ele é Beira Mar</p>
 <p>Com sua espada ele risca na areia<br>O ponto da mãe Iemanjá<br>Com sua capa vermelha e azul<br>Prateada das ondas do
     mar<br>Ele é Ogum, ele é seu Ogum Beira Mar<br>Ele é Ogum, ele é seu Ogum Beira Mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-230-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-230-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2885,14 +2884,14 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Que cavaleiro é aquele<br>Que vem galopando pelo céu azul<br>É seu Ogum Beira Mar<br>Ele é defensor do cruzeiro do
     sul<br>Ele é, ele é, ele é, ele é o nosso defensor<br>Ele é, ele é, ele é cavaleiro de nosso senhor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-231-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-231-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aladir e Isaura ( Ponto de chegada do dirigente da Casa: Ogum
         Beira-Mar)</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-231-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-231-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-231-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-231-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -2912,7 +2911,7 @@ permalink: /pontos-cantados/
 <p>Em seu cavalo branco<br>Com sua espada<br>Ele é São Jorge Guerreiro<br>Com sua bandeira<br>Vem abençoar seus filhos
     de terreira<br>Ogum Beira Mar<br>Beira Mar, auê, Oh Beira Mar<br>É sentinela de Oxum<br>É remador de Iemanjá<br>Ele
     é Ogum, ele é guerreiro<br>É do comando de Oxalá<br>Ogum orixá, Ogum Beira Mar<br>Ogum Beira Mar, Ogum orixá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-233-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-233-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martina ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -2925,7 +2924,7 @@ permalink: /pontos-cantados/
 <p>Oh Yemanjá, Oh Yemanjá<br>tu enviaste Ogum-Iara<br>Iluminado por Jesus, ele girou<br>Ele girou nesta Seara<br>E o Pai
     Supremo<br>Cobriu com as estrelas<br>Ogum-Iara lá no alto do Congá<br>Quando seus filhos levantar os olhos<br>Verão
     também a falange de Yemanjá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-234-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-234-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar (Terreiro de Ogum Beira-Mar)</figcaption>
 </figure>
     </div>
@@ -2936,10 +2935,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ogum vencedor de demanda<br>Quando chega no reino<br>É pra salvar filhos de umbanda<br>Ogum, Ogum Iara<br>Ogum, Ogum
     Iara<br>Salve os campos de batalha<br>Salve a sereia do mar<br>Ogum, Ogum Iara<br>Ogum, Ogum Iara</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-235-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-235-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-235-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-235-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2954,7 +2953,7 @@ permalink: /pontos-cantados/
     lanceiro avante<br>Sao Jorge venceu demanda<br>Ai vem Ogum em seu cavalo<br>Com sua espada e sua lança na mão<br>Vem
     galopando <br>Deixo a correr<br>Vem saravá Ogum megê<br>Ogum de lê lê lê lê ô<br>Olha seus filhos meu pai<br>Ogum de
     megê de lei</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-236-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-236-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -2966,7 +2965,7 @@ permalink: /pontos-cantados/
 <p><strong>Ogum Megê e Ogum Iara</strong></p>
 <p>Ogum Megê, Ogum Megê, Ogum Iara<br>Ogum Megê, Ogum Megê, Ogum Iara<br>Saravá cavaleiro de umbanda ê, ê<br>Saravá
     cavaleiro de umbanda ê, á<br>Se a noite é linda, é de luar<br>Ogum Megê, Ogum Iara é quem vai girar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-237-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-237-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -2986,10 +2985,10 @@ permalink: /pontos-cantados/
 <p><strong>Ogum Rompe Mato</strong></p>
 <p>Eu vi clarear o dia<br>Eu vi estrela brilhar<br>Eu vi seu Rompe Mato<br>Ogum das matas quer morar<br>A beira
     mar<br>Arrebenta cipó, rompe mato<br>E treme a terra<br>Montado em seu cavalo<br>Ele é Ogum de guerra</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-239-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-239-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-239-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-239-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -3001,7 +3000,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Cruza flechas e lanças<br>Lá no reino da Jurema<br>Ele é Rompe Mato, Ogum<br>Ele é Rompe Mato, Ogum<br>É Rompe Mato,
     é também seu Tira Teima</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-240-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-240-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3014,7 +3013,7 @@ permalink: /pontos-cantados/
 <p>Ogum da Mata, oi que mata é a sua?<br>Ogum da Mata, oi que mata é a sua?<br>É a de lá ou a de cá?<br>Aonde pia cobra,
     onde canta o sabiá?<br>Aonde pia cobra, onde canta o sabiá?<br>Eu sou das matas, sou da tribo do cajá<br>Eu vou
     buscar minha falange<br>Para todo o mal levar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-241-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-241-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3025,7 +3024,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ogum das Matas<br>Sou eu, sou eu<br>Quem não me conhece<br>Vai me conhecer<br>Eu sou lá das matas<br>Sou eu, sou eu,
     sou eu</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-242-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-242-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3037,7 +3036,7 @@ permalink: /pontos-cantados/
 <p><strong>CACOBLO OGUM DA MATA VIRGEM </strong></p>
 <p>Ogum da mata virgem<br>Dá licença que eu vou lhe saravar ( bis )<br><br>Cabocla Jurema e seus caboclos<br>Da mata
     virgem na paz de Oxalá ( bis )<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-243-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-243-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de seu aparelho - Suely Plein</figcaption>
 </figure>
     </div>
@@ -3049,10 +3048,10 @@ permalink: /pontos-cantados/
 <p><strong>Ogum Megê</strong></p>
 <p>Ogum em seu cavalo corre<br>E a sua espada reluz<br>Ogum, Ogum Megê<br>Sua bandeira cobre os filhos de Jesus<br>Ogum
     iê</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-244-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-244-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-244-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-244-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3063,7 +3062,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Qual o Ogum que bebe<br>E fuma na Umbanda<br>É Ogum Megê o ganga<br>É, é, é, da umbanda<br>É Ogum Megê de
     Umbanda<br>Ele vence demanda<br>Ele vem de aruanda<br>Saravá no terreiro<br>E todo povo de umbanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-245-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-245-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -3073,7 +3072,7 @@ permalink: /pontos-cantados/
     <h2>Todo o homem que fuma e bebe</h2>
     <div class="letra">
 <p>Todo o homem que fuma e bebe<br>Na Umbanda<br>É Ogum megê (2x )<br>Ele é, ele é, ele é Oganga<br>É Ogum megê</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-246-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-246-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Roger ( Sete Flechas ) </figcaption>
 </figure>
     </div>
@@ -3084,7 +3083,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>Ogum Naruê</strong></p>
 <p>Ogum Naruê chegou<br>Ogum Naruê baixou<br>Sou filho de umbanda<br>E Ogum não me saravou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-247-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-247-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3097,10 +3096,10 @@ permalink: /pontos-cantados/
 <p>Brilha o sol lá no horizonte<br>Brilha Ogum lá na Aruanda<br>Vem brilhar nesse terreiro meu pai<br>Ele é São Jorge,
     cavaleiro de Aruanda<br>Cavalo branco, armadura de aço<br>Capa vermelha e lança na mão<br>Ai vem São Jorge com sua
     cavalaria<br>Ogum da Lua, ele é guardião</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-248-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-248-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-248-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-248-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -3111,7 +3110,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ogum da Lua, ori babá orixá<br>Ogum do luar que gira pra Oxalá<br>Ogum da Lua, ori babá orixá<br>Ogum do luar que
     gira pra Iemanjá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-249-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-249-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -3139,10 +3138,10 @@ permalink: /pontos-cantados/
 <p style="font-size:12px">Segundo Alcimar, o termo "Girar"está empregado incorretamente neste ponto, no ponto original
     cantava-se "DINAR". <br><strong>Dinar</strong> é uma moeda de ouro cunhada pelos árabes desde fins do sVII e
     corrente na península Ibérica no sXII; </p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-251-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-251-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-251-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-251-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3153,10 +3152,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Oxóssi assoviou lá no Humaitá<br>Oxóssi assoviou lá no Humaitá<br>Ogum que está de ronda<br>É cavaleiro de Oxalá</p>
 <p>Ogum que está de ronda<br>Na porta deste congá<br>Ele só dá entrada<br>Para os filhos de Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-252-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-252-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-252-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-252-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -3169,7 +3168,7 @@ permalink: /pontos-cantados/
 <p><strong>Ogum da Cachoeira</strong></p>
 <p>Corre, corre cachoeira<br>Canta, canta sabiá<br>Brilha a sua estrela<br>No terreiro e no congá<br>Guerreiro vem, vem
     saravá<br>É Ogum da Cachoeira<br>Olha Ogum vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-253-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-253-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3191,10 +3190,10 @@ permalink: /pontos-cantados/
 <p>Saravá Oxalá e Iemanjá<br>Saravá Ogum de Ronda<br>Abre a porta do terreiro meu pai<br>Que vai chegar o pai Ogum das
     Sete Ondas<br>Ogum das Sete Ondas, auê, auê<br>Ogum das Sete Ondas, auê, auá<br>Ogum das Sete Ondas<br>Que vem no
     terreiro<br>Ogum das Sete Ondas<br>Que vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-255-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-255-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-255-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-255-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda </figcaption>
 </figure>
     </div>
@@ -3206,10 +3205,10 @@ permalink: /pontos-cantados/
 <p><strong>COSME E DAMIÃO</strong></p>
 <p>Eu vou pedir a Oxalá<br>À Iemanjá minha mãe minha rainha<br>Para mandar Cosme e Damião<br>Para que venham abençoar as
     criancinhas</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-256-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-256-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-256-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-256-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -3222,7 +3221,7 @@ permalink: /pontos-cantados/
 <p>Papai mandou as criancinhas<br>Apanhar as flores no jardim<br>Lá tem rosas para Cosme e Damião<br>Pra Crispim e
     Crispiniano tem jasmim</p>
 <p>Hoje tem alegria no céu<br>Também na terra e no mar<br>Com as flores do jardim<br>Vamos todos festejar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-257-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-257-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3236,7 +3235,7 @@ permalink: /pontos-cantados/
     beira-mar<br>Jandira, Jupira são duas&nbsp;<br>Sereias do mar<br>Que ao ver as crianças brincando elas se puseram a
     cantar.<br>---</p>
 <p>Lá no céu tem três estrelas<br>Todas três em carreirinha<br>Uma e Cosme e Damião<br>E a outra é Mariazinha.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-258-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-258-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -3247,7 +3246,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Fui no jardim colher as rosas<br>A mãe maria deu-me a rosa mais formosa<br>Cosme e Damião, oi Doum,&nbsp;<br>Crispim
     e Crispiniano&nbsp;<br>São os filhos de Ogum</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-259-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-259-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -3258,7 +3257,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Na aruandê, na aruandê, na aruanda<br>Ora viva as crianças<br>Que no terreiro vem saravar<br>Hoje tem alegria, hoje
     tem alegria<br>Hoje tem alegria, Cosme e Damião<br>Hoje tem alegria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-260-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-260-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3269,7 +3268,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Vai, vai, vai Doum<br>Vai, vai Cosme e Damião<br>Vai com Crispim e Crispiniano<br>No jardim<br>Colher as rosas pra
     mãe Iemanjá<br>Vai que a onda vem<br>Vem que a onda vai<br>Vai que a onda vem<br>E a lua vem também</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-261-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-261-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3280,7 +3279,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Damião cadê Doum, ô Damião?<br>Damião cadê Doum, ô Damião?<br>O Doum foi passear ó Damião?<br>O Doum foi passear ó
     Damião?</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-262-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-262-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3293,7 +3292,7 @@ permalink: /pontos-cantados/
     guris<br>Mamãe me pedia<br>Que eu lhe fizesse um favor<br>Pedisse aos santinhos<br>Que meu papaizinho<br>Desse a ela
     o seu grande amor<br>Cosme, Damião, Doum, Crispim, Crispiniano<br>Caboclinhos das matas<br>Vinte festas mandamos
     fazer<br>Festas e mais festas eu fiz<br>La ra ra ra ra ra ra<br>Cosme e Damião, Doum, Doum<br>27 de setembro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-263-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-263-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Manuelly ( Pai João de Aruanda e Sete Flechas )</figcaption>
 </figure>
     </div>
@@ -3305,7 +3304,7 @@ permalink: /pontos-cantados/
 <p>27 de setembro, dia de festa e procissão<br>Os fieis rendem homenagens<br>A São Cosme e Damião<br>Eu que também sou
     devoto<br>E tenho essa grande devoção<br>Mando minha prece aos santos<br>Implorando essa canção<br>Peço a Cosme e
     Damião<br>Cheio de esperanças mil<br>Que com suas bênçãos protejam<br>As crianças do Brasil</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-264-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-264-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3316,7 +3315,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>De lá do céu de lá do céu<br>Ai vem São Cosme e Damião<br>Eles são os protetores das criancinhas<br>E vem trazer a
     proteção<br><br>Cosme e Damião<br>Também tem a sua luz<br>Cosme e Damião<br>São mensageiros de Jesus</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-265-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-265-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3328,7 +3327,7 @@ permalink: /pontos-cantados/
 <p>Doum, hoje é teu dia<br>Hoje tem alegria em todos os terreiros<br>Doum oh, oh Doum, saravá a Zambi<br>Na linha de
     umbanda, em todos os terreiros<br>Ainda tem teu irmão, ainda tem teu irmão<br>Que é teu irmão<br>É Cosme e Damião, é
     Cosme e Damião</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-266-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-266-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3339,7 +3338,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>São Cosme e São Damião<br>Oi Damião cadê Doum<br>Está colhendo rosas<br>Na roseira de Oxum<br>Oi bate palmas,
     maninho<br>Que Mariazinha chegou<br>Oi bate palmas, maninha<br>Que o Paulinho chegou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-267-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-267-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3357,7 +3356,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Salve Doum, São Cosme e São Damião<br>Peça para os festeiros<br>Que ponha a mesa no chão<br>E dê para as
     criancinhas<br>Doces, balinhas na mão<br>Parabéns todos nós cantaremos<br>Vinte e sete de setembro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-269-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-269-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês ( Pai José de Aruanda )</figcaption>
 </figure>
     </div>
@@ -3377,7 +3376,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Oi Cosme, oi Cosme, oi Cosme<br>Oi Cosme, oi Cosme e Damião<br>Olhai pelas crianças<br>Pedi a Oxalá<br>Que dê luz e
     proteção<br>E as bênçãos deste congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-271-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-271-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3398,7 +3397,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>São Cosme e São Damião sua santa já chegou<br>Veio do fundo do mar<br>Santa Bárbara é quem mandou<br>Dois, dois,
     sereia do mar<br>Dois, dois, meu pai Oxalá<br>Dois, dois, sereia do mar<br>Dois, dois, mamãe Iemanjá<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-273-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-273-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3409,7 +3408,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Cosme e damião, doum<br>Crispim crispiniano<br>Caboclinho das matas<br>Vinte festas mandamos fazer<br>Festas e mais
     festas eu fiz lararararara<br>Cosme e Damião Doum Doum<br>Vinte e sete de setembro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-274-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-274-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3421,10 +3420,10 @@ permalink: /pontos-cantados/
 <p><strong>POVO DO ORIENTE</strong></p>
 <p>Abra a porta, Oh gente<br>Que aí vem Jesus<br>Ele vem cansado<br>Com o peso da cruz</p>
 <p>Vem de rua em rua<br>Vem de porta em porta<br>Vem salvar as almas<br>Sem culpa nenhuma</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-275-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-275-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-275-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-275-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Juliane - Cambona ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3435,7 +3434,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>São João batista vem chegando<br>Vem chegando de Aruanda<br>Salve a fé e a caridade<br>Salve o povo cor de
     rosa<br>Salve os filhos de umbanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-276-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-276-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3447,10 +3446,10 @@ permalink: /pontos-cantados/
 <p>Oh João batista, enviado de Jesus<br>Guiai vossos filhos ao caminho da luz<br>Se veres um filho caído no
     chão<br>Levanta, levanta, são todos irmãos<br>Que Filho de umbanda não fica no chão<br>Levanta, levanta, são todos
     irmãos.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-277-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-277-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-277-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-277-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -3479,7 +3478,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Brilhou um clarão no céu<br>Oh meu Deus, o que será?<br>É Zarthur chefe indiano<br>Que veio nos ajudar<br>Que veio
     com sua falange<br>Para todo o mal levar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-280-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-280-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3490,15 +3489,15 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Uma luz nasceu e clareou<br>Nossa corrente de paz e amor<br>De muito longe ele aqui chegou<br>Ele é Zarthur, foi
     Jesus e nosso pai<br>Quem o mandou.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-281-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-281-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
 <p>---<br>Que povo é esse, que aqui chegou<br>Ele é Zarthur, que abençoou<br>Traz sua linha, estende a mão<br>Em nome do
     pai, traz proteção</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-281-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-281-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-281-v3.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-281-v3.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aladir ( Ogum Beira-Mar )</figcaption>
 </figure>
     </div>
@@ -3510,7 +3509,7 @@ permalink: /pontos-cantados/
 <p><strong>Ori do Oriente</strong></p>
 <p>Ori, Ori, Ori do Oriente<br>Ori chegou meu pai<br>Ori baixou minha gente<br>Ori veio de aruanda<br>Pra salvar filhos
     de umbanda<br>Ori, Ori, Ori do oriente.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-282-v1.ogg"></audio></figure>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-282-v1.ogg' | relative_url }}" type="audio/ogg"></audio></figure>
     </div>
 </article>
 <article class="ponto-cantado" id="ponto-283" data-category="Oriente">
@@ -3520,7 +3519,7 @@ permalink: /pontos-cantados/
 <p><strong>Vovó Faustina</strong></p>
 <p>Vovó Faustina vem do oriente<br>Vovó Faustina vem trabalhar<br>Vovó Faustina vem do oriente<br>Para seus filhos
     abençoar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-283-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-283-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3534,7 +3533,7 @@ permalink: /pontos-cantados/
 <p>Na sacola traz arruda<br>Pra seus filhos trabalhar</p>
 <p>Pai Francisco é do oriente<br>Pai Francisco vem trabalhar<br><br>Pai Francisco é do oriente<br>Pai Francisco vem
     curar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-284-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-284-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3546,7 +3545,7 @@ permalink: /pontos-cantados/
 <p><strong>PRETOS VELHOS</strong></p>
 <p>Preto-Velho vem chegando<br>vem chegando, vem chegando no congá<br>Preto-Velha vem chegando<br>vem chegando, vem
     chegando no congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-285-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-285-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -3559,7 +3558,7 @@ permalink: /pontos-cantados/
 <p><strong>Nego Juca</strong></p>
 <p><br>Vem de lá tão longe<br>Do horizonte, do além mar ( bis )<br>É o Nego Juca<br>que vem Angola<br>Vem trabalhar<br>É
     o Nego Juca<br>Vem de Aruanda<br>Vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-286-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-286-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -3577,7 +3576,7 @@ permalink: /pontos-cantados/
         trabalhar nas sextas-feiras no Terreiro de Ubirajara!</li>
     
 </ul>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-287-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-287-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Nilza e Aparecida ( Ubirajara )</figcaption>
 </figure>
     </div>
@@ -3590,11 +3589,11 @@ permalink: /pontos-cantados/
     congá</p>
 <p>Ai vem chegando os pretos velhos de umbanda<br>Com sua pemba e a sua guiné<br>Aqui estão os seus filhos de corrente,
     meu pai<br>Trabalhando as vibrações desse congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-288-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-288-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-288-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-288-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -3614,10 +3613,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Lá no alto da serra<br>Tem um congá bem florido<br>Congá de minha mãezinha<br>Onde os filhos são socorridos<br>Tem um
     galhinho de arruda<br>Também tem de alecrim<br>Para benzer todos os filhos<br>Do meu senhor lá do Bonfim</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-290-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-290-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Juliane - Cambona ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-290-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-290-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">na Voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3629,7 +3628,7 @@ permalink: /pontos-cantados/
 <p>Bate, bate na cumbuca<br><strong>Repenica</strong> no congá<br>E chama os pretos velhos<br>E vamos todos saravá</p>
 <p style="font-size:12px"><strong>Repenique</strong>: tambor pequeno com peles em ambos os lados, produzir sons agudos e
     metálicos.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-291-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-291-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3641,7 +3640,7 @@ permalink: /pontos-cantados/
 <p>Preto velho pequenino<br>Corre o mundo sem cessar<br>Na esperança de algum dia<br>Nosso Senhor encontrar<br>Na
     esperança de algum dia<br>Nosso Senhor encontrar<br>Preto Velho encontrou<br>Jesus Cristo numa cruz<br>Preto velho
     chorou tanto<br>Que suas lágrimas viraram luz <br>Preto velho chorou tanto<br>Que suas lágrimas viraram luz </p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-292-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-292-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Juliane - Cambona ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3653,7 +3652,7 @@ permalink: /pontos-cantados/
 <p>Preto-Velho senta no toco<br>E faz o sinal da cruz<br>Pede proteção a Zambi<br>Para os filhos de Jesus<br>Cada conta
     de seu rosário<br>É um filho que aqui está<br>Se não fosse preto-velho<br>Eu não sabia caminhar<br>Se não fosse
     preto-velho<br>Eu não sabia caminhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-293-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-293-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3664,7 +3663,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Oi saravá os pretos velhos agora<br>Oi saravá que eles vêm de Angola<br>É preto velho que chegou nesse congá<br>Firma
     ponto no terreiro<br>Que eles vêm descarregar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-294-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-294-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3681,7 +3680,7 @@ permalink: /pontos-cantados/
 <p>Eu choro meu cativeiro<br>Meu cativeiro, meu cativerá<br>Eu choro meu cativeiro<br>Meu cativeiro, meu cativerá</p>
 <p>Quando chegava a tardinha<br>Nego velho pegava tambor<br>E entrava pra minha senzala<br>Saravá Ogum, saravá
     Xangô<br>Eu choro meu cativeiro<br>Meu cativeiro, meu cativerá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-295-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-295-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3693,7 +3692,7 @@ permalink: /pontos-cantados/
 <p>Pai João e Mãe Maria<br>Pretos velhos de bom coração<br>Aqui estão os seus filhos na corrente<br>Oh Pai João, para
     lhe pedir proteção<br>Pretos-velhos que foram escravos<br>Princesa Isabel libertou<br>Oh Virgem Mãe com seu manto
     abençoado agasalhou<br>Foi Jesus que o abençoou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-296-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-296-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3703,7 +3702,7 @@ permalink: /pontos-cantados/
     <h2>Quê-querê quê quê</h2>
     <div class="letra">
 <p>Quê-querê quê quê<br>É preto velho de bom parecer<br>Pega peneira sacode o fubá<br>Preto velho que vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-297-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-297-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3714,7 +3713,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Vovó não quer casca de côco no terreiro<br>Vovó não quer casca de côco no terreiro<br>Pra não lembrar do tempo do
     cativeiro<br>Pra não lembrar do tempo do cativeiro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-298-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-298-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEJPA</figcaption>
 </figure>
     </div>
@@ -3726,10 +3725,10 @@ permalink: /pontos-cantados/
 <p>Eu vi no céu uma estrela correndo<br>E na pedreira eu vi pedra rolar<br>Eu vi Iansã sentada lá na areia<br>E uma
     sereia começou a cantar no mar<br>E no seu canto ela assim dizia<br>Que só queria ter asas pra voar<br>Pra ir ao céu
     buscar a estrela guia<br>E os pretos velhos pra enfeitar nosso congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-299-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-299-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Aline ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-299-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-299-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -3742,7 +3741,7 @@ permalink: /pontos-cantados/
 <p>Oh Mãe Preta, Oh Mãe Preta<br>Sofreste muito na chibata do senhor<br>Uma estrela brilhou<br>Oxalá a abençoou, a
     liberdade<br>Eu vou pedir a proteção ao Pai João<br>E aos pretos velhos pela sua libertação<br>Oh Mãe Preta, Oh Mãe
     Preta<br>Sofreste muito na chibata do senhor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-300-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-300-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Sandra (Terreira Ubirajara)</figcaption>
 </figure>
     </div>
@@ -3767,7 +3766,7 @@ permalink: /pontos-cantados/
 <p><strong>Pai Cipriano</strong></p>
 <p>Pai Cipriano veio de Angola<br>De Angola, de Angola<br>Com sua tesoura de aço<br>As mirongas ele vem cortar<br>Preto
     velho tu és africano<br>É da linha de congo<br>Nosso pai Cipriano</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-302-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-302-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3780,7 +3779,7 @@ permalink: /pontos-cantados/
 <p>Ouvi os tambores rufarem<br>Lá nas matas da guiné<br>Era congo saravando<br>Era congo, Pai José<br>Saravá linha de
     Congo<br>Saravá o Pai José<br>Saravá linha africana<br>A linha de nossa fé<br>Saravá linha africana<br>A linha de
     nossa fé</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-303-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-303-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Solange (Pai José de Aruanda)</figcaption>
 </figure>
     </div>
@@ -3791,7 +3790,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Pai José vem cá<br>Pai José vem cá<br>Pai José vem trabalhar<br>Pai José vem descarregar<br>Vem levar todo o
     mal<br>Para o fundo do mar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-304-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-304-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3802,7 +3801,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Mãe Maria cadê Pai José<br>Foi na mata buscar guiné<br>Diga pra ele que quando vier<br>Que pise no chão, mas não bata
     com o pé</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-305-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-305-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia, Giuliano e André ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3813,7 +3812,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Salve Deus e os caboclos de Aruanda<br>Pai José chegou no terreiro de Umbanda<br>Salve Deus e os caboclos de
     Aruanda<br>Pai José chegou no terreiro de Umbanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-306-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-306-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3824,7 +3823,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem quiser ver, que veja, auê<br>Quem quiser ver, que veja, auá<br>Ele é negro feiticeiro<br>Que chegou pra
     trabalhar<br>Sua mãe é de Angola<br>E seu Pai é de Guiné<br>E ele vem de carangola<br>E se chama Pai José</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-307-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-307-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3835,7 +3834,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Embala ê babá, embala ê<br>Embala ê babá, embala ê<br>Saravá o Pai José<br>Que ele é chefe de senzala<br>Saravá os
     pretos velhos<br>Salve todos os orixás</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-308-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-308-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3847,7 +3846,7 @@ permalink: /pontos-cantados/
 <p><strong>Pai Jorge</strong></p>
 <p>Lá no céu brilhou uma estrela<br>Iluminou esse congá<br>Ele vem de Aruanda<br>Traz as bênçãos de Oxalá<br>É Pai Jorge
     rezador<br>Que chegou pra trabalhar<br>É Pai Jorge rezador<br>Vamos todos saravá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-309-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-309-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3867,7 +3866,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>Rei Congo</strong></p>
 <p>Congo, Rei Congo<br>Cadê meu congo velho?<br>Vamos saravá na terreira de Congo<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-311-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-311-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3879,7 +3878,7 @@ permalink: /pontos-cantados/
 <p><br>Rei Congo bate o pé no congo<br>É na Aruanda, é na Aruanda é<br>Rei Congo bate o pé no congo<br>Na sua banda eu
     tenho fé<br>No Rei do Congo<br>Rei Congo nasceu no congado<br>Foi criado em Luanda<br>Rei Congo é Congo
     coroado<br>Rei Congo é Catuté na Umbanda<br>É o Rei Congo</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-312-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-312-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3890,7 +3889,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Pinto piou lá em Angola<br>Galo cantou lá na calunga<br>Salve o Congo que vem de Carangola<br>Trazendo presente na
     sua sacola</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-313-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-313-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
     </div>
@@ -3901,10 +3900,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ele é Rei Congo<br>Que chora uma mironga<br>Que chora uma mironga<br>Lá no Humaitá</p>
 <p>Oi Congo vem de Minas<br>Congo vem beirando o mar<br>É Congo no terreiro<br>Congo veio trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-314-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-314-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-314-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-314-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3917,7 +3916,7 @@ permalink: /pontos-cantados/
 <p>Pai Joaquim, desceu a cachoeira<br>Saravô o seu congá ( bis )</p>
 <p>Sua benção meu pai<br>Quem manda é Oxalá</p>
 <p>Pai Joaquim <br>não deixa seus filhos penar ( bis )</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-315-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-315-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Yaralacy ( Selma Neri de Campos )</figcaption>
 </figure>
     </div>
@@ -3956,7 +3955,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><br><strong>Pai João</strong></p>
 <p>Pai João é rei<br>É rei de congá<br>Aí vem Pai João<br>Pai João vem trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-319-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-319-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -3968,7 +3967,7 @@ permalink: /pontos-cantados/
 <p>Pai João de Aruanda<br>No clarão da noite<br>No romper do dia<br>Chama Pai João e chama Mãe Maria ( 2x )<br>Pra me
     defender tem muita magia<br>Saravá o Pai João, saravá Mãe Maria<br>Saravá povo de Umbanda<br>Saravá estrela guia (
     2x )</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-320-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-320-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas ) *Ponto do Chefe
         da Casa</figcaption>
 </figure>
@@ -3981,7 +3980,7 @@ permalink: /pontos-cantados/
 <p><br><strong>Vovó Rita</strong></p>
 <p>Salve a Vovó Rita<br>Preta Velha vencedora de demanda<br>Protege os seus filhos aqui na terra Vovó Rita<br>Que Deus
     lhe dê glórias na Aruanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-321-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-321-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -3993,7 +3992,7 @@ permalink: /pontos-cantados/
 <p><strong>Tia Maria</strong></p>
 <p>Tia Maria é tão linda<br>Como é lindo o seu pisar<br>Seja na terra, seja no mar<br>Tia Maria vem trabalhar<br>Oi
     gira, gira, gira<br>Oi gira, gira, gira<br>Oi gira, gira, gira<br>Oi gira, gira, gira, girou!</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-322-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-322-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4003,7 +4002,7 @@ permalink: /pontos-cantados/
     <h2>Onde é que Tia Maria mora?</h2>
     <div class="letra">
 <p>Onde é que Tia Maria mora?<br>Tia Maria não tem morada<br>A morada da preta-velha<br>É na beira da estrada</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-323-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-323-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">"Mãe Maria" Na voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4015,7 +4014,7 @@ permalink: /pontos-cantados/
 <p><strong>Maria Conga</strong></p>
 <p>Abre zi terrêro, abre zi congá<br>Chegou Maria Conga<br>Que veio trabalhar<br>Chegou Maria Conga e seu povo da
     Bahia<br>Chegou Maria Conga e a sua estrela guia</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-324-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-324-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4026,7 +4025,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Eu vou chamar a corrente do cipó<br>Vou chamar Maria Conga pra cozer meu palitó<br>É, é, é, é Maria Conga que faz
     mironga<br>Que faz mironga, que faz mironga</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-325-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-325-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4050,7 +4049,7 @@ permalink: /pontos-cantados/
     pena pegou na pena com pena ela escreveu.<br>A sua ordem se fez lei<br>E a corte obedeceu.<br>Hoje ele é rei na
     Aruanda<br>Rei congo é rei coroado. Boa<br>Salve a princesa Isabel<br>Lembranças de um treze de Maio nos<br>Tumbeiro
     tumbeiro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-327-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-327-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar (Terreira de Ogum de Ronda)</figcaption>
 </figure>
     </div>
@@ -4060,7 +4059,7 @@ permalink: /pontos-cantados/
     <h2>Maria Conga é tão linda</h2>
     <div class="letra">
 <p>Maria Conga é tão linda<br>Como é linda o seu congá<br>Seja na terra<br>Seja no mar<br>Maria Conga vem ajudar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-328-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-328-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
@@ -4075,7 +4074,7 @@ permalink: /pontos-cantados/
     rê, rê, rê, rê, rê, rê, á<br>Lava roupa todo o dia<br>No <strong>regato</strong> de Iemanjá</p>
 <p style="font-size:12px"><strong>Regato</strong>: corrente de água pouco volumosa e de pequena extensão; ribeiro,
     riacho, córrego.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-329-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-329-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4089,7 +4088,7 @@ permalink: /pontos-cantados/
     mar<br>Ela se chama Maria da Serra<br>Ela não desce do céu sem Umbanda<br>Sem a sua <em>muganga</em> de
     guerra<br>Nem sem os anjos da sua Aruanda</p>
 <p style="font-size:12px"><strong>Muganga</strong>: Trejeito.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-330-v1.ogg"></audio></figure>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-330-v1.ogg' | relative_url }}" type="audio/ogg"></audio></figure>
     </div>
 </article>
 <article class="ponto-cantado" id="ponto-331" data-category="Oxalá">
@@ -4101,14 +4100,14 @@ permalink: /pontos-cantados/
     aruanda?<br>Vovó Joana e sua guiné<br>Quem chegou de aruanda?<br>Vovó Joana e sua guiné<br>Oi cotiuba, cotiuba,
     cotiuba<br>Com mariganga, Maria Tomé<br>Oi cotiuba, cotiuba, cotiuba<br>Com mariganga, Maria Tomé<br>Saravando a
     Maria Tomé<br>Saravando a Maria Tomé<br>No terreiro de Vovó Joana<br>E sua guiné</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-331-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-331-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
 <p>---.</p>
 <p><strong>Povo da Bahia</strong></p>
 <p>Oh meu Senhor do Bonfim<br>Valei-me São Salvador<br>Valei-me Nossa Senhora<br>Que o povo da Bahia chegou<br>Cadê a
     sua pemba?<br>Cadê a sua guia?<br>Sua terra é muito longe<br>Seu congá é na Bahia</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-331-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-331-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4121,7 +4120,7 @@ permalink: /pontos-cantados/
 <p>Gira na <strong>cangira</strong> de Umbanda<br>Gira que gira, olé<br>Pisa no terreiro devagar, minha “zifia”<br>Que
     chegou o Pai Miguel</p>
 <p style="font-size:14px"><strong>Cangira</strong>: Sinônimo de Gira de Umbanda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-332-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-332-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4132,7 +4131,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Ouvi o rufar dos tambores<br>Lá pra banda de guiné<br>Era congo saravando<br>Era congo, Pai Miguel<br>Saravá linha de
     Congo<br>Saravá o Pai Miguel<br>Saravá povo africano<br>O povo de nossa fé</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-333-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-333-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano e Kátia ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4145,7 +4144,7 @@ permalink: /pontos-cantados/
 <p>Vem chegando, vem chegando<br>Vai passar pela Bahia<br>Vem chegando, vem chegando<br>Pai Domingos da Bahia<br>Bumba
     ti bumba, tibumba ioiô<br>Bumba ti bumba, iaiá<br>Pai Domingos vem chegando<br>Já passou pela Bahia<br>Vem chegando,
     vem chegando<br>Preto-velho da Bahia<br>Bumba ti bumba, ti bumba, ioiô</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-334-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-334-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4166,7 +4165,7 @@ permalink: /pontos-cantados/
 <p><strong>Pai Tião</strong></p>
 <p>Galo cantou, raiou o dia<br>Chegou Tião, com seus negros da Bahia<br>Oi gira, gira, gira, gira no terreiro<br>Chegou
     Tião que é negro feiticeiro</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-336-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-336-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4186,7 +4185,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Lá do céu desceu uma estrela<br>Que veio nos avisar<br>Pai Jerônimo vai chegar<br>Pai Jerônimo vai baixar<br>Pai
     Jerônimo é preto velho<br>Preto velho orientador<br>Quando chega no terreiro<br>É pra trazer paz e amor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-338-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-338-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4210,10 +4209,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Estava na Aruanda<br>Vendo o que me pertencia<br>Se não fosse uma estrela<br>Eu não via a luz do dia<br>Foi, foi, foi
     uma estrela<br>Se não fosse uma estrela<br>Mãe Maria não viria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-340-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-340-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-340-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-340-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano, Kátia e André ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4227,7 +4226,7 @@ permalink: /pontos-cantados/
     sacode a saia<br>Vem pra roda girar<br>Foi nosso senhor do Bonfim<br>Pra abençoar todos os filhos<br>Em oração lhe
     chamou<br>Pra abençoar todos os filhos<br>Em oração lhe chamou <br>E quando for embora<br>Descarregue todo o
     mal<br>Nós sabemos que a senhora<br>Na mandinga é a tal </p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-341-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-341-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Suely ( Ogum da Mata Virgem )</figcaption>
 </figure>
     </div>
@@ -4254,7 +4253,7 @@ permalink: /pontos-cantados/
 <p>Oh Preta-Velha você não engana<br>Amarra a saia com folha de cana<br>E o cigarro que ela fuma<br>É de palha de
     Aruanda<br>Oh Preta-Velha você é faceira<br>Usa perfume da flor da laranjeira<br>E quando entra na roda<br>Se sacode
     a noite inteira</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-344-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-344-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano, Kátia e André ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4267,7 +4266,7 @@ permalink: /pontos-cantados/
 <p>Tio Antonio dá licença<br>Eu não vim lhe visitar<br>Eu estou muito doente<br>Vim pra você me curar</p>
 <p>Se a doença for feitiço<br>Curará em seu congá<br>Se a doença for de Deus<br>Tio Antonio vai curar</p>
 <p>Coitado do Tio Antonio<br>Preto-Velho rezador<br>Foi parar na detenção<br>Por não ter um defensor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-345-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-345-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano, Kátia e André ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4278,7 +4277,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>Baiana</strong></p>
 <p>Olha a baiana rendeira<br>Rendera, rendá<br>A baiana faz a renda<br>Pro congá de Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-346-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-346-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4289,7 +4288,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>A baiana chegou da Bahia<br>Todo mundo comeu vatapá<br>Com dendê, fubá e acarajé<br>Comida de santo quem é que não
     quer?<br>Tem, tem pemba, tem, tem guia<br>Em seu congá<br>Tem, tem, também tem feitiço no olhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-347-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-347-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4301,7 +4300,7 @@ permalink: /pontos-cantados/
 <p><br><strong>Povo de Congo</strong></p>
 <p>Hoje é dia de alegria<br>E o galinho já cantou<br>É de congo, é de congo aruê<br>É de congo, é de congo aruá<br>Hoje
     é dia de alegria<br>E o galinho já contou<br>Trazia fita no pé<br>E a cruzinha do senhor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-348-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-348-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4314,7 +4313,7 @@ permalink: /pontos-cantados/
 <p>Hoje é dia de alegria<br>Pai Belarmino chegou<br>Trouxe a bandeira de glórias<br>E a estrela com a cruz do
     senhor<br>E é de congo, congo, congo<br>E é de congo, congo, congo<br>Rainha do congá, Pai Belarmino
     chegou<br>Rainha do congá, Pai Belarmino baixou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-349-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-349-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4327,10 +4326,10 @@ permalink: /pontos-cantados/
 <p>Eu vinha pela estrada<br>Uma preta velha me chamou<br>Perguntou onde é que eu ia<br>E depois me saravou<br>Eu vinha
     pela estrada<br>Uma preta velha me chamou<br>Perguntou onde é que eu ia<br>E me ensinou o caminho do amor<br>Era
     ela, era ela<br>A Mãe Maria da beira da estrada<br>Era ela, era ela<br>A Mãe Maria da beira da estrada<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-350-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-350-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-350-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-350-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Kátia e Giuliano ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4345,7 +4344,7 @@ permalink: /pontos-cantados/
 <p>Meus guias são das matas<br>Meus padrinhos da pedreira<br>Saravá povo de umbanda<br>Salve esta grande
     terreira<br>Treme Terra é o nosso chefe<br>E Pai Bento é o nosso guia<br>Saravá povo de umbanda<br>Saravá a Mãe
     Maria</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-351-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-351-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Cristiano ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4357,7 +4356,7 @@ permalink: /pontos-cantados/
 <p>Pai Bento, Pai Bento<br>que veio de Aruanda<br>Fumando sua cachimba<br>Pra saudar filhos de Umbanda<br>Pai Bento
     quando chega<br>Em noite quente ou noite fria<br>Ele veio saravá na Terreira de Mãe Maria<br>Da sua cachimba sai
     perfume da flor<br>Da sua cachimba sai paz e amor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-352-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-352-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4368,7 +4367,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>A fumaça do cachimbo do Pai Bento<br>Sobre pro céu, só não vê quem não quer<br>E a mironga do preto velho<br>É feita
     de noite, embaixo do pé</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-353-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-353-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Cristiano ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4380,7 +4379,7 @@ permalink: /pontos-cantados/
 <p><strong>Pai Benedito</strong></p>
 <p>Nossas matas têm folhas<br>Tem rosário de Nossa Senhora<br>Aroeira de Pai Benedito<br>Pai Benedito que nos valha
     nessa hora</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-354-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-354-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4422,7 +4421,7 @@ permalink: /pontos-cantados/
 <p>Pai Oxalá mandou o Pai Tomé<br>Vir nos terreiros nos abençoar<br>E nós todos aqui reunidos<br>O Pai Tomé queremos
     saudar<br>O Pai Tomé é preto velho<br>Preto velho protetor<br>O Pai Tomé quando vem no terreiro<br>Traz fé, carinho,
     paz e amor</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-358-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-358-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
     </div>
@@ -4436,7 +4435,7 @@ permalink: /pontos-cantados/
     minha cachimba sai pouquinha, sai pouquinha<br>Mas a fumaça da minha cachimba sai todinha, sai todinha<br>Na Bahia
     tem um santo que é o Senhor do Bonfim<br>Nossa Senhora da Penha, tenha pena de mim<br>Nossa Senhora da Penha, tenha
     pena de mim</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-359-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-359-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Cristiano ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4462,7 +4461,7 @@ permalink: /pontos-cantados/
 <p><strong>Defumação</strong></p>
 <p>Oh povo de umbanda<br>Vem ver os filhos seus<br>Defuma essa casa em nome de Deus<br>Oh povo de umbanda<br>Vem ver os
     filhos seus<br>Descarrega esta casa em nome de Deus</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-362-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-362-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4473,7 +4472,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Corre ronda Pai Ogum<br>Filho quer se defumar<br>Umbanda tem fundamento<br>E é preciso preparar<br>Cheiro, incenso e
     beijoim<br>Alecrim e alfazemas<br>Defumar filhos de fé<br>Com as ervas da Jurema</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-363-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-363-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano, Kátia e André ( 7 Flechas )</figcaption>
 </figure>
     </div>
@@ -4484,10 +4483,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Defuma com as ervas da Jurema<br>Defuma com arruda e guiné<br>Benjoim, alecrim e alfazema<br>Vamos defumar, filhos de
     fé<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-364-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-364-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Giuliano, Kátia e André ( 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-364-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-364-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -4533,7 +4532,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Quem vem, quem vem lá de tão longe<br>São os nossos guias que vêm trabalhar<br>Oi dai-nos força pelo amor de Deus,
     meu pai<br>Oi dai-nos força aos trabalhos meus</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-369-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-369-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4544,7 +4543,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Deus vos salve a casa santa<br>Onde Oxalá fez sua morada<br>Hoje aqui nós viemos<br>Nesta data consagrada<br>A
     terreira de Mãe Maria<br>Com seus filhos de Umbanda<br>Vem aqui neste dia<br>Saldar o Cacique Sete Ondas</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-370-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-370-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4555,7 +4554,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Tambor, tambor<br>Vai chamar quem mora longe, tambor<br>Tambor, tambor<br>Vai chamar quem mora longe,
     tambor<br>Oxóssi mora na mata<br>Xangô na pedreira<br>Ogum no Humaitá<br>Mamãe Oxum na cachoeira</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-371-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-371-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4566,7 +4565,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>CHAMADA DE CABOCLOS</strong></p>
 <p>Ogum mora na lua<br>Xangô lá na pedreira<br>Oxossi na mata virgem<br>Mamãe Oxum na cachoeira<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-372-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-372-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Cantado pelo corpo mediúnico em dia de sessão na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -4580,7 +4579,7 @@ permalink: /pontos-cantados/
 <p>Oh, minha estrela, que ilumina o mar<br>Oh, minha estrela, que ilumina o mar<br>Caboclos guerreiros, que iluminam a
     terra com a luz do astral.</p>
 <p>Caboclos guerreiros, que iluminam a terra com a luz do astral.<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-373-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-373-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de seu diretor Pai Gilberto</figcaption>
 </figure>
     </div>
@@ -4594,7 +4593,7 @@ permalink: /pontos-cantados/
     guerreiros da justiça<br>Justiça divina de Xango Kaô<br>O machado cumpre a Lei<br>Que nossa pai Oxalá mandou<br>O
     seu pisar é tão forte<br>Deixa o treme-terra chegar<br>Ele é caboclo verdadeiro<br>E vibrou neste terreiro<br>Pra
     seus filhos abençoar<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-374-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-374-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambono de Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4606,7 +4605,7 @@ permalink: /pontos-cantados/
 <p><strong>Abertura dos caminhos</strong></p>
 <p>Oh estrela do céu, que guiou nosso pai<br>Guiai esses filhos os caminhos que vai<br>Oh estrela do céu que me disse
     orai<br>Povo de umbanda, que povo será<br>Povo de umbanda que veio ajudar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-375-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-375-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4617,10 +4616,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p><strong>Abertura<br></strong></p>
 <p>Santo Antônio que é de ouro fino<br>Suspende a a bandeira<br>A vamos trabalhar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-376-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-376-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-376-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-376-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -4632,7 +4631,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Jesus, Maria, São João e São José<br>São Pedro abriu os céus<br>Para aqueles que tem fé<br>Óh São Miguel
     arcanjo<br>Por Deus quem sois quem és<br>Rogai ao nosso pai<br>Para aumentar a nossa fé.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-377-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-377-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4643,10 +4642,10 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Deus que salve os nossos guias<br>Pela glória deste dia<br>Eu venho a ti pedir a jesus<br>E a nossa mãe maria<br>Que
     aumente a nossa luz para<br>Que possamos alcançar<br>As suas vibrações neste Congá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-378-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-378-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-378-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-378-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
@@ -4660,7 +4659,7 @@ permalink: /pontos-cantados/
 <p>---<br>Santo Antônio que é de ouro fino<br>Arria a bandeira<br>E vamos encerrar.</p>
 <p style="font-size:12px">Nota:<strong> </strong> Arriar ou arrear?<br><strong>Arriar</strong> é baixar, colocar no
     chão, descer, desanimar, perder as forças.<br><strong>Arrear</strong>&nbsp;é colocar arreios&nbsp;.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-379-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-379-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Inês CEPJA</figcaption>
 </figure>
     </div>
@@ -4671,7 +4670,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Santo Antônio do mundo novo<br>Não me deixes andar sozinho ( bis )<br>Ai meu Santo Antônio<br>Vem e me abra os meus
     caminhos</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-380-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-380-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4682,7 +4681,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Santo Antonio de Pemba<br>Caminhou sete anos, a procura de um mano<br>Que ele lá deixou<br>Ai como caminhou, Santo
     Antônio de Pemba<br>Ai como caminhou, Santo Antônio de Pemba<br>Até que encontrou</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-381-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-381-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4720,7 +4719,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Lá na Aruanda, estão lhe chamando<br>Congo e Monjolo mandou lhe chamar<br>Adeus, adeus, eles vão embora<br>Fiquem com
     Deus e a Nossa Senhora<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-385-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-385-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
 <p style="font-size:12px">Congo, Monjolo: escravos africanos, angolas, congos, bengüelas, monjolos, cabindas, rebolos,
@@ -4741,7 +4740,7 @@ permalink: /pontos-cantados/
     <div class="letra">
 <p>Caboclo pega suas armas<br>Pega o seu bodoque<br>O galo já cantou<br>E o galo já cantou na Aruanda<br>E Oxalá lhe
     chama<br>Para a sua banda de orixá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-387-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-387-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
 </figure>
     </div>
 </article>
@@ -4750,7 +4749,7 @@ permalink: /pontos-cantados/
     <h2>Caboclo trabalhou</h2>
     <div class="letra">
 <p>Caboclo trabalhou<br>Fez a sua obrigação<br>A benção meu pai<br>Quero a sua proteção.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-388-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-388-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
     </div>
@@ -4760,7 +4759,7 @@ permalink: /pontos-cantados/
     <h2>Os Pretos Velhos vão embora</h2>
     <div class="letra">
 <p>Os Pretos Velhos vão embora<br>De Oxalá veio o chamado<br>Nós pedimos as suas bênçãos<br>Queremos ser abençoados</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-389-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-389-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
     </div>
@@ -4770,7 +4769,7 @@ permalink: /pontos-cantados/
     <h2>Caboclos já trabalharam</h2>
     <div class="letra">
 <p>Caboclos já trabalharam<br>Caboclos já vão embora<br>Vão com Jesus e a Nossa Senhora</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-390-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-390-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
     </div>
@@ -4780,7 +4779,7 @@ permalink: /pontos-cantados/
     <h2>Caboclo já vai</h2>
     <div class="letra">
 <p>Caboclo já vai<br>Já vai pra aruanda<br>A benção meu pai<br>Proteção da sua banda</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-391-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-391-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Maria Ines CEPJA</figcaption>
 </figure>
     </div>
@@ -4796,7 +4795,7 @@ permalink: /pontos-cantados/
 <p>Saravá Virgem Maria<br>e o Senhor São José,<br>a nossa estrela guia é Jesus de Nazaré<br>Olorum abençoou a nossa
     banda,<br>nasceu de Oxalá, o Natal da Umbanda<br>Olorum abençoou a nossa banda,<br>nasceu de Oxalá, o
     Natal&nbsp;da&nbsp;Umbanda.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-392-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-392-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Rogério - Sete Ondas</figcaption>
 </figure>
     </div>
@@ -4811,7 +4810,7 @@ permalink: /pontos-cantados/
     Nazaré<br>Olorum abençoou a nossa banda nasceu<br>de Oxalá, nossa lei de Umbanda</p>
 <p style="font-size:11px">** Na coroação utiliza-se habitualmente somente a segunda parte desse ponto. "Filhos de
     Umbanda"<br><strong>Obatalá</strong>: Sinônimo de Orixalá, Oxalá, Jesus<br><strong>Olorum</strong>: Deus</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-393-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-393-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Alcimar ( Ogum de Ronda )</figcaption>
 </figure>
     </div>
@@ -4827,7 +4826,7 @@ permalink: /pontos-cantados/
 <p>Saravá Virgem Maria<br>e o Senhor São José,<br>a nossa estrela guia é Jesus de Nazaré<br>Olorum abençoou a nossa
     banda,<br>nasceu de Oxalá, o Natal da Umbanda<br>Olorum abençoou a nossa banda,<br>nasceu de Oxalá, o Natal da
     Umbanda.</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-394-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-394-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Rogério (Sete Ondas)</figcaption>
 </figure>
     </div>
@@ -4862,7 +4861,7 @@ permalink: /pontos-cantados/
     foi embora<br>Foi na espada de um guerreiro<br>E a luz do romper da aurora<br>Já brilhou neste terreiro<br>E a luz
     do romper da aurora<br>Já brilhou neste terreiro</p>
 <p style="font-size:12px"><strong>Obatalá</strong>: Sinônimo de Orixalá, Oxalá, Jesus<br></p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-397-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-397-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Suely Plein ( Ogum da Mata Virgem )</figcaption>
 </figure>
     </div>
@@ -4878,10 +4877,10 @@ permalink: /pontos-cantados/
     Umbanda de Pai Oxalá</p>
 <p>Quem quiser chegar a Zambi<br>Tem que ser da nossa Umbanda<br>Trate sempre com respeito<br>Todo o povo de Aruanda</p>
 <p>A mansão de Zambi é grande<br>Para todos tem lugar<br>Suas portas estão abertas<br>Para quem quiser entrar</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-398-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-398-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )</figcaption>
 </figure>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-398-v2.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-398-v2.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )</figcaption>
 </figure>
     </div>
@@ -4928,7 +4927,7 @@ permalink: /pontos-cantados/
     certeza vai me iluminar</p>
 <p>Penso no dia que logo vai nascer<br>E o meu peito se enche de emoção</p>
 <p>E essa luz que vem de Oxalá<br>Tenho certeza, vai me iluminar!</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-401-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-401-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Na voz de Martinha ( Mã Maria )</figcaption>
 </figure>
     </div>
@@ -4946,7 +4945,7 @@ permalink: /pontos-cantados/
     aos orixás</p>
 <p>Eu vejo um longo caminho<br>É o caminho de todos os orixás<br>Vamos pedir com carinho<br>As “bênçãos” do pai
     Oxalá<br>Vamos pedir com Carinho<br>As “bênçãos” do pai Oxalá</p>
-<figure class="wp-block-audio"><audio controls="" src="/assets/audio/ponto-402-v1.ogg"></audio>
+<figure class="wp-block-audio"><audio controls="" src="{{ '/assets/audio/ponto-402-v1.ogg' | relative_url }}" type="audio/ogg"></audio>
     <figcaption class="wp-element-caption">Martinha ( Mãe Maria )</figcaption>
 </figure>
     </div>
