@@ -27,6 +27,52 @@ permalink: /pontos-cantados/
     pelo Facebook.</p>
 </header>
 
+<style>
+  .filter-container { margin: 20px 0; text-align: center; position: sticky; top: 0; background: white; z-index: 100; padding: 10px; border-bottom: 1px solid #eee; }
+  .filter-btn { 
+    background: #f0f0f0; border: 1px solid #ccc; padding: 8px 15px; margin: 3px; 
+    border-radius: 20px; cursor: pointer; font-size: 0.9em; transition: 0.3s;
+  }
+  .filter-btn:hover { background: #e0e0e0; }
+  .filter-btn.active { background: #2196F3; color: white; border-color: #0b7dda; }
+  .ponto-cantado { transition: opacity 0.3s ease; }
+</style>
+
+<div class="filter-container">
+  <button class="filter-btn active" onclick="filterPoints('all', this)">Todos</button>
+  <button class="filter-btn" onclick="filterPoints('Hinos', this)">Hinos</button>
+  <button class="filter-btn" onclick="filterPoints('Oxalá', this)">Oxalá</button>
+  <button class="filter-btn" onclick="filterPoints('Ogum', this)">Ogum</button>
+  <button class="filter-btn" onclick="filterPoints('Oxóssi', this)">Oxóssi</button>
+  <button class="filter-btn" onclick="filterPoints('Xangô', this)">Xangô</button>
+  <button class="filter-btn" onclick="filterPoints('Iansã', this)">Iansã</button>
+  <button class="filter-btn" onclick="filterPoints('Oxum', this)">Oxum</button>
+  <button class="filter-btn" onclick="filterPoints('Iemanjá', this)">Iemanjá</button>
+  <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">Pretos Velhos</button>
+  <button class="filter-btn" onclick="filterPoints('Oriente', this)">Oriente</button>
+  <button class="filter-btn" onclick="filterPoints('Diversos', this)">Diversos</button>
+</div>
+
+<script>
+function filterPoints(category, btn) {
+  // Atualiza classe ativa dos botões
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  // Filtra os pontos
+  const points = document.querySelectorAll('.ponto-cantado');
+  points.forEach(point => {
+    const pointCat = point.getAttribute('data-category');
+    if (category === 'all' || pointCat === category) {
+      point.style.display = 'block';
+    } else {
+      point.style.display = 'none';
+    }
+  });
+}
+</script>
+
+
 <div class="lista-pontos">
 
 <article class="ponto-cantado" id="ponto-001" data-category="Hinos">
