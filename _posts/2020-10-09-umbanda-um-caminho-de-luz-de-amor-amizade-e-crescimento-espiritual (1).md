@@ -1,0 +1,21 @@
+---
+title: "Umbanda: Um caminho de luz, de amor, amizade e crescimento espiritual"
+date: 2020-10-09
+categories: 
+  - "sem-categoria"
+coverImage: "screenshot_20201009-142215_photos.jpg"
+---
+
+Com nossa querida amiga Martinha, eterna Cambona do Pai Bento! Vamos homenagear entidades e contar um pouco da nossa história
+
+<figure>
+
+[![https://youtu.be/UzLAD9AVOvw](images/screenshot_20201009-142214_photos937172421851683162.jpg)](https://youtu.be/UzLAD9AVOvw)
+
+<figcaption>
+
+[https://youtu.be/UzLAD9AVOvw](https://youtu.be/UzLAD9AVOvw)
+
+</figcaption>
+
+</figure>
