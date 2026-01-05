@@ -72,6 +72,8 @@ permalink: /pontos-cantados/
     <h3>Categorias</h3>
     <nav class="filter-nav">
       <button class="filter-btn active" onclick="filterPoints('all', this)">✨ Todos</button>
+      <button class="filter-btn no-audio-btn" onclick="filterPoints('no-audio', this)" style="border-color: #ff9800; color: #e65100;">⚠️ Sem Áudio</button>
+      <hr style="margin: 10px 0; border: 0; border-top: 1px solid #ddd;">
       <button class="filter-btn" onclick="filterPoints('Hinos', this)">📜 Hinos</button>
       <button class="filter-btn" onclick="filterPoints('Oxalá', this)">🕊️ Oxalá</button>
       <button class="filter-btn" onclick="filterPoints('Iemanjá', this)">🌊 Iemanjá</button>
@@ -5019,19 +5021,29 @@ permalink: /pontos-cantados/
 
 <script>
 function filterPoints(category, btn) {
+  // Atualiza classe ativa
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
 
   const points = document.querySelectorAll('.ponto-cantado');
+  
   points.forEach(point => {
-    if (category === 'all' || point.getAttribute('data-category') === category) {
+    // Verifica se o ponto tem a tag de áudio
+    const hasAudio = point.querySelector('audio') !== null;
+    
+    if (category === 'all') {
       point.style.display = 'block';
-    } else {
-      point.style.display = 'none';
+    } 
+    else if (category === 'no-audio') {
+      // Lógica especial: mostra apenas se NÃO tiver áudio
+      point.style.display = hasAudio ? 'none' : 'block';
+    } 
+    else {
+      // Filtro por categoria normal
+      point.style.display = point.getAttribute('data-category') === category ? 'block' : 'none';
     }
   });
-  
-  // No mobile, volta o topo da página ao filtrar
+
   if(window.innerWidth < 768) window.scrollTo(0,0);
 }
 </script>
