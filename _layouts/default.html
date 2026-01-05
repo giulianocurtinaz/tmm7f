@@ -72,7 +72,7 @@
                 <ul class="navbar-nav ml-auto">
                     {% for link in site.data.navigation %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                        <a class="nav-link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
                     </li>
                     {% endfor %}
                     {% include search-lunr.html %}
