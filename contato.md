@@ -21,7 +21,16 @@ permalink: /contato/
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
-<div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3458.756260857868!2d-51.182441!3d-29.916894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9519702202685239%3A0xea8d462947230b5e!2sTerreira%20de%20M%C3%A3e%20Maria%20Fraternidade%20Sete%20Flechas!5e0!3m2!1sen!2sbr!4v1689625482348!5m2!1sen!2sbr"></iframe></div></div>
+<div class="map-container" style="width: 100%; overflow: hidden; border-radius: 8px; margin-top: 20px;">
+  <iframe 
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3458.756260857868!2d-51.182441!3d-29.916894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9519702202685239%3A0xea8d462947230b5e!2sTerreira%20de%20M%C3%A3e%20Maria%20Fraternidade%20Sete%20Flechas!5e0!3m2!1spt-BR!2sbr!4v1689625482348!5m2!1spt-BR!2sbr" 
+    width="100%" 
+    height="450" 
+    style="border:0;" 
+    allowfullscreen="" 
+    loading="lazy">
+  </iframe>
+</div>
 <!-- /wp:html -->
 
 <!-- wp:jetpack/contact-form {"to":"terreira@maemariaseteflechas.com.br"} -->
