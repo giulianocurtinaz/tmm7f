@@ -21,6 +21,4 @@ Localizado na rua FAB, 155 (Fundos) em Canoas, com sessões públicas de Umbanda
 
 [https://maps.app.goo.gl/vWPikk9etPMwon3u8](https://maps.app.goo.gl/vWPikk9etPMwon3u8)
 
-[Mais Posts em nossa TimeLine]({{ '/timeline/' | relative_url }})
-
 <div style="clear: both;"></div>

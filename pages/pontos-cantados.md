@@ -2,14 +2,8 @@
 layout: page
 title: "Pontos Cantados"
 date: 2021-03-14
+image: ""
 ---
-
-[Ver somente os pontos faltantes](https://maemariaseteflechas.com.br/lista-de-pontos-cantados-faltantes/)
-
-
-
-
-
 Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras gerações que dirigirão nossos terreiros no futuro. Senti a necessidade de publicar esse riquíssimo material desenvolvido em 2007 pelos nossos amigos Darcy Dias da Silveira e Alcimar Bairros Pereira.
 
 
