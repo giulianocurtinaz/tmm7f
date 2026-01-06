@@ -5,7 +5,7 @@ date: 2020-01-22
 image: "{{ '/assets/images/2019-12-20190830193041-e1615569126631.jpg' | relative_url }}"
 ---
 
-![]({{ '/assets/images/2019-12-logo-terreira-sete-flechas.jpg' | relative_url }})
+<img src="{{ '/assets/images/2019-12-logo-terreira-sete-flechas.jpg' | relative_url }}" style="width: 30%; height: auto; display: block; margin: 0 auto;">
 
 
 
@@ -23,7 +23,7 @@ Nossa Missão nas palavras do Caboclo Sete Flechas:
 
 
 
-![]({{ '/assets/images/2019-12-20190830193002-e1580157019413.jpg' | relative_url }})
+<img src="{{ '/assets/images/2019-12-20190830193002-e1580157019413.jpg' | relative_url }}" style="width: 30%; height: auto; display: block; margin: 0 auto;">
 
 
 
