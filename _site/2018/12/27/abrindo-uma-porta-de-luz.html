@@ -37,6 +37,7 @@
 
     <script src="/tmm7f/assets/js/jquery.min.js"></script>
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 
@@ -416,6 +417,17 @@ https://search.google.com/structured-data/testing-tool/u/0/
     <script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
     
 
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/tmm7f/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 </body>
 
 </html>

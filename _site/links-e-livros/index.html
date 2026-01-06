@@ -34,6 +34,7 @@
 
     <script src="/tmm7f/assets/js/jquery.min.js"></script>
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 
@@ -2864,6 +2865,17 @@ https://www.youtube.com/playlist?list=PLRT99VcTrtLQfEuIQNYPJzDkToTpnqmYS
 
     
 
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/tmm7f/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 </body>
 
 </html>
