@@ -20,6 +20,7 @@
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -72,7 +73,8 @@
                 <ul class="navbar-nav ml-auto">
                     {% for link in site.data.navigation %}
                     <li class="nav-item">
-                        <a class="nav-link" style="margin-right: 15px;" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+                        <a class="nav-link" style="margin-right: 15px;" href="{{ link.url | relative_url }}">{{
+                            link.title }}</a>
                     </li>
                     {% endfor %}
                     {% include search-lunr.html %}
@@ -200,6 +202,17 @@
     <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
     {% endif %}
 
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                        document.location.href = "/tmm7f/admin/";
+                    });
+                }
+            });
+        }
+    </script>
 </body>
 
 </html>
