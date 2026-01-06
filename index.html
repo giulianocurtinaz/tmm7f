@@ -13,19 +13,32 @@ title: Home
     </div>
     <div class="row">
 
-    {% for post in site.posts %}
+        {% for post in site.posts %}
 
         {% if post.featured == true %}
 
-            {% include featuredbox.html %}
+        {% include featuredbox.html %}
 
         {% endif %}
 
-    {% endfor %}
+        {% endfor %}
 
     </div>
 </section>
 
+{% endif %}
+
+<!-- Welcome Message
+================================================== -->
+{% assign welcome_page = site.pages | where: "slug", "bem-vindo-a-terreira-de-mae-maria-fraternidade-sete-flechas" |
+first %}
+{% if welcome_page %}
+<section class="welcome-section mb-5">
+    <div class="container">
+        {{ welcome_page.content | markdownify }}
+    </div>
+    <hr>
+</section>
 {% endif %}
 
 <!-- Posts Index
@@ -53,9 +66,8 @@ title: Home
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
+    <span class="navigation" role="navigation">
+        {% include pagination.html %}
+    </span>
 </div>
-
