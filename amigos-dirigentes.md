@@ -5,7 +5,7 @@ permalink: /amigos-dirigentes/
 ---
 
 <!-- wp:paragraph -->
-<p>Com o objetivo de auxiliar-nos em nossos encontros, reunimos abaixo os pontos cantados dos AMIGOS DIRIGENTES!<audio src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/hino_mae_maria.ogg"></audio></p>
+<p>Com o objetivo de auxiliar-nos em nossos encontros, reunimos abaixo os pontos cantados dos AMIGOS DIRIGENTES!<audio src="{{ '/assets/audio/hino_mae_maria.ogg' | relative_url }}"></audio></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -21,7 +21,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1697} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/cabocla_jurema_aline.ogg"></audio><figcaption>Na voz de Aline - Dirigente Mãe Maria</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/cabocla_jurema_aline.ogg' | relative_url }}"></audio><figcaption>Na voz de Aline - Dirigente Mãe Maria</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -37,7 +37,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1166} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/7-flechas.ogg"></audio><figcaption>Na Voz de seu diretor (7 Flechas)</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/7-flechas.ogg' | relative_url }}"></audio><figcaption>Na Voz de seu diretor (7 Flechas)</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -49,7 +49,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1570} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/dirigente_luz_no_caminho.ogg"></audio><figcaption>Na voz de seu aparelho - Pai Gilberto</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/dirigente_luz_no_caminho.ogg' | relative_url }}"></audio><figcaption>Na voz de seu aparelho - Pai Gilberto</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -69,7 +69,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1669} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/mame_oxum_nilza_e_cida.ogg"></audio><figcaption>Na voz de Nilza e Maria Aparecida - Dirigentes da Terreira de Mãe Maria Frat. Cacique Ubirajara</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/mame_oxum_nilza_e_cida.ogg' | relative_url }}"></audio><figcaption>Na voz de Nilza e Maria Aparecida - Dirigentes da Terreira de Mãe Maria Frat. Cacique Ubirajara</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -81,7 +81,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1756} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/ogum_iara_alcimar_correto.ogg"></audio><figcaption>Na voz de Alcimar ( Médium dirigente )</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/ogum_iara_alcimar_correto.ogg' | relative_url }}"></audio><figcaption>Na voz de Alcimar ( Médium dirigente )</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -93,7 +93,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1586} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/dirigente_ogum_da_mata_virgem.ogg"></audio><figcaption>Na voz de seu aparelho - Suely Plein</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/dirigente_ogum_da_mata_virgem.ogg' | relative_url }}"></audio><figcaption>Na voz de seu aparelho - Suely Plein</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -105,7 +105,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1470} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/hino_ogum_beira_mar.ogg"></audio><figcaption>Na voz de Aladir e Isaura ( Hino da Casa de Ogum Beira-Mar)</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/hino_ogum_beira_mar.ogg' | relative_url }}"></audio><figcaption>Na voz de Aladir e Isaura ( Hino da Casa de Ogum Beira-Mar)</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -117,7 +117,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1644} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/sete_flechas_cleber.ogg"></audio><figcaption>Na voz de Cleber e Manuéllu ( Pai João e Sete Flechas )</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/sete_flechas_cleber.ogg' | relative_url }}"></audio><figcaption>Na voz de Cleber e Manuéllu ( Pai João e Sete Flechas )</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -145,7 +145,7 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1664} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/iansa_sabrina.ogg"></audio><figcaption>Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/iansa_sabrina.ogg' | relative_url }}"></audio><figcaption>Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )</figcaption></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph -->
@@ -157,5 +157,5 @@ permalink: /amigos-dirigentes/
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":1750} -->
-<figure class="wp-block-audio"><audio controls src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/03/xango_julinho.ogg"></audio><figcaption>Na voz de Julinho ( Assoc. de Umbanda Pai Oxalá Frat. Pai Xangô )</figcaption></figure>
+<figure class="wp-block-audio"><audio controls src="{{ '/assets/audio/xango_julinho.ogg' | relative_url }}"></audio><figcaption>Na voz de Julinho ( Assoc. de Umbanda Pai Oxalá Frat. Pai Xangô )</figcaption></figure>
 <!-- /wp:audio -->
