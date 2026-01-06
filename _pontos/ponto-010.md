@@ -1,13 +1,17 @@
 ---
-layout: "ponto"
+layout: ponto
 id_ponto: "010"
-title: "Lá vem jesus"
-category: "Oxalá"
+category: Oxalá
+title: Lá vem jesus
 audios:
-  - url: "/assets/audio/ponto-010-v1.ogg"
-    caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
-
+  - url: /assets/audio/ponto-010-v1.ogg
+    caption: Na voz de Nilza e Aparecida ( Ubirajara )
 ---
+Lá vem jesus\
+A caminhar\
+Já começou a nos chamar
 
-<p>Lá vem jesus <br>A caminhar <br>Já começou a nos chamar <br>Vamos sim, com jesus <br>Vamos sim, trabalhar <br>Pelos
-    nossos irmãos <br>Sem parar</p>
+Vamos sim, com jesus\
+Vamos sim, trabalhar\
+Pelos nossos irmãos\
+Sem parar (bis)
