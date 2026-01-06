@@ -8,51 +8,51 @@ date: 2020-05-13
 
 
 
-![](/tmm7f/assets/images/2021-02-20210204183448-e1612488120179.jpg)
+![]({{ '/assets/images/2021-02-20210204183448-e1612488120179.jpg' | relative_url }})
 
 
 
-[Orações do Rito](https://maemariaseteflechas.com.br/oracoes-do-rito/)
+[Orações do Rito]({{ '/oracoes-do-rito/' | relative_url }})
 
 
 
 
 
-[Confira as orações que utilizamos em nosso rito.](https://maemariaseteflechas.com.br/oracoes-do-rito)
+[Confira as orações que utilizamos em nosso rito.]({{ '/oracoes-do-rito/' | relative_url }})
 
 
 
 
 
-[![](/tmm7f/assets/images/2021-03-ceu.jpg)](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
+[![]({{ '/assets/images/2021-03-ceu.jpg' | relative_url }})]({{ '/oracoes-ao-pai/' | relative_url }})
 
 
 
-[A Deus](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
+[A Deus]({{ '/oracoes-ao-pai/' | relative_url }})
 
 
 
 
 
 
-[Confira nossas orações.](http://maemariaseteflechas.com.br/oracoes-ao-pai/)
+[Confira nossas orações.]({{ '/oracoes-ao-pai/' | relative_url }})
 
 
 
 
 
-[![](/tmm7f/assets/images/2021-03-orixas.jpg)](http://maemariaseteflechas.com.br/aos-orixas/)
+[![]({{ '/assets/images/2021-03-orixas.jpg' | relative_url }})]({{ '/aos-orixas/' | relative_url }})
 
 
 
 
-[Aos Orixás](http://maemariaseteflechas.com.br/aos-orixas/)
+[Aos Orixás]({{ '/aos-orixas/' | relative_url }})
 
 
 
 
 
-[Confira nossas orações.](http://maemariaseteflechas.com.br/aos-orixas/)
+[Confira nossas orações.]({{ '/aos-orixas/' | relative_url }})
 
 
 
@@ -60,46 +60,46 @@ date: 2020-05-13
 
 
 
-[![](/tmm7f/assets/images/2020-05-preto275.png)](https://maemariaseteflechas.com.br/oracoes-yorima/)
+[![]({{ '/assets/images/2020-05-preto275.png' | relative_url }})]({{ '/oracoes-yorima/' | relative_url }})
 
 
 
-[Yorimá](https://maemariaseteflechas.com.br/oracoes-yorima/)
+[Yorimá]({{ '/oracoes-yorima/' | relative_url }})
 
 
 
 
 
-[Confira nossas orações.](https://maemariaseteflechas.com.br/oracoes-yorima/)
+[Confira nossas orações.]({{ '/oracoes-yorima/' | relative_url }})
 
 
 
 
 
-[![](/tmm7f/assets/images/2020-05-ogum275.png)](https://maemariaseteflechas.com.br/oracoes-ogum/)
+[![]({{ '/assets/images/2020-05-ogum275.png' | relative_url }})]({{ '/oracoes-ogum/' | relative_url }})
 
 
 
-[Ogum](https://maemariaseteflechas.com.br/oracoes-ogum/)
+[Ogum]({{ '/oracoes-ogum/' | relative_url }})
 
 
 
 
 
-[Confira nossas orações.](https://maemariaseteflechas.com.br/oracoes-ogum/)
+[Confira nossas orações.]({{ '/oracoes-ogum/' | relative_url }})
 
 
 
 
 
-[![](/tmm7f/assets/images/2020-05-yemanja275.png)](https://maemariaseteflechas.com.br/oracoes-yemanja/)
+[![]({{ '/assets/images/2020-05-yemanja275.png' | relative_url }})]({{ '/oracoes-yemanja/' | relative_url }})
 
 
 
-[Yemanjá](https://maemariaseteflechas.com.br/oracoes-yemanja/)
+[Yemanjá]({{ '/oracoes-yemanja/' | relative_url }})
 
 
 
 
 
-[Confira nossas orações.](https://maemariaseteflechas.com.br/oracoes-yemanja/)
+[Confira nossas orações.]({{ '/oracoes-yemanja/' | relative_url }})
