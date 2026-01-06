@@ -50,7 +50,7 @@
 
     <!-- Begin Menu Navigation
 ================================================== -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+    <nav class="navbar navbar-expand-xl navbar-light bg-white fixed-top mediumnavigation nav-down">
 
         <div class="container pr-0">
 
@@ -72,7 +72,7 @@
                 <ul class="navbar-nav ml-auto">
                     {% for link in site.data.navigation %}
                     <li class="nav-item">
-                        <a class="nav-link" href="{{ link.url | relative_url }}">{{ link.title }}</a>
+                        <a class="nav-link" style="margin-right: 15px;" href="{{ link.url | relative_url }}">{{ link.title }}</a>
                     </li>
                     {% endfor %}
                     {% include search-lunr.html %}
@@ -94,7 +94,7 @@
             <!-- Site Title
 ================================================== -->
             <div class="mainheading">
-                <h1 class="sitetitle">{{ site.name }}</h1>
+                <h1 class="sitetitle font-weight-bold">{{ site.name }}</h1>
                 <p class="lead">
                     {{ site.description }}
                 </p>
