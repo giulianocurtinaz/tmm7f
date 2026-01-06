@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "222"
 title: "Ogum Beira Mar"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-222-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p><strong>Ogum Beira Mar</strong></p>

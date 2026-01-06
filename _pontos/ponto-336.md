@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "336"
 title: "Pai Tião"
 category: "Iansã"
 audios:
   - url: "/assets/audio/ponto-336-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p><strong>Pai Tião</strong></p>

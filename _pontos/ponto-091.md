@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "091"
 title: "O senhor pena branca, E ô"
 category: "Oxalá"
+
 ---
 
 <p>O senhor pena branca, E ô<br>O senhor pena branca, E á<br>Vem trabalhar nesse conga<br>Com sua pemba<br>E sua pena

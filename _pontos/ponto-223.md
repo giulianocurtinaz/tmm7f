@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "223"
 title: "Eu vi uma luzinha tão longe"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-223-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p>Eu vi uma luzinha tão longe<br>Iluminava as ondas do mar<br>Era o barco da mãe sereia<br>Era o barco da mãe Iemanjá

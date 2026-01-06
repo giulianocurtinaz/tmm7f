@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "148"
 title: "Kaô Cabecilê"
 category: "Xangô"
 audios:
   - url: "/assets/audio/ponto-148-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"
+
 ---
 
 <p>Lá no alto daquela pedreira<br>Tem um livro que é de Xangô<br>Kaô Xangô kaô<br>Kabecilê meu senhor<br>Xangô

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "155"
 title: "minou"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-155-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>Na pedreira da mata virgem<br>Onde mora meu pai Xangô<br>Se as águas <strong>minou</strong> é Naná Buruquê<br>Se a

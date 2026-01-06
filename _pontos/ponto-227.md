@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "227"
 title: "Como é linda a coroa de Iemanjá"
 category: "Iemanjá"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Martinha ( Mae Maria )"
   - url: "/assets/audio/ponto-227-v2.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p>Como é linda a coroa de Iemanjá<br>Vem brilhando nas ondas do mar<br><br>Com seus raios na beira da praia<br>Refletem

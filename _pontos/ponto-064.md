@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "064"
 title: "candura"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-064-v1.ogg"
     caption: "Na voz de Aladir e Isaura ( Ogum Beira-Mar )"
+
 ---
 
 <p>Ela é uma flor, no jardim do Senhor<br>Ela&nbsp;é uma rosa, uma rosa em botão<br>Ela&nbsp;é toda

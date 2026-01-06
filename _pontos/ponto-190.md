@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "190"
 title: "São Jorge Guerreiro mandou me chamar"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-190-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>São Jorge Guerreiro mandou me chamar<br>Tempo tem, caminho não há<br>Mas São Jorge Guerreiro mandou me

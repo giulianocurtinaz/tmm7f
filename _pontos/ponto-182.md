@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "182"
 title: "bonanza"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-182-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>Ela é a senhora dos ventos<br>Ela é a mais linda orixá<br>Ela veio acalmar as tormentas<br>Quem mandou<br>Foi o pai

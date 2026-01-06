@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "178"
 title: "Iansã"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-178-v2.ogg"
     caption: "Na voz de Sandra e Mercedes ( Ubirajara )"
+
 ---
 
 <p><strong>Iansã</strong></p>

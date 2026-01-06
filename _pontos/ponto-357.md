@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "357"
 title: "Pai Jobim"
 category: "Oxóssi"
+
 ---
 
 <p><strong>Pai Jobim</strong></p>

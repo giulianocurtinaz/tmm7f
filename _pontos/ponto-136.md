@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "136"
 title: "Caboclo Ararijara"
 category: "Oxóssi"
+
 ---
 
 <p><strong>Caboclo Ararijara</strong></p>

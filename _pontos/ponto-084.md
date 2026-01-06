@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "084"
 title: "Arranca Toco"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-084-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
+
 ---
 
 <p><strong>Arranca Toco</strong></p>

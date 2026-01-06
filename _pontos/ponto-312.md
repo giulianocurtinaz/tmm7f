@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "312"
 title: "Ponto 312"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-312-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p><br>Rei Congo bate o pé no congo<br>É na Aruanda, é na Aruanda é<br>Rei Congo bate o pé no congo<br>Na sua banda eu

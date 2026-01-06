@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "317"
 title: "Pai Joaquim já vem"
 category: "Oxalá"
+
 ---
 
 <p>Pai Joaquim já vem<br>Lá da Aruanda vem<br>Desce sobre este terreiro<br>Abençoa o mundo inteiro<br>Com toda luz e

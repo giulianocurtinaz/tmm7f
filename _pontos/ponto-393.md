@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "393"
 title: "Coroação de Cacique"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-393-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p><strong>Coroação de Cacique</strong></p>

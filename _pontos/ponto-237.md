@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "237"
 title: "Ogum Megê e Ogum Iara"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-237-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Ogum Megê e Ogum Iara</strong></p>

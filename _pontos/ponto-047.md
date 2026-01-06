@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "047"
 title: "Eu vi sentada na areia"
 category: "Iemanjá"
+
 ---
 
 <p>Eu vi sentada na areia<br>Uma linda seria tão triste a choraaar<br>Suas lágrimas rolavam no rosto<br>Caiam na areia e

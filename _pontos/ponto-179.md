@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "179"
 title: "Ponto de chegada da cabocla dirigente do C.E. Jandira"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-179-v1.ogg"
     caption: "Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )"
+
 ---
 
 <p><strong>Ponto de chegada da cabocla dirigente do C.E. Jandira</strong><br><strong>Cabocla Iansã<br></strong><br>Olha

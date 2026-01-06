@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "171"
 title: "Eu estava na pedreira"
 category: "Oxóssi"
+
 ---
 
 <p>Eu estava na pedreira<br>Com minha flecha e minha guia<br>Assoviei pros manos da floresta<br>E veio o Caboclo

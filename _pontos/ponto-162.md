@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "162"
 title: "Quero andar de valor em valor"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-162-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
+
 ---
 
 <p>Quero andar de valor em valor<br>A servir a Jesus meu senhor<br>Para que um dia eu receba no céu<br>A coroa que me

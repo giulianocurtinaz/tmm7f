@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "198"
 title: "Clarão da lua, clareou as matas"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-198-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p>Clarão da lua, clareou as matas<br>E uma luzinha já brilhou no ar<br>É a espada de Jorge Guerreiro<br>Que é o

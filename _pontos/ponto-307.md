@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "307"
 title: "Quem quiser ver, que veja, auê"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-307-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p>Quem quiser ver, que veja, auê<br>Quem quiser ver, que veja, auá<br>Ele é negro feiticeiro<br>Que chegou pra

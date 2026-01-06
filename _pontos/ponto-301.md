@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "301"
 title: "Pele castigada, carapinha branca"
 category: "Pretos Velhos"
+
 ---
 
 <p>Pele castigada, carapinha branca<br>Gandola de renda caída na anca<br>Mãe Preta gandola de renda<br>Pele castigada,

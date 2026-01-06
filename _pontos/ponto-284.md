@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "284"
 title: "Pai Francisco"
 category: "Oriente"
 audios:
   - url: "/assets/audio/ponto-284-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
+
 ---
 
 <p><strong>Pai Francisco</strong></p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "193"
 title: "Ai vem Ogum em seu cavalo"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-193-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p>Ai vem Ogum em seu cavalo<br>Com sua espada<br>E sua lança de luz<br>Vem galopando<br>Vem a correr<br>Vem saravá Ogum

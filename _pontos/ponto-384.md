@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "384"
 title: "MACÁIA"
 category: "Oxóssi"
+
 ---
 
 <p>Adeus Treme-Terra, adeus<br>Sua banda lhe chama<br>Ele vai oló, ele vai oló<br>Nas folhas da Jurema<br>Na macaia de

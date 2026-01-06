@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "151"
 title: "Corisco"
 category: "Xangô"
+
 ---
 
 <p>Iansã estava sentada<br>Esperando o pai Xangô<br>Veio <strong>Corisco</strong>, veio Trovão<br>Seu filho não se

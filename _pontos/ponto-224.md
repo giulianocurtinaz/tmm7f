@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "224"
 title: "A sua corrente é tão forte"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-224-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>A sua corrente é tão forte<br>Que abalou o mundo inteiro<br>A sua corrente é tão forte<br>Que abalou o mundo inteiro

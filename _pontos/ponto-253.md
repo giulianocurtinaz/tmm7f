@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "253"
 title: "Ogum da Cachoeira"
 category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-253-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
+
 ---
 
 <p><strong>Ogum da Cachoeira</strong></p>

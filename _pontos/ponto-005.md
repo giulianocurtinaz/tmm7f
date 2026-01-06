@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "005"
 title: "HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”"
 category: "Oxalá"
+
 ---
 
 <p><strong>HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”</strong></p>

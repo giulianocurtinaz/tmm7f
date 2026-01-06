@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "020"
 title: "Joga flores no mar | bis"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-020-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>Joga flores no mar | bis<br>Bate com pé, pede com fé<br>Pra mãe Yemanjá<br>Joga flores no mar | bis<br>Quem tem fé

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "205"
 title: "Ogum cavaleiro da lua"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-205-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>Ogum cavaleiro da lua<br>Sua espada regente<br>Já se encontra no ar</p>

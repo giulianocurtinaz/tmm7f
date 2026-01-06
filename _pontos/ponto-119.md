@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "119"
 title: "Ai Jureminha, ai Jurema"
 category: "Iemanjá"
+
 ---
 
 <p>Ai Jureminha, ai Jurema<br>Sua flecha caiu serena Jurema<br>Dentro desse congá</p>

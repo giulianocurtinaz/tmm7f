@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "077"
 title: "Um diadema lá no céu brilhou"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-077-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>Um diadema lá no céu brilhou<br>A mata virgem veio iluminar<br>É de aruanda, é na lei de umbanda<br>Nosso rei Oxóssi

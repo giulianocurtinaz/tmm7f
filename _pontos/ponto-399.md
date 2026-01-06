@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "399"
 title: "Exaltação"
 category: "Oxalá"
+
 ---
 
 <p><strong>Exaltação</strong></p>

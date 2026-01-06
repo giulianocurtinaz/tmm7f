@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "094"
 title: "Corre, corre meu veado"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-094-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p>Corre, corre meu veado<br>O meu veado é corredor<br>Vai avisar lá na Jurema<br>Que o Pena Verde já chegou<br><br>Quem

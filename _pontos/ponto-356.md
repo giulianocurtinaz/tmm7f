@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "356"
 title: "Aí vem chegando Mãe Maria Benedita"
 category: "Pretos Velhos"
+
 ---
 
 <p>Aí vem chegando Mãe Maria Benedita<br>junto vem a Vovó Chica<br>Nossa mãe de salvação<br>Aí vem chegando<br>Todo o

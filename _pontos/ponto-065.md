@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "065"
 title: "Mamãe Oxum salve a sua cachoeira"
 category: "Oxum"
@@ -8,6 +8,7 @@ audios:
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
   - url: "/assets/audio/ponto-065-v2.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
+
 ---
 
 <p>Mamãe Oxum salve a sua cachoeira<br>Mamãe Oxum salve a sua cachoeira<br>Que vem descendo lá do alto da

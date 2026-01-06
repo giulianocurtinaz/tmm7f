@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "161"
 title: "Sao Miguel Arcanjo"
 category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-161-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p>Sao Miguel Arcanjo<br></p>

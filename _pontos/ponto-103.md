@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "103"
 title: "Tupinambá"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-103-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Tupinambá</strong></p>

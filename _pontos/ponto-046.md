@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "046"
 title: "Eu fiz um pedido a sublime Iemanjá"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-046-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p>Eu fiz um pedido a sublime Iemanjá<br>Rainha do sétimo céu<br>Mãe do divino Oxalá<br>A maior santa do mundo<br>Meu

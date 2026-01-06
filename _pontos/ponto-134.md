@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "134"
 title: "Na mata eu vi o sabiá cantar"
 category: "Oxóssi"
+
 ---
 
 <p>Na mata eu vi o sabiá cantar<br>Ai eu queria ver o sabiá cantando<br>Mas não era o sabiá<br>Era a cabocla

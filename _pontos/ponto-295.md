@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "295"
 title: "Xangô, Xangô"
 category: "Xangô"
 audios:
   - url: "/assets/audio/ponto-295-v1.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"
+
 ---
 
 <p>Xangô, Xangô<br>Vai me buscar, quem mora longe Xangô<br>Vai me buscar, e quem está na Angola Xangô<br>Vai me buscar,

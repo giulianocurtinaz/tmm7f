@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "231"
 title: "Que cavaleiro é aquele"
 category: "Ogum"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
   - url: "/assets/audio/ponto-231-v3.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>Que cavaleiro é aquele<br>Que vem galopando pelo céu azul<br>É seu Ogum Beira Mar<br>Ele é defensor do cruzeiro do

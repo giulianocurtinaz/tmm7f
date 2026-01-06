@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "129"
 title: "A mata estava tão linda"
 category: "Iemanjá"
+
 ---
 
 <p>A mata estava tão linda<br>Brilhava a luz do luar<br>A mata estava tão linda<br>Brilhava a luz do luar</p>

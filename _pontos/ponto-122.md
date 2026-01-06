@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "122"
 title: "É tão bonita a cabocla Jurema"
 category: "Oxóssi"
+
 ---
 
 <p>É tão bonita a cabocla Jurema<br>Nas matas de Oxóssi<br>Eu bem sei foi assim</p>

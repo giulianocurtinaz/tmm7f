@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "095"
 title: "Águia Branca"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
   - url: "/assets/audio/ponto-095-v2.ogg"
     caption: "Na voz de Aline (Mãe Maria)"
+
 ---
 
 <p><strong>Águia Branca</strong></p>

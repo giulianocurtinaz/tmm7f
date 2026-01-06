@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "382"
 title: "Pontos de Retirada"
 category: "Pretos Velhos"
+
 ---
 
 <p><strong>Pontos de Retirada</strong></p>

@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "126"
 title: "Jurema é flecheira"
 category: "Oxóssi"
+
 ---
 
 <p>Jurema é flecheira<br>A flecha não erra pontaria<br>Jurema, Jurema<br>Ela é flecheira de Mãe Maria</p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "359"
 title: "Cachimba"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-359-v1.ogg"
     caption: "Na voz de Cristiano ( Mãe Maria )"
+
 ---
 
 <p><strong>Cachimba</strong></p>

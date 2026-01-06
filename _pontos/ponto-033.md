@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "033"
 title: "Iara, Iara tem pena de nós tem dó"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-033-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p>Iara, Iara tem pena de nós tem dó<br>Se a volta do mundo é grande<br>Seu poder ainda é maior<br>Iara venceu

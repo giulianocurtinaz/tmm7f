@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "024"
 title: "Navio negreiro no meio do mar"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-024-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p>Navio negreiro no meio do mar<br>Correntes pesadas na areia a arrastadas<br>E a negra escrava tristonha a rezar<br>E

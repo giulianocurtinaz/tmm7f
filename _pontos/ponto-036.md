@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "036"
 title: "És nossa mãe Óh Iemanjá"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-036-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
+
 ---
 
 <p><br>A onda do mar levou, levou<br>Todos os orixás<br>Pro alto do mar sagrado<br>Pra festa de Iemanjá</p>

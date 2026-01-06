@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "326"
 title: "A escravatura terminou"
 category: "Pretos Velhos"
+
 ---
 
 <p>A escravatura terminou<br>Maria Conga da senzala se libertou<br>Salve o dia 13 de Maio<br>Data da libertação<br>Os

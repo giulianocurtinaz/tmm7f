@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "339"
 title: "Foi a fé em Oxalá que nos uniu"
 category: "Oxalá"
+
 ---
 
 <p>Foi a fé em Oxalá que nos uniu<br>E o desejo de todo irmão ajudar<br>Quando a semente de esperança<br>foi ao solo pra

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "364"
 title: "Defuma com as ervas da Jurema"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-364-v1.ogg"
     caption: "Na voz de Giuliano, Kátia e André ( 7 Flechas )"
+
 ---
 
 <p>Defuma com as ervas da Jurema<br>Defuma com arruda e guiné<br>Benjoim, alecrim e alfazema<br>Vamos defumar, filhos de

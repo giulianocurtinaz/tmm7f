@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "397"
 title: "Pedido e agradecimento especial por saúde espiritual"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-397-v1.ogg"
     caption: "Na voz de Suely Plein ( Ogum da Mata Virgem )"
+
 ---
 
 <p><strong>Pedido e agradecimento especial por saúde espiritual<br></strong></p>

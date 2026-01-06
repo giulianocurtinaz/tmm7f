@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "115"
 title: "Quem não conhece a linda cabocla Jurema"
 category: "Oxóssi"
+
 ---
 
 <p>Quem não conhece a linda cabocla Jurema<br>Ela é filha de Tupinambá ( bis )<br>Jurema tem o seu bodoque<br>Tem a sua

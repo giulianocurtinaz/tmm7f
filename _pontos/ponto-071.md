@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "071"
 title: "Na minha aldeia eu sou caboclo"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-071-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
+
 ---
 
 <p>Na minha aldeia eu sou caboclo<br>Sou rompe mato e arranca toco<br>Na minha aldeia lá na jurema<br>Não se faz nada

@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "177"
 title: "Caboclo Girassol"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-177-v2.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p><strong>Caboclo Girassol</strong></p>

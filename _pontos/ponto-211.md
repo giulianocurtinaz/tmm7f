@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "211"
 title: "Tem festa do terreiro"
 category: "Oxóssi"
+
 ---
 
 <p>Tem festa do terreiro<br>Tem festa no congá</p>

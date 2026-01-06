@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "367"
 title: "Vamos embora não fica ninguém"
 category: "Oxóssi"
+
 ---
 
 <p>Vamos embora não fica ninguém<br>E a Virgem do Rosário<br>Vai com nós também<br>E o Caboclo Treme-Terra<br>Que nos

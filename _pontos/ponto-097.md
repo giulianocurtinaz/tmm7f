@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "097"
 title: "Caboclo Arruda"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-097-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p><strong>Caboclo Arruda</strong></p>

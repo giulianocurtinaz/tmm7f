@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "170"
 title: "Caboclo Ventania"
 category: "Oxóssi"
+
 ---
 
 <p><strong>Caboclo Ventania</strong></p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "349"
 title: "Pai Belarmino"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-349-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
+
 ---
 
 <p><strong>Pai Belarmino</strong></p>

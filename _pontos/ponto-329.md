@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "329"
 title: "Maria Macambira"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-329-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Maria Macambira</strong></p>

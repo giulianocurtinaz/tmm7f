@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "219"
 title: "Ogum é São Jorge guerreiro"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-219-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>Ogum é São Jorge guerreiro<br>Vencedor de batalha em Humaitá<br>Ele é filho dileto de pai olorum<br>Sentinela

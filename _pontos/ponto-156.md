@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "156"
 title: "Bambaruê"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
   - url: "/assets/audio/ponto-156-v2.ogg"
     caption: "Na Voz de Rogério (Sete Ondas)"
+
 ---
 
 <p>Bambaruê<br>A terra é de jurema<br>O leão veio das matas<br>O seu grito é muito forte<br>Seu machado tem bom

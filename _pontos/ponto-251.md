@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "251"
 title: "Ogum de Ronda"
 category: "Ogum"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-251-v2.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Ogum de Ronda</strong></p>

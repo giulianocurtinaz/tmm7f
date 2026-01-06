@@ -1,10 +1,11 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "282"
 title: "Ori do Oriente"
 category: "Oriente"
 audios:
   - url: "/assets/audio/ponto-282-v1.ogg"
+
 ---
 
 <p><strong>Ori do Oriente</strong></p>

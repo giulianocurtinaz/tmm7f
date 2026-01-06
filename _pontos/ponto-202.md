@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "202"
 title: "Quatro santos nesta sala"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-202-v1.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"
+
 ---
 
 <p>Quatro santos nesta sala<br>E eu com a minha devoção<br>Num canto vejo São Pedro<br>No outro Santo Antônio<br>E no

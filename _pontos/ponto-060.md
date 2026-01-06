@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "060"
 title: "Abiguá"
 category: "Oxalá"
+
 ---
 
 <p><strong>Abiguá</strong></p>

@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "058"
 title: "Marinheiro"
 category: "Ogum"
+
 ---
 
 <p><strong>Marinheiro</strong></p>

@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "040"
 title: "Saravá sereia linda"
 category: "Iemanjá"
+
 ---
 
 <p>Saravá sereia linda<br>Saravá mãe Iemanjá<br>Vou chegar nas sete ondas<br>Com as bênçãos de Iemanjá<br>Mãe Iemanjá

@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "082"
 title: "Araguassú"
 category: "Oxum"
+
 ---
 
 <p><strong>Araguassú</strong></p>

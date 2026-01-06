@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "152"
 title: "Cariri"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-152-v1.ogg"
     caption: "Na voz de Sandra ( Ubirajara )"
+
 ---
 
 <p><br>Na beira do Cariri<br>Na beira do<strong> Cariri</strong><br>Eu encontrei Pai Xangô lá sentado<br>Com Iemanjá e

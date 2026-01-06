@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "092"
 title: "Caboclo Aimoré"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-092-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p><strong>Caboclo Aimoré</strong></p>

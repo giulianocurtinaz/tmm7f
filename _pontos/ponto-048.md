@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "048"
 title: "Desce oh mãe do teu reino dourado"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-048-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
+
 ---
 
 <p>Desce oh mãe do teu reino dourado<br>Olha seus filhos com teu divino amor<br>Abençoa e ampara na luta<br>Dai-nos

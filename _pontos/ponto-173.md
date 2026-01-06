@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "173"
 title: "Caboclo do Sol e da Lua"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-173-v2.ogg"
     caption: "Marcelo Ferreira ( Mãe Maria )"
+
 ---
 
 <p><strong>Caboclo do Sol e da Lua</strong></p>

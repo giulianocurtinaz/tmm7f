@@ -1,10 +1,11 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "093"
 title: "Pena Verde"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-093-v1.ogg"
+
 ---
 
 <p><strong>Pena Verde</strong></p>

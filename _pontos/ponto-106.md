@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "106"
 title: "Lá na mata tem guiné"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-106-v1.ogg"
     caption: "Na voz de Rosiclea ( 7 Flechas )"
+
 ---
 
 <p>Lá na mata tem guiné<br>Tupinambá se ajoelhou, oh, oh, oh<br>Com suas flechas na mão<br>Pedindo fora e proteção, oh,

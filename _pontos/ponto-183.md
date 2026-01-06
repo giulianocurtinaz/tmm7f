@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "183"
 title: "jacutá"
 category: "Iansã"
 audios:
   - url: "/assets/audio/ponto-183-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>Iansã ela é santa bárbara<br>Ela é dona do seu <strong>jacutá</strong><br>Auê, auê, auê<br>Segura o terreiro mamãe de

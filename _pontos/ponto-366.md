@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "366"
 title: "Ponto de Partida"
 category: "Oxóssi"
+
 ---
 
 <p><strong>Ponto de Partida</strong></p>

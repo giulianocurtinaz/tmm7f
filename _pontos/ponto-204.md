@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "204"
 title: "Estão batendo na porta"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-204-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>Estão batendo na porta<br>É São Jorge, o guerreiro<br>Ele vem de aruanda<br>Pra salvar este terreiro<br>Estão batendo

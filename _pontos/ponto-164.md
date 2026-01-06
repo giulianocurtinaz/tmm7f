@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "164"
 title: "Xangô e Ogum"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-164-v2.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"
+
 ---
 
 <p><strong>Xangô e Ogum</strong></p>

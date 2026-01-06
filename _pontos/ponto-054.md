@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "054"
 title: "Do manto de Nossa Senhora"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-054-v1.ogg"
     caption: "Na voz de Andréia e Cleber ( Pai João de Aruanda e 7 Flechas )"
+
 ---
 
 <p>Do manto de Nossa Senhora<br>Tirei um rosário de flores<br>Olha quem vem trabalhar<br>É o Sete Ondas, é o Sete

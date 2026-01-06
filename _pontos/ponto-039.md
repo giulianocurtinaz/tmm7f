@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "039"
 title: "Salve Iemanjá, salve Oxum e Nanã"
 category: "Iemanjá"
+
 ---
 
 <p>Salve Iemanjá, salve Oxum e Nanã<br>A mãe sereia nós vamos saudar<br>Oh me leva, me leva nas ondas grandes<br>Eu

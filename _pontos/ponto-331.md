@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "331"
 title: "Maria Tomé"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "Maria Inês CEPJA"
   - url: "/assets/audio/ponto-331-v2.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p><strong>Maria Tomé</strong></p>

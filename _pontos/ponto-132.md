@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "132"
 title: "arrebol"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
   - url: "/assets/audio/ponto-132-v2.ogg"
     caption: "Na voz de Aline - Dirigente Mãe Maria"
+
 ---
 
 <p>Moça bonita é a cabocla Jurema<br>Ele tem, ela tem seu diadema<br>Lá na aldeia, oh, lá na aldeia<br>Ela é a rainha da

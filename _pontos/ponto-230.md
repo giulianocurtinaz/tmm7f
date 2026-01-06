@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "230"
 title: "Ele é Ogum, ele vem do mar"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-230-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>Ele é Ogum, ele vem do mar<br>Trazendo as forças da mãe Iemanjá<br>Ele vem girando, pela beira do mar</p>

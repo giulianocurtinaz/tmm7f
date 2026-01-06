@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "023"
 title: "No murmúrio das ondas"
 category: "Iemanjá"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Aladir e Isaura ( Ogum Beira-Mar)"
   - url: "/assets/audio/ponto-023-v2.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>No murmúrio das ondas<br>Eu ouço um lindo cantar ( bis )<br>Da rainha sereia<br>Nossa Mãe Iemanjá ( bis )<br></p>

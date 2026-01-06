@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "158"
 title: "Bate, bate no tambor"
 category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-158-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p>Bate, bate no tambor<br>Bate, bate pra Xangô<br>Xangô é rei da justiça<br>Xangô é rei da pedreira<br>Xangô reforçou

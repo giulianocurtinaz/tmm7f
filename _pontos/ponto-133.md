@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "133"
 title: "Eu vou chamar a corrente de Jurema"
 category: "Oxóssi"
+
 ---
 
 <p>Eu vou chamar a corrente de Jurema<br>Ai vem a Jureminha, é Juremê e Juremá</p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "063"
 title: "Mamãe Oxum mamãe Oxum lá do infinito"
 category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-063-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
+
 ---
 
 <p>Mamãe Oxum mamãe Oxum lá do infinito<br>Ai vem ouvir ai vem ouvir os nossos prantos<br>Nós lhe imploramos toda graça

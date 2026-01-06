@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "255"
 title: "Ogum das Sete Ondas"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-255-v2.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda"
+
 ---
 
 <p><strong>Ogum das Sete Ondas</strong></p>

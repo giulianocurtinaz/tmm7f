@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "315"
 title: "Pai Joaquim"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-315-v1.ogg"
     caption: "Na voz de Yaralacy ( Selma Neri de Campos )"
+
 ---
 
 <p><strong>Pai Joaquim</strong></p>

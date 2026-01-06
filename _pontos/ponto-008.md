@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "008"
 title: "#OXALÁ"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-008-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <h2 class="wp-block-heading" id="oxala">#OXALÁ</h2>

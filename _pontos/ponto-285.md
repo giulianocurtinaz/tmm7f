@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "285"
 title: "PRETOS VELHOS"
 category: "Pretos Velhos"
+
 ---
 
 <p><strong>PRETOS VELHOS</strong></p>

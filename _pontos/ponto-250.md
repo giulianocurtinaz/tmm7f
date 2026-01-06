@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "250"
 title: "Ogum meu pai me disse"
 category: "Iemanjá"
+
 ---
 
 <p>Ogum meu pai me disse<br>Que o senhor não vale nada<br>Olha lá que eu sou Ogum<br>Rei das Sete Encruzilhadas</p>

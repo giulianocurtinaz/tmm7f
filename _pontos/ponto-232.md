@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "232"
 title: "Olha que lindo barquinho"
 category: "Ogum"
+
 ---
 
 <p>Olha que lindo barquinho<br>Que vem navegando em pleno luar<br>É de Ogum Sete Ondas<br>Que vem ao encontro de Ogum

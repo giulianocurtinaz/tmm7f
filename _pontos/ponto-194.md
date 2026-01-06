@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "194"
 title: "Ogum é guerreiro de umbanda"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-194-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p>Ogum é guerreiro de umbanda<br>Ele segura sua espada no ar<br>Ele ganhou uma lança de ouro<br>Porque venceu a guerra

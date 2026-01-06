@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "135"
 title: "Caboclo Arari"
 category: "Oxalá"
+
 ---
 
 <p><strong>Caboclo Arari</strong></p>

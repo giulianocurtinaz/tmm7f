@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "087"
 title: "Ubirajara"
 category: "Oxóssi"
@@ -10,6 +10,7 @@ audios:
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial"
   - url: "/assets/audio/ponto-087-v3.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial"
+
 ---
 
 <p><strong>Ubirajara</strong></p>

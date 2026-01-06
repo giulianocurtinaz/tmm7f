@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "377"
 title: "Jesus, Maria, São João e São José"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-377-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
+
 ---
 
 <p>Jesus, Maria, São João e São José<br>São Pedro abriu os céus<br>Para aqueles que tem fé<br>Óh São Miguel

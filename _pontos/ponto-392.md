@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "392"
 title: "Natal na Umbanda"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-392-v1.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p><strong>Natal na Umbanda</strong></p>

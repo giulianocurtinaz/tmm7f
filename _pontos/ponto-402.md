@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "402"
 title: "Ponto da Amizade"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-402-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
+
 ---
 
 <p><strong>Ponto da Amizade</strong></p>

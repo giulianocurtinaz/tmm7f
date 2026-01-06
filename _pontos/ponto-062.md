@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "062"
 title: "OXUM"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-062-v1.ogg"
     caption: "Na voz de Nilza e Cida ( Ubirajara )"
+
 ---
 
 <p><br><strong>OXUM</strong></p>

@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "372"
 title: "CHAMADA DE CABOCLOS"
 category: "Oxum"
+
 ---
 
 <p><strong>CHAMADA DE CABOCLOS</strong></p>

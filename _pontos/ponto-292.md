@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "292"
 title: "Preto velho pequenino"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-292-v1.ogg"
     caption: "Na voz de Juliane - Cambona ( Mãe Maria )"
+
 ---
 
 <p>Preto velho pequenino<br>Corre o mundo sem cessar<br>Na esperança de algum dia<br>Nosso Senhor encontrar<br>Na

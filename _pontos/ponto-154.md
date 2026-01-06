@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "154"
 title: "Kaô Cabecilê"
 category: "Xangô"
+
 ---
 
 <p>Xangô, Xangô meu pai Xangô<br>Kaô kabecile obá Xangô<br>Saravá Xangô, saravá Xangô<br>Xangô mora na pedreira<br>E

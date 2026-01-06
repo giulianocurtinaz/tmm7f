@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "241"
 title: "Ogum da Mata"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-241-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p><strong>Ogum da Mata</strong></p>

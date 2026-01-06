@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "032"
 title: "Iara"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-032-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p><strong>Iara</strong></p>

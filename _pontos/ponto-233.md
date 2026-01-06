@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "233"
 title: "Em seu cavalo branco"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-233-v1.ogg"
     caption: "Martina ( Mãe Maria )"
+
 ---
 
 <p>Em seu cavalo branco<br>Com sua espada<br>Ele é São Jorge Guerreiro<br>Com sua bandeira<br>Vem abençoar seus filhos

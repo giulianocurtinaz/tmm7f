@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "239"
 title: "Ogum Rompe Mato"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-239-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Ogum Rompe Mato</strong></p>

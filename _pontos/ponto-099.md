@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "099"
 title: "Paranga"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-099-v1.ogg"
     caption: "Na Voz de Giuliano (7 Flechas)"
+
 ---
 
 <p>Erêrê, erêrêrêrêrêrêrá<br>Erêrê, Caboclo Sete Flechas no congá</p>

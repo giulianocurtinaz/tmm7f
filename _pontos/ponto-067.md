@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "067"
 title: "Junco-Verde"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "na Voz de Kátia ( 7 Flechas )"
   - url: "/assets/audio/ponto-067-v2.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda"
+
 ---
 
 <p>Numa noite linda de lua cheia<br>Eu vi Oxum na cachoeira<br>E a mata inteira se iluminou<br>E a cachoeira onde Oxum

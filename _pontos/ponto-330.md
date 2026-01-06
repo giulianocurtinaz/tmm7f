@@ -1,10 +1,11 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "330"
 title: "Maria da Serra"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-330-v1.ogg"
+
 ---
 
 <p><strong>Maria da Serra</strong></p>

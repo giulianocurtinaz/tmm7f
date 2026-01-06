@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "218"
 title: "Vence demanda, ele tocou clarim"
 category: "Ogum"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
   - url: "/assets/audio/ponto-218-v2.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p>Vence demanda, ele tocou clarim<br>Venceu demanda, ele tocou clarim<br>Venceu demanda ao raiar do dia<br>Salve Ogum

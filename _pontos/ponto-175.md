@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "175"
 title: "Caboclo Serra Negra"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-175-v1.ogg"
     caption: "Na voz da Martinha - Cambona do Pai Bento ( Mãe Maria )"
+
 ---
 
 <p><strong>Caboclo Serra Negra</strong></p>

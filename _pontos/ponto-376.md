@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "376"
 title: "Abertura"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-376-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
+
 ---
 
 <p><strong>Abertura<br></strong></p>

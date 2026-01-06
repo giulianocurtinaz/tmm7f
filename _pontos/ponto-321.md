@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "321"
 title: "Vovó Rita"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-321-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p><br><strong>Vovó Rita</strong></p>

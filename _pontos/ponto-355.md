@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "355"
 title: "Benedito, Pai Benedito"
 category: "Pretos Velhos"
+
 ---
 
 <p>Benedito, Pai Benedito<br>Preto velho de umbanda<br>Adverte quem é do seu rito<br>Não se envolve na quimbanda</p>

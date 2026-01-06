@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "006"
 title: "HINO DA TERREIRA DE MÃE MARIA"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-006-v1.ogg"
     caption: "Na voz de Aline ( Diretora da Mãe Maria )"
+
 ---
 
 <p><strong>HINO DA TERREIRA DE MÃE MARIA</strong></p>

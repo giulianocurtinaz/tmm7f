@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "049"
 title: "Sete Ondas"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-049-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
+
 ---
 
 <p><strong>Sete Ondas</strong></p>

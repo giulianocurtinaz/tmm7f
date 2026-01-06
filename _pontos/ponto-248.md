@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "248"
 title: "Ogum da Lua"
 category: "Ogum"
@@ -8,6 +8,7 @@ audios:
     caption: "Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-248-v2.ogg"
     caption: "Rogério - Sete Ondas"
+
 ---
 
 <p><strong>Ogum da Lua</strong></p>

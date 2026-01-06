@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "018"
 title: "Foi Zambi que criou o mundo"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-018-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
+
 ---
 
 <p>Foi Zambi que criou o mundo<br>E é Zambi que vai comandar<br>Foi Zambi que criou a estrela<br>Que ilumina a todos os

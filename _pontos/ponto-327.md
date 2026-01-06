@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "327"
 title: "Tumbeiro tumbeiro lembrança da escravidão"
 category: "Iansã"
 audios:
   - url: "/assets/audio/ponto-327-v1.ogg"
     caption: "Na voz de Alcimar (Terreira de Ogum de Ronda)"
+
 ---
 
 <p>Tumbeiro tumbeiro lembrança da escravidão.<br>Tristeza corpo doído senzala de pé no chão.<br>Quanto já sofreu o

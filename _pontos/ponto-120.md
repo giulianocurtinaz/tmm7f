@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "120"
 title: "Jurema, sua flecha brilhou Jurema"
 category: "Oxóssi"
+
 ---
 
 <p>Jurema, sua flecha brilhou Jurema<br>Quando sua flecha atirou Jurema<br>E quando essa flecha subiu<br>Ô Jurema

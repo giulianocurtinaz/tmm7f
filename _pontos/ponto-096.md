@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "096"
 title: "Sete Encruzilhadas"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-096-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p><strong>Sete Encruzilhadas</strong></p>

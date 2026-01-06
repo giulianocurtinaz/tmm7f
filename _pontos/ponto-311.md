@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "311"
 title: "Rei Congo"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-311-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Rei Congo</strong></p>

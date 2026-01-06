@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "335"
 title: "Pai Domingos, cadê Pai Domingos"
 category: "Oxóssi"
+
 ---
 
 <p>Pai Domingos, cadê Pai Domingos<br>Veio lá das matas pitando cachimbo<br>Pai Domingos, cadê Pai Domingos<br>Veio lá

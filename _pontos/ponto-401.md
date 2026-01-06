@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "401"
 title: "Hino dos Orixás"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-401-v1.ogg"
     caption: "Na voz de Martinha ( Mã Maria )"
+
 ---
 
 <p><strong>Hino dos Orixás<br></strong><br>Penso no dia que logo vai nascer<br>E o meu peito se enche de emoção<br>A

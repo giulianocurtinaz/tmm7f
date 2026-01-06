@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "149"
 title: "Ele bradou na aldeia"
 category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-149-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"
+
 ---
 
 <p>Ele bradou na aldeia<br>Bradou na cachoeira em noite de Luar<br>No alto da pedreira<br>Vai fazer justiça<br>Pra nos

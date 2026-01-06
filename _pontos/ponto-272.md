@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "272"
 title: "Enfeitei meu jardim de rosas brancas"
 category: "Oxalá"
+
 ---
 
 <p>Enfeitei meu jardim de rosas brancas<br>Violetas, miosótis e as flores do manacá<br>E entreguei em oferenda aos

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "378"
 title: "Deus que salve os nossos guias"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-378-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
+
 ---
 
 <p>Deus que salve os nossos guias<br>Pela glória deste dia<br>Eu venho a ti pedir a jesus<br>E a nossa mãe maria<br>Que

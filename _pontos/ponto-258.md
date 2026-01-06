@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "258"
 title: "Cosme e Damião"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-258-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
 
 <p>Cosme e Damião<br>Crianças que contam conchinhas lá na beira do mar<br>Crianças que contam conchinhas ouvindo a

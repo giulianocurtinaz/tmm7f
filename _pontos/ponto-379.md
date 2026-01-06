@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "379"
 title: "Encerramento"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-379-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <h1 class="wp-block-heading"><strong>Encerramento</strong></h1>

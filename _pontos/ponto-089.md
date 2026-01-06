@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "089"
 title: "Pena Branca"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
   - url: "/assets/audio/ponto-089-v2.ogg"
     caption: "Na voz de Aline - Dirigente Mãe Maria"
+
 ---
 
 <p><strong>Pena Branca</strong></p>

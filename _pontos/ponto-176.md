@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "176"
 title: "Caboclo da Pedra"
 category: "Oxalá"
+
 ---
 
 <p><strong>Caboclo da Pedra<br></strong></p>

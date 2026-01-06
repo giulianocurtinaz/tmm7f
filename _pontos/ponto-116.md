@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "116"
 title: "Jurema do juremeiro"
 category: "Oxalá"
+
 ---
 
 <p>Jurema do juremeiro<br>Do reino de juemá<br>Jurema ela é flecheira<br>E mensageira de Oxalá</p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "004"
 title: "ASSOC. DOS UMBANDISTAS DE CANOAS"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-004-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"
+
 ---
 
 <p></p>

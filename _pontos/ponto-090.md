@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "090"
 title: "Como é lindo o romper do dia"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-090-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p>Como é lindo o romper do dia<br>Na sua aldeia canta a passarada<br>Mas como é lindo o pai Pena Branca<br>Com seu

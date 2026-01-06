@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "044"
 title: "Oh Virgem Maria"
 category: "Pretos Velhos"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Manuelly ( Pai João de Aruanda e Sete Flechas )"
   - url: "/assets/audio/ponto-044-v3.ogg"
     caption: "Na voz de Kátia ( 7 flechas )"
+
 ---
 
 <p>Oh Virgem Maria<br>Como és linda flor<br>Celeste harmonia<br>Dulcíssimo amor</p>

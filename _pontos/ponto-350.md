@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "350"
 title: "Mãe Maria da Estrada"
 category: "Pretos Velhos"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-350-v2.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Mãe Maria da Estrada</strong></p>

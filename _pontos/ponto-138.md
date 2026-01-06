@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "138"
 title: "XANGÔ"
 category: "Xangô"
+
 ---
 
 <h3 class="wp-block-heading" id="xango">#<strong>XANGÔ</strong></h3>

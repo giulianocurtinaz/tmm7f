@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "168"
 title: "Caboclo do Vento"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-168-v2.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"
+
 ---
 
 <p><strong>Caboclo do Vento</strong></p>

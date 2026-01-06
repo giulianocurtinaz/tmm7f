@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "337"
 title: "Pai Jerônimo"
 category: "Pretos Velhos"
+
 ---
 
 <p><strong>Pai Jerônimo</strong></p>

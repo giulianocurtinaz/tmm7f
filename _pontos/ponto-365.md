@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "365"
 title: "Olorum"
 category: "Oxóssi"
+
 ---
 
 <p><strong>Olorum</strong></p>

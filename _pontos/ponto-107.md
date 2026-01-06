@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "107"
 title: "Tupimirim"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-107-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
+
 ---
 
 <p><strong>Tupimirim</strong></p>

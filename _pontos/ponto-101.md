@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "101"
 title: "Atrás daquela serra tem sete coqueiros"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-101-v1.ogg"
     caption: "Na voz de Cleber e Manuéllu ( Pai João e Sete Flechas )"
+
 ---
 
 <p>Atrás daquela serra tem sete coqueiros<br>Tem sete cobras todas a piar<br>Atrás daquela serra tem sete

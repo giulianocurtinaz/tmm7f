@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "112"
 title: "Jurema"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-112-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"
+
 ---
 
 <p><strong>Jurema</strong></p>

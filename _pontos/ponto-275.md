@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "275"
 title: "POVO DO ORIENTE"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "na Voz de Kátia ( 7 Flechas )"
   - url: "/assets/audio/ponto-275-v2.ogg"
     caption: "Na voz de Juliane - Cambona ( Mãe Maria )"
+
 ---
 
 <p><strong>POVO DO ORIENTE</strong></p>

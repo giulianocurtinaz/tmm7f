@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "352"
 title: "Pai Bento, Pai Bento"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-352-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"
+
 ---
 
 <p>Pai Bento, Pai Bento<br>que veio de Aruanda<br>Fumando sua cachimba<br>Pra saudar filhos de Umbanda<br>Pai Bento

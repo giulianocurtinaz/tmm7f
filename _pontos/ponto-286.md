@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "286"
 title: "Nego Juca"
 category: "Pretos Velhos"
+
 ---
 
 <p><strong>Nego Juca</strong></p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "362"
 title: "Defumação"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-362-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p><strong>Defumação</strong></p>

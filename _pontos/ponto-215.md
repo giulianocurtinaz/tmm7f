@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "215"
 title: "Zélio Fernandino de Moraes"
 category: "Ogum"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-215-v2.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p>Pisa na linha de umbanda<br>Que eu quero ver Ogum Sete Ondas<br>Pisa na linha de umbanda<br>Que eu quero ver Ogum

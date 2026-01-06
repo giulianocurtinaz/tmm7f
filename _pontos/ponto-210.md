@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "210"
 title: "Saravá, saravá São Jorge"
 category: "Ogum"
+
 ---
 
 <p>Saravá, saravá São Jorge<br>Salve seu brado varonil<br>Saravá, saravá São Jorge<br>É ele o padroeiro do Brasil</p>

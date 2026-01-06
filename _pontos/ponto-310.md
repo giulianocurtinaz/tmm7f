@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "310"
 title: "Pai Sebastião"
 category: "Ogum"
+
 ---
 
 <p><strong>Pai Sebastião</strong></p>

@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "079"
 title: "Daodé"
 category: "Oxalá"
+
 ---
 
 <p>Oxalá Velhinho!<br>Oxalá daodé!<br>Oxalá da Urumilaia,<br>Oxalá é dá Umbanda!<br><br>Oxalá é da Umbanda<br>Quando

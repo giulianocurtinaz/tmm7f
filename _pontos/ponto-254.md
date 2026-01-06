@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "254"
 title: "Ogum Timbiri"
 category: "Ogum"
+
 ---
 
 <p><strong>Ogum Timbiri</strong></p>

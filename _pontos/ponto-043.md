@@ -1,7 +1,8 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "043"
-title: "---"
+title: "'"
+---"
 category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-043-v1.ogg"

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "334"
 title: "Pai Domingos"
 category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-334-v1.ogg"
     caption: "Maria Inês CEPJA"
+
 ---
 
 <p><strong>Pai Domingos</strong></p>

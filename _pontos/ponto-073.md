@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "073"
 title: "Caboclo roxo, da pele morena"
 category: "Oxóssi"
+
 ---
 
 <p>Caboclo roxo, da pele morena<br>Ele é Oxóssi, caçador lá da Jurema<br>Ele jurou e ele jurará<br>Aceitar os conselhos

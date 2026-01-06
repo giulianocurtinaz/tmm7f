@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "341"
 title: "NEGA MINA"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-341-v1.ogg"
     caption: "Na voz de Suely ( Ogum da Mata Virgem )"
+
 ---
 
 <p style="font-size:17px"><strong>NEGA MINA</strong> <br>( Preta velha recebida pela Dirigente Suely )</p>

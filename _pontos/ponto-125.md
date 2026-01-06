@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "125"
 title: "A lua veio iluminou a mata virgem"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-125-v1.ogg"
     caption: "Na voz de Rosiclea ( 7 Flechas )"
+
 ---
 
 <p>A lua veio iluminou a mata virgem<br>Iluminou a linda cabocla Jurema<br>Chegou a hora do revoar dos

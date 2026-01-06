@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "145"
 title: "Kaô, kaô Xangô"
 category: "Oxóssi"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Victor Fernandes ( Terreira Ubirajara )"
   - url: "/assets/audio/ponto-145-v2.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p>Kaô, kaô Xangô<br>Xangô vem me ajudar</p>

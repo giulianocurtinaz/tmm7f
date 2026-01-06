@@ -1,8 +1,9 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "128"
 title: "O vento está soprando nas matas"
 category: "Oxóssi"
+
 ---
 
 <p>O vento está soprando nas matas<br>Jogando as folhas da Jurema no chão<br>O vento está soprando, as flohas vão

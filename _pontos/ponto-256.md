@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "256"
 title: "COSME E DAMIÃO"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-256-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
+
 ---
 
 <p><strong>COSME E DAMIÃO</strong></p>

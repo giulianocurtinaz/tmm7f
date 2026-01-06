@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "069"
 title: "Coração de mãe"
 category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-069-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
+
 ---
 
 <p>Coração de mãe<br>Grande coração<br>Oh mamãe Oxum<br>Oh Virgem da Conceição</p>

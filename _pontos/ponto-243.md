@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "243"
 title: "CACOBLO OGUM DA MATA VIRGEM"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-243-v1.ogg"
     caption: "Na voz de seu aparelho - Suely Plein"
+
 ---
 
 <p><strong>CACOBLO OGUM DA MATA VIRGEM </strong></p>

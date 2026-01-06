@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "398"
 title: "Advertência"
 category: "Oxalá"
@@ -8,6 +8,7 @@ audios:
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"
   - url: "/assets/audio/ponto-398-v2.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"
+
 ---
 
 <p><strong>Advertência</strong></p>

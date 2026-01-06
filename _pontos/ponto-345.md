@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "345"
 title: "Tio Antonio"
 category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-345-v1.ogg"
     caption: "Na voz de Giuliano, Kátia e André ( 7 Flechas )"
+
 ---
 
 <p><strong>Tio Antonio</strong></p>

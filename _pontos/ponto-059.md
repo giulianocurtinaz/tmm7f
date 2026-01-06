@@ -1,5 +1,5 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "059"
 title: "Cabocla das Sete Ondas"
 category: "Iemanjá"
@@ -8,6 +8,7 @@ audios:
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
   - url: "/assets/audio/ponto-059-v2.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
+
 ---
 
 <p><strong>Cabocla das Sete Ondas</strong></p>

@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "057"
 title: "E a marola lá do mar"
 category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-057-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
+
 ---
 
 <p></p>

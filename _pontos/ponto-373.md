@@ -1,11 +1,12 @@
 ---
-layout: ponto
+layout: "ponto"
 id_ponto: "373"
 title: "HINO DO TEMPLO LUZ NO CAMINHO"
 category: "Oxóssi"
 audios:
   - url: "/assets/audio/ponto-373-v1.ogg"
     caption: "Na voz de seu diretor Pai Gilberto"
+
 ---
 
 <p><strong>HINO DO TEMPLO LUZ NO CAMINHO</strong></p>
