@@ -2,6 +2,7 @@
 layout: page
 title: "Orações Yorimá"
 date: 2020-01-22
+permalink: /oracoes-yorima/
 ---
 
 # Orações de 08 Maio 2019

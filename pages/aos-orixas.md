@@ -2,6 +2,7 @@
 layout: page
 title: "Aos Orixás"
 date: 2021-03-12
+permalink: /aos-orixas/
 ---
 
 **Oração aos Orixás.**

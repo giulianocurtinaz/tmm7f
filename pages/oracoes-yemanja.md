@@ -2,6 +2,7 @@
 layout: page
 title: "Orações Yemanjá"
 date: 2020-01-22
+permalink: /oracoes-yemanja/
 ---
 
 Que Pai Oxalá e Mãe Iemanjá guiem nossos pensamentos, atos e ações . Que nossas famílias sejam acolhidas no manto sagrado da Mãe Iemanjá. Que cada lar , cada pessoa possa receber a bênção da saúde física e mental neste momento de provação. É que todos recebam um raio de Luz, Fé e esperança por dias melhores. Assim seja! 🙏🏻😘 [Cristina - 24/03/2021]

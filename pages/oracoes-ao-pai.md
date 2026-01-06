@@ -2,6 +2,7 @@
 layout: page
 title: "Orações ao Pai"
 date: 2021-03-11
+permalink: /oracoes-ao-pai/
 ---
 
 Senhor! Sei que, nessa dimensão e em outras, a luta é constante para dominar os monstros internos . Contudo, o imperador é o egoísmo. Pois, ele alimenta os tantos outros existentes, até que se tornem gigantes, fechando portas e janelas. Mas, como a lei divina é maior que tudo ela sempre encontra uma fresta, para que sua luz possa adentrar. E assim, cutucar, incomodar e vibrar, para ser lembrada mesmo que seja através de sua sombra para que a sua transformação aconteça. E assim, rogo que a energia e a luz de Obatalá pulsem em todos os corações enfraquecidos. E principalmente, para o despertar da humildade, fazendo valer os reconhecimento de que necessitamos uns dos outros.
