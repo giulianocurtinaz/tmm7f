@@ -1,0 +1,10 @@
+---
+layout: ponto
+id_ponto: "254"
+title: "Ogum Timbiri"
+category: "Ogum"
+---
+
+<p><strong>Ogum Timbiri</strong></p>
+<p>Ogum é rei que não pede licença<br>Na sua aldeia, quando tem que chegar<br>Ogum é rei, é vencedor de demanda<br>Ogum
+    é Timbiri, Timbiri rei do mar<br>Ogum é Timbiri, Timbiri rei do mar</p>

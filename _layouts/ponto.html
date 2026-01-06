@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<div class="container main-content">
+    <div class="row">
+        <div class="col-md-8 offset-md-2">
+            <article class="post">
+                <header class="post-header">
+                    <small>ID: {{ page.id_ponto }} | Categoria: {{ page.category }}</small>
+                    <h1 class="post-title">{{ page.title }}</h1>
+                </header>
+                <div class="post-content">
+                    {{ content }}
+
+                    {% if page.audios %}
+                    <div class="audios mt-4">
+                        <h3>Áudios</h3>
+                        {% for audio in page.audios %}
+                        <figure class="wp-block-audio">
+                            <audio controls src="{{ audio.url | relative_url }}"></audio>
+                            {% if audio.caption %}
+                            <figcaption>{{ audio.caption }}</figcaption>
+                            {% endif %}
+                        </figure>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+                </div>
+                <div class="mt-4">
+                    <a href="{{ '/pontos-cantados/' | relative_url }}" class="btn btn-outline-primary">&larr; Voltar
+                        para a lista</a>
+                </div>
+            </article>
+        </div>
+    </div>
+</div>

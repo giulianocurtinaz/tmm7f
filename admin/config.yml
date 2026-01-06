@@ -1,0 +1,36 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+collections:
+  - name: "pontos"
+    label: "Pontos Cantados"
+    folder: "_pontos"
+    create: true
+    media_folder: "assets/audio"
+    public_folder: "/assets/audio"
+    slug: "ponto-{{id_ponto}}"
+    fields:
+      - {label: "ID Ponto", name: "id_ponto", widget: "string"}
+      - {label: "Categoria", name: "category", widget: "select", options: ["Hinos", "Oxalá", "Iemanjá", "Oxum", "Oxóssi", "Xangô", "Iansã", "Ogum", "Pretos Velhos", "Oriente", "Diversos"]}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Letra", name: "body", widget: "markdown"}
+      - {label: "Áudios", name: "audios", widget: "list", fields: [
+          {label: "URL do Áudio", name: "url", widget: "file"},
+          {label: "Legenda", name: "caption", widget: "string", required: false}
+        ]}
+
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Data", name: "date", widget: "datetime"}
+      - {label: "Imagem de Capa", name: "image", widget: "image", required: false}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
