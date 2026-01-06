@@ -30,14 +30,14 @@ title: Home
 
 <!-- Welcome Message
 ================================================== -->
-{% assign welcome_page = site.pages | where: "slug", "bem-vindo-a-terreira-de-mae-maria-fraternidade-sete-flechas" |
-first %}
-{% if welcome_page %}
-<section class="welcome-section mb-5">
-    <div class="container">
-        {{ welcome_page.content | markdownify }}
+{% assign welcome_content = site.pages | where: "path",
+"pages/bem-vindo-a-terreira-de-mae-maria-fraternidade-sete-flechas.md" | first %}
+{% if welcome_content %}
+<section class="welcome-text" style="margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
+    <h1>{{ welcome_content.title }}</h1>
+    <div class="content">
+        {{ welcome_content.content | markdownify }}
     </div>
-    <hr>
 </section>
 {% endif %}
 
