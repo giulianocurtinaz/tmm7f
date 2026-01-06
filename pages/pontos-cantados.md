@@ -1,15 +1,11 @@
+```
 ---
 layout: page
-title: "Pontos Cantados"
+title: Pontos Cantados
+permalink: /pontos-cantados/
 date: 2021-03-14
 image: ""
 ---
-Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras gerações que dirigirão nossos terreiros no futuro. Senti a necessidade de publicar esse riquíssimo material desenvolvido em 2007 pelos nossos amigos Darcy Dias da Silveira e Alcimar Bairros Pereira.
-
-
-
-
-
 Nossos irmão foram muito felizes ao reunirem em um único livro os pontos cantados por nossas terreiras. **O objetivo agora, é dar continuidade a esse trabalho, enaltecendo o passado e construindo o futuro**. 
 
 

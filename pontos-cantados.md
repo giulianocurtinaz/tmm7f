@@ -3,7 +3,7 @@ layout: page
 title: Pontos Cantados
 permalink: /pontos-cantados/
 ---
-<header id="introducao-site">
+<header>
 <p>Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras gerações que dirigirão nossos
     terreiros no futuro. Senti a necessidade de publicar esse riquíssimo material desenvolvido em 2007 pelos nossos
     amigos Darcy Dias da Silveira e Alcimar Bairros Pereira.</p>
