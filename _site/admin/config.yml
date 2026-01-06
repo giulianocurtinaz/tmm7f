@@ -1,9 +1,6 @@
 backend:
-  name: github
-  repo: giulianocurtinaz/tmm7f
+  name: git-gateway
   branch: main
-  base_url: https://api.decapcms.org
-  auth_endpoint: auth
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
