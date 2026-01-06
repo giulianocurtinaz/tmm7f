@@ -103,3 +103,11 @@ date: 2020-05-13
 
 
 [Confira nossas orações.]({{ '/oracoes-yemanja/' | relative_url }})
+
+<br>
+<hr>
+<p style="text-align: center;">
+  <strong>Destaque:</strong> <a href="{{ '/assets/pdf/guia-rapido-umbandista.pdf' | relative_url }}" target="_blank">Baixe o Guia Rápido Umbandista</a>
+</p>
+
+<!-- rebuild: 2026-01-05-fix-guia-link -->
