@@ -4,7 +4,7 @@ title: A nossa cultura
 permalink: /nossa-cultura/
 ---
 
-![Image](https://terreira6d2a4f868b.wordpress.com/wp-content/uploads/2025/10/ubirajara.png?w=750)
+![Image]({{ '/assets/images/2025-10-ubirajara.png' | relative_url }})
 
 Iniciou-se hoje, em 17/10/2025, um projeto de pesquisa e resgate de valores  por vezes perdidos no tempo.
 
