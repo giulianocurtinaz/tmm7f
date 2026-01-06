@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  site_url: https://bejewelled-druid-0f2b51.netlify.app
+  site_domain: bejewelled-druid-0f2b51.netlify.app
   branch: main
 
 media_folder: "assets/images"
