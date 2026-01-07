@@ -1,10 +1,12 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "285"
 ordenacao: 285
-category: "Pretos Velhos"
 title: "PRETOS VELHOS"
+category: "Pretos Velhos"
+
 ---
+
 <p><strong>PRETOS VELHOS</strong></p>
 <p>Preto-Velho vem chegando<br>vem chegando, vem chegando no congá<br>Preto-Velha vem chegando<br>vem chegando, vem
     chegando no congá</p>
@@ -12,9 +14,3 @@ title: "PRETOS VELHOS"
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
-
-
-
-
-
-

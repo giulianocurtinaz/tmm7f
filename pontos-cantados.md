@@ -72,18 +72,17 @@ permalink: /pontos-cantados/
       <button class="filter-btn active" onclick="filterPoints('all', this)">✨ Todos</button>
       <button class="filter-btn no-audio-btn" onclick="filterPoints('no-audio', this)" style="border-color: #ff9800; color: #e65100;">⚠️ Sem Áudio</button>
       <hr style="margin: 10px 0; border: 0; border-top: 1px solid #ddd;">
-      <button class="filter-btn" onclick="filterPoints('hinos', this)">📜 Hinos</button>
-      <button class="filter-btn" onclick="filterPoints('oxala', this)">🕊️ Oxalá</button>
-      <button class="filter-btn" onclick="filterPoints('iemanja', this)">🌊 Iemanjá</button>
-      <button class="filter-btn" onclick="filterPoints('oxum', this)">🍯 Oxum</button>
-      <button class="filter-btn" onclick="filterPoints('oxossi', this)">🏹 Oxóssi</button>
-      <button class="filter-btn" onclick="filterPoints('xango', this)">⚒️ Xangô</button>
-      <button class="filter-btn" onclick="filterPoints('iansa', this)">⚡ Iansã</button>
-      <button class="filter-btn" onclick="filterPoints('ogum', this)">⚔️ Ogum</button>
-      <button class="filter-btn" onclick="filterPoints('cosme', this)">🍭 Cosme</button>
-      <button class="filter-btn" onclick="filterPoints('pretos-velhos', this)">☕ Pretos Velhos</button>
-      <button class="filter-btn" onclick="filterPoints('oriente', this)">🕌 Oriente</button>
-      <button class="filter-btn" onclick="filterPoints('especificos', this)">🌀 Específicos</button>
+      <button class="filter-btn" onclick="filterPoints('Hinos', this)">📜 Hinos</button>
+      <button class="filter-btn" onclick="filterPoints('Oxalá', this)">🕊️ Oxalá</button>
+      <button class="filter-btn" onclick="filterPoints('Iemanjá', this)">🌊 Iemanjá</button>
+      <button class="filter-btn" onclick="filterPoints('Oxum', this)">🍯 Oxum</button>
+      <button class="filter-btn" onclick="filterPoints('Oxóssi', this)">🏹 Oxóssi</button>
+      <button class="filter-btn" onclick="filterPoints('Xangô', this)">⚒️ Xangô</button>
+      <button class="filter-btn" onclick="filterPoints('Iansã', this)">⚡ Iansã</button>
+      <button class="filter-btn" onclick="filterPoints('Ogum', this)">⚔️ Ogum</button>
+      <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">☕ Pretos Velhos</button>
+      <button class="filter-btn" onclick="filterPoints('Oriente', this)">🕌 Oriente</button>
+      <button class="filter-btn" onclick="filterPoints('Diversos', this)">🌀 Diversos</button>
     </nav>
   </aside>
 
@@ -91,11 +90,10 @@ permalink: /pontos-cantados/
 
 <div class="lista-pontos">
 
-<!-- Inicio Loop Dinamico: Adaptado para ler category e ordenar por id_ponto -->
-{% assign pontos_ordenados = site.pontos | sort: 'id_ponto' %}
+<!-- Inicio Loop Dinamico -->
+{% assign pontos_ordenados = site.pontos | sort: 'ordenacao' %}
 {% for ponto in pontos_ordenados %}
-  <!-- usa slugify para garantir match da categoria independente de acento -->
-  <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category | slugify }}">
+  <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category }}">
     <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
     <div class="letra">
       {{ ponto.content | markdownify }}
@@ -138,10 +136,8 @@ function filterPoints(category, btn) {
       point.style.display = hasAudio ? 'none' : 'block';
     } 
     else {
-      // Filtro por categoria normal com checagem de slug mais robusta
-      const pointCat = point.getAttribute('data-category');
-      // Comparação direta com slug
-      point.style.display = (pointCat === category) ? 'block' : 'none';
+      // Filtro por categoria normal
+      point.style.display = point.getAttribute('data-category') === category ? 'block' : 'none';
     }
   });
 

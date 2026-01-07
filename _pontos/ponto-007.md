@@ -1,10 +1,12 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "007"
 ordenacao: 7
-category: "Hinos"
 title: "TEMPLO DE UMBANDA PAI OXALÁ FRATERNIDADE OGUM DE RONDA"
+category: "Oxalá"
+
 ---
+
 <p><strong>TEMPLO DE UMBANDA PAI OXALÁ FRATERNIDADE OGUM DE RONDA</strong></p>
 <p>O negro nasceu escravo<br>Escravo o negro se criou<br>O negro morreu escravo<br>Só assim se libertou</p>
 <p>O tempo da escravidão<br>Não era um tempo de alegria<br>No tronco o açoite batia<br>Ferindo os nossos irmãos</p>
@@ -20,9 +22,3 @@ title: "TEMPLO DE UMBANDA PAI OXALÁ FRATERNIDADE OGUM DE RONDA"
     <figcaption class="wp-element-caption">Na voz de Alcimar Bairros Pereira (Terreira de Pai Oxalá Fat. Ogum de Ronda)
     </figcaption>
 </figure>
-
-
-
-
-
-

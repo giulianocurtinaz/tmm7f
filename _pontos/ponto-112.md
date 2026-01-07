@@ -1,13 +1,15 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "112"
 ordenacao: 112
-category: "Oxossi"
 title: "Jurema"
+category: "Oxalá"
 audios:
-  - url: /assets/audio/ponto-112-v1.ogg
+  - url: "/assets/audio/ponto-112-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"
+
 ---
+
 <p><strong>Jurema</strong></p>
 <p><strong>Hino de Jurema</strong></p>
 <p>Jurema, recebi o teu recado<br>Aqui estou atendendo o teu chamado<br>Aqui me tens diante de ti, de joelho a teus pés,
@@ -24,11 +26,3 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
-
-
-
-
-
-
-
-

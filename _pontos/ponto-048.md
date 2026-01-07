@@ -1,13 +1,15 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "048"
 ordenacao: 48
-category: "Iemanja"
 title: "Desce oh mãe do teu reino dourado"
+category: "Oxalá"
 audios:
-  - url: /assets/audio/ponto-048-v1.ogg
+  - url: "/assets/audio/ponto-048-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
+
 ---
+
 <p>Desce oh mãe do teu reino dourado<br>Olha seus filhos com teu divino amor<br>Abençoa e ampara na luta<br>Dai-nos
     força, saúde e vigor</p>
 <p>Que o clarão da justiça divina<br>Nossa estrada venha iluminar<br>Seremos náufragos no oceano da vida<br>Se a sua mão
@@ -16,11 +18,3 @@ audios:
     heróis no terreiro</p>
 <p>Agradecemos nossos mestres queridos<br>Que nos ajudam e ensinam a lutar<br>Com a bandeira de umbanda erguida<br>Para
     Deus e por Cristo brilhar</p>
-
-
-
-
-
-
-
-

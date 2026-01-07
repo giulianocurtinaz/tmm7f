@@ -1,12 +1,13 @@
-﻿---
+---
 layout: "ponto"
 id_ponto: "252"
 ordenacao: 252
 title: "Oxóssi assoviou lá no Humaitá"
-category: "Ogum"
+category: "Oxalá"
 audios:
   - url: "/assets/audio/ponto-252-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
+
 ---
 
 <p>Oxóssi assoviou lá no Humaitá<br>Oxóssi assoviou lá no Humaitá<br>Ogum que está de ronda<br>É cavaleiro de Oxalá</p>
@@ -16,6 +17,3 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
-
-
-

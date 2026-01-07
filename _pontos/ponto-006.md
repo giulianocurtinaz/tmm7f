@@ -1,13 +1,15 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "006"
 ordenacao: 6
-category: "Hinos"
 title: "HINO DA TERREIRA DE MÃE MARIA"
+category: "Pretos Velhos"
 audios:
-  - url: /assets/audio/ponto-006-v1.ogg
+  - url: "/assets/audio/ponto-006-v1.ogg"
     caption: "Na voz de Aline ( Diretora da Mãe Maria )"
+
 ---
+
 <p><strong>HINO DA TERREIRA DE MÃE MARIA</strong></p>
 <p>Mãe Maria, amanhã é um novo dia<br>Será sempre de alegria e de esplendor<br>Nós sabemos que a vida é harmonia<br>E
     por isso viveremos com amor</p>
@@ -24,8 +26,3 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
-
-
-
-
-

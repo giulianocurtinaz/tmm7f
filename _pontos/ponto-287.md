@@ -1,13 +1,15 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "287"
 ordenacao: 287
-category: "Pretos Velhos"
 title: "Pai Bastião"
+category: "Pretos Velhos"
 audios:
-  - url: /assets/audio/ponto-287-v1.ogg
+  - url: "/assets/audio/ponto-287-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
+
 ---
+
 <p><strong>Pai Bastião</strong></p>
 <p>Hoje é dia de alegria<br>Dia de grande vibração<br>Vai chegar no terreiro de Ubirajara<br>Preto-velho Pai Bastião</p>
 <p>Hoje é dia de alegria<br>Dia de grande vibração<br>Chegou no terreiro de Ubirajara<br>Preto-velho Pai Bastião</p>
@@ -16,10 +18,3 @@ audios:
         trabalhar nas sextas-feiras no Terreiro de Ubirajara!</li>
     
 </ul>
-
-
-
-
-
-
-

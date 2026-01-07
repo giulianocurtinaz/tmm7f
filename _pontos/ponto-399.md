@@ -1,10 +1,12 @@
-﻿---
-layout: ponto
+---
+layout: "ponto"
 id_ponto: "399"
 ordenacao: 399
-category: "Especificos"
 title: "Exaltação"
+category: "Oxalá"
+
 ---
+
 <p><strong>Exaltação</strong></p>
 <p>Saravá, saravá, saravá<br>Com ramos floridos de luz<br>Povo do Mar<br>Acaba de chegar<br>Com as bênçãos e as graças
     de Jesus</p>
@@ -15,10 +17,3 @@ title: "Exaltação"
     blocos<br>A alma do índio brasileiro</p>
 <p>Saravá, saravá, saravá<br>Saravá Ondinas<br>Que emergem das águas do mar<br>Respeita a lei divina<br>Mãe Iara vamos
     saudar<br>Mãe Iara vamos saudar</p>
-
-
-
-
-
-
-

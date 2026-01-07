@@ -1,10 +1,10 @@
-﻿---
+---
 layout: "ponto"
 id_ponto: "043"
 ordenacao: 43
 title: "'"
 ---"
-category: "Iemanja"
+category: "Iemanjá"
 audios:
   - url: "/assets/audio/ponto-043-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
@@ -21,7 +21,3 @@ audios:
     atrapalha<br>Nas ondas do mar tem fim<br>Nas ondas do mar se acalmam<br>Zum, Zum, Zum<br>Lá no meio do mar<br>Zum,
     Zum, Zum<br>Lá no meio do mar<br>Ajudai-me rainha do mar<br>Ajudai-me rainha do mar<br>Ajudai-me rainha do
     mar<br>Que vence na terra<br>E que vence no mar</p>
-
-
-
-
