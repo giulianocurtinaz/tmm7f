@@ -1,13 +1,12 @@
 ---
-layout: "ponto"
+layout: ponto
 id_ponto: "006"
-ordenacao: 6
-title: "HINO DA TERREIRA DE MÃE MARIA"
-category: "Hinos"
+ordenacao: 1.1
+category: Hinos
+title: HINO DA TERREIRA DE MÃE MARIA
 audios:
-  - url: "/assets/audio/ponto-006-v1.ogg"
-    caption: "Na voz de Aline ( Diretora da Mãe Maria )"
-
+  - url: /assets/audio/ponto-006-v1.ogg
+    caption: Na voz de Aline ( Diretora da Mãe Maria )
 ---
 
 <p><strong>HINO DA TERREIRA DE MÃE MARIA</strong></p>
