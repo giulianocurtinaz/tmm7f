@@ -3,7 +3,7 @@ layout: page
 title: Pontos Cantados
 permalink: /pontos-cantados/
 ---
-<header>
+
 <p>Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras gerações que dirigirão nossos
     terreiros no futuro. Senti a necessidade de publicar esse riquíssimo material desenvolvido em 2007 pelos nossos
     amigos Darcy Dias da Silveira e Alcimar Bairros Pereira.</p>
@@ -23,7 +23,7 @@ permalink: /pontos-cantados/
 <div class="wp-block-file"><a id="wp-block-file--media-0e316be2-8088-4e15-bd04-d392ec122271" href="https://terreira6d2a4f868b.files.wordpress.com/2021/03/pontos_cantados.pdf">Pontos_Cantados PDF</a><a href="https://terreira6d2a4f868b.files.wordpress.com/2021/03/pontos_cantados.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-0e316be2-8088-4e15-bd04-d392ec122271">Baixar</a></div>
 <p>Ajude-nos no desenvolvimento desse trabalho, entrando em contato pelo email terreira@maemariaseteflechas.com.br ou
     pelo Facebook.</p>
-</header>
+
 
 <style>
   /* Layout Base */
