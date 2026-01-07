@@ -64,22 +64,56 @@ permalink: /pontos-cantados/
   }
 </style>
 
-<div class="layout-container" style="display:block;">
+<div class="layout-container">
   
-  <div style="background: #ffeb3b; padding: 20px; font-weight: bold; font-size: 1.5em; text-align: center; margin-bottom: 20px;">
-    DEBUG: TOTAL DE PONTOS ENCONTRADOS: {{ site.pontos | size }}
-  </div>
+  <aside class="sidebar-filter">
+    <h3>Categorias</h3>
+    <nav class="filter-nav">
+      <button class="filter-btn active" onclick="filterPoints('all', this)">✨ Todos</button>
+      <button class="filter-btn no-audio-btn" onclick="filterPoints('no-audio', this)" style="border-color: #ff9800; color: #e65100;">⚠️ Sem Áudio</button>
+      <hr style="margin: 10px 0; border: 0; border-top: 1px solid #ddd;">
+      <button class="filter-btn" onclick="filterPoints('Hinos', this)">📜 Hinos</button>
+      <button class="filter-btn" onclick="filterPoints('Oxala', this)">🕊️ Oxalá</button>
+      <button class="filter-btn" onclick="filterPoints('Iemanja', this)">🌊 Iemanjá</button>
+      <button class="filter-btn" onclick="filterPoints('Oxum', this)">🍯 Oxum</button>
+      <button class="filter-btn" onclick="filterPoints('Oxossi', this)">🏹 Oxóssi</button>
+      <button class="filter-btn" onclick="filterPoints('Xango', this)">⚒️ Xangô</button>
+      <button class="filter-btn" onclick="filterPoints('Iansa', this)">⚡ Iansã</button>
+      <button class="filter-btn" onclick="filterPoints('Ogum', this)">⚔️ Ogum</button>
+      <button class="filter-btn" onclick="filterPoints('Cosme', this)">🍭 Cosme</button>
+      <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">☕ Pretos Velhos</button>
+      <button class="filter-btn" onclick="filterPoints('Oriente', this)">🕌 Oriente</button>
+      <button class="filter-btn" onclick="filterPoints('Especificos', this)">🌀 Específicos</button>
+    </nav>
+  </aside>
 
   <main class="content-points">
 
-    <div class="lista-pontos">
-      
-      <h3>Listagem Simples (Debug):</h3>
-      {% for p in site.pontos %} 
-        <p>{{ p.title }} (Categoria: {{ p.category }})</p>
-      {% endfor %}
+<div class="lista-pontos">
 
+<!-- Inicio Loop Dinamico -->
+{% assign pontos_ordenados = site.pontos | sort: 'ordenacao' %}
+{% for ponto in pontos_ordenados %}
+  <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category }}">
+    <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
+    <div class="letra">
+      {{ ponto.content | markdownify }}
+      {% if ponto.audios %}
+        {% for audio in ponto.audios %}
+        <figure class="wp-block-audio">
+          <audio controls src="{{ audio.url | relative_url }}"></audio>
+          {% if audio.caption %}
+          <figcaption class="wp-element-caption">{{ audio.caption }}</figcaption>
+          {% endif %}
+        </figure>
+        {% endfor %}
+      {% endif %}
     </div>
+  </article>
+{% endfor %}
+<!-- Fim Loop Dinamico -->
+
+</div>
   </main>
 </div>
 
