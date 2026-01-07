@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "114 Anos deUmbanda"
 date: 2022-11-13
 image: "assets/images/2022-11-capalivro.jpg"
 ---
 
-No dia 15 de Novembro de 2022 nossa amada Umbanda completará 114 anos ! Convido os amigos a conhecerem os detalhes da fundação da nossa religião através da leitura da Obra **[Origens da Umbanda](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)** do autor Padrinho Juruá.
+No dia 15 de Novembro de 2022 nossa amada Umbanda completará 114 anos ! Convido os amigos a conhecerem os detalhes da fundação da nossa religião através da leitura da Obra **[Origens da Umbanda](/assets/images/2021-02-as-origens-da-umbanda-i.pdf)** do autor Padrinho Juruá.
 
 
 
@@ -143,4 +143,4 @@ Mais livros gratuitos do Padrinho Juruá (Templo Estrela Azul): [https://teazul
 
 
 
-[https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf?force_download=true](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)
+[https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf?force_download=true](/assets/images/2021-02-as-origens-da-umbanda-i.pdf)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Benzedura da Sexta-feira Santa! Benzedura da Vovó Faustina!!!"
 date: 2021-04-01
@@ -9,4 +9,4 @@ Hoje completamos 1 ano de Lives em nosso canal no YouTube! Quem diria que iríam
 
 
 
-[![](/tmm7f/assets/images/2021-04-vovofaustina.jpeg)](https://youtu.be/lxpfUzDTgNM)[https://youtu.be/lxpfUzDTgNM](https://youtu.be/lxpfUzDTgNM)
+[![](/assets/images/2021-04-vovofaustina.jpeg)](https://youtu.be/lxpfUzDTgNM)[https://youtu.be/lxpfUzDTgNM](https://youtu.be/lxpfUzDTgNM)

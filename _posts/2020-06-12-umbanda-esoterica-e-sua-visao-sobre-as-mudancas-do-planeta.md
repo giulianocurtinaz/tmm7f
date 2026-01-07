@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Umbanda esotérica e sua visão sobre as mudanças do planeta"
 date: 2020-06-12
@@ -21,8 +21,8 @@ Clique na imagem para abrir o vídeo!
 
 
 
-[roteiro_12_junho](/tmm7f/assets/images/2020-06-roteiro12junho.pdf)[](/tmm7f/assets/images/2020-06-roteiro12junho.pdf)
+[roteiro_12_junho](/assets/images/2020-06-roteiro12junho.pdf)[](/assets/images/2020-06-roteiro12junho.pdf)
 
 
 
-[![](/tmm7f/assets/images/2020-06-202006111833193945582278888725748.jpg)](https://www.youtube.com/watch?v=lU2mMRWA4f0)[https://youtu.be/lU2mMRWA4f0](https://youtu.be/lU2mMRWA4f0)
+[![](/assets/images/2020-06-202006111833193945582278888725748.jpg)](https://www.youtube.com/watch?v=lU2mMRWA4f0)[https://youtu.be/lU2mMRWA4f0](https://youtu.be/lU2mMRWA4f0)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Salve Oxum!"
 date: 2023-02-05
@@ -21,24 +21,24 @@ Entregamos nossas oferendas ( pétalas de rosas brancas ) à nossa Mãe! O caboc
 
 
 
-![](/tmm7f/assets/images/2023-02-img-20230205-wa00282928462497936006336.jpg)
+![](/assets/images/2023-02-img-20230205-wa00282928462497936006336.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-02-img-20230205-wa00296698412902814649619.jpg)
+![](/assets/images/2023-02-img-20230205-wa00296698412902814649619.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-02-img-20230205-wa00313892792898286705812.jpg)
+![](/assets/images/2023-02-img-20230205-wa00313892792898286705812.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-02-img-20230205-wa00302258320217156397001.jpg)
+![](/assets/images/2023-02-img-20230205-wa00302258320217156397001.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-02-img-20230205-wa00277179708878670392572.jpg)
+![](/assets/images/2023-02-img-20230205-wa00277179708878670392572.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-02-202302050817287994113306954104165.jpg)
+![](/assets/images/2023-02-202302050817287994113306954104165.jpg)

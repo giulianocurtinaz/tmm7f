@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Sexta-Feira Santa e A benção da quarentena. Live 10/4."
 date: 2020-04-10
@@ -87,7 +87,7 @@ Segue também roteiro impresso para melhor acompanhamento do vídeo:
 
 
 
-[doc-roteiro-sexta-feita-santa](/tmm7f/assets/images/2020-04-doc-roteiro-sexta-feita-santa.docx)[Baixar](/tmm7f/assets/images/2020-04-doc-roteiro-sexta-feita-santa.docx)
+[doc-roteiro-sexta-feita-santa](/assets/images/2020-04-doc-roteiro-sexta-feita-santa.docx)[Baixar](/assets/images/2020-04-doc-roteiro-sexta-feita-santa.docx)
 
 
 
@@ -97,4 +97,4 @@ https://youtu.be/Pc0C5neMwD4
 
 
 
-![](/tmm7f/assets/images/2020-05-capa.jpg)
+![](/assets/images/2020-05-capa.jpg)

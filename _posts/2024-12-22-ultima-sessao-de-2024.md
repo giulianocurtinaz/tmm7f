@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Última Sessão de 2024!"
 date: 2024-12-22
@@ -26,4 +26,4 @@ Até breve!
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-22-as-12.05.5247b0ac90.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-22-as-12.05.5247b0ac90.jpg)

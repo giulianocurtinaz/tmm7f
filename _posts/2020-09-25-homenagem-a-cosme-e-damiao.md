@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem à Cosme e Damião!"
 date: 2020-09-25
@@ -9,4 +9,4 @@ Singela e Emocionante homenagem aos protetores das crianças! Vamos juntos evoca
 
 
 
-[![](/tmm7f/assets/images/2020-10-screenshot20201001-192459youtube9116759992003783581.jpg)](https://youtu.be/_4X6HcEfsgE)
+[![](/assets/images/2020-10-screenshot20201001-192459youtube9116759992003783581.jpg)](https://youtu.be/_4X6HcEfsgE)

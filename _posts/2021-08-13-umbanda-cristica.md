@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Umbanda Crística"
 date: 2021-08-13
@@ -9,4 +9,4 @@ A importância do Evangelho na Umbanda: Vamos ler um trecho do livro "O Que é U
 
 
 
-[![](/tmm7f/assets/images/2021-08-captura-de-tela-2021-08-13-as-12.43.07.png)](https://youtu.be/veRuyiq1AvM)[https://youtu.be/veRuyiq1AvM](https://youtu.be/veRuyiq1AvM)
+[![](/assets/images/2021-08-captura-de-tela-2021-08-13-as-12.43.07.png)](https://youtu.be/veRuyiq1AvM)[https://youtu.be/veRuyiq1AvM](https://youtu.be/veRuyiq1AvM)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem à Iemanjá 2022"
 date: 2022-12-11
@@ -33,40 +33,40 @@ Parabéns Aline por ter guiado o melhor trabalho de homenagem que já participei
 
 
 
-![](/tmm7f/assets/images/2022-12-photo1jpeg.jpeg)
+![](/assets/images/2022-12-photo1jpeg.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-photo2.jpeg)
+![](/assets/images/2022-12-photo2.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-photoa.jpeg)
+![](/assets/images/2022-12-photoa.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.57.jpeg)
+![](/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.57.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-photo3.jpeg)
+![](/assets/images/2022-12-photo3.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.30.jpeg)
+![](/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.30.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.59.jpeg)
+![](/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.59.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.55-edited.jpeg)
+![](/assets/images/2022-12-whatsapp-image-2022-12-11-at-11.47.55-edited.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-1.jpeg)
+![](/assets/images/2022-12-1.jpeg)
 
 
 
-![](/tmm7f/assets/images/2022-12-2.jpeg)
+![](/assets/images/2022-12-2.jpeg)

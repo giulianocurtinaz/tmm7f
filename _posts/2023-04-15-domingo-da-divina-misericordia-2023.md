@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Domingo da Divina Misericórdia 2023!"
 date: 2023-04-15
@@ -15,4 +15,4 @@ Bom dia amigos! Amanhã será uma grande dia na espiritualidade e na Terra! Aman
 
 
 
-![](/tmm7f/assets/images/2021-01-wpstory160993121533704096775788691033432.jpg)
+![](/assets/images/2021-01-wpstory160993121533704096775788691033432.jpg)

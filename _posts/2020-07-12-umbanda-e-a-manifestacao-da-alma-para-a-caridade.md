@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Umbanda é a manifestação da Alma para a Caridade!"
 date: 2020-07-12
@@ -9,4 +9,4 @@ Ao ser pronunciada essa santa palavra pela primeira vez em 1908 pelo caboclo das
 
 
 
-![](/tmm7f/assets/images/2020-03-20200314125339.jpg)
+![](/assets/images/2020-03-20200314125339.jpg)

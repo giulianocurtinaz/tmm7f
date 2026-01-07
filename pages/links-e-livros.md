@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: "Links e Livros"
 date: 2020-01-23
@@ -14,11 +14,11 @@ Não poderíamos de listar logo de início o singelo e grandioso livro de nossa 
 
 
 
-![](/tmm7f/assets/images/2021-02-captura-de-tela-2021-02-13-as-15.41.21.png)
+![](/assets/images/2021-02-captura-de-tela-2021-02-13-as-15.41.21.png)
 
 
 
-[Guia Rápido Umbandista](/tmm7f/assets/images/2021-02-guia-rapido-umbandista.pdf)[Baixar](/tmm7f/assets/images/2021-02-guia-rapido-umbandista.pdf)
+[Guia Rápido Umbandista](/assets/images/2021-02-guia-rapido-umbandista.pdf)[Baixar](/assets/images/2021-02-guia-rapido-umbandista.pdf)
 
 
 
@@ -43,7 +43,7 @@ ABC de Umbanda - Leopoldo Bettiol
 
 
 
-[A B C de Umbanda - Leopoldo Bettiol](/tmm7f/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)[Baixar](/tmm7f/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)
+[A B C de Umbanda - Leopoldo Bettiol](/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)[Baixar](/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf)
 
 
 
@@ -57,7 +57,7 @@ O primeiro escritor umbandista:
 
 
 
-[Espiritismo, a Magia e as Sete Linhas de Umbanda](/tmm7f/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)[Baixar](/tmm7f/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)
+[Espiritismo, a Magia e as Sete Linhas de Umbanda](/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)[Baixar](/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf)
 
 
 
@@ -77,11 +77,11 @@ Site sensacional trazendo maravilhosas obras de cunho histórico sobre a fundaç
 
 
 
-[AS ORIGENS DA UMBANDA I](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)[Baixar](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-i.pdf)
+[AS ORIGENS DA UMBANDA I](/assets/images/2021-02-as-origens-da-umbanda-i.pdf)[Baixar](/assets/images/2021-02-as-origens-da-umbanda-i.pdf)
 
 
 
-[AS ORIGENS DA UMBANDA II](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-ii.pdf)[Baixar](/tmm7f/assets/images/2021-02-as-origens-da-umbanda-ii.pdf)
+[AS ORIGENS DA UMBANDA II](/assets/images/2021-02-as-origens-da-umbanda-ii.pdf)[Baixar](/assets/images/2021-02-as-origens-da-umbanda-ii.pdf)
 
 
 

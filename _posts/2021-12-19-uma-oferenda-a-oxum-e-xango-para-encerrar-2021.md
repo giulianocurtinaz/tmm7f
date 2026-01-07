@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Uma oferenda à Oxum e Xangô para encerrar 2021"
 date: 2021-12-19
@@ -15,24 +15,24 @@ Obrigado Pai Xangô por nos transmitir tua força e determinação. Obrigado Mã
 
 
 
-![](/tmm7f/assets/images/2021-12-202112191008578143694485763293166.jpg)
+![](/assets/images/2021-12-202112191008578143694485763293166.jpg)
 
 
 
-![](/tmm7f/assets/images/2021-12-202112191013112835165108721420571.jpg)
+![](/assets/images/2021-12-202112191013112835165108721420571.jpg)
 
 
 
-![](/tmm7f/assets/images/2021-12-202112191004443423326448764778973.jpg)
+![](/assets/images/2021-12-202112191004443423326448764778973.jpg)
 
 
 
-![](/tmm7f/assets/images/2021-12-20211219100458457649713863866400.jpg)
+![](/assets/images/2021-12-20211219100458457649713863866400.jpg)
 
 
 
-![](/tmm7f/assets/images/2021-12-202112191004418723874237570303925.jpg)
+![](/assets/images/2021-12-202112191004418723874237570303925.jpg)
 
 
 
-![](/tmm7f/assets/images/2021-12-img-20211219-wa00214014039093991220208.jpg)
+![](/assets/images/2021-12-img-20211219-wa00214014039093991220208.jpg)

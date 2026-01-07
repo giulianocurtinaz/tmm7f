@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Religiosidade e Oração"
 date: 2020-07-23
@@ -9,4 +9,4 @@ Em 24/07 às 20hs Ore, medite e reflexione conosco sobre nossa religiosidade, o 
 
 
 
-[![](/tmm7f/assets/images/2020-07-capa-religiosidade.png)](https://youtu.be/JZzPeaiG8JE)[https://youtu.be/JZzPeaiG8JE](https://youtu.be/JZzPeaiG8JE)
+[![](/assets/images/2020-07-capa-religiosidade.png)](https://youtu.be/JZzPeaiG8JE)[https://youtu.be/JZzPeaiG8JE](https://youtu.be/JZzPeaiG8JE)

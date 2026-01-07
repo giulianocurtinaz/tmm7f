@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 
 $baseDir = Get-Location
 $pagesImagesDir = Join-Path $baseDir "pages\images"
@@ -6,7 +6,7 @@ $assetsImagesDir = Join-Path $baseDir "assets\images"
 $postsDir = Join-Path $baseDir "_posts"
 $pagesDir = Join-Path $baseDir "pages"
 
-$sitePrefix = "/tmm7f"
+$sitePrefix = ""
 
 function Remove-Diacritics {
     param ([string]$text)
@@ -64,7 +64,7 @@ foreach ($file in $mdFiles) {
     $content = Get-Content -Path $file.FullName -Raw -Encoding UTF8
     $originalContent = $content
     
-    # 1. Update Image Links: (images/Something.jpg) -> (/tmm7f/assets/images/something.jpg)
+    # 1. Update Image Links: (images/Something.jpg) -> (/assets/images/something.jpg)
     $content = [Regex]::Replace($content, '\(images/([^)]+)\)', {
         param($match)
         $imgName = $match.Groups[1].Value

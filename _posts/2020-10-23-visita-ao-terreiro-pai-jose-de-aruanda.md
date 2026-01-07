@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Visita ao terreiro Pai José de Aruanda"
 date: 2020-10-23
@@ -9,4 +9,4 @@ Vamos orar e cantar juntos aos amigos desse tradicional Centro Espírita de Umba
 
 
 
-[![](/tmm7f/assets/images/2020-10-captura-de-tela-2020-10-23-acc80s-08.17.22.png)](https://youtu.be/_Ek9uTCmyn4)[https://youtu.be/_Ek9uTCmyn4](https://youtu.be/_Ek9uTCmyn4)
+[![](/assets/images/2020-10-captura-de-tela-2020-10-23-acc80s-08.17.22.png)](https://youtu.be/_Ek9uTCmyn4)[https://youtu.be/_Ek9uTCmyn4](https://youtu.be/_Ek9uTCmyn4)

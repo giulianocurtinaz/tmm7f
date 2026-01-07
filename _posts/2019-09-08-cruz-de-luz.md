@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Cruz de Luz!"
 date: 2019-09-08
@@ -39,4 +39,4 @@ Obrigado Oxalá por este presente na terra! Que possamos ser dignos de carregar 
 
 
 
-[![](/tmm7f/assets/images/2020-02-fachada-iluminada-1.jpg)](/tmm7f/assets/images/2020-02-fachada-iluminada-1.jpg)[![](/tmm7f/assets/images/2020-02-fachada-1.png)](/tmm7f/assets/images/2020-02-fachada-1.png)[![](/tmm7f/assets/images/2020-02-whatsapp-image-2020-02-06-at-10.48.13-1.jpeg)](/tmm7f/assets/images/2020-02-whatsapp-image-2020-02-06-at-10.48.13-1.jpeg)
+[![](/assets/images/2020-02-fachada-iluminada-1.jpg)](/assets/images/2020-02-fachada-iluminada-1.jpg)[![](/assets/images/2020-02-fachada-1.png)](/assets/images/2020-02-fachada-1.png)[![](/assets/images/2020-02-whatsapp-image-2020-02-06-at-10.48.13-1.jpeg)](/assets/images/2020-02-whatsapp-image-2020-02-06-at-10.48.13-1.jpeg)

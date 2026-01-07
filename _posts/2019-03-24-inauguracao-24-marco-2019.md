@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Inauguração 24 Março 2019"
 date: 2019-03-24
@@ -33,4 +33,4 @@ O Evangelho nesse dia foi proferido pela irmã Terezinha e comentou-se sobre o c
 
 
 
-![](/tmm7f/assets/images/2018-12-img-20190324-wa0005.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0007.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0008.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0026.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0004.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0003.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0002.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0001.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0006.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0029.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0028.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0015.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0017.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0018.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0027.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0012.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0009.jpg)![](/tmm7f/assets/images/2019-12-img-20190324-wa0026.jpg)![](/tmm7f/assets/images/2018-12-img-20190324-wa0016.jpg)![](/tmm7f/assets/images/2019-12-img-20190324-wa0028.jpg)
+![](/assets/images/2018-12-img-20190324-wa0005.jpg)![](/assets/images/2018-12-img-20190324-wa0007.jpg)![](/assets/images/2018-12-img-20190324-wa0008.jpg)![](/assets/images/2018-12-img-20190324-wa0026.jpg)![](/assets/images/2018-12-img-20190324-wa0004.jpg)![](/assets/images/2018-12-img-20190324-wa0003.jpg)![](/assets/images/2018-12-img-20190324-wa0002.jpg)![](/assets/images/2018-12-img-20190324-wa0001.jpg)![](/assets/images/2018-12-img-20190324-wa0006.jpg)![](/assets/images/2018-12-img-20190324-wa0029.jpg)![](/assets/images/2018-12-img-20190324-wa0028.jpg)![](/assets/images/2018-12-img-20190324-wa0015.jpg)![](/assets/images/2018-12-img-20190324-wa0017.jpg)![](/assets/images/2018-12-img-20190324-wa0018.jpg)![](/assets/images/2018-12-img-20190324-wa0027.jpg)![](/assets/images/2018-12-img-20190324-wa0012.jpg)![](/assets/images/2018-12-img-20190324-wa0009.jpg)![](/assets/images/2019-12-img-20190324-wa0026.jpg)![](/assets/images/2018-12-img-20190324-wa0016.jpg)![](/assets/images/2019-12-img-20190324-wa0028.jpg)

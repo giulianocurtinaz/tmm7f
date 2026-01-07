@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Nosso domingo foi maravilhoso!"
 date: 2024-04-07
@@ -9,4 +9,4 @@ Obrigado médiuns por sua presença, trabalho e amor nesse Domingo da Divina Mis
 
 
 
-![](/tmm7f/assets/images/2024-04-domingo-divino.jpg)
+![](/assets/images/2024-04-domingo-divino.jpg)

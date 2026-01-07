@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Confraternização 2024"
 date: 2024-12-20
@@ -27,12 +27,12 @@ Viva o Natal e nosso Pai Oxalá!
 
 
 
-![](/tmm7f/assets/images/2024-12-img-20241221-wa0016.jpg)
+![](/assets/images/2024-12-img-20241221-wa0016.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-12-img-20241221-wa0010.jpg)
+![](/assets/images/2024-12-img-20241221-wa0010.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-12-img-20241221-wa0015.jpg)
+![](/assets/images/2024-12-img-20241221-wa0015.jpg)

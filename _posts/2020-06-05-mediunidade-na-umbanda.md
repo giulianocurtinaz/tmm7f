@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Mediunidade na Umbanda!"
 date: 2020-06-05
@@ -9,8 +9,8 @@ image: "assets/images/2020-06-20200605210129.jpg"
 
 
 
-[![](/tmm7f/assets/images/2020-06-20200605210129.jpg)](https://youtu.be/scsfH5NQcw8)[https://youtu.be/scsfH5NQcw8](https://youtu.be/scsfH5NQcw8)
+[![](/assets/images/2020-06-20200605210129.jpg)](https://youtu.be/scsfH5NQcw8)[https://youtu.be/scsfH5NQcw8](https://youtu.be/scsfH5NQcw8)
 
 
 
-[roteiro_5_junho](/tmm7f/assets/images/2020-06-roteiro5junho.docx)[Baixar](/tmm7f/assets/images/2020-06-roteiro5junho.docx)
+[roteiro_5_junho](/assets/images/2020-06-roteiro5junho.docx)[Baixar](/assets/images/2020-06-roteiro5junho.docx)

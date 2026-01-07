@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Casamento no terreiro!"
 date: 2024-04-28
@@ -38,68 +38,68 @@ Alejandro e Daniela, que nosso Pai Ogum e nossa Mãe Iemanjá abençoem vocês e
 
 
 
-![](/tmm7f/assets/images/2024-06-ogum-e-iemanja.png)
+![](/assets/images/2024-06-ogum-e-iemanja.png)
 
 
 
-![](/tmm7f/assets/images/2024-06-1.jpg)
+![](/assets/images/2024-06-1.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-2.jpg)
+![](/assets/images/2024-06-2.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-4a.jpg)
+![](/assets/images/2024-06-4a.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-7.jpg)
+![](/assets/images/2024-06-7.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-04-estrela.jpg)
+![](/assets/images/2024-04-estrela.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-6.jpg)
+![](/assets/images/2024-06-6.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-8.jpg)
+![](/assets/images/2024-06-8.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-9.jpg)
+![](/assets/images/2024-06-9.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-10.jpg)
+![](/assets/images/2024-06-10.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-12.jpg)
+![](/assets/images/2024-06-12.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-13.jpg)
+![](/assets/images/2024-06-13.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-14.jpg)
+![](/assets/images/2024-06-14.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-15.jpg)
+![](/assets/images/2024-06-15.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-16.jpg)
+![](/assets/images/2024-06-16.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-17.jpg)
+![](/assets/images/2024-06-17.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-06-18.jpg)
+![](/assets/images/2024-06-18.jpg)

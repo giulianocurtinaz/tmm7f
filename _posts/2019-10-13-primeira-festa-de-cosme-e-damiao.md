@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Primeira festa de Cosme e Damião!"
 date: 2019-10-13
 image: "assets/images/2020-02-20191012125552.jpg"
 ---
 
-![](/tmm7f/assets/images/2020-02-20191012125558.jpg)![](/tmm7f/assets/images/2020-02-20191012125552.jpg)![](/tmm7f/assets/images/2020-02-20191012125536.jpg)![](/tmm7f/assets/images/2020-02-20191012125522.jpg)![](/tmm7f/assets/images/2020-02-20191012125512.jpg)
+![](/assets/images/2020-02-20191012125558.jpg)![](/assets/images/2020-02-20191012125552.jpg)![](/assets/images/2020-02-20191012125536.jpg)![](/assets/images/2020-02-20191012125522.jpg)![](/assets/images/2020-02-20191012125512.jpg)
 
 
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "A Prece Umbandista"
 date: 2021-03-12
@@ -9,7 +9,7 @@ A oração proferida do fundo da alma é a maior oferenda que podes entregar ao 
 
 
 
-[![](/tmm7f/assets/images/2021-03-a-prece-umbandista.png)](https://youtu.be/iRYzVVGKLOQ)[https://youtu.be/iRYzVVGKLOQ](https://youtu.be/iRYzVVGKLOQ)
+[![](/assets/images/2021-03-a-prece-umbandista.png)](https://youtu.be/iRYzVVGKLOQ)[https://youtu.be/iRYzVVGKLOQ](https://youtu.be/iRYzVVGKLOQ)
 
 
 

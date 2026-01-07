@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Homenagem a Ogum 2023"
 date: 2023-04-24
 image: "assets/images/2023-04-whatsapp-image-2023-04-22-at-19.24.46.jpeg"
 ---
 
-![](/tmm7f/assets/images/2023-04-whatsapp-image-2023-04-22-at-19.24.46.jpeg)
+![](/assets/images/2023-04-whatsapp-image-2023-04-22-at-19.24.46.jpeg)
 
 
 
@@ -33,4 +33,4 @@ Confira as [Orações produzidas](https://maemariaseteflechas.com.br/oracoes-ogu
 
 
 
-![](/tmm7f/assets/images/2023-04-whatsapp-image-2023-04-23-at-10.54.29.jpeg)
+![](/assets/images/2023-04-whatsapp-image-2023-04-23-at-10.54.29.jpeg)

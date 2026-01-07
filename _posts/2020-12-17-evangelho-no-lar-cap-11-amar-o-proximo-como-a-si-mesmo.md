@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Amar o próximo como a si mesmo"
 date: 2020-12-17
@@ -9,4 +9,4 @@ Cante, Ore e reflita conosco sobre o que nos deixou dito o Cristo. "Toda a lei e
 
 
 
-[![](/tmm7f/assets/images/2020-12-captura-de-tela-2020-12-17-acc80s-23.35.27.png)](https://youtu.be/pnExzku-55E)[https://youtu.be/pnExzku-55E](https://youtu.be/pnExzku-55E)
+[![](/assets/images/2020-12-captura-de-tela-2020-12-17-acc80s-23.35.27.png)](https://youtu.be/pnExzku-55E)[https://youtu.be/pnExzku-55E](https://youtu.be/pnExzku-55E)

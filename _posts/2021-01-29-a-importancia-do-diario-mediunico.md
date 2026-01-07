@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "A importância do diário mediúnico"
 date: 2021-01-29
 image: "assets/images/2021-01-fotocoroacao.jpeg"
 ---
 
-[![](/tmm7f/assets/images/2021-01-fotocoroacao.jpeg)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)
+[![](/assets/images/2021-01-fotocoroacao.jpeg)](https://youtu.be/XkIgF-zhf5E)[https://youtu.be/XkIgF-zhf5E](https://youtu.be/XkIgF-zhf5E)
 
 
 
@@ -81,7 +81,7 @@ Espero de todo o meu coração que um dia meu filho e talvez meu neto possa ler 
 
 
 
-![](/tmm7f/assets/images/2021-01-image-1.png)
+![](/assets/images/2021-01-image-1.png)
 
 
 
@@ -97,7 +97,7 @@ Espero de todo o meu coração que um dia meu filho e talvez meu neto possa ler 
 
 
 
-![](/tmm7f/assets/images/2021-01-image-3.png)
+![](/assets/images/2021-01-image-3.png)
 
 
 
@@ -122,11 +122,11 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-4.png)
+![](/assets/images/2021-01-image-4.png)
 
 
 
-![](/tmm7f/assets/images/2021-01-image-5.png)
+![](/assets/images/2021-01-image-5.png)
 
 
 
@@ -137,11 +137,11 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-12.png)
+![](/assets/images/2021-01-image-12.png)
 
 
 
-![](/tmm7f/assets/images/2021-01-image-13.png)
+![](/assets/images/2021-01-image-13.png)
 
 
 
@@ -151,7 +151,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-6.png)
+![](/assets/images/2021-01-image-6.png)
 
 
 
@@ -167,7 +167,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-7.png)
+![](/assets/images/2021-01-image-7.png)
 
 
 
@@ -195,7 +195,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-8.png)
+![](/assets/images/2021-01-image-8.png)
 
 
 
@@ -217,7 +217,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-9.png)
+![](/assets/images/2021-01-image-9.png)
 
 
 
@@ -239,7 +239,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-10.png)
+![](/assets/images/2021-01-image-10.png)
 
 
 
@@ -261,7 +261,7 @@ OS SETE ORIXÁS E SUAS CORES
 
 
 
-![](/tmm7f/assets/images/2021-01-image-11.png)
+![](/assets/images/2021-01-image-11.png)
 
 
 
@@ -284,11 +284,11 @@ Abaixo copio informações registradas pela minha mãe no dia da coroação de m
 
 
 
-![](/tmm7f/assets/images/2021-01-maeformaturavo.jpeg)Acima minha mãe (Rosiclea) anotando as orientações do caboclo Tupinanbá no dia da coroação do meu Avô.
+![](/assets/images/2021-01-maeformaturavo.jpeg)Acima minha mãe (Rosiclea) anotando as orientações do caboclo Tupinanbá no dia da coroação do meu Avô.
 
 
 
-![](/tmm7f/assets/images/2021-01-fotocoroacao.jpeg)Da esquerda para direita: Tio Jairo, Tia Rosane, Mãe, Meu avô Jacy, Vó Mercedes, Roer, primo Jonatam e Robinson. ( 0s 4 filhos do casal Oliveira! )
+![](/assets/images/2021-01-fotocoroacao.jpeg)Da esquerda para direita: Tio Jairo, Tia Rosane, Mãe, Meu avô Jacy, Vó Mercedes, Roer, primo Jonatam e Robinson. ( 0s 4 filhos do casal Oliveira! )
 
 
 
@@ -309,8 +309,8 @@ Abaixo meu avô presente no dia de meu batizado (e também do meu tio Roger) em 
 
 
 
-![](/tmm7f/assets/images/2021-01-meubatizado.jpeg)
+![](/assets/images/2021-01-meubatizado.jpeg)
 
 
 
-[Baixe o diário completo em PDF e veja os Pontos Riscados](/tmm7f/assets/images/2021-01-diariojacyoliveira.pdf)[Baixar](/tmm7f/assets/images/2021-01-diariojacyoliveira.pdf)
+[Baixe o diário completo em PDF e veja os Pontos Riscados](/assets/images/2021-01-diariojacyoliveira.pdf)[Baixar](/assets/images/2021-01-diariojacyoliveira.pdf)

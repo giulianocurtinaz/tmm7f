@@ -1,4 +1,4 @@
-
+﻿
 $htmlContent = Get-Content "pontoscantados_antigos.html" -Raw
 $outputMd = "pontos-cantados.md"
 $audioDir = "assets/audio"
@@ -18,8 +18,8 @@ title: Pontos Cantados
 Com o objetivo de preservar nossa cultura e criar um arquivo de pontos para as futuras gerações, disponibilizamos abaixo nossa coletânea de pontos cantados.
 
 ### Livro de Pontos
-- [Baixar Pontos_Cantados DOX](/tmm7f/assets/docs/pontos_cantados.docx)
-- [Baixar Pontos_Cantados PDF](/tmm7f/assets/docs/pontos_cantados.pdf)
+- [Baixar Pontos_Cantados DOX](/assets/docs/pontos_cantados.docx)
+- [Baixar Pontos_Cantados PDF](/assets/docs/pontos_cantados.pdf)
 
 ---
 
@@ -74,7 +74,7 @@ foreach ($section in $sections) {
             try {
                 Invoke-WebRequest -Uri $url -OutFile $localPath
                 $mdContent += "`n**$label**`n"
-                $mdContent += "<audio controls><source src=`"/tmm7f/assets/audio/$filename`" type=`"audio/mpeg`">Seu navegador não suporta áudio.</audio>`n"
+                $mdContent += "<audio controls><source src=`"/assets/audio/$filename`" type=`"audio/mpeg`">Seu navegador não suporta áudio.</audio>`n"
             }
             catch {
                 Write-Host "Error downloading $url for $title"

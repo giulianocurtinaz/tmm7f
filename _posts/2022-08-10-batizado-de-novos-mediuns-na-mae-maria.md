@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Batizado de novos Médiuns na Mãe Maria"
 date: 2022-08-10
@@ -28,4 +28,4 @@ Que a Mãe Maria guie seus passos da mesma maneira que Ela me guiou!!!!
 
 
 
-![](/tmm7f/assets/images/2022-08-202208102214537995566308025043492.jpg)
+![](/assets/images/2022-08-202208102214537995566308025043492.jpg)

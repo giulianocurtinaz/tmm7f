@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "O que ocorreu espiritualmente na Sexta-Feira Santa !?"
 date: 2024-03-30
 image: "assets/images/2021-01-merciful-jesus-300dpi.jpg"
 ---
 
-![](/tmm7f/assets/images/2021-01-merciful-jesus-pq.jpg)Jesus Misericordioso
+![](/assets/images/2021-01-merciful-jesus-pq.jpg)Jesus Misericordioso
 
 
 
@@ -124,7 +124,7 @@ A imagem pintada em 1931 pode ser baixada em [http://www.merciful-jesus.com](htt
 
 
 
-Jesus Misericordioso 300 Dpi para impressão[Baixar](/tmm7f/assets/images/2021-01-merciful-jesus-300dpi.jpg)
+Jesus Misericordioso 300 Dpi para impressão[Baixar](/assets/images/2021-01-merciful-jesus-300dpi.jpg)
 
 
 

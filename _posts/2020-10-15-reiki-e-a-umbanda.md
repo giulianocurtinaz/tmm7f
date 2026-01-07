@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Reiki e a Umbanda"
 date: 2020-10-15
@@ -9,4 +9,4 @@ Conheça o Reiki e sua história. Como podemos aplicá-lo em nossa vida mediúni
 
 
 
-[![](/tmm7f/assets/images/2020-10-captura-de-tela-2020-10-15-acc80s-11.28.32.png)](https://youtu.be/tBlDCTzB6b0)[https://youtu.be/tBlDCTzB6b0](https://youtu.be/tBlDCTzB6b0)
+[![](/assets/images/2020-10-captura-de-tela-2020-10-15-acc80s-11.28.32.png)](https://youtu.be/tBlDCTzB6b0)[https://youtu.be/tBlDCTzB6b0](https://youtu.be/tBlDCTzB6b0)

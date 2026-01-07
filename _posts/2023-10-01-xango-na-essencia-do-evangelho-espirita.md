@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Xangô na essência do Evangelho Espírita"
 date: 2023-10-01
@@ -8,7 +8,7 @@ date: 2023-10-01
 
 
 
-![](/tmm7f/assets/images/2023-10-20230930123906.jpg)
+![](/assets/images/2023-10-20230930123906.jpg)
 
 
 

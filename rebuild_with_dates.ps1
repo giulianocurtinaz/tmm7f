@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $baseDir = Get-Location
 $xmlPath = Join-Path $baseDir "meusite.xml"
 $zipPath = Join-Path $baseDir "meusite.zip"
@@ -83,8 +83,8 @@ $items = $xmlDoc.SelectNodes("//item")
 
 # 4. Process Images/Attachments (Rename and Move)
 Write-Host "Processing Attachments..."
-$attachmentMap = @{} # ID -> "/tmm7f/assets/images/YYYY-MM-name.jpg"
-$urlToNewPath = @{}  # OriginalURL -> "/tmm7f/assets/images/YYYY-MM-name.jpg"
+$attachmentMap = @{} # ID -> "/assets/images/YYYY-MM-name.jpg"
+$urlToNewPath = @{}  # OriginalURL -> "/assets/images/YYYY-MM-name.jpg"
 
 foreach ($item in $items) {
     if ($item.SelectSingleNode("wp:post_type", $ns).InnerText -eq "attachment") {
@@ -132,7 +132,7 @@ foreach ($item in $items) {
                 
                 if (Test-Path $expectedSourcePath) {
                     Copy-Item -Path $expectedSourcePath -Destination $targetPath -Force
-                    $finalWebPath = "/tmm7f/assets/images/$targetName"
+                    $finalWebPath = "/assets/images/$targetName"
                     $attachmentMap[$id] = $finalWebPath
                     $urlToNewPath[$url] = $finalWebPath
                     # Also map simpler URL without query string
@@ -146,14 +146,14 @@ foreach ($item in $items) {
                     $existingAsset = Join-Path $assetsDir $normName
                     if (Test-Path $existingAsset) {
                         Copy-Item -Path $existingAsset -Destination $targetPath -Force
-                        $finalWebPath = "/tmm7f/assets/images/$targetName"
+                        $finalWebPath = "/assets/images/$targetName"
                         $attachmentMap[$id] = $finalWebPath
                         $urlToNewPath[$url] = $finalWebPath
                     }
                     else {
                         # Maybe it's already renamed?
                         if (Test-Path $targetPath) {
-                            $finalWebPath = "/tmm7f/assets/images/$targetName"
+                            $finalWebPath = "/assets/images/$targetName"
                             $attachmentMap[$id] = $finalWebPath
                             $urlToNewPath[$url] = $finalWebPath
                         }
@@ -166,7 +166,7 @@ foreach ($item in $items) {
                 $fname = [System.IO.Path]::GetFileName($url)
                 $norm = Get-NormalizedName $fname
                 $targetPath = Join-Path $assetsDir $norm
-                $finalWebPath = "/tmm7f/assets/images/$norm"
+                $finalWebPath = "/assets/images/$norm"
                 $attachmentMap[$id] = $finalWebPath
                 $urlToNewPath[$url] = $finalWebPath
             }
@@ -226,7 +226,7 @@ foreach ($item in $items) {
                     $n = [System.IO.Path]::GetFileName($n)
                     if ($n -match "(.+?)\?") { $n = $matches[1] }
                     $norm = Get-NormalizedName $n
-                    return "(/tmm7f/assets/images/$y-$m_-$norm)"
+                    return "(/assets/images/$y-$m_-$norm)"
                 }
                 return "($url)"
             })

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Umbanda e nossas raízes! Com Alcimar na terreira de Pai Oxalá fraternidade Ogum de Ronda."
 date: 2020-07-10
@@ -15,4 +15,4 @@ image: "assets/images/2020-07-screenshot20200710-152527photos3258943204899008728
 
 
 
-[![](/tmm7f/assets/images/2020-07-screenshot20200710-152527photos3258943204899008728.jpg)](https://youtu.be/fUijzP02KtQ)[https://youtu.be/fUijzP02KtQ](https://youtu.be/fUijzP02KtQ)
+[![](/assets/images/2020-07-screenshot20200710-152527photos3258943204899008728.jpg)](https://youtu.be/fUijzP02KtQ)[https://youtu.be/fUijzP02KtQ](https://youtu.be/fUijzP02KtQ)

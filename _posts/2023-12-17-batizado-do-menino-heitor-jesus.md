@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Batizado do menino Heitor Jesus!"
 date: 2023-12-17
@@ -9,12 +9,12 @@ Em nossa última sessão pública do ano de 2023 realizamos o batizado de nosso 
 
 
 
-![](/tmm7f/assets/images/2024-01-certidao.png)
+![](/assets/images/2024-01-certidao.png)
 
 
 
-![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2023-12-21-as-17.47.59b50ceacd.jpg)
+![](/assets/images/2024-01-imagem-do-whatsapp-de-2023-12-21-as-17.47.59b50ceacd.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2023-12-21-as-17.48.0157264752.jpg)
+![](/assets/images/2024-01-imagem-do-whatsapp-de-2023-12-21-as-17.48.0157264752.jpg)

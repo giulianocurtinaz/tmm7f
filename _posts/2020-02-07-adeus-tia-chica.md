@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Adeus tia Chica...."
 date: 2020-02-07
@@ -9,4 +9,4 @@ Hoje despedimo-nos da nossa amiga Francisca Bandeira. Obrigado tia Chica pelos s
 
 
 
-![](/tmm7f/assets/images/2020-02-screenshot20200207-062258whatsapp2062166225859880041.jpg)
+![](/assets/images/2020-02-screenshot20200207-062258whatsapp2062166225859880041.jpg)

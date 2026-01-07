@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Lançamento do livro: Guia Rápido Umbandista - Estudando para evoluir"
 date: 2020-11-27
@@ -9,8 +9,8 @@ Nossa amiga e cambona Adriana Zanette nos presenteia com sua obra maravilhosa so
 
 
 
-[Guia Rápido Umbandista](/tmm7f/assets/images/2020-11-guia-rapido-umbandista.pdf)[Baixar](/tmm7f/assets/images/2020-11-guia-rapido-umbandista.pdf)
+[Guia Rápido Umbandista](/assets/images/2020-11-guia-rapido-umbandista.pdf)[Baixar](/assets/images/2020-11-guia-rapido-umbandista.pdf)
 
 
 
-[![](/tmm7f/assets/images/2020-11-livro-adri.png)](https://youtu.be/8ffRx5wB4yw)[https://youtu.be/8ffRx5wB4yw](https://youtu.be/8ffRx5wB4yw)
+[![](/assets/images/2020-11-livro-adri.png)](https://youtu.be/8ffRx5wB4yw)[https://youtu.be/8ffRx5wB4yw](https://youtu.be/8ffRx5wB4yw)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem aos Pretos Velhos"
 date: 2020-05-15
@@ -9,7 +9,7 @@ Nos acompanhe nessa emocionante homenagem ao dia dos pretos velhos na Umbanda e 
 
 
 
-[![](/tmm7f/assets/images/2020-05-foto.jpg)](https://youtu.be/EmWWCM483Y4)
+[![](/assets/images/2020-05-foto.jpg)](https://youtu.be/EmWWCM483Y4)
 
 
 

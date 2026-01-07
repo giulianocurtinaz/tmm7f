@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Homenagem a Xangô"
 date: 2019-09-29
 image: "assets/images/2019-12-img-20190929-wa0008.jpg"
 ---
 
-[![](/tmm7f/assets/images/2019-12-img-20190929-wa0008.jpg)](/tmm7f/assets/images/2019-12-img-20190929-wa0008.jpg)[![](/tmm7f/assets/images/2019-12-20190928133457.jpg)](/tmm7f/assets/images/2019-12-20190928133457.jpg)[![](/tmm7f/assets/images/2019-12-20190928112048.jpg)](/tmm7f/assets/images/2019-12-20190928112048.jpg)[![](/tmm7f/assets/images/2020-02-20190928112059.jpg)](/tmm7f/assets/images/2020-02-20190928112059.jpg)[![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.09.jpeg)](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.09.jpeg)[![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.10.jpeg)](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.10.jpeg)[![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.48.jpeg)](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.48.jpeg)[![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.52.jpeg)](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.52.jpeg)[![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.28.04.jpeg)](/tmm7f/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.28.04.jpeg)
+[![](/assets/images/2019-12-img-20190929-wa0008.jpg)](/assets/images/2019-12-img-20190929-wa0008.jpg)[![](/assets/images/2019-12-20190928133457.jpg)](/assets/images/2019-12-20190928133457.jpg)[![](/assets/images/2019-12-20190928112048.jpg)](/assets/images/2019-12-20190928112048.jpg)[![](/assets/images/2020-02-20190928112059.jpg)](/assets/images/2020-02-20190928112059.jpg)[![](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.09.jpeg)](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.09.jpeg)[![](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.10.jpeg)](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.10.jpeg)[![](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.48.jpeg)](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.48.jpeg)[![](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.52.jpeg)](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.27.52.jpeg)[![](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.28.04.jpeg)](/assets/images/2020-02-whatsapp-image-2019-09-29-at-17.28.04.jpeg)
 
 
 

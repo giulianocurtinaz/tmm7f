@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Umbanda e Jesus"
 date: 2020-07-29
@@ -9,4 +9,4 @@ image: "assets/images/2020-07-captura-de-tela-2020-07-28-c3a0s-21.09.14.png"
 
 
 
-[![](/tmm7f/assets/images/2020-07-captura-de-tela-2020-07-28-c3a0s-21.09.14.png)](https://youtu.be/mYZaX85NEWg)https://youtu.be/mYZaX85NEWg
+[![](/assets/images/2020-07-captura-de-tela-2020-07-28-c3a0s-21.09.14.png)](https://youtu.be/mYZaX85NEWg)https://youtu.be/mYZaX85NEWg

@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Jesus, eu confio em ti!"
 date: 2021-01-06
 image: "assets/images/2021-01-merciful-jesus-300dpi.jpg"
 ---
 
-![](/tmm7f/assets/images/2021-01-merciful-jesus-pq.jpg)Jesus Misericordioso
+![](/assets/images/2021-01-merciful-jesus-pq.jpg)Jesus Misericordioso
 
 
 
@@ -163,7 +163,7 @@ A imagem pintada em 1931 pode ser baixada em [http://www.merciful-jesus.com](htt
 
 
 
-Jesus Misericordioso 300 Dpi para impressão[Baixar](/tmm7f/assets/images/2021-01-merciful-jesus-300dpi.jpg)
+Jesus Misericordioso 300 Dpi para impressão[Baixar](/assets/images/2021-01-merciful-jesus-300dpi.jpg)
 
 
 

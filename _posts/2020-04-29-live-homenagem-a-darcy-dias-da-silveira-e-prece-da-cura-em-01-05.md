@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Live: Homenagem à Darcy Dias da Silveira e Prece da Cura em 01/05"
 date: 2020-04-29
@@ -15,7 +15,7 @@ Download do roteiro:
 
 
 
-[pdf_roteiro_01_maio-1](/tmm7f/assets/images/2020-04-pdfroteiro01maio-1.pdf)[Baixar](/tmm7f/assets/images/2020-04-pdfroteiro01maio-1.pdf)
+[pdf_roteiro_01_maio-1](/assets/images/2020-04-pdfroteiro01maio-1.pdf)[Baixar](/assets/images/2020-04-pdfroteiro01maio-1.pdf)
 
 
 
@@ -25,4 +25,4 @@ https://youtu.be/G9XsJAkDlow
 
 
 
-[![](/tmm7f/assets/images/2020-04-capa3.jpeg)](https://youtu.be/G9XsJAkDlow)
+[![](/assets/images/2020-04-capa3.jpeg)](https://youtu.be/G9XsJAkDlow)

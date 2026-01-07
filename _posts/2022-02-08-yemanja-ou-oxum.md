@@ -1,10 +1,10 @@
----
+﻿---
 layout: post
 title: "Yemanjá ou Oxum"
 date: 2022-02-08
 ---
 
-![](/tmm7f/assets/images/2021-12-20211208112608.jpg)
+![](/assets/images/2021-12-20211208112608.jpg)
 
 
 

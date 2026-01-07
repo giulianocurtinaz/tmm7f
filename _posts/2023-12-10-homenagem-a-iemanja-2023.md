@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem a Iemanjá 2023"
 date: 2023-12-10
@@ -15,8 +15,8 @@ O trabalho foi lindo! Entregamos nossas oferendas e renovamos as energias com a 
 
 
 
-![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-21.41.55b150bae7.jpg)
+![](/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-21.41.55b150bae7.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-21.41.5539f0f2cc.jpg)
+![](/assets/images/2024-01-imagem-do-whatsapp-de-2024-01-21-as-21.41.5539f0f2cc.jpg)

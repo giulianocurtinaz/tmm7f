@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem a Ogum"
 date: 2019-04-28
@@ -14,4 +14,4 @@ Todos que visitaram o terreiro, ganharam de presente uma vela, acompanhada de um
 
 
 
-![](/tmm7f/assets/images/2019-12-oum3.jpg)
+![](/assets/images/2019-12-oum3.jpg)

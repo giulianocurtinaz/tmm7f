@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Homenagem ao Cacique Ubirajara"
 date: 2020-05-22
 image: "assets/images/2020-05-capajpegsem-titulo-1.jpg"
 ---
 
-[![](/tmm7f/assets/images/2020-05-capajpegsem-titulo.jpg)](https://youtu.be/CIfJwOOw3CM)
+[![](/assets/images/2020-05-capajpegsem-titulo.jpg)](https://youtu.be/CIfJwOOw3CM)
 
 
 

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Batizado de médium e homenagem à Xangô!"
 date: 2024-09-29
@@ -14,12 +14,12 @@ Foi um dia muito especial, pois além da homenagem realizamos o batizado de noss
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.11daea49a2.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.11daea49a2.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.112acdbb12.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.112acdbb12.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.12dafd61b3.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-09-29-as-13.15.12dafd61b3.jpg)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Umbanda Ontem, Hoje e os desafios para o Amanhã!"
 date: 2020-06-30
@@ -9,4 +9,4 @@ Numa roda de alta vibração espiritual com a participação de Sra. Nilza Ferna
 
 
 
-[![](/tmm7f/assets/images/2020-06-capa4.jpg)](https://youtu.be/KC5bIIpy5VA)[https://youtu.be/KC5bIIpy5VA](https://youtu.be/KC5bIIpy5VA)
+[![](/assets/images/2020-06-capa4.jpg)](https://youtu.be/KC5bIIpy5VA)[https://youtu.be/KC5bIIpy5VA](https://youtu.be/KC5bIIpy5VA)

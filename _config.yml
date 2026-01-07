@@ -1,5 +1,8 @@
 title: "Terreira de Mãe Maria"
-baseurl: "/tmm7f"
+
+baseurl: ""
+url: "https://www.maemariaseteflechas.com.br"
+
 remote_theme: wowthemesnet/mediumish-theme-jekyll
 description: ""
 search_placeholder: "Pesquisar no site..."

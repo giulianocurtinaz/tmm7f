@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem a Iansã"
 date: 2020-12-04
@@ -9,4 +9,4 @@ Ore e cante conosco em homenagem a esse grande orixá da Umbanda. Reflita sobre 
 
 
 
-[![](/tmm7f/assets/images/2020-12-captura-de-tela-2020-12-04-acc80s-19.48.19.png)](https://youtu.be/TpkKUxKwidc)[https://youtu.be/TpkKUxKwidc](https://youtu.be/TpkKUxKwidc)
+[![](/assets/images/2020-12-captura-de-tela-2020-12-04-acc80s-19.48.19.png)](https://youtu.be/TpkKUxKwidc)[https://youtu.be/TpkKUxKwidc](https://youtu.be/TpkKUxKwidc)

@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "O que é umbanda? No que acreditamos? Como praticamos nossa religiosidade?"
 date: 2020-04-25
@@ -45,4 +45,4 @@ Umbanda é Amor e energia doada ao próximo pela palavra do caboclo e do pre
 
 
 
-![](/tmm7f/assets/images/2020-05-jesuscaboclopv.png)
+![](/assets/images/2020-05-jesuscaboclopv.png)

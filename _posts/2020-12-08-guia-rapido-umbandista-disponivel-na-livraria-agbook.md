@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Guia Rápido Umbandista disponível na Livraria AGBook!"
 date: 2020-12-08
@@ -15,4 +15,4 @@ https://www.agbook.com.br/book/350229--Guia_Rapido_Umbandista[Compre o livro imp
 
 
 
-[![](/tmm7f/assets/images/2020-12-screenshot20201208-101612chrome7203785040760342207.jpg)](https://www.agbook.com.br/book/350229--Guia_Rapido_Umbandista)
+[![](/assets/images/2020-12-screenshot20201208-101612chrome7203785040760342207.jpg)](https://www.agbook.com.br/book/350229--Guia_Rapido_Umbandista)

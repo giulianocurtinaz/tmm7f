@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 
 # Configuration
 $url = "https://maemariaseteflechas.com.br/pontos-cantados2/"
@@ -7,7 +7,7 @@ $pagesDir = Join-Path $baseDir "pages"
 $assetsAudioDir = Join-Path $baseDir "assets\audio"
 $assetsImageDir = Join-Path $baseDir "assets\images"
 $outputFile = Join-Path $pagesDir "pontos-cantados-2.md"
-$sitePrefix = "/tmm7f"
+$sitePrefix = ""
 
 # Create directories
 if (-not (Test-Path $assetsAudioDir)) { New-Item -ItemType Directory -Force -Path $assetsAudioDir | Out-Null }

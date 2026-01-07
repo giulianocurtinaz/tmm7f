@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Oração à Iemanjá"
 date: 2020-09-11
@@ -9,4 +9,4 @@ Vamos juntos cantar alguns pontos de Umbanda e pedir as bençãos de nossa mãe 
 
 
 
-[![](/tmm7f/assets/images/2020-09-202009111527444448412989898603439.jpg)](https://youtu.be/Nkf7Wc3hkUU)https://youtu.be/Nkf7Wc3hkUU
+[![](/assets/images/2020-09-202009111527444448412989898603439.jpg)](https://youtu.be/Nkf7Wc3hkUU)https://youtu.be/Nkf7Wc3hkUU

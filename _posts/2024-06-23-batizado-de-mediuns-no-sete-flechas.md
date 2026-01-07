@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem a São João Batista e Batizado de Médiuns no Sete Flechas"
 date: 2024-06-23
@@ -21,15 +21,15 @@ Padrinhos espirituais: Nego Juca e Maria Conga, materiais: Giuliano e Kátia!
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.0669935b03.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.0669935b03.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.0578a84ba8.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.0578a84ba8.jpg)
 
 
 
-![](/tmm7f/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.076de356c7.jpg)
+![](/assets/images/2024-12-imagem-do-whatsapp-de-2024-12-23-as-15.47.076de356c7.jpg)
 
 
 

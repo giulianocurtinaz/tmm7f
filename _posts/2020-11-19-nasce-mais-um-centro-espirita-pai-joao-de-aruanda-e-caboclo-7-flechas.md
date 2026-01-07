@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Nasce mais um Centro Espírita: Pai João de Aruanda e Caboclo 7 Flechas!"
 date: 2020-11-19
@@ -9,4 +9,4 @@ Um novo ponto de Luz está sendo firmado na terra, com as bençãos de Aruanda! 
 
 
 
-[![](/tmm7f/assets/images/2020-11-captura-de-tela-2020-11-19-acc80s-18.34.07.png)](https://youtu.be/oWg0bjm7KsQ)[https://youtu.be/oWg0bjm7KsQ](https://youtu.be/oWg0bjm7KsQ)
+[![](/assets/images/2020-11-captura-de-tela-2020-11-19-acc80s-18.34.07.png)](https://youtu.be/oWg0bjm7KsQ)[https://youtu.be/oWg0bjm7KsQ](https://youtu.be/oWg0bjm7KsQ)

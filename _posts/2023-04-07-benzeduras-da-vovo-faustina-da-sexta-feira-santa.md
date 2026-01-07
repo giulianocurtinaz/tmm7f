@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Benzeduras da Vovó Faustina da Sexta-Feira Santa!"
 date: 2023-04-07
@@ -8,4 +8,4 @@ date: 2023-04-07
 
 
 
-![](/tmm7f/assets/images/2023-04-screenshot20230406183726google5629295114337943442.jpg)
+![](/assets/images/2023-04-screenshot20230406183726google5629295114337943442.jpg)

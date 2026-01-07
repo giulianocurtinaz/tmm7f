@@ -1,11 +1,11 @@
----
+﻿---
 layout: post
 title: "Homenagem a Yorimá (pretos velhos da Umbanda)"
 date: 2019-05-12
 image: "assets/images/2019-12-yorima.jpg"
 ---
 
-![](/tmm7f/assets/images/2019-12-yorima.jpg)
+![](/assets/images/2019-12-yorima.jpg)
 
 
 

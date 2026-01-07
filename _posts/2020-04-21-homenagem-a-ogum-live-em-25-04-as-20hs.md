@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Homenagem a Ogum Live! em 24/04 às 20hs"
 date: 2020-04-21
@@ -15,7 +15,7 @@ Faça Download do roteiro:
 
 
 
-[pdf_roteiro_24_abril](/tmm7f/assets/images/2020-04-pdfroteiro25abril.pdf)[Baixar](/tmm7f/assets/images/2020-04-pdfroteiro25abril.pdf)
+[pdf_roteiro_24_abril](/assets/images/2020-04-pdfroteiro25abril.pdf)[Baixar](/assets/images/2020-04-pdfroteiro25abril.pdf)
 
 
 
@@ -26,4 +26,4 @@ https://youtu.be/ah1KsyZjHeI
 
 
 
-[![](/tmm7f/assets/images/2020-04-4blive-capa.png)](https://youtu.be/ah1KsyZjHeI)
+[![](/assets/images/2020-04-4blive-capa.png)](https://youtu.be/ah1KsyZjHeI)

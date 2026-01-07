@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $directories = @("pages", "_posts")
 $baseDir = Get-Location
 
@@ -55,14 +55,14 @@ foreach ($dirName in $directories) {
             # 1. Fix Mojibake
             $content = Fix-Mojibake $content
             
-            # 2. Fix Image Links: (images/ -> (/tmm7f/assets/images/
+            # 2. Fix Image Links: (images/ -> (/assets/images/
             if ($content -match "\(images\/") {
-                $content = $content -replace "\(images\/", "(/tmm7f/assets/images/"
+                $content = $content -replace "\(images\/", "(/assets/images/"
             }
             
-            # 3. Fix Cover Images: coverImage: "name.jpg" -> coverImage: "/tmm7f/assets/images/name.jpg"
-            # Regex to capture content inside quotes that DOES NOT start with /tmm7f
-            $content = $content -replace 'coverImage:\s*"([^"/][^"]+)"', 'coverImage: "/tmm7f/assets/images/$1"'
+            # 3. Fix Cover Images: coverImage: "name.jpg" -> coverImage: "/assets/images/name.jpg"
+            # Regex to capture content inside quotes that DOES NOT start with 
+            $content = $content -replace 'coverImage:\s*"([^"/][^"]+)"', 'coverImage: "/assets/images/$1"'
 
             
             # Save as UTF-8 (No BOM)

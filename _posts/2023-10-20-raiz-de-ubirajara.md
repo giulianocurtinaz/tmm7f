@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Raiz de Ubirajara!"
 date: 2023-10-20
@@ -16,8 +16,8 @@ Documentar e publicar nossa história é trazer à vida anos de dedicação e am
 
 
 
-[Arvore Ubirajara.Doc](/tmm7f/assets/images/2023-10-arvore-ubirajara.docx)[Baixar](/tmm7f/assets/images/2023-10-arvore-ubirajara.docx)
+[Arvore Ubirajara.Doc](/assets/images/2023-10-arvore-ubirajara.docx)[Baixar](/assets/images/2023-10-arvore-ubirajara.docx)
 
 
 
-![](/tmm7f/assets/images/2023-10-arvoreubirajara-1.png)
+![](/assets/images/2023-10-arvoreubirajara-1.png)

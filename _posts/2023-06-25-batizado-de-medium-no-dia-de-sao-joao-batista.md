@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Batizado de Médium no dia de São João Batista!"
 date: 2023-06-25
@@ -9,12 +9,12 @@ Foi com muita alegria, emoção e forte vibração que realizamos nesse dia ilum
 
 
 
-![](/tmm7f/assets/images/2023-07-img-20230708-wa00042411778354873690707.jpg)
+![](/assets/images/2023-07-img-20230708-wa00042411778354873690707.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-07-img-20230625-wa0012989691698604762135.jpg)
+![](/assets/images/2023-07-img-20230625-wa0012989691698604762135.jpg)
 
 
 
-![](/tmm7f/assets/images/2023-07-img-20230625-wa0007383469938255641156.jpg)
+![](/assets/images/2023-07-img-20230625-wa0007383469938255641156.jpg)

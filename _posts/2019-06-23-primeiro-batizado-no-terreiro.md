@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Primeiro Batizado no terreiro"
 date: 2019-06-23
@@ -9,4 +9,4 @@ Aos vinte e três dias do mês de junho de 2019, no terreiro de Mae Maria Frater
 
 
 
-![](/tmm7f/assets/images/2020-01-batizadokatia3.jpg)![](/tmm7f/assets/images/2020-01-batizadokatia2.jpg)![](/tmm7f/assets/images/2020-01-batizadokatia.jpg)![](/tmm7f/assets/images/2020-01-batizadokatiaprincipal.jpg)![](/tmm7f/assets/images/2020-01-batizadokatiaprincipal2.jpg)
+![](/assets/images/2020-01-batizadokatia3.jpg)![](/assets/images/2020-01-batizadokatia2.jpg)![](/assets/images/2020-01-batizadokatia.jpg)![](/assets/images/2020-01-batizadokatiaprincipal.jpg)![](/assets/images/2020-01-batizadokatiaprincipal2.jpg)

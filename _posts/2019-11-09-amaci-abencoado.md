@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Amaci abençoado!"
 date: 2019-11-09
@@ -27,4 +27,4 @@ Ao final da sessão de Amaci, toda a assistência recebeu um passe coletivo, ond
 
 
 
-![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-1.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-2.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-3.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-4.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-5.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.17-1.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.17.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-10-at-12.24.05.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-10-at-12.24.16.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-10-at-12.24.20.jpeg)![](/tmm7f/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.57.jpeg)
+![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-1.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-2.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-3.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-4.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31-5.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.50.31.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.17-1.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.17.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-10-at-12.24.05.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-10-at-12.24.16.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-10-at-12.24.20.jpeg)![](/assets/images/2020-02-whatsapp-image-2019-11-09-at-20.54.57.jpeg)
