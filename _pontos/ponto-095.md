@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "095"
+ordenacao: 95
 title: "Águia Branca"
 category: "Oxalá"
 audios:

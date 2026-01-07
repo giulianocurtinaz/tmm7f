@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "169"
+ordenacao: 169
 title: "Caboclo do Vento vem descendo da pedreira"
 category: "Oxóssi"
 audios:

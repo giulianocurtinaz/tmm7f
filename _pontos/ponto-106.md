@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "106"
+ordenacao: 106
 title: "Lá na mata tem guiné"
 category: "Oxóssi"
 audios:

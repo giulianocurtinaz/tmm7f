@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "364"
+ordenacao: 364
 title: "Defuma com as ervas da Jurema"
 category: "Oxóssi"
 audios:

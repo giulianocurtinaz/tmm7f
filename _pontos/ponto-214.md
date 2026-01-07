@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "214"
+ordenacao: 214
 title: "O seu cavalo corre"
 category: "Oxalá"
 audios:

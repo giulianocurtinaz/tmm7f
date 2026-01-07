@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "044"
+ordenacao: 44
 title: "Oh Virgem Maria"
 category: "Pretos Velhos"
 audios:

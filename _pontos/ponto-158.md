@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "158"
+ordenacao: 158
 title: "Bate, bate no tambor"
 category: "Oxum"
 audios:

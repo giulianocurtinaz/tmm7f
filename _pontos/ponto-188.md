@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "188"
+ordenacao: 188
 title: "Eu vi os soldados de Ogum"
 category: "Oxalá"
 audios:

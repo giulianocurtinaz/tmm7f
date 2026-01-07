@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "210"
+ordenacao: 210
 title: "Saravá, saravá São Jorge"
 category: "Ogum"
 

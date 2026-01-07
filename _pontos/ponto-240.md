@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "240"
+ordenacao: 240
 title: "Cruza flechas e lanças"
 category: "Oxóssi"
 audios:

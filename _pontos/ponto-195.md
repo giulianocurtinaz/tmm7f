@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "195"
+ordenacao: 195
 title: "Ogum olha sua bandeira"
 category: "Ogum"
 audios:

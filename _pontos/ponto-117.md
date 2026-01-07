@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "117"
+ordenacao: 117
 title: "Jurema do juremeiro"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "123"
+ordenacao: 123
 title: "Eu vim da mata virgem"
 category: "Oxóssi"
 audios:

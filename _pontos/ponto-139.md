@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "139"
+ordenacao: 139
 title: "Meu pai Xangô é rei lá na pedreira"
 category: "Oxum"
 audios:

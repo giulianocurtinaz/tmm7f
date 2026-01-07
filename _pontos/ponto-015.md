@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "015"
+ordenacao: 15
 title: "Oxalá mandou,"
 category: "Oxalá"
 audios:

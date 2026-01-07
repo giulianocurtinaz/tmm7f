@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "332"
+ordenacao: 332
 title: "Pai Miguel"
 category: "Oxalá"
 audios:

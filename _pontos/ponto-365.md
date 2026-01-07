@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "365"
+ordenacao: 365
 title: "Olorum"
 category: "Oxóssi"
 

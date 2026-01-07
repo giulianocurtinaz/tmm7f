@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "136"
+ordenacao: 136
 title: "Caboclo Ararijara"
 category: "Oxóssi"
 

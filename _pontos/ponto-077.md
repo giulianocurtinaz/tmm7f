@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "077"
+ordenacao: 77
 title: "Um diadema lá no céu brilhou"
 category: "Oxóssi"
 audios:

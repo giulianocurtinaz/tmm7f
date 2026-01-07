@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "389"
+ordenacao: 389
 title: "Os Pretos Velhos vão embora"
 category: "Oxalá"
 audios:

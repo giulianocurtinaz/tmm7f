@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "165"
+ordenacao: 165
 title: "Treme Terra"
 category: "Pretos Velhos"
 audios:

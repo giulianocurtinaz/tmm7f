@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "231"
+ordenacao: 231
 title: "Que cavaleiro é aquele"
 category: "Ogum"
 audios:

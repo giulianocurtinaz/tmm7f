@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "262"
+ordenacao: 262
 title: "Damião cadê Doum, ô Damião?"
 category: "Iemanjá"
 audios:

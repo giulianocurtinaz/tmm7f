@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "083"
+ordenacao: 83
 title: "Araguassú que vem de aruanda"
 category: "Iemanjá"
 audios:

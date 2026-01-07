@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "180"
+ordenacao: 180
 title: "Iansã é uma moça bonita"
 category: "Iansã"
 

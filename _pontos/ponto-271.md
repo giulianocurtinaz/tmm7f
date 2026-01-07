@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "271"
+ordenacao: 271
 title: "Oi Cosme, oi Cosme, oi Cosme"
 category: "Oxalá"
 audios:

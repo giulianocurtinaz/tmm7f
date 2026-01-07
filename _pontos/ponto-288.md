@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "288"
+ordenacao: 288
 title: "A estrela clareou o céu"
 category: "Pretos Velhos"
 

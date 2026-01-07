@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "243"
+ordenacao: 243
 title: "CACOBLO OGUM DA MATA VIRGEM"
 category: "Oxalá"
 audios:

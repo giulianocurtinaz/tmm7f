@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "058"
+ordenacao: 58
 title: "Marinheiro"
 category: "Ogum"
 

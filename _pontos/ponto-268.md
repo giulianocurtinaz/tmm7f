@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "268"
+ordenacao: 268
 title: "Bahia é terra de dois"
 category: "Oxum"
 

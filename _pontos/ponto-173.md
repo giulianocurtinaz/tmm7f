@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "173"
+ordenacao: 173
 title: "Caboclo do Sol e da Lua"
 category: "Oxóssi"
 audios:

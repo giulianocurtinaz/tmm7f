@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "320"
+ordenacao: 320
 title: "Pai João de Aruanda"
 category: "Pretos Velhos"
 

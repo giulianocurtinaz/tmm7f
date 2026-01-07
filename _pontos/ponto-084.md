@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "084"
+ordenacao: 84
 title: "Arranca Toco"
 category: "Oxalá"
 audios:

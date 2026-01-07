@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "318"
+ordenacao: 318
 title: "Quem quiser ver, que veja"
 category: "Pretos Velhos"
 

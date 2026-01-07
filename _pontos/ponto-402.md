@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "402"
+ordenacao: 402
 title: "Ponto da Amizade"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "026"
+ordenacao: 26
 title: "Mãe Sereia tem o seu manto de ouro"
 category: "Iemanjá"
 audios:

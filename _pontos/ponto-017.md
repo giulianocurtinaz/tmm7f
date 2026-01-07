@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "017"
+ordenacao: 17
 title: "Um novo dia vai nascer"
 category: "Oxalá"
 audios:

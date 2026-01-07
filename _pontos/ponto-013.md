@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "013"
+ordenacao: 13
 title: "Bendito e louvado seja"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "297"
+ordenacao: 297
 title: "Quê-querê quê quê"
 category: "Pretos Velhos"
 audios:

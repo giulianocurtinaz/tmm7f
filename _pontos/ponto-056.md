@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "056"
+ordenacao: 56
 title: "Baixai, baixai,"
 category: "Iemanjá"
 audios:

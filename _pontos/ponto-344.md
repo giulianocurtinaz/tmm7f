@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "344"
+ordenacao: 344
 title: "Oh Preta-Velha você não engana"
 category: "Oxalá"
 audios:

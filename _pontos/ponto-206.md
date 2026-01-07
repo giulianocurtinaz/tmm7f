@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "206"
+ordenacao: 206
 title: "São Jorge é quem está de ronda"
 category: "Ogum"
 audios:

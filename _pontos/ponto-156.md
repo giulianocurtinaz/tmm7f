@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "156"
+ordenacao: 156
 title: "Bambaruê"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "103"
+ordenacao: 103
 title: "Tupinambá"
 category: "Pretos Velhos"
 audios:

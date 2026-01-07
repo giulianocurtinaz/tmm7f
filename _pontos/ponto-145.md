@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "145"
+ordenacao: 145
 title: "Kaô, kaô Xangô"
 category: "Oxóssi"
 audios:

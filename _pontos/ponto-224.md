@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "224"
+ordenacao: 224
 title: "A sua corrente é tão forte"
 category: "Ogum"
 audios:

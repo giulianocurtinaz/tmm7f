@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "148"
+ordenacao: 148
 title: "Kaô Cabecilê"
 category: "Xangô"
 audios:

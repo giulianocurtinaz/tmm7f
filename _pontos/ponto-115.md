@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "115"
+ordenacao: 115
 title: "Quem não conhece a linda cabocla Jurema"
 category: "Oxóssi"
 

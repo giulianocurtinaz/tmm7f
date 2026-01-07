@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "341"
+ordenacao: 341
 title: "NEGA MINA"
 category: "Oxalá"
 audios:

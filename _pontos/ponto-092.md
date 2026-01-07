@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "092"
+ordenacao: 92
 title: "Caboclo Aimoré"
 category: "Oxóssi"
 audios:

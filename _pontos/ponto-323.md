@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "323"
+ordenacao: 323
 title: "Onde é que Tia Maria mora?"
 category: "Pretos Velhos"
 audios:

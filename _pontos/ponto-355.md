@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "355"
+ordenacao: 355
 title: "Benedito, Pai Benedito"
 category: "Pretos Velhos"
 

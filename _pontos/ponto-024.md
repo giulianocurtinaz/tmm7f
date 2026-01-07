@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "024"
+ordenacao: 24
 title: "Navio negreiro no meio do mar"
 category: "Iemanjá"
 audios:

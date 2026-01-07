@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "312"
+ordenacao: 312
 title: "Ponto 312"
 category: "Pretos Velhos"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "157"
+ordenacao: 157
 title: "Eu fui lá na mata buscar minha guia"
 category: "Oxóssi"
 audios:

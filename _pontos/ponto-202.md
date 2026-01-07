@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "202"
+ordenacao: 202
 title: "Quatro santos nesta sala"
 category: "Ogum"
 audios:

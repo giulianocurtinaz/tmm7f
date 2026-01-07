@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "003"
+ordenacao: 3
 title: "HINO DO UMBANDISTA BRASILEIRO"
 category: "Oxalá"
 audios:

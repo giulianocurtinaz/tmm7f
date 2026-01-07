@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "391"
+ordenacao: 391
 title: "Caboclo já vai"
 category: "Oxóssi"
 audios:

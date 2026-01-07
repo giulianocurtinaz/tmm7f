@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "283"
+ordenacao: 283
 title: "Vovó Faustina"
 category: "Oriente"
 audios:

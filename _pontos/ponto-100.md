@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "100"
+ordenacao: 100
 title: "Salve a falange do Caboclo Sete Flechas"
 category: "Oxóssi"
 audios:

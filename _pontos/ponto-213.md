@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "213"
+ordenacao: 213
 title: "Ô Ô Ogum"
 category: "Ogum"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "299"
+ordenacao: 299
 title: "Eu vi no céu uma estrela correndo"
 category: "Iemanjá"
 audios:

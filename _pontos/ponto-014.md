@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "014"
+ordenacao: 14
 title: "Saravá, saravá, saravá"
 category: "Oxalá"
 audios:

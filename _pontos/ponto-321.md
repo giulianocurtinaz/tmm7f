@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "321"
+ordenacao: 321
 title: "Vovó Rita"
 category: "Pretos Velhos"
 audios:

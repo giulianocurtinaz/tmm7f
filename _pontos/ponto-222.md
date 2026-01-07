@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "222"
+ordenacao: 222
 title: "Ogum Beira Mar"
 category: "Ogum"
 audios:

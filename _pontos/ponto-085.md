@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "085"
+ordenacao: 85
 title: "Lá na mata é só caboclo"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "081"
+ordenacao: 81
 title: "Eu vou pedir licença pra Oxóssi"
 category: "Oxum"
 audios:

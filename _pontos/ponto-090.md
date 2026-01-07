@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "090"
+ordenacao: 90
 title: "Como é lindo o romper do dia"
 category: "Oxóssi"
 audios:

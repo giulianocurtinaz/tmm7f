@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "062"
+ordenacao: 62
 title: "OXUM"
 category: "Oxalá"
 audios:

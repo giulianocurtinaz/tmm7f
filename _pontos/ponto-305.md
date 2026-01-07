@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "305"
+ordenacao: 305
 title: "Mãe Maria cadê Pai José"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "338"
+ordenacao: 338
 title: "Lá do céu desceu uma estrela"
 category: "Pretos Velhos"
 audios:

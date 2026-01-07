@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "309"
+ordenacao: 309
 title: "Pai Jorge"
 category: "Oxalá"
 audios:

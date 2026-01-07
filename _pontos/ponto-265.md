@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "265"
+ordenacao: 265
 title: "De lá do céu de lá do céu"
 category: "Oxalá"
 audios:

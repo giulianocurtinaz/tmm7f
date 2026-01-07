@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "132"
+ordenacao: 132
 title: "arrebol"
 category: "Oxóssi"
 audios:

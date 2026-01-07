@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "075"
+ordenacao: 75
 title: "Atira, atira"
 category: "Oxóssi"
 audios:

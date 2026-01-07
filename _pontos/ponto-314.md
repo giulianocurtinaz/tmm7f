@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "314"
+ordenacao: 314
 title: "Ele é Rei Congo"
 category: "Ogum"
 audios:

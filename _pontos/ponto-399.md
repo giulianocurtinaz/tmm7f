@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "399"
+ordenacao: 399
 title: "Exaltação"
 category: "Oxalá"
 

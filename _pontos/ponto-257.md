@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "257"
+ordenacao: 257
 title: "Papai mandou as criancinhas"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "043"
+ordenacao: 43
 title: "'"
 ---"
 category: "Iemanjá"

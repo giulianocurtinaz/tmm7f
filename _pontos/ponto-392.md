@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "392"
+ordenacao: 392
 title: "Natal na Umbanda"
 category: "Oxalá"
 audios:

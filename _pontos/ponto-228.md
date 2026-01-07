@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "228"
+ordenacao: 228
 title: "Oh seu Ogum Beira Mar"
 category: "Oxalá"
 audios:

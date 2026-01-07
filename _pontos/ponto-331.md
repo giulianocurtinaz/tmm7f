@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "331"
+ordenacao: 331
 title: "Maria Tomé"
 category: "Oxalá"
 audios:

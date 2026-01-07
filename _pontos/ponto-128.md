@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "128"
+ordenacao: 128
 title: "O vento está soprando nas matas"
 category: "Oxóssi"
 

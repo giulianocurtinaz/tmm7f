@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "270"
+ordenacao: 270
 title: "Cosme e Damião, dois dois dois"
 category: "Oxum"
 

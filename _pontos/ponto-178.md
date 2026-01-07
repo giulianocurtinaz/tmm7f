@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "178"
+ordenacao: 178
 title: "Iansã"
 category: "Oxóssi"
 audios:

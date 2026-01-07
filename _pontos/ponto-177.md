@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "177"
+ordenacao: 177
 title: "Caboclo Girassol"
 category: "Oxóssi"
 audios:

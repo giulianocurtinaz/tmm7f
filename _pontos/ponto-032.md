@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "032"
+ordenacao: 32
 title: "Iara"
 category: "Ogum"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "393"
+ordenacao: 393
 title: "Coroação de Cacique"
 category: "Oxalá"
 audios:

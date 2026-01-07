@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "011"
+ordenacao: 11
 title: "Jesus, estrela guia"
 category: "Oxalá"
 audios:

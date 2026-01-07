@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "138"
+ordenacao: 138
 title: "XANGÔ"
 category: "Xangô"
 

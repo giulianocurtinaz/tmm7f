@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "191"
+ordenacao: 191
 title: "Quem é a aquele lindo cavalheiro?"
 category: "Oxóssi"
 audios:

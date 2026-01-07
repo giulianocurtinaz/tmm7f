@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "337"
+ordenacao: 337
 title: "Pai Jerônimo"
 category: "Pretos Velhos"
 

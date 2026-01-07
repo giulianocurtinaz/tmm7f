@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "251"
+ordenacao: 251
 title: "Ogum de Ronda"
 category: "Ogum"
 audios:

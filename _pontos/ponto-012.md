@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "012"
+ordenacao: 12
 title: "Entrei na mata virgem"
 category: "Oxalá"
 audios:

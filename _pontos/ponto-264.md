@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "264"
+ordenacao: 264
 title: "27 de setembro, dia de festa e procissão"
 category: "Oxóssi"
 audios:

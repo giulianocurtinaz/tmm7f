@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "108"
+ordenacao: 108
 title: "Ele vem montado"
 category: "Oxalá"
 

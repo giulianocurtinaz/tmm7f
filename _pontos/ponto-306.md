@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "306"
+ordenacao: 306
 title: "Salve Deus e os caboclos de Aruanda"
 category: "Oxóssi"
 audios:

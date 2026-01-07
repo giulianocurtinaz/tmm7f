@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "274"
+ordenacao: 274
 title: "Cosme e damião, doum"
 category: "Oxóssi"
 audios:

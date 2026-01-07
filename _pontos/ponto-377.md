@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "377"
+ordenacao: 377
 title: "Jesus, Maria, São João e São José"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "324"
+ordenacao: 324
 title: "Maria Conga"
 category: "Pretos Velhos"
 audios:

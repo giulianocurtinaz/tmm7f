@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "290"
+ordenacao: 290
 title: "Lá no alto da serra"
 category: "Pretos Velhos"
 audios:

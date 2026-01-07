@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "296"
+ordenacao: 296
 title: "Pai João e Mãe Maria"
 category: "Oxalá"
 audios:

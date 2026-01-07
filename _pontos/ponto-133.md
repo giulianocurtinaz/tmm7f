@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "133"
+ordenacao: 133
 title: "Eu vou chamar a corrente de Jurema"
 category: "Oxóssi"
 

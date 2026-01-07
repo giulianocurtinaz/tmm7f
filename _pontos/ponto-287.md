@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "287"
+ordenacao: 287
 title: "Pai Bastião"
 category: "Pretos Velhos"
 audios:

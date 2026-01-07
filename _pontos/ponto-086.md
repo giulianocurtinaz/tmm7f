@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "086"
+ordenacao: 86
 title: "Caboclo Arranca-Toco"
 category: "Oxóssi"
 audios:

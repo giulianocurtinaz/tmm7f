@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "380"
+ordenacao: 380
 title: "Santo Antônio do mundo novo"
 category: "Pretos Velhos"
 audios:

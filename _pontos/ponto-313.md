@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "313"
+ordenacao: 313
 title: "Pinto piou lá em Angola"
 category: "Pretos Velhos"
 audios:

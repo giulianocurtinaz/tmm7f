@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "088"
+ordenacao: 88
 title: "Em cima de uma pedra branca"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "233"
+ordenacao: 233
 title: "Em seu cavalo branco"
 category: "Oxalá"
 audios:

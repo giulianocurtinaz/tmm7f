@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "114"
+ordenacao: 114
 title: "Entrei na mata virgem"
 category: "Oxóssi"
 

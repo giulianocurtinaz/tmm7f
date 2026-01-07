@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "353"
+ordenacao: 353
 title: "A fumaça do cachimbo do Pai Bento"
 category: "Pretos Velhos"
 audios:

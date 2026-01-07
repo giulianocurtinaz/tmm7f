@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "184"
+ordenacao: 184
 title: "O ronco da pedreira"
 category: "Oxóssi"
 audios:

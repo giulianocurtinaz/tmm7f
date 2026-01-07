@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "352"
+ordenacao: 352
 title: "Pai Bento, Pai Bento"
 category: "Pretos Velhos"
 audios:

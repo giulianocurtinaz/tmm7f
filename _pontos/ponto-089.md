@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "089"
+ordenacao: 89
 title: "Pena Branca"
 category: "Oxóssi"
 audios:

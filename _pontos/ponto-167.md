@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "167"
+ordenacao: 167
 title: "Quando a lua surgir"
 category: "Oxalá"
 audios:

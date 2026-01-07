@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "146"
+ordenacao: 146
 title: "Supremo da Montanha"
 category: "Pretos Velhos"
 audios:

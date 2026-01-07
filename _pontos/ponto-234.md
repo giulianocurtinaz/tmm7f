@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "234"
+ordenacao: 234
 title: "Ogum Iara"
 category: "Oxalá"
 audios:

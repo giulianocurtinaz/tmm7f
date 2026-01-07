@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "223"
+ordenacao: 223
 title: "Eu vi uma luzinha tão longe"
 category: "Iemanjá"
 audios:

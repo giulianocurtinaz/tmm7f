@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "291"
+ordenacao: 291
 title: "Repenica"
 category: "Pretos Velhos"
 audios:

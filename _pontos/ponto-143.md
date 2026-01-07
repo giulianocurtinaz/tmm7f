@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "143"
+ordenacao: 143
 title: "Por de trás daquela serra"
 category: "Oxum"
 audios:

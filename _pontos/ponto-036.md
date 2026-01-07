@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "036"
+ordenacao: 36
 title: "És nossa mãe Óh Iemanjá"
 category: "Iemanjá"
 audios:

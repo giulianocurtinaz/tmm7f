@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "147"
+ordenacao: 147
 title: "Ribombo"
 category: "Xangô"
 audios:

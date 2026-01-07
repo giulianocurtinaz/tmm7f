@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "325"
+ordenacao: 325
 title: "Eu vou chamar a corrente do cipó"
 category: "Pretos Velhos"
 audios:

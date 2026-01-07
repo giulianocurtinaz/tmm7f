@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "023"
+ordenacao: 23
 title: "No murmúrio das ondas"
 category: "Iemanjá"
 audios:

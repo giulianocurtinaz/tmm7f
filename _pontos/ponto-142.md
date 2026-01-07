@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "142"
+ordenacao: 142
 title: "Pedra rolou pai Xangô"
 category: "Oxum"
 audios:

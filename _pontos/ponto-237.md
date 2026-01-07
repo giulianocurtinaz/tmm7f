@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "237"
+ordenacao: 237
 title: "Ogum Megê e Ogum Iara"
 category: "Ogum"
 audios:

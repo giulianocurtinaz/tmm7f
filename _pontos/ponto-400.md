@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "400"
+ordenacao: 400
 title: "Aniversário"
 category: "Oxalá"
 

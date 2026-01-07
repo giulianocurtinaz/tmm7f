@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "284"
+ordenacao: 284
 title: "Pai Francisco"
 category: "Oriente"
 audios:

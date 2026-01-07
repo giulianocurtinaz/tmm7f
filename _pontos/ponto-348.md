@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "348"
+ordenacao: 348
 title: "Povo de Congo"
 category: "Pretos Velhos"
 audios:

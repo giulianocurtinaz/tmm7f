@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "219"
+ordenacao: 219
 title: "Ogum é São Jorge guerreiro"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "261"
+ordenacao: 261
 title: "Vai, vai, vai Doum"
 category: "Iemanjá"
 audios:

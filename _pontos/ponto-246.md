@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "246"
+ordenacao: 246
 title: "Todo o homem que fuma e bebe"
 category: "Ogum"
 audios:

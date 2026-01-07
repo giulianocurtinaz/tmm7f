@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "362"
+ordenacao: 362
 title: "Defumação"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "277"
+ordenacao: 277
 title: "Oh João batista, enviado de Jesus"
 category: "Oxalá"
 audios:

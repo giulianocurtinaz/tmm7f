@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "102"
+ordenacao: 102
 title: "Tupayba"
 category: "Pretos Velhos"
 audios:

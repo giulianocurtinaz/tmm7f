@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "161"
+ordenacao: 161
 title: "Sao Miguel Arcanjo"
 category: "Oxum"
 audios:

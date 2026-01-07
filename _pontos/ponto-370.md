@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "370"
+ordenacao: 370
 title: "Deus vos salve a casa santa"
 category: "Oxalá"
 audios:

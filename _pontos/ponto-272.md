@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "272"
+ordenacao: 272
 title: "Enfeitei meu jardim de rosas brancas"
 category: "Oxalá"
 

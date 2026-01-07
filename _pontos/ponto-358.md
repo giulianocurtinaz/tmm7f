@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "358"
+ordenacao: 358
 title: "Pai Tomé"
 category: "Oxalá"
 audios:

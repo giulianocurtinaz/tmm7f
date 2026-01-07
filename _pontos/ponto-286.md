@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "286"
+ordenacao: 286
 title: "Nego Juca"
 category: "Pretos Velhos"
 

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "061"
+ordenacao: 61
 title: "Tarimá"
 category: "Iemanjá"
 audios:

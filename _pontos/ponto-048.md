@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "048"
+ordenacao: 48
 title: "Desce oh mãe do teu reino dourado"
 category: "Oxalá"
 audios:

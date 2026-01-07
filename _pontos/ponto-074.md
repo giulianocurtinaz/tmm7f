@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "074"
+ordenacao: 74
 title: "Foi Zambi quem criou o mundo"
 category: "Oxóssi"
 

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "387"
+ordenacao: 387
 title: "Caboclo pega suas armas"
 category: "Oxalá"
 audios:

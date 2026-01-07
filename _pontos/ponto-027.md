@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "027"
+ordenacao: 27
 title: "Sentada em cima de uma pedra"
 category: "Iemanjá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "193"
+ordenacao: 193
 title: "Ai vem Ogum em seu cavalo"
 category: "Oxóssi"
 audios:

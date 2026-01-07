@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "007"
+ordenacao: 7
 title: "TEMPLO DE UMBANDA PAI OXALÁ FRATERNIDADE OGUM DE RONDA"
 category: "Oxalá"
 

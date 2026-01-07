@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "166"
+ordenacao: 166
 title: "Em cima de uma pedra branca"
 category: "Xangô"
 

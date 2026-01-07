@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "112"
+ordenacao: 112
 title: "Jurema"
 category: "Oxalá"
 audios:

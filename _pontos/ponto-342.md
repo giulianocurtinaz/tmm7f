@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "342"
+ordenacao: 342
 title: "Preta-Velha"
 category: "Oxalá"
 

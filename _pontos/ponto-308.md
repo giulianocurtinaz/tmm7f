@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "308"
+ordenacao: 308
 title: "Embala ê babá, embala ê"
 category: "Pretos Velhos"
 audios:

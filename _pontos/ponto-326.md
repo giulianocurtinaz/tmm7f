@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "326"
+ordenacao: 326
 title: "A escravatura terminou"
 category: "Pretos Velhos"
 

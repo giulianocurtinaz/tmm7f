@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "227"
+ordenacao: 227
 title: "Como é linda a coroa de Iemanjá"
 category: "Iemanjá"
 audios:

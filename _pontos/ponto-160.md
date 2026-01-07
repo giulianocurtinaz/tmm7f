@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "160"
+ordenacao: 160
 title: "A lua vem nascendo no horizonte"
 category: "Oxum"
 audios:

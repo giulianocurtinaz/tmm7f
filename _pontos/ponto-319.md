@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "319"
+ordenacao: 319
 title: "Pai João"
 category: "Pretos Velhos"
 audios:

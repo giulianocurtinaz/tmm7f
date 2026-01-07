@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "310"
+ordenacao: 310
 title: "Pai Sebastião"
 category: "Ogum"
 

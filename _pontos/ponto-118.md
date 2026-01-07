@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "118"
+ordenacao: 118
 title: "Ai Jureminha, ai Jurema"
 category: "Oxóssi"
 audios:

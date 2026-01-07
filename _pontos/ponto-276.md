@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "276"
+ordenacao: 276
 title: "São João batista vem chegando"
 category: "Oxalá"
 audios:

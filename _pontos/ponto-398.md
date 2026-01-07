@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "398"
+ordenacao: 398
 title: "Advertência"
 category: "Oxalá"
 audios:

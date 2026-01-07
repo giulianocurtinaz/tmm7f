@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "266"
+ordenacao: 266
 title: "Doum, hoje é teu dia"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "226"
+ordenacao: 226
 title: "Ogum quando chega no reino"
 category: "Ogum"
 audios:

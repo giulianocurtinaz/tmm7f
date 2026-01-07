@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "363"
+ordenacao: 363
 title: "Corre ronda Pai Ogum"
 category: "Oxóssi"
 audios:

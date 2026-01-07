@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "357"
+ordenacao: 357
 title: "Pai Jobim"
 category: "Oxóssi"
 

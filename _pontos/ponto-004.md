@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "004"
+ordenacao: 4
 title: "ASSOC. DOS UMBANDISTAS DE CANOAS"
 category: "Oxalá"
 audios:

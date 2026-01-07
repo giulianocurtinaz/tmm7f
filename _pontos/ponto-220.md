@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "220"
+ordenacao: 220
 title: "Nagô"
 category: "Ogum"
 audios:

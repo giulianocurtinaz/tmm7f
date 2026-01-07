@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "293"
+ordenacao: 293
 title: "Preto-Velho senta no toco"
 category: "Oxalá"
 audios:

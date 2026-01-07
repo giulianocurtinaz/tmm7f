@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "394"
+ordenacao: 394
 title: "Antigo Hino de Natal da Umbanda"
 category: "Oxalá"
 audios:

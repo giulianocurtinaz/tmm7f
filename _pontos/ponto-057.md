@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "057"
+ordenacao: 57
 title: "E a marola lá do mar"
 category: "Ogum"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "239"
+ordenacao: 239
 title: "Ogum Rompe Mato"
 category: "Oxóssi"
 audios:

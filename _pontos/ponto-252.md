@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "252"
+ordenacao: 252
 title: "Oxóssi assoviou lá no Humaitá"
 category: "Oxalá"
 audios:

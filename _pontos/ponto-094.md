@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "094"
+ordenacao: 94
 title: "Corre, corre meu veado"
 category: "Oxóssi"
 audios:

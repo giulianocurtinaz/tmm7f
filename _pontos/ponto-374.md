@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "374"
+ordenacao: 374
 title: "HINO DA TURMA CACIQUE TREME-TERRA"
 category: "Oxalá"
 audios:

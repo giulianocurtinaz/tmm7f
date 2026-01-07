@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "397"
+ordenacao: 397
 title: "Pedido e agradecimento especial por saúde espiritual"
 category: "Oxalá"
 audios:

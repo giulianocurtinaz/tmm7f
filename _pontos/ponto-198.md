@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "198"
+ordenacao: 198
 title: "Clarão da lua, clareou as matas"
 category: "Oxalá"
 audios:

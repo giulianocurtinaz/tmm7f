@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "235"
+ordenacao: 235
 title: "Ogum vencedor de demanda"
 category: "Iemanjá"
 audios:

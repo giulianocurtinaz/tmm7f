@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "016"
+ordenacao: 16
 title: "Eu faço a Zambi minha oração,"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "349"
+ordenacao: 349
 title: "Pai Belarmino"
 category: "Pretos Velhos"
 audios:

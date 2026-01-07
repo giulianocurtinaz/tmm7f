@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "335"
+ordenacao: 335
 title: "Pai Domingos, cadê Pai Domingos"
 category: "Oxóssi"
 

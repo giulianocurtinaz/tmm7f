@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "379"
+ordenacao: 379
 title: "Encerramento"
 category: "Oxalá"
 audios:

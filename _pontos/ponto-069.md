@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "069"
+ordenacao: 69
 title: "Coração de mãe"
 category: "Oxum"
 audios:

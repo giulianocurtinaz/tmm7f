@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "298"
+ordenacao: 298
 title: "Vovó não quer casca de côco no terreiro"
 category: "Pretos Velhos"
 audios:

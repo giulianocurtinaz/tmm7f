@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "292"
+ordenacao: 292
 title: "Preto velho pequenino"
 category: "Oxalá"
 audios:

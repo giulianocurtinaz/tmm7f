@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "183"
+ordenacao: 183
 title: "jacutá"
 category: "Iansã"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "401"
+ordenacao: 401
 title: "Hino dos Orixás"
 category: "Oxalá"
 audios:

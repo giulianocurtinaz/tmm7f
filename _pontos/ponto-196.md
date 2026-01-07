@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "196"
+ordenacao: 196
 title: "Ele é filho do major Heitor"
 category: "Ogum"
 audios:

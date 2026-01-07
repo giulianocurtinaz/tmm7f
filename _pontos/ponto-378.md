@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "378"
+ordenacao: 378
 title: "Deus que salve os nossos guias"
 category: "Oxalá"
 audios:

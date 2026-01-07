@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "001"
+ordenacao: 1
 title: "HINO DA UMBANDA"
 category: "Hinos"
 audios:

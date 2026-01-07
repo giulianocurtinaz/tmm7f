@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "279"
+ordenacao: 279
 title: "Nasceu mais uma estrela"
 category: "Oriente"
 

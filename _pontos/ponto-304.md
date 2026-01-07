@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "304"
+ordenacao: 304
 title: "Pai José vem cá"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "066"
+ordenacao: 66
 title: "Eu vi mamãe Oxum na cachoeira"
 category: "Oxum"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "035"
+ordenacao: 35
 title: "Atraca Atraca quem vem na onda é Nanã"
 category: "Iemanjá"
 audios:

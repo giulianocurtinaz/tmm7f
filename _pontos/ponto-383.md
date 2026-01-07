@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "383"
+ordenacao: 383
 title: "Ele vai, ele vai"
 category: "Pretos Velhos"
 

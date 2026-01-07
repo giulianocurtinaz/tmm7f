@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "170"
+ordenacao: 170
 title: "Caboclo Ventania"
 category: "Oxóssi"
 

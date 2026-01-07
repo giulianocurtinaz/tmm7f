@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "005"
+ordenacao: 5
 title: "HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”"
 category: "Oxalá"
 

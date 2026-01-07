@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "216"
+ordenacao: 216
 title: "Ai o meu pai é o maior na espada"
 category: "Oxóssi"
 audios:

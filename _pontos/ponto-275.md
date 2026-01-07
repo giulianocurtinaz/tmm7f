@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "275"
+ordenacao: 275
 title: "POVO DO ORIENTE"
 category: "Oxalá"
 audios:

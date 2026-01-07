@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "209"
+ordenacao: 209
 title: "Ogum meu pai"
 category: "Ogum"
 

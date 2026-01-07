@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "053"
+ordenacao: 53
 title: "Saravá Oxalá e Iemanjá"
 category: "Oxalá"
 audios:

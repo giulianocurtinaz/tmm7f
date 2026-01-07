@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "025"
+ordenacao: 25
 title: "Foi na areia, foi na areia"
 category: "Iemanjá"
 audios:

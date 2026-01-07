@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "376"
+ordenacao: 376
 title: "Abertura"
 category: "Pretos Velhos"
 audios:

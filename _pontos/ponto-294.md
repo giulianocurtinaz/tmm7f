@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "294"
+ordenacao: 294
 title: "Oi saravá os pretos velhos agora"
 category: "Pretos Velhos"
 audios:

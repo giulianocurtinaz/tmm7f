@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "031"
+ordenacao: 31
 title: "Jandira, Jandira"
 category: "Iemanjá"
 audios:

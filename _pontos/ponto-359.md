@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "359"
+ordenacao: 359
 title: "Cachimba"
 category: "Oxalá"
 audios:

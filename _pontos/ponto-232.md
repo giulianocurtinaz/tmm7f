@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "232"
+ordenacao: 232
 title: "Olha que lindo barquinho"
 category: "Ogum"
 

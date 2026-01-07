@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "182"
+ordenacao: 182
 title: "bonanza"
 category: "Oxalá"
 audios:

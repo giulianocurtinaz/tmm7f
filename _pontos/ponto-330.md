@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "330"
+ordenacao: 330
 title: "Maria da Serra"
 category: "Iemanjá"
 audios:

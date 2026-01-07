@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "189"
+ordenacao: 189
 title: "Xangô rolou a pedra na pedreira"
 category: "Iemanjá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "281"
+ordenacao: 281
 title: "Uma luz nasceu e clareou"
 category: "Oxalá"
 audios:

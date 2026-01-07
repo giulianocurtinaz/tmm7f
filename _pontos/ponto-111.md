@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "111"
+ordenacao: 111
 title: "Ubiratã"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "215"
+ordenacao: 215
 title: "Zélio Fernandino de Moraes"
 category: "Ogum"
 audios:

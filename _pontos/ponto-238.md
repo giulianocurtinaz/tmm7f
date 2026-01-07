@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "238"
+ordenacao: 238
 title: "Seu capacete é de ouro"
 category: "Ogum"
 

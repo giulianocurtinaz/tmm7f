@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "385"
+ordenacao: 385
 title: "Lá na Aruanda, estão lhe chamando"
 category: "Pretos Velhos"
 audios:

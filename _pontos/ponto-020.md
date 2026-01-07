@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "020"
+ordenacao: 20
 title: "Joga flores no mar | bis"
 category: "Iemanjá"
 audios:

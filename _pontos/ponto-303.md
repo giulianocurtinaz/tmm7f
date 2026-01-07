@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "303"
+ordenacao: 303
 title: "Pai José"
 category: "Oxóssi"
 audios:

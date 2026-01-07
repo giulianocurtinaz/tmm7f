@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "110"
+ordenacao: 110
 title: "Urubatã"
 category: "Oxóssi"
 audios:

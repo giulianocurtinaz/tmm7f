@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "384"
+ordenacao: 384
 title: "MACÁIA"
 category: "Oxóssi"
 

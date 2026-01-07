@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "295"
+ordenacao: 295
 title: "Xangô, Xangô"
 category: "Xangô"
 audios:

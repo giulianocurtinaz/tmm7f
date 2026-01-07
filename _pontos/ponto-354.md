@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "354"
+ordenacao: 354
 title: "Pai Benedito"
 category: "Oxóssi"
 audios:

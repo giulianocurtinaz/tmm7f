@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "050"
+ordenacao: 50
 title: "Ele é do mar, ele é caboclo flecheiro"
 category: "Oxalá"
 audios:

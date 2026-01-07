@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "225"
+ordenacao: 225
 title: "Ogum que abalou as estrelas"
 category: "Ogum"
 

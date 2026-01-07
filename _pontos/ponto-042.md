@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "042"
+ordenacao: 42
 title: "Oh Iemanjá, Oh Iemanjá"
 category: "Iemanjá"
 audios:

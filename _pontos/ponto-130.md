@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "130"
+ordenacao: 130
 title: "Eh Juremê, Eh Jurema"
 category: "Oxóssi"
 audios:

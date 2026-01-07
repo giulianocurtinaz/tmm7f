@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "229"
+ordenacao: 229
 title: "São Jorge, São Jorge"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "311"
+ordenacao: 311
 title: "Rei Congo"
 category: "Pretos Velhos"
 audios:

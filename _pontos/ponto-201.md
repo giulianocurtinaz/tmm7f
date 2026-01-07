@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "201"
+ordenacao: 201
 title: "Na minha porta bateu"
 category: "Ogum"
 audios:

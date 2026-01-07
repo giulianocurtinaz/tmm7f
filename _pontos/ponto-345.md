@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "345"
+ordenacao: 345
 title: "Tio Antonio"
 category: "Oxalá"
 audios:

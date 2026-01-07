@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "041"
+ordenacao: 41
 title: "Maria nossa mãe extremosa"
 category: "Iemanjá"
 audios:

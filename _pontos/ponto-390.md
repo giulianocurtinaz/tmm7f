@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "390"
+ordenacao: 390
 title: "Caboclos já trabalharam"
 category: "Oxalá"
 audios:

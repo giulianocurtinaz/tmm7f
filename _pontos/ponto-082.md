@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "082"
+ordenacao: 82
 title: "Araguassú"
 category: "Oxum"
 

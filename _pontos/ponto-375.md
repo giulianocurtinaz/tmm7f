@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "375"
+ordenacao: 375
 title: "Abertura dos caminhos"
 category: "Oxalá"
 audios:

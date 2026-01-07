@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "067"
+ordenacao: 67
 title: "Junco-Verde"
 category: "Oxalá"
 audios:

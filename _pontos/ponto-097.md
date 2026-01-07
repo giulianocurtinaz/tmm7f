@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "097"
+ordenacao: 97
 title: "Caboclo Arruda"
 category: "Oxóssi"
 audios:

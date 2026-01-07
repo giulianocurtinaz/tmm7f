@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "248"
+ordenacao: 248
 title: "Ogum da Lua"
 category: "Ogum"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "096"
+ordenacao: 96
 title: "Sete Encruzilhadas"
 category: "Oxalá"
 audios:

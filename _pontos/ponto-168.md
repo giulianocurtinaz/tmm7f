@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "168"
+ordenacao: 168
 title: "Caboclo do Vento"
 category: "Oxóssi"
 audios:

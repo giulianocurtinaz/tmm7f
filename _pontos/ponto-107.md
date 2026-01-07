@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "107"
+ordenacao: 107
 title: "Tupimirim"
 category: "Oxalá"
 audios:

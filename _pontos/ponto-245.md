@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "245"
+ordenacao: 245
 title: "Qual o Ogum que bebe"
 category: "Ogum"
 audios:

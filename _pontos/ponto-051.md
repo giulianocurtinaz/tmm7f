@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "051"
+ordenacao: 51
 title: "Galera está no mar, ai vamos todos remar"
 category: "Iemanjá"
 audios:

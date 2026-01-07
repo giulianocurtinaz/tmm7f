@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "230"
+ordenacao: 230
 title: "Ele é Ogum, ele vem do mar"
 category: "Iemanjá"
 audios:

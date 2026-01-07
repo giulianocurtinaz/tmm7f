@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "150"
+ordenacao: 150
 title: "Sua machada é de ouro"
 category: "Xangô"
 audios:

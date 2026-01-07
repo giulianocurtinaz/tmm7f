@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "260"
+ordenacao: 260
 title: "Na aruandê, na aruandê, na aruanda"
 category: "Ogum"
 audios:

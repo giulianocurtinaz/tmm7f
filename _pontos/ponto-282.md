@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "282"
+ordenacao: 282
 title: "Ori do Oriente"
 category: "Oriente"
 audios:

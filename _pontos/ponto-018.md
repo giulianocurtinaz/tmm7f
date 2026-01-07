@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "018"
+ordenacao: 18
 title: "Foi Zambi que criou o mundo"
 category: "Oxalá"
 audios:

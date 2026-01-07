@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "152"
+ordenacao: 152
 title: "Cariri"
 category: "Iemanjá"
 audios:

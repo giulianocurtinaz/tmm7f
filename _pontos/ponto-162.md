@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "162"
+ordenacao: 162
 title: "Quero andar de valor em valor"
 category: "Oxalá"
 audios:

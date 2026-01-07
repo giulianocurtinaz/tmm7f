@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "203"
+ordenacao: 203
 title: "altaneiro"
 category: "Oxalá"
 audios:

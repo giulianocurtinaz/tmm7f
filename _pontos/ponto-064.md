@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "064"
+ordenacao: 64
 title: "candura"
 category: "Ogum"
 audios:

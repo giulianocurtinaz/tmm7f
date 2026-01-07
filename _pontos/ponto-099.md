@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "099"
+ordenacao: 99
 title: "Paranga"
 category: "Oxóssi"
 audios:

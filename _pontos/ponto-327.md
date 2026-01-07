@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "327"
+ordenacao: 327
 title: "Tumbeiro tumbeiro lembrança da escravidão"
 category: "Iansã"
 audios:

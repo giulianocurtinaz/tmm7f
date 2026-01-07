@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "218"
+ordenacao: 218
 title: "Vence demanda, ele tocou clarim"
 category: "Ogum"
 audios:

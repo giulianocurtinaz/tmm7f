@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "388"
+ordenacao: 388
 title: "Caboclo trabalhou"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "029"
+ordenacao: 29
 title: "Dia 8 de Dezembro dia de festa no mar"
 category: "Iemanjá"
 

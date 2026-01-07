@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "340"
+ordenacao: 340
 title: "Estava na Aruanda"
 category: "Pretos Velhos"
 audios:

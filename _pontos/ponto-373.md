@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "373"
+ordenacao: 373
 title: "HINO DO TEMPLO LUZ NO CAMINHO"
 category: "Oxóssi"
 audios:

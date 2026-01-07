@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "054"
+ordenacao: 54
 title: "Do manto de Nossa Senhora"
 category: "Iemanjá"
 audios:

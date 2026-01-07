@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "197"
+ordenacao: 197
 title: "Eu tenho sete espadas pra me defender"
 category: "Ogum"
 audios:

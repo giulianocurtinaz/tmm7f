@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "267"
+ordenacao: 267
 title: "São Cosme e São Damião"
 category: "Oxum"
 audios:

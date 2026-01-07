@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "126"
+ordenacao: 126
 title: "Jurema é flecheira"
 category: "Oxóssi"
 

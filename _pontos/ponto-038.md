@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "038"
+ordenacao: 38
 title: "Joga flores no mar"
 category: "Iemanjá"
 

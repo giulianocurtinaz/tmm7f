@@ -1,6 +1,7 @@
 ---
 layout: ponto
 id_ponto: "010"
+ordenacao: 10
 category: Oxalá
 title: Lá vem jesus
 audios:

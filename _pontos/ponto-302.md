@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "302"
+ordenacao: 302
 title: "Pai Cipriano"
 category: "Pretos Velhos"
 audios:

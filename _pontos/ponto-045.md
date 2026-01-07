@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "045"
+ordenacao: 45
 title: "Iemanjá é a rainha do mar"
 category: "Oxalá"
 

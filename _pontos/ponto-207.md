@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "207"
+ordenacao: 207
 title: "Zélio Fernandino de Moraes"
 category: "Ogum"
 

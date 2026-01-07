@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "063"
+ordenacao: 63
 title: "Mamãe Oxum mamãe Oxum lá do infinito"
 category: "Oxum"
 audios:

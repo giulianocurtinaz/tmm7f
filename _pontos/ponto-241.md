@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "241"
+ordenacao: 241
 title: "Ogum da Mata"
 category: "Oxóssi"
 audios:

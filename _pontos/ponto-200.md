@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "200"
+ordenacao: 200
 title: "Salve São Jorge Guerreiro"
 category: "Ogum"
 audios:

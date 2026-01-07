@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "006"
+ordenacao: 6
 title: "HINO DA TERREIRA DE MÃE MARIA"
 category: "Pretos Velhos"
 audios:

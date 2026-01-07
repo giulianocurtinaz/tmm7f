@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "125"
+ordenacao: 125
 title: "A lua veio iluminou a mata virgem"
 category: "Oxóssi"
 audios:

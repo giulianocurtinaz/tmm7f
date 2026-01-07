@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "137"
+ordenacao: 137
 title: "Caboclo Flecheiro"
 category: "Oxóssi"
 audios:

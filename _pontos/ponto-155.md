@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "155"
+ordenacao: 155
 title: "minou"
 category: "Oxóssi"
 audios:

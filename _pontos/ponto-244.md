@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "244"
+ordenacao: 244
 title: "Ogum Megê"
 category: "Oxalá"
 audios:

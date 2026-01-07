@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "141"
+ordenacao: 141
 title: "Cachoeira da mata virgem"
 category: "Oxum"
 audios:

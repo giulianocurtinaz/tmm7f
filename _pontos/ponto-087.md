@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "087"
+ordenacao: 87
 title: "Ubirajara"
 category: "Oxóssi"
 audios:

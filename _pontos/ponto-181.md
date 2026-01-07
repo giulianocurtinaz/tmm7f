@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "181"
+ordenacao: 181
 title: "Saravá Iansã"
 category: "Iemanjá"
 audios:

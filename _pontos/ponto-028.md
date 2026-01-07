@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "028"
+ordenacao: 28
 title: "Eram duas ventarolas, duas ventarolas"
 category: "Iemanjá"
 audios:

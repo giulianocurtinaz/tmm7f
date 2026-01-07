@@ -17,6 +17,7 @@ collections:
     slug: "ponto-{{id_ponto}}"
     fields:
       - {label: "ID Ponto", name: "id_ponto", widget: "string"}
+      - {label: "Ordenação", name: "ordenacao", widget: "number"}
       - {label: "Categoria", name: "category", widget: "select", options: ["Hinos", "Oxalá", "Iemanjá", "Oxum", "Oxóssi", "Xangô", "Iansã", "Ogum", "Pretos Velhos", "Oriente", "Diversos"]}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Letra", name: "body", widget: "markdown"}

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "153"
+ordenacao: 153
 title: "Kenguelê, kenguelê Xangô"
 category: "Xangô"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "034"
+ordenacao: 34
 title: "Quem quer viver sobre a terra"
 category: "Ogum"
 audios:

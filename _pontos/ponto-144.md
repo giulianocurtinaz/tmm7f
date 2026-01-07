@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "144"
+ordenacao: 144
 title: "Quem rola pedra na pedreira"
 category: "Xangô"
 audios:

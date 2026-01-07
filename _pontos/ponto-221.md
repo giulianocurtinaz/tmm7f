@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "221"
+ordenacao: 221
 title: "Oh Jorge, Oh Jorge"
 category: "Ogum"
 audios:

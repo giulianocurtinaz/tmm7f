@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "098"
+ordenacao: 98
 title: "Sete-Flechas"
 category: "Oxóssi"
 audios:

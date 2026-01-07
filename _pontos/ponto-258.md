@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "258"
+ordenacao: 258
 title: "Cosme e Damião"
 category: "Iemanjá"
 audios:

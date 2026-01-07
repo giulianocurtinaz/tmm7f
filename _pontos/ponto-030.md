@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "030"
+ordenacao: 30
 title: "Estava na beira da praia"
 category: "Iemanjá"
 audios:

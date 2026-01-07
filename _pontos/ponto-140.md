@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "140"
+ordenacao: 140
 title: "Xangô do fogo"
 category: "Oxóssi"
 audios:

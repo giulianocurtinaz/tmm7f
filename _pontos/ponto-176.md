@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "176"
+ordenacao: 176
 title: "Caboclo da Pedra"
 category: "Oxalá"
 

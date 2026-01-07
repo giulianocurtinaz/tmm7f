@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "350"
+ordenacao: 350
 title: "Mãe Maria da Estrada"
 category: "Pretos Velhos"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "046"
+ordenacao: 46
 title: "Eu fiz um pedido a sublime Iemanjá"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "205"
+ordenacao: 205
 title: "Ogum cavaleiro da lua"
 category: "Oxalá"
 audios:

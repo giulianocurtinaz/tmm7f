@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "322"
+ordenacao: 322
 title: "Tia Maria"
 category: "Pretos Velhos"
 audios:

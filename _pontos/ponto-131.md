@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "131"
+ordenacao: 131
 title: "Eu me perdi mamãe"
 category: "Oxóssi"
 audios:

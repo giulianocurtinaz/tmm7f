@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "072"
+ordenacao: 72
 title: "Que bombardeio que se deu lá na aldeia"
 category: "Oxóssi"
 audios:

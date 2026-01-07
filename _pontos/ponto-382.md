@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "382"
+ordenacao: 382
 title: "Pontos de Retirada"
 category: "Pretos Velhos"
 

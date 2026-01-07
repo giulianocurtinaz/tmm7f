@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "002"
+ordenacao: 2
 title: "É um hino de glória que fala"
 category: "Oxalá"
 audios:

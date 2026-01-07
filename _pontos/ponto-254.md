@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "254"
+ordenacao: 254
 title: "Ogum Timbiri"
 category: "Ogum"
 

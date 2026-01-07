@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "285"
+ordenacao: 285
 title: "PRETOS VELHOS"
 category: "Pretos Velhos"
 

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "021"
+ordenacao: 21
 title: "Pescador pegou veleiro e foi"
 category: "Iemanjá"
 audios:

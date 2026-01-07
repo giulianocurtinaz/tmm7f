@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "065"
+ordenacao: 65
 title: "Mamãe Oxum salve a sua cachoeira"
 category: "Oxum"
 audios:

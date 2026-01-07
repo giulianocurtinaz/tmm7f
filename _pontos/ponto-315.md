@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "315"
+ordenacao: 315
 title: "Pai Joaquim"
 category: "Oxalá"
 audios:

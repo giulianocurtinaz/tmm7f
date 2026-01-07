@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "068"
+ordenacao: 68
 title: "A lua vem surgindo"
 category: "Oxum"
 audios:

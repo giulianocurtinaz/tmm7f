@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "255"
+ordenacao: 255
 title: "Ogum das Sete Ondas"
 category: "Oxalá"
 audios:

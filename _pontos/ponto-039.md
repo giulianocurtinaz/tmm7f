@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "039"
+ordenacao: 39
 title: "Salve Iemanjá, salve Oxum e Nanã"
 category: "Iemanjá"
 

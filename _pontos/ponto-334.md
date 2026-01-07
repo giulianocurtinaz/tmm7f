@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "334"
+ordenacao: 334
 title: "Pai Domingos"
 category: "Pretos Velhos"
 audios:

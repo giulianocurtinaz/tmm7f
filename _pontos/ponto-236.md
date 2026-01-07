@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "236"
+ordenacao: 236
 title: "Se meu pai é Ogum"
 category: "Iemanjá"
 audios:

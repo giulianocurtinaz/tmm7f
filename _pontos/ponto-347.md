@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "347"
+ordenacao: 347
 title: "A baiana chegou da Bahia"
 category: "Oxalá"
 audios:

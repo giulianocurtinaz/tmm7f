@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "127"
+ordenacao: 127
 title: "Companheiros de Jurema"
 category: "Oxóssi"
 audios:

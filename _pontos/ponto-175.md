@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "175"
+ordenacao: 175
 title: "Caboclo Serra Negra"
 category: "Oxóssi"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "049"
+ordenacao: 49
 title: "Sete Ondas"
 category: "Oxalá"
 audios:

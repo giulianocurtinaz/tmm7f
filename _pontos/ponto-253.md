@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "253"
+ordenacao: 253
 title: "Ogum da Cachoeira"
 category: "Oxum"
 audios:

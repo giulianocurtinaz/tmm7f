@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "368"
+ordenacao: 368
 title: "Saudação aos guias"
 category: "Oxalá"
 

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "263"
+ordenacao: 263
 title: "Eu era criança e tinha esperança"
 category: "Oxóssi"
 audios:

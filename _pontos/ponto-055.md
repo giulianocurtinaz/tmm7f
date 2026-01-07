@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "055"
+ordenacao: 55
 title: "Descarrega, descarrega"
 category: "Iemanjá"
 audios:

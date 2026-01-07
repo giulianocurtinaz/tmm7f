@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "346"
+ordenacao: 346
 title: "Baiana"
 category: "Oxalá"
 audios:

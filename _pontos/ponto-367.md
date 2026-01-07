@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "367"
+ordenacao: 367
 title: "Vamos embora não fica ninguém"
 category: "Oxóssi"
 

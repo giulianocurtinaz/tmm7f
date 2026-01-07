@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "280"
+ordenacao: 280
 title: "Brilhou um clarão no céu"
 category: "Oriente"
 audios:

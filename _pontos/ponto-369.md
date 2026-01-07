@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "369"
+ordenacao: 369
 title: "Quem vem, quem vem lá de tão longe"
 category: "Pretos Velhos"
 audios:

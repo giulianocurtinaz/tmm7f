@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "091"
+ordenacao: 91
 title: "O senhor pena branca, E ô"
 category: "Oxalá"
 

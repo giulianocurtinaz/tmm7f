@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "093"
+ordenacao: 93
 title: "Pena Verde"
 category: "Oxalá"
 audios:

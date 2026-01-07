@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "185"
+ordenacao: 185
 title: "A trovoada trovejou lá na pedreira"
 category: "Oxum"
 audios:

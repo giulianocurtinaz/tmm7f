@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "080"
+ordenacao: 80
 title: "Eu vi os caboclos de Oxóssi"
 category: "Oxóssi"
 

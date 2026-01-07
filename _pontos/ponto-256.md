@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "256"
+ordenacao: 256
 title: "COSME E DAMIÃO"
 category: "Oxalá"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "194"
+ordenacao: 194
 title: "Ogum é guerreiro de umbanda"
 category: "Ogum"
 audios:

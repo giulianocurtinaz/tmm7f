@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "071"
+ordenacao: 71
 title: "Na minha aldeia eu sou caboclo"
 category: "Oxóssi"
 audios:

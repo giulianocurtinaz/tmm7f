@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "008"
+ordenacao: 8
 title: "#OXALÁ"
 category: "Oxalá"
 audios:

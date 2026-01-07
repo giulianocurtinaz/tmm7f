@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "179"
+ordenacao: 179
 title: "Ponto de chegada da cabocla dirigente do C.E. Jandira"
 category: "Oxóssi"
 audios:

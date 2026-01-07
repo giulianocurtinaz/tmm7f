@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "247"
+ordenacao: 247
 title: "Ogum Naruê"
 category: "Ogum"
 audios:

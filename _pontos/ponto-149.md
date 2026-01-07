@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "149"
+ordenacao: 149
 title: "Ele bradou na aldeia"
 category: "Oxum"
 audios:

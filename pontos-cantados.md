@@ -91,13 +91,12 @@ permalink: /pontos-cantados/
 <div class="lista-pontos">
 
 <!-- Inicio Loop Dinamico -->
-{% assign pontos_ordenados = site.pontos | sort: 'title' %}
+{% assign pontos_ordenados = site.pontos | sort: 'ordenacao' %}
 {% for ponto in pontos_ordenados %}
   <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category }}">
-    <small class="id-ponto">ID: {{ ponto.id_ponto }}</small>
-    <h2>{{ ponto.title }}</h2>
+    <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
     <div class="letra">
-      {{ ponto.body | markdownify }}
+      {{ ponto.content | markdownify }}
       {% if ponto.audios %}
         {% for audio in ponto.audios %}
         <figure class="wp-block-audio">

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "329"
+ordenacao: 329
 title: "Maria Macambira"
 category: "Iemanjá"
 audios:

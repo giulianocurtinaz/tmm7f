@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "192"
+ordenacao: 192
 title: "Quem me dera Ogum"
 category: "Ogum"
 audios:

@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "174"
+ordenacao: 174
 title: "Xangô, Xangô"
 category: "Oxóssi"
 audios:

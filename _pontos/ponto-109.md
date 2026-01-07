@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "109"
+ordenacao: 109
 title: "Tupimirim, êh, êh Tupinambá"
 category: "Oxóssi"
 audios:

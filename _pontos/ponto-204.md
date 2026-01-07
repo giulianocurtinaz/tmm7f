@@ -1,6 +1,7 @@
 ---
 layout: "ponto"
 id_ponto: "204"
+ordenacao: 204
 title: "Estão batendo na porta"
 category: "Oxóssi"
 audios:
