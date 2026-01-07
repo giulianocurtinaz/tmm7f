@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "286"
 ordenacao: 286
 title: "Nego Juca"
 category: "Pretos Velhos"
-
 ---
 
 <p><strong>Nego Juca</strong></p>
@@ -14,3 +13,4 @@ category: "Pretos Velhos"
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+

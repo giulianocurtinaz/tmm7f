@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "207"
 ordenacao: 207
 title: "Zélio Fernandino de Moraes"
 category: "Ogum"
-
 ---
 
 <p>São Jorge é quem está de ronda<br>Com sua cavalaria<br>Na ponta da romaria<br>Roga a Deus, Santa Maria<br>Ora vamos
@@ -13,3 +12,4 @@ category: "Ogum"
     <figcaption class="wp-element-caption">Ponto cantado pela Tenda Espírita Nossa Senhora da Piedade ( Terreira de
         <strong>Zélio Fernandino de Moraes</strong> )</figcaption>
 </figure>
+

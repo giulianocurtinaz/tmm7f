@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "281"
 ordenacao: 281
 title: "Uma luz nasceu e clareou"
-category: "Oxalá"
-audios:
+category: "Oriente"audios:
   - url: "/assets/audio/ponto-281-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-281-v2.ogg"
@@ -19,3 +18,4 @@ audios:
 
 <p>---<br>Que povo é esse, que aqui chegou<br>Ele é Zarthur, que abençoou<br>Traz sua linha, estende a mão<br>Em nome do
     pai, traz proteção</p>
+

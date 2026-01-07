@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "231"
 ordenacao: 231
 title: "Que cavaleiro é aquele"
-category: "Ogum"
-audios:
+category: "Ogum"audios:
   - url: "/assets/audio/ponto-231-v2.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
   - url: "/assets/audio/ponto-231-v3.ogg"
@@ -18,3 +17,4 @@ audios:
     <figcaption class="wp-element-caption">Na voz de Aladir e Isaura ( Ponto de chegada do dirigente da Casa: Ogum
         Beira-Mar)</figcaption>
 </figure>
+

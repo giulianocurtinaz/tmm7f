@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "295"
 ordenacao: 295
 title: "Xangô, Xangô"
-category: "Xangô"
-audios:
+category: "Pretos Velhos"audios:
   - url: "/assets/audio/ponto-295-v1.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"
 
@@ -18,3 +17,4 @@ audios:
 <p>Eu choro meu cativeiro<br>Meu cativeiro, meu cativerá<br>Eu choro meu cativeiro<br>Meu cativeiro, meu cativerá</p>
 <p>Quando chegava a tardinha<br>Nego velho pegava tambor<br>E entrava pra minha senzala<br>Saravá Ogum, saravá
     Xangô<br>Eu choro meu cativeiro<br>Meu cativeiro, meu cativerá</p>
+

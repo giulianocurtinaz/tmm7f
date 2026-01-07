@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "030"
 ordenacao: 30
 title: "Estava na beira da praia"
-category: "Iemanjá"
-audios:
+category: "IemanjÃ¡"audios:
   - url: "/assets/audio/ponto-030-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"
 
@@ -14,3 +13,4 @@ audios:
     trabalhar</p>
 <p>Mas uma voz veio lá das ondas<br>Estava na beira do mar<br>Era ela era ela que cantava<br>Ela era a nossa mãe Iemanjá
 </p>
+

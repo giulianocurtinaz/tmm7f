@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "016"
 ordenacao: 16
 title: "Eu faço a Zambi minha oração,"
-category: "Oxalá"
-audios:
+category: "OxalÃ¡"audios:
   - url: "/assets/audio/ponto-016-v1.ogg"
     caption: "Na Voz de Rogério ( Sete Ondas )"
 
@@ -14,3 +13,4 @@ audios:
     vem, Oxalá está chamando,<br>Se tens no peito um coração,<br>Por que não ouves o teu irmão?<br>Que está sem
     teto,<br>Que está sem pão<br>Fora da caridade não há salvação<br>Estende a mão ao teu irmão<br>Se tens Umbanda como
     religião.</p>
+

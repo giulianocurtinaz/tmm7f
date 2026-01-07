@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "317"
 ordenacao: 317
 title: "Pai Joaquim já vem"
-category: "Oxalá"
-
+category: "Pretos Velhos"
 ---
 
 <p>Pai Joaquim já vem<br>Lá da Aruanda vem<br>Desce sobre este terreiro<br>Abençoa o mundo inteiro<br>Com toda luz e
@@ -13,3 +12,4 @@ category: "Oxalá"
     me chamar</p>
 <p>Pai Joaquim, ê, ê<br>Pai Joaquim, ê, á<br>Pai Joaquim que vem de Angola<br>Pai Joaquim de Angola, angola<br>Pai
     Joaquim, ê, ê<br>Pai Joaquim, ê, á</p>
+

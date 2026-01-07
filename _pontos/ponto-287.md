@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "287"
 ordenacao: 287
 title: "Pai Bastião"
-category: "Pretos Velhos"
-audios:
+category: "Pretos Velhos"audios:
   - url: "/assets/audio/ponto-287-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
 
@@ -18,3 +17,4 @@ audios:
         trabalhar nas sextas-feiras no Terreiro de Ubirajara!</li>
     
 </ul>
+

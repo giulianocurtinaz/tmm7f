@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "041"
 ordenacao: 41
 title: "Maria nossa mãe extremosa"
-category: "Iemanjá"
-audios:
+category: "IemanjÃ¡"audios:
   - url: "/assets/audio/ponto-041-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"
 
@@ -14,3 +13,4 @@ audios:
     congá<br>Na santa lei de Umbanda<br>Baixai baixai como a rosa<br>Maria nossa mãe extremosa</p>
 
 <p></p>
+

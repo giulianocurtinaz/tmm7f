@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "211"
 ordenacao: 211
 title: "Tem festa do terreiro"
-category: "Oxóssi"
-
+category: "Ogum"
 ---
 
 <p>Tem festa do terreiro<br>Tem festa no congá</p>
@@ -13,3 +12,4 @@ category: "Oxóssi"
 <p>Ogum general de umbanda<br>É o chefe da terreira<br>Todas as demandas<br>Muitos anos ele festeja<br>Ogum é o santo da
     minha devoção<br>E eu vencerei na vida<br>Como São Jorge venceu o dragão<br>E eu vencerei na vida<br>Como São Jorge
     venceu o dragão</p>
+

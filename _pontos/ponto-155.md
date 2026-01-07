@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "155"
 ordenacao: 155
 title: "minou"
-category: "Oxóssi"
-audios:
+category: "XangÃ´"audios:
   - url: "/assets/audio/ponto-155-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
 
@@ -15,3 +14,4 @@ audios:
 
 <p style="font-size:12px"><br><br><strong>minar</strong> (verbo): alastrar-se lentamente. Nanâ buruquê é a senhora dos
     pântanos.</p>
+

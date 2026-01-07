@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "046"
 ordenacao: 46
 title: "Eu fiz um pedido a sublime Iemanjá"
-category: "Oxalá"
-audios:
+category: "IemanjÃ¡"audios:
   - url: "/assets/audio/ponto-046-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
 
@@ -18,3 +17,4 @@ audios:
     pérolas<br>Vinho branco e guaraná<br>E um braçado de flores<br>E uma fita de Oxalá</p>
 <p>Hoje a noite ao luar<br>Vou deitar tudo no mar</p>
 <p>A benção santa das santas<br>Me abençoe Iemanjá<br>A benção santa das santas<br>Abençoe meu doce orixá</p>
+

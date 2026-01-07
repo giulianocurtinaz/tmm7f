@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "005"
 ordenacao: 5
 title: "HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”"
-category: "Oxalá"
-
+category: "Hinos"
 ---
 
 <p><strong>HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”</strong></p>
@@ -19,3 +18,4 @@ category: "Oxalá"
     <figcaption class="wp-element-caption">Na voz de Duda Porto ( Aluno da Turma que confeccionou o Livo de Pontos )
     </figcaption>
 </figure>
+

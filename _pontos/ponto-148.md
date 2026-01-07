@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "148"
 ordenacao: 148
 title: "Kaô Cabecilê"
-category: "Xangô"
-audios:
+category: "XangÃ´"audios:
   - url: "/assets/audio/ponto-148-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"
 
@@ -14,3 +13,4 @@ audios:
     kaô<br>Kabecilê meu senhor</p>
 <p style="font-size:12px"><strong>Kaô Cabecilê</strong>: Saudação utilizada para saudar o rei Xangô, significa: venham
     saudar o rei</p>
+

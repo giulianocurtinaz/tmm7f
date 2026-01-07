@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "084"
 ordenacao: 84
 title: "Arranca Toco"
-category: "Oxalá"
-audios:
+category: "OxÃ³ssi"audios:
   - url: "/assets/audio/ponto-084-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
 
@@ -19,3 +18,4 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+

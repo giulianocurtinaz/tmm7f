@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "006"
 ordenacao: 6
 title: "HINO DA TERREIRA DE MÃE MARIA"
-category: "Pretos Velhos"
-audios:
+category: "Hinos"audios:
   - url: "/assets/audio/ponto-006-v1.ogg"
     caption: "Na voz de Aline ( Diretora da Mãe Maria )"
 
@@ -26,3 +25,4 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+

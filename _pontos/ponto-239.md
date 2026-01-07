@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "239"
 ordenacao: 239
 title: "Ogum Rompe Mato"
-category: "Oxóssi"
-audios:
+category: "Ogum"audios:
   - url: "/assets/audio/ponto-239-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
 
@@ -18,3 +17,4 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+

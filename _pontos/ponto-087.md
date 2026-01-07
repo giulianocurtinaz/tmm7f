@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "087"
 ordenacao: 87
 title: "Ubirajara"
-category: "Oxóssi"
-audios:
+category: "OxÃ³ssi"audios:
   - url: "/assets/audio/ponto-087-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda) - Completo"
   - url: "/assets/audio/ponto-087-v2.ogg"
@@ -19,3 +18,4 @@ audios:
     Ubirajara</p>
 <p>Corta língua, corta mironga<br>Corta língua de falador<br>Pra sua espada não há embaraço<br>Chegou Ubirajara do Peito
     de Aço</p>
+

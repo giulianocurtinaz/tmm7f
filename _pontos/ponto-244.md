@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "244"
 ordenacao: 244
 title: "Ogum Megê"
-category: "Oxalá"
-audios:
+category: "Ogum"audios:
   - url: "/assets/audio/ponto-244-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-244-v2.ogg"
@@ -15,3 +14,4 @@ audios:
 <p><strong>Ogum Megê</strong></p>
 <p>Ogum em seu cavalo corre<br>E a sua espada reluz<br>Ogum, Ogum Megê<br>Sua bandeira cobre os filhos de Jesus<br>Ogum
     iê</p>
+

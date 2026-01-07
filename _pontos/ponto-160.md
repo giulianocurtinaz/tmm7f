@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "160"
 ordenacao: 160
 title: "A lua vem nascendo no horizonte"
-category: "Oxum"
-audios:
+category: "XangÃ´"audios:
   - url: "/assets/audio/ponto-160-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
   - url: "/assets/audio/ponto-160-v2.ogg"
@@ -14,3 +13,4 @@ audios:
 
 <p>A lua vem nascendo no horizonte<br>Clareou a pedreira, clareou<br>Eu ouvi o roncar das cachoeiras<br>Chegou a hora de
     chamar o rei Xangô</p>
+

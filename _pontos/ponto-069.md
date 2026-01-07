@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "069"
 ordenacao: 69
 title: "Coração de mãe"
-category: "Oxum"
-audios:
+category: "Oxum"audios:
   - url: "/assets/audio/ponto-069-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
 
@@ -15,3 +14,4 @@ audios:
     quindim e guaraná, oh oh oh</p>
 <p>O meu pedido foi aceito, oh oh oh<br>Prometi eu vou levar, oh oh oh<br>Vou levar rosas amarelas, oh oh oh<br>Com
     quindim e guaraná, oh oh oh</p>
+

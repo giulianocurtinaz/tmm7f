@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "106"
 ordenacao: 106
 title: "Lá na mata tem guiné"
-category: "Oxóssi"
-audios:
+category: "OxÃ³ssi"audios:
   - url: "/assets/audio/ponto-106-v1.ogg"
     caption: "Na voz de Rosiclea ( 7 Flechas )"
 
@@ -17,3 +16,4 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+

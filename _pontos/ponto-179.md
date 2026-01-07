@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "179"
 ordenacao: 179
 title: "Ponto de chegada da cabocla dirigente do C.E. Jandira"
-category: "Oxóssi"
-audios:
+category: "IansÃ£"audios:
   - url: "/assets/audio/ponto-179-v1.ogg"
     caption: "Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )"
 
@@ -18,3 +17,4 @@ audios:
 <p>A eparrei ela é Oyá, ela é Oyá<br>A eparrei é Iansã, é Iansã<br>A eparrei<br>Quando Iansã vai pra batalha<br>Todos os
     cavaleiros param<br>Só pra ver ela passar<br>A eparrei ela é Oyá, ela é Oyá<br>A eparrei é Iansã, é Iansã<br>A
     eparrei<br>Quando Iansã vai pra batalha<br>Todos os cavaleiros param<br>Só para ver ela passar</p>
+

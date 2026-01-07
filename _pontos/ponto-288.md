@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "288"
 ordenacao: 288
 title: "A estrela clareou o céu"
 category: "Pretos Velhos"
-
 ---
 
 <p>A estrela clareou o céu<br>A estrela clareou o mar<br>A estrela clareou o mundo inteiro<br>A estrela iluminou esse
@@ -19,3 +18,4 @@ category: "Pretos Velhos"
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+

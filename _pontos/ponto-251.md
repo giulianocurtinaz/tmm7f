@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "251"
 ordenacao: 251
 title: "Ogum de Ronda"
-category: "Ogum"
-audios:
+category: "Ogum"audios:
   - url: "/assets/audio/ponto-251-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-251-v2.ogg"
@@ -20,3 +19,4 @@ audios:
 <p style="font-size:12px">Segundo Alcimar, o termo "Girar"está empregado incorretamente neste ponto, no ponto original
     cantava-se "DINAR". <br><strong>Dinar</strong> é uma moeda de ouro cunhada pelos árabes desde fins do sVII e
     corrente na península Ibérica no sXII; </p>
+

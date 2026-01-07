@@ -80,9 +80,10 @@ permalink: /pontos-cantados/
       <button class="filter-btn" onclick="filterPoints('Xangô', this)">⚒️ Xangô</button>
       <button class="filter-btn" onclick="filterPoints('Iansã', this)">⚡ Iansã</button>
       <button class="filter-btn" onclick="filterPoints('Ogum', this)">⚔️ Ogum</button>
+      <button class="filter-btn" onclick="filterPoints('Cosme', this)">🍭 Cosme</button>
       <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">☕ Pretos Velhos</button>
       <button class="filter-btn" onclick="filterPoints('Oriente', this)">🕌 Oriente</button>
-      <button class="filter-btn" onclick="filterPoints('Diversos', this)">🌀 Diversos</button>
+      <button class="filter-btn" onclick="filterPoints('Específicos', this)">🌀 Específicos</button>
     </nav>
   </aside>
 

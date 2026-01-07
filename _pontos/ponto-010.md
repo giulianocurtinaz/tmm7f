@@ -1,9 +1,8 @@
----
+﻿---
 layout: ponto
 id_ponto: "010"
 ordenacao: 10
-category: Oxalá
-title: Lá vem jesus
+category: "OxalÃ¡"title: Lá vem jesus
 audios:
   - url: /assets/audio/ponto-010-v1.ogg
     caption: Na voz de Nilza e Aparecida ( Ubirajara )
@@ -16,3 +15,4 @@ Vamos sim, com jesus\
 Vamos sim, trabalhar\
 Pelos nossos irmãos\
 Sem parar (bis)
+

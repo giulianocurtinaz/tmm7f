@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "062"
 ordenacao: 62
 title: "OXUM"
-category: "Oxalá"
-audios:
+category: "Oxum"audios:
   - url: "/assets/audio/ponto-062-v1.ogg"
     caption: "Na voz de Nilza e Cida ( Ubirajara )"
 
@@ -18,3 +17,4 @@ audios:
 <p>Não chores meu filho querido<br>Pois ao seu lado estarei<br>Ela jogou-me uma rosa<br>E nas águas desapareceu</p>
 <p><br>A iê iê ô, A iê iê ô<br>Chegou Mamãe Oxum e maré chorou<br>A iê iê ô, A iê iê ô<br>Chegou Mamãe Oxum e maré
     chorou</p>
+

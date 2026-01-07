@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "064"
 ordenacao: 64
 title: "candura"
-category: "Ogum"
-audios:
+category: "Oxum"audios:
   - url: "/assets/audio/ponto-064-v1.ogg"
     caption: "Na voz de Aladir e Isaura ( Ogum Beira-Mar )"
 
@@ -16,3 +15,4 @@ audios:
 <p style="font-size:12px"><strong>Candura</strong>: Qualidade de quem é cândido, puro, inocente: trato, candidez,
     candor, amabilidade, candideza, castidade, doçura, gentileza, honestidade, honra, honradez, inocência, integridade,
     lhaneza, lhanura, lisura, pureza, singeleza, virgindade, virtude<br></p>
+

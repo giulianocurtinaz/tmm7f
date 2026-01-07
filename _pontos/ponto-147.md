@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "147"
 ordenacao: 147
 title: "Ribombo"
-category: "Xangô"
-audios:
+category: "XangÃ´"audios:
   - url: "/assets/audio/ponto-147-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
 
@@ -14,3 +13,4 @@ audios:
     Xangô<br>Xangô, Xangô Pai Xangô<br>Xangô, Xangô Pai Xangô<br>Justiça, justiça divina<br>O homem da lei é
     Xangô<br>Justiça, justiça divina<br>O dono da lei é Xangô</p>
 <p style="font-size:12px"><strong>Ribombo</strong>: Ato de ribombar; barulho surdo e prolongado</p>
+

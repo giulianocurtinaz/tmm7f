@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "215"
 ordenacao: 215
 title: "Zélio Fernandino de Moraes"
-category: "Ogum"
-audios:
+category: "Ogum"audios:
   - url: "/assets/audio/ponto-215-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-215-v2.ogg"
@@ -20,3 +19,4 @@ audios:
     <figcaption class="wp-element-caption">Ponto cantado pela Tenda Espírita Nossa Senhora da Piedade ( Terreira de
         <strong>Zélio Fernandino de Moraes</strong> )</figcaption>
 </figure>
+

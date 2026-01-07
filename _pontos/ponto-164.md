@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "164"
 ordenacao: 164
 title: "Xangô e Ogum"
-category: "Oxalá"
-audios:
+category: "XangÃ´"audios:
   - url: "/assets/audio/ponto-164-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-164-v2.ogg"
@@ -20,3 +19,4 @@ audios:
 <p>Desceu a água na cachoeira<br>Na sua terra, pedra rolou<br>Com sua machada, corta pedra na pedreira<br>E vamos todos
     saravar o rei Xangô</p>
 <p>A espada reluziu no ar trovejou<br>Salve Ogum e salve Xangô</p>
+

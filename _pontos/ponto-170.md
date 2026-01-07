@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "170"
 ordenacao: 170
 title: "Caboclo Ventania"
-category: "Oxóssi"
-
+category: "XangÃ´"
 ---
 
 <p><strong>Caboclo Ventania</strong></p>
@@ -14,3 +13,4 @@ category: "Oxóssi"
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+

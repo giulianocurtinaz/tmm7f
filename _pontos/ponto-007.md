@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "007"
 ordenacao: 7
 title: "TEMPLO DE UMBANDA PAI OXALÁ FRATERNIDADE OGUM DE RONDA"
-category: "Oxalá"
-
+category: "Hinos"
 ---
 
 <p><strong>TEMPLO DE UMBANDA PAI OXALÁ FRATERNIDADE OGUM DE RONDA</strong></p>
@@ -22,3 +21,4 @@ category: "Oxalá"
     <figcaption class="wp-element-caption">Na voz de Alcimar Bairros Pereira (Terreira de Pai Oxalá Fat. Ogum de Ronda)
     </figcaption>
 </figure>
+

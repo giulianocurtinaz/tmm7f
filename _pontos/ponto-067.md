@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "067"
 ordenacao: 67
 title: "Junco-Verde"
-category: "Oxalá"
-audios:
+category: "Oxum"audios:
   - url: "/assets/audio/ponto-067-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
   - url: "/assets/audio/ponto-067-v2.ogg"
@@ -17,3 +16,4 @@ audios:
 
 <p>---<br><strong>Junco-Verde</strong></p>
 <p>Caboclo atirador<br>Atira flecha no congá<br>Chegou seu Junco-Verde<br>É mensageiro de Oxalá</p>
+

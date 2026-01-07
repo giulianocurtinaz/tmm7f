@@ -1,10 +1,9 @@
----
+﻿---
 layout: "ponto"
 id_ponto: "378"
 ordenacao: 378
 title: "Deus que salve os nossos guias"
-category: "Oxalá"
-audios:
+category: "EspecÃ­ficos"audios:
   - url: "/assets/audio/ponto-378-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
 
@@ -17,3 +16,4 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
