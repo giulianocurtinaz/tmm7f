@@ -4,8 +4,8 @@ backend:
   branch: main
   repo: giulianocurtinaz/tmm7f
 
-media_folder: "assets/images"
-public_folder: "/assets/images"
+media_folder: "assets"
+public_folder: "/assets"
 
 collections:
   - name: "pontos"
