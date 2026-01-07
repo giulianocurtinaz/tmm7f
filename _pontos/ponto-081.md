@@ -9,12 +9,12 @@ audios:
     caption: "Na voz de Victor ( Ubirajara)"
   - url: "/assets/audio/ponto-081-v2.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
-
 ---
 
 <p>Eu vou pedir licença pra Oxóssi<br>Pra trabalhar lá nas matas da Jurema<br>Eu vou pedir licença pra Oxóssi<br>Pra
     trabalhar lá nas matas da Jurema</p>
 <p>Bater cabeça pra Xangô<br>Lá na pedreira<br>E levar flores pra Oxum<br>Na cachoeira</p>
+
 
 
 

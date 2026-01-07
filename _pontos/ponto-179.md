@@ -7,7 +7,6 @@ category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-179-v1.ogg"
     caption: "Na voz de Sabrina ( Dirigente do C.E. Reino de Jandira )"
-
 ---
 
 <p><strong>Ponto de chegada da cabocla dirigente do C.E. Jandira</strong><br><strong>Cabocla Iansã<br></strong><br>Olha
@@ -18,6 +17,7 @@ audios:
 <p>A eparrei ela é Oyá, ela é Oyá<br>A eparrei é Iansã, é Iansã<br>A eparrei<br>Quando Iansã vai pra batalha<br>Todos os
     cavaleiros param<br>Só pra ver ela passar<br>A eparrei ela é Oyá, ela é Oyá<br>A eparrei é Iansã, é Iansã<br>A
     eparrei<br>Quando Iansã vai pra batalha<br>Todos os cavaleiros param<br>Só para ver ela passar</p>
+
 
 
 

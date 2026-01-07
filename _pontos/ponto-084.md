@@ -7,7 +7,6 @@ category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-084-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
-
 ---
 
 <p><strong>Arranca Toco</strong></p>
@@ -19,6 +18,7 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 
 

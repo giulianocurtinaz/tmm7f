@@ -7,7 +7,6 @@ category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-239-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
-
 ---
 
 <p><strong>Ogum Rompe Mato</strong></p>
@@ -18,5 +17,6 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 

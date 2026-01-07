@@ -7,7 +7,6 @@ category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-099-v1.ogg"
     caption: "Na Voz de Giuliano (7 Flechas)"
-
 ---
 
 <p>Erêrê, erêrêrêrêrêrêrá<br>Erêrê, Caboclo Sete Flechas no congá</p>
@@ -19,6 +18,7 @@ audios:
     <figcaption class="wp-element-caption">Na voz de Cleber e Manuélly ( Pai João de Aruanda e Sete Flechas)
     </figcaption>
 </figure>
+
 
 
 

@@ -11,7 +11,6 @@ audios:
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial"
   - url: "/assets/audio/ponto-087-v3.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Parcial"
-
 ---
 
 <p><strong>Ubirajara</strong></p>
@@ -19,6 +18,7 @@ audios:
     Ubirajara</p>
 <p>Corta língua, corta mironga<br>Corta língua de falador<br>Pra sua espada não há embaraço<br>Chegou Ubirajara do Peito
     de Aço</p>
+
 
 
 

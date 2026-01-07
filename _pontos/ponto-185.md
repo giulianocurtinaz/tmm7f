@@ -7,7 +7,6 @@ category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-185-v1.ogg"
     caption: "Na voz de Victor Fernandes (Terreira de Ubirajara)"
-
 ---
 
 <p>A trovoada trovejou lá na pedreira<br>Iluminou a cachoeira, tremeu toda a terra<br>E o vento soprou, saravá todo o
@@ -17,6 +16,7 @@ audios:
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
 
 
 

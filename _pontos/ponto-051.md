@@ -7,7 +7,6 @@ category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-051-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
-
 ---
 
 <p>Galera está no mar, ai vamos todos remar<br>Galera está no mar, ai vamos todos remar<br>Aí vem pai Sete Ondas,
@@ -17,6 +16,7 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 
 

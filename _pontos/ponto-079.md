@@ -12,3 +12,4 @@ category: "Oxossi"
     mitologia iorubá, é um orixá, e divindade da profecia e da adivinhação, ligado ao Orum.</p>
 
 
+

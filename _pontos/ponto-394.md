@@ -7,7 +7,6 @@ category: "Hinos"
 audios:
   - url: "/assets/audio/ponto-394-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"
-
 ---
 
 <p><strong>Antigo Hino de Natal da Umbanda</strong></p>
@@ -17,6 +16,7 @@ audios:
 <p>Saravá Virgem Maria<br>e o Senhor São José,<br>a nossa estrela guia é Jesus de Nazaré<br>Olorum abençoou a nossa
     banda,<br>nasceu de Oxalá, o Natal da Umbanda<br>Olorum abençoou a nossa banda,<br>nasceu de Oxalá, o Natal da
     Umbanda.</p>
+
 
 
 

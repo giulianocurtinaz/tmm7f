@@ -9,7 +9,6 @@ audios:
     caption: "Na voz de Alcimar ( Ogum de Ronda )"
   - url: "/assets/audio/ponto-251-v2.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
-
 ---
 
 <p><strong>Ogum de Ronda</strong></p>
@@ -20,5 +19,6 @@ audios:
 <p style="font-size:12px">Segundo Alcimar, o termo "Girar"está empregado incorretamente neste ponto, no ponto original
     cantava-se "DINAR". <br><strong>Dinar</strong> é uma moeda de ouro cunhada pelos árabes desde fins do sVII e
     corrente na península Ibérica no sXII; </p>
+
 
 

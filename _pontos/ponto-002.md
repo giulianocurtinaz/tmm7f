@@ -7,7 +7,6 @@ category: "Hinos"
 audios:
   - url: "/assets/audio/ponto-002-v2.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"
-
 ---
 
 <p>É um hino de glória que fala<br>A Umbanda de um novo porvir<br>É promessa de Deus a seus filhos<br>Da paz no universo
@@ -23,5 +22,6 @@ audios:
     <figcaption class="wp-element-caption">Na voz de Alcimar Bairros Pereira (Terreira de Pai Oxalá Fat. Ogum de Ronda)
     </figcaption>
 </figure>
+
 
 

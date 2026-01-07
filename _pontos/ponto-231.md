@@ -9,7 +9,6 @@ audios:
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
   - url: "/assets/audio/ponto-231-v3.ogg"
     caption: "Rogério - Sete Ondas"
-
 ---
 
 <p>Que cavaleiro é aquele<br>Que vem galopando pelo céu azul<br>É seu Ogum Beira Mar<br>Ele é defensor do cruzeiro do
@@ -18,5 +17,6 @@ audios:
     <figcaption class="wp-element-caption">Na voz de Aladir e Isaura ( Ponto de chegada do dirigente da Casa: Ogum
         Beira-Mar)</figcaption>
 </figure>
+
 
 

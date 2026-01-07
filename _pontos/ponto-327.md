@@ -7,7 +7,6 @@ category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-327-v1.ogg"
     caption: "Na voz de Alcimar (Terreira de Ogum de Ronda)"
-
 ---
 
 <p>Tumbeiro tumbeiro lembrança da escravidão.<br>Tristeza corpo doído senzala de pé no chão.<br>Quanto já sofreu o
@@ -17,5 +16,6 @@ audios:
     pena pegou na pena com pena ela escreveu.<br>A sua ordem se fez lei<br>E a corte obedeceu.<br>Hoje ele é rei na
     Aruanda<br>Rei congo é rei coroado. Boa<br>Salve a princesa Isabel<br>Lembranças de um treze de Maio nos<br>Tumbeiro
     tumbeiro</p>
+
 
 

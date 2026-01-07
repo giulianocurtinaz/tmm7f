@@ -7,7 +7,6 @@ category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-112-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"
-
 ---
 
 <p><strong>Jurema</strong></p>
@@ -26,6 +25,7 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 
 

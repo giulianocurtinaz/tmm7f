@@ -9,7 +9,6 @@ audios:
     caption: "Na voz de Manuelly ( Pai João de Aruanda e Sete Flechas )"
   - url: "/assets/audio/ponto-044-v3.ogg"
     caption: "Na voz de Kátia ( 7 flechas )"
-
 ---
 
 <p>Oh Virgem Maria<br>Como és linda flor<br>Celeste harmonia<br>Dulcíssimo amor</p>
@@ -20,6 +19,7 @@ audios:
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
 
 
 

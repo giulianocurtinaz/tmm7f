@@ -14,3 +14,4 @@ category: "Pretos Velhos"
 <p>Mãe Preta gandola de renda<br>Enquanto a chibata batia no seu amor<br>Mãe Preta embalava o filho do senhor<br>Era
     assim que Mãe Preta fazia<br>Criava todo filho branco com muita alegria<br>Mas na senzala Pai João apanhava</p>
 
+

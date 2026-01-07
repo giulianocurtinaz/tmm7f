@@ -7,7 +7,6 @@ category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-256-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"
-
 ---
 
 <p><strong>COSME E DAMIÃO</strong></p>
@@ -18,5 +17,6 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 

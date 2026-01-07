@@ -12,3 +12,4 @@ category: "Ogum"
 <p>Se os caminhos tão fechados<br>Foi meu povo quem fechou<br>Saravá povo do reino, saravá meu pai Xangô</p>
 <p>Em seu cavalo branco o rei Ogum montou<br>Chegou nessa seara e não me saravou</p>
 
+

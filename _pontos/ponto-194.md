@@ -7,7 +7,6 @@ category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-194-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
-
 ---
 
 <p>Ogum é guerreiro de umbanda<br>Ele segura sua espada no ar<br>Ele ganhou uma lança de ouro<br>Porque venceu a guerra
@@ -18,5 +17,6 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 

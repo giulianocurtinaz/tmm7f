@@ -7,7 +7,6 @@ category: "Hinos"
 audios:
   - url: "/assets/audio/ponto-006-v1.ogg"
     caption: "Na voz de Aline ( Diretora da Mãe Maria )"
-
 ---
 
 <p><strong>HINO DA TERREIRA DE MÃE MARIA</strong></p>
@@ -26,5 +25,6 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 

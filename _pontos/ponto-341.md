@@ -7,7 +7,6 @@ category: "Pretos Velhos"
 audios:
   - url: "/assets/audio/ponto-341-v1.ogg"
     caption: "Na voz de Suely ( Ogum da Mata Virgem )"
-
 ---
 
 <p style="font-size:17px"><strong>NEGA MINA</strong> <br>( Preta velha recebida pela Dirigente Suely )</p>
@@ -15,5 +14,6 @@ audios:
     sacode a saia<br>Vem pra roda girar<br>Foi nosso senhor do Bonfim<br>Pra abençoar todos os filhos<br>Em oração lhe
     chamou<br>Pra abençoar todos os filhos<br>Em oração lhe chamou <br>E quando for embora<br>Descarregue todo o
     mal<br>Nós sabemos que a senhora<br>Na mandinga é a tal </p>
+
 
 

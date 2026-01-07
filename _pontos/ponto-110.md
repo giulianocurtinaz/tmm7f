@@ -7,7 +7,6 @@ category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-110-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
-
 ---
 
 <p><strong>Urubatã</strong></p>
@@ -15,6 +14,7 @@ audios:
     bronze</p>
 <p>A lua vem surgindo<br>E o sol já vai sumindo<br>E ele para saudar a estrela guia<br>E traz em seu manto sagrado<br>O
     nome da Virgem Maria</p>
+
 
 
 

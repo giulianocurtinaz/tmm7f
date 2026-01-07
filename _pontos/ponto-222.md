@@ -7,7 +7,6 @@ category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-222-v1.ogg"
     caption: "Rogério - Sete Ondas"
-
 ---
 
 <p><strong>Ogum Beira Mar</strong></p>
@@ -16,5 +15,6 @@ audios:
     auê-Beira Mar<br>Beira Mar auê-Beira Mar</p>
 <p>Ogum já jurou bandeira<br>Nas portas do Humaitá<br>Ogum já venceu demanda<br>Vamos todos saravar<br>Beira Mar
     auê-Beira Mar<br>Beira Mar auê-Beira Mar</p>
+
 
 
