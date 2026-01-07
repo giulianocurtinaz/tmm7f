@@ -1,13 +1,12 @@
 ---
-layout: "ponto"
+layout: ponto
 id_ponto: "001"
-ordenacao: 1
-title: "HINO DA UMBANDA"
-category: "Hinos"
+ordenacao: 2
+category: Hinos
+title: HINO DA UMBANDA
 audios:
-  - url: "/assets/audio/ponto-001-v1.ogg"
-    caption: "Na voz de Giuliano (7 flechas)"
-
+  - url: /assets/audio/ponto-001-v1.ogg
+    caption: Na voz de Giuliano (7 flechas)
 ---
 
 <p><strong>HINO DA UMBANDA</strong></p>
