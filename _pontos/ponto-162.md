@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "162"
 ordenacao: 162
 title: "Quero andar de valor em valor"
-category: "XangÃ´"audios:
+category: "XangÃ´"
+audios:
   - url: "/assets/audio/ponto-162-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
 
@@ -16,4 +17,5 @@ category: "XangÃ´"audios:
     teus filhos na terra<br>De Mãe Maria e Pai Oxalá<br></p>
 
 <p><br></p>
+
 

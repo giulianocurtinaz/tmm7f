@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "378"
 ordenacao: 378
 title: "Deus que salve os nossos guias"
-category: "EspecÃ­ficos"audios:
+category: "EspecÃ­ficos"
+audios:
   - url: "/assets/audio/ponto-378-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
 
@@ -16,4 +17,5 @@ category: "EspecÃ­ficos"audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 

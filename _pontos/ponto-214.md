@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "214"
 ordenacao: 214
 title: "O seu cavalo corre"
-category: "Ogum"audios:
+category: "Ogum"
+audios:
   - url: "/assets/audio/ponto-214-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
   - url: "/assets/audio/ponto-214-v2.ogg"
@@ -15,4 +16,5 @@ category: "Ogum"audios:
 
 <p>O seu cavalo corre<br>A sua espada reluz<br>A Sua bandeira cobre<br>Todos os filhos de Jesus<br>O seu cavalo
     corre<br>A sua espada reluz<br>Auê Ogum-Iara<br>Aos pés da Santa Cruz<br>Auê Ogum-Iara<br>Aos pés da Santa Cruz</p>
+
 

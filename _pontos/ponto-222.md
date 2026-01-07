@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "222"
 ordenacao: 222
 title: "Ogum Beira Mar"
-category: "Ogum"audios:
+category: "Ogum"
+audios:
   - url: "/assets/audio/ponto-222-v1.ogg"
     caption: "Rogério - Sete Ondas"
 
@@ -15,4 +16,5 @@ category: "Ogum"audios:
     auê-Beira Mar<br>Beira Mar auê-Beira Mar</p>
 <p>Ogum já jurou bandeira<br>Nas portas do Humaitá<br>Ogum já venceu demanda<br>Vamos todos saravar<br>Beira Mar
     auê-Beira Mar<br>Beira Mar auê-Beira Mar</p>
+
 

@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "002"
 ordenacao: 2
 title: "É um hino de glória que fala"
-category: "Hinos"audios:
+category: "Hinos"
+audios:
   - url: "/assets/audio/ponto-002-v2.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"
 
@@ -22,4 +23,5 @@ category: "Hinos"audios:
     <figcaption class="wp-element-caption">Na voz de Alcimar Bairros Pereira (Terreira de Pai Oxalá Fat. Ogum de Ronda)
     </figcaption>
 </figure>
+
 

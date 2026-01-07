@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "048"
 ordenacao: 48
 title: "Desce oh mãe do teu reino dourado"
-category: "IemanjÃ¡"audios:
+category: "IemanjÃ¡"
+audios:
   - url: "/assets/audio/ponto-048-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
 
@@ -17,4 +18,5 @@ category: "IemanjÃ¡"audios:
     heróis no terreiro</p>
 <p>Agradecemos nossos mestres queridos<br>Que nos ajudam e ensinam a lutar<br>Com a bandeira de umbanda erguida<br>Para
     Deus e por Cristo brilhar</p>
+
 

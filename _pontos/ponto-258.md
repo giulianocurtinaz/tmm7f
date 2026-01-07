@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "258"
 ordenacao: 258
 title: "Cosme e Damião"
-category: "Cosme"audios:
+category: "Cosme"
+audios:
   - url: "/assets/audio/ponto-258-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
 
@@ -14,4 +15,5 @@ category: "Cosme"audios:
     beira-mar<br>Jandira, Jupira são duas&nbsp;<br>Sereias do mar<br>Que ao ver as crianças brincando elas se puseram a
     cantar.<br>---</p>
 <p>Lá no céu tem três estrelas<br>Todas três em carreirinha<br>Uma e Cosme e Damião<br>E a outra é Mariazinha.</p>
+
 

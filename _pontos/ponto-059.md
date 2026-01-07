@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "059"
 ordenacao: 59
 title: "Cabocla das Sete Ondas"
-category: "IemanjÃ¡"audios:
+category: "IemanjÃ¡"
+audios:
   - url: "/assets/audio/ponto-059-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
   - url: "/assets/audio/ponto-059-v2.ogg"
@@ -16,4 +17,5 @@ category: "IemanjÃ¡"audios:
     manto da mãe Iemanjá</p>
 <p>Sou a Cabocla das Sete Ondas<br>Das Sete Ondas do reino de Iemanjá<br>Trago na fronte um emblema dos céus<br>Trago
     nas mãos as vibrações do mar</p>
+
 

@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "194"
 ordenacao: 194
 title: "Ogum é guerreiro de umbanda"
-category: "Ogum"audios:
+category: "Ogum"
+audios:
   - url: "/assets/audio/ponto-194-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
 
@@ -17,4 +18,5 @@ category: "Ogum"audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 

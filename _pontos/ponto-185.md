@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "185"
 ordenacao: 185
 title: "A trovoada trovejou lá na pedreira"
-category: "IansÃ£"audios:
+category: "IansÃ£"
+audios:
   - url: "/assets/audio/ponto-185-v1.ogg"
     caption: "Na voz de Victor Fernandes (Terreira de Ubirajara)"
 
@@ -16,4 +17,5 @@ category: "IansÃ£"audios:
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
 

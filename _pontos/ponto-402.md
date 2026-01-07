@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "402"
 ordenacao: 402
 title: "Ponto da Amizade"
-category: "Hinos"audios:
+category: "Hinos"
+audios:
   - url: "/assets/audio/ponto-402-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
 
@@ -18,5 +19,6 @@ category: "Hinos"audios:
     aos orixás</p>
 <p>Eu vejo um longo caminho<br>É o caminho de todos os orixás<br>Vamos pedir com carinho<br>As “bênçãos” do pai
     Oxalá<br>Vamos pedir com Carinho<br>As “bênçãos” do pai Oxalá</p>
+
 
 

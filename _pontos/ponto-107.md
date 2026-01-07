@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "107"
 ordenacao: 107
 title: "Tupimirim"
-category: "OxÃ³ssi"audios:
+category: "OxÃ³ssi"
+audios:
   - url: "/assets/audio/ponto-107-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
 
@@ -17,4 +18,5 @@ category: "OxÃ³ssi"audios:
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
 

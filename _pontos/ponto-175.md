@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "175"
 ordenacao: 175
 title: "Caboclo Serra Negra"
-category: "XangÃ´"audios:
+category: "XangÃ´"
+audios:
   - url: "/assets/audio/ponto-175-v1.ogg"
     caption: "Na voz da Martinha - Cambona do Pai Bento ( Mãe Maria )"
 
@@ -14,4 +15,5 @@ category: "XangÃ´"audios:
     saravar</p>
 <p>Seu grito de guerra<br>Ecoou lá na mata e lá na serra<br>Seu canto de guerra<br>Lá na serra ecoou</p>
 <p>Saravando todo povo de umbanda<br>O Caboclo Serra Negra baixou<br>Serra Negra, Serra negra<br></p>
+
 

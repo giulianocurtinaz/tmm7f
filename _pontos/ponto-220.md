@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "220"
 ordenacao: 220
 title: "Nagô"
-category: "Ogum"audios:
+category: "Ogum"
+audios:
   - url: "/assets/audio/ponto-220-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"
 
@@ -14,4 +15,5 @@ category: "Ogum"audios:
     madrugada de 25 de janeiro de 1835. O movimento envolveu cerca de 600 homens. Tratava-se, em sua imensa maioria, de
     negros muçulmanos, em especial da etnia nagô, de língua iorubá. Vem daí o nome que a rebelião recebeu: Revolta dos
     Malês. A expressão "malê" provém de "imalê", que no idioma iorubá significa muçulmano.</p>
+
 

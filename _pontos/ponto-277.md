@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "277"
 ordenacao: 277
 title: "Oh João batista, enviado de Jesus"
-category: "Oriente"audios:
+category: "Oriente"
+audios:
   - url: "/assets/audio/ponto-277-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
 
@@ -17,4 +18,5 @@ category: "Oriente"audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 

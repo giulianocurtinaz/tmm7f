@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "088"
 ordenacao: 88
 title: "Em cima de uma pedra branca"
-category: "OxÃ³ssi"audios:
+category: "OxÃ³ssi"
+audios:
   - url: "/assets/audio/ponto-088-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
 
@@ -12,4 +13,5 @@ category: "OxÃ³ssi"audios:
 <p>Em cima de uma pedra branca<br>Ao lado de um pé de açucena<br>Eu vi o cacique Ubirajara<br>Fazendo seu saiote de pena
 </p>
 <p>Ubirajara auê auê<br>Ubirajara auê, auá<br>Ubirajara que vem das matas<br>Ubirajara que vem trabalhar</p>
+
 

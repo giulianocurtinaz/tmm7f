@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "099"
 ordenacao: 99
 title: "Paranga"
-category: "OxÃ³ssi"audios:
+category: "OxÃ³ssi"
+audios:
   - url: "/assets/audio/ponto-099-v1.ogg"
     caption: "Na Voz de Giuliano (7 Flechas)"
 
@@ -18,4 +19,5 @@ category: "OxÃ³ssi"audios:
     <figcaption class="wp-element-caption">Na voz de Cleber e Manuélly ( Pai João de Aruanda e Sete Flechas)
     </figcaption>
 </figure>
+
 

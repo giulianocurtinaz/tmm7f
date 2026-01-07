@@ -3,7 +3,8 @@ layout: "ponto"
 id_ponto: "315"
 ordenacao: 315
 title: "Pai Joaquim"
-category: "Pretos Velhos"audios:
+category: "Pretos Velhos"
+audios:
   - url: "/assets/audio/ponto-315-v1.ogg"
     caption: "Na voz de Yaralacy ( Selma Neri de Campos )"
 
@@ -13,4 +14,5 @@ category: "Pretos Velhos"audios:
 <p>Pai Joaquim, desceu a cachoeira<br>Saravô o seu congá ( bis )</p>
 <p>Sua benção meu pai<br>Quem manda é Oxalá</p>
 <p>Pai Joaquim <br>não deixa seus filhos penar ( bis )</p>
+
 
