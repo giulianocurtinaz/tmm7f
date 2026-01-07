@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "303"
 ordenacao: 303
 title: "Pai José"
-category: "Oxóssi"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-303-v1.ogg"
     caption: "Na voz de Solange (Pai José de Aruanda)"

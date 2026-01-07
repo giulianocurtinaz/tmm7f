@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "031"
 ordenacao: 31
 title: "Jandira, Jandira"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-031-v1.ogg"
     caption: "Na Voz de Mercedes (Terreira 7 Flechas)"

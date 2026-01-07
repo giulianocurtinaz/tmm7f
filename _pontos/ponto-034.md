@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "034"
 ordenacao: 34
 title: "Quem quer viver sobre a terra"
-category: "Ogum"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-034-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

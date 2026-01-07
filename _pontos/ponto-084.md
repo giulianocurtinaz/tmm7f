@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "084"
 ordenacao: 84
 title: "Arranca Toco"
-category: "Oxalá"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-084-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "117"
 ordenacao: 117
 title: "Jurema do juremeiro"
-category: "Oxalá"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-117-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

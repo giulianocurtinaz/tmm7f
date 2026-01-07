@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "291"
 ordenacao: 291
 title: "Repenica"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-291-v1.ogg"
     caption: "Maria Inês CEPJA"

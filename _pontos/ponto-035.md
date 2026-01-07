@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "035"
 ordenacao: 35
 title: "Atraca Atraca quem vem na onda é Nanã"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-035-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

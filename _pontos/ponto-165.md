@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "165"
 ordenacao: 165
 title: "Treme Terra"
-category: "Pretos Velhos"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-165-v1.ogg"
     caption: "Na voz de Aline - Dirigente da Mãe Maria"

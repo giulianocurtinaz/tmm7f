@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "340"
 ordenacao: 340
 title: "Estava na Aruanda"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-340-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

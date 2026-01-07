@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "093"
 ordenacao: 93
 title: "Pena Verde"
-category: "Oxalá"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-093-v1.ogg"
 

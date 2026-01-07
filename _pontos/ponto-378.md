@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "378"
 ordenacao: 378
 title: "Deus que salve os nossos guias"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-378-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

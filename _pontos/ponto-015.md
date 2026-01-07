@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "015"
 ordenacao: 15
 title: "Oxalá mandou,"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-015-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

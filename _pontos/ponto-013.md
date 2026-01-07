@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "013"
 ordenacao: 13
 title: "Bendito e louvado seja"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-013-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

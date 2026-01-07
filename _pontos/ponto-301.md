@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "301"
 ordenacao: 301
 title: "Pele castigada, carapinha branca"
-category: "Pretos Velhos"
+category: "Pretos"
 
 ---
 

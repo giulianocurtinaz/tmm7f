@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "277"
 ordenacao: 277
 title: "Oh João batista, enviado de Jesus"
-category: "Oxalá"
+category: "Oriente"
 audios:
   - url: "/assets/audio/ponto-277-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

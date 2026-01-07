@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "154"
 ordenacao: 154
 title: "Kaô Cabecilê"
-category: "Xangô"
+category: "Xango"
 
 ---
 

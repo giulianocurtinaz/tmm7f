@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "235"
 ordenacao: 235
 title: "Ogum vencedor de demanda"
-category: "Iemanjá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-235-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

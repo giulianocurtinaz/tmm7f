@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "057"
 ordenacao: 57
 title: "E a marola lá do mar"
-category: "Ogum"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-057-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "253"
 ordenacao: 253
 title: "Ogum da Cachoeira"
-category: "Oxum"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-253-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

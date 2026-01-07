@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "325"
 ordenacao: 325
 title: "Eu vou chamar a corrente do cipó"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-325-v1.ogg"
     caption: "Na voz de Kátia ( 7 Flechas )"

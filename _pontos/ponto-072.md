@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "072"
 ordenacao: 72
 title: "Que bombardeio que se deu lá na aldeia"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-072-v1.ogg"
     caption: "Na voz de Rosiclea ( 7 Flechas )"

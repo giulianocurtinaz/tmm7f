@@ -2,7 +2,7 @@
 layout: ponto
 id_ponto: "010"
 ordenacao: 10
-category: Oxalá
+category: "Oxala"
 title: Lá vem jesus
 audios:
   - url: /assets/audio/ponto-010-v1.ogg

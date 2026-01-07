@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "061"
 ordenacao: 61
 title: "Tarimá"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-061-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

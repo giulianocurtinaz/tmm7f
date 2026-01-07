@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "104"
 ordenacao: 104
 title: "Tupinambá, Tupinambá"
-category: "Pretos Velhos"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-104-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

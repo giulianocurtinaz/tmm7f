@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "274"
 ordenacao: 274
 title: "Cosme e damião, doum"
-category: "Oxóssi"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-274-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"

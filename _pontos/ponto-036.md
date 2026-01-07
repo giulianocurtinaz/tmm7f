@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "036"
 ordenacao: 36
 title: "És nossa mãe Óh Iemanjá"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-036-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"

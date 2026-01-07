@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "371"
 ordenacao: 371
 title: "Tambor, tambor"
-category: "Oxum"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-371-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

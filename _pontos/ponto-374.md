@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "374"
 ordenacao: 374
 title: "HINO DA TURMA CACIQUE TREME-TERRA"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-374-v1.ogg"
     caption: "Na voz de Martinha - Cambono de Pai Bento ( Mãe Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "037"
 ordenacao: 37
 title: "A Iemanjá não é uma sereia"
-category: "Oxalá"
+category: "Iemanja"
 
 ---
 

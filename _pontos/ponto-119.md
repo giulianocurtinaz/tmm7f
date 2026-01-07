@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "119"
 ordenacao: 119
 title: "Ai Jureminha, ai Jurema"
-category: "Iemanjá"
+category: "Oxossi"
 
 ---
 

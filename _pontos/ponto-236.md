@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "236"
 ordenacao: 236
 title: "Se meu pai é Ogum"
-category: "Iemanjá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-236-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

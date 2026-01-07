@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "177"
 ordenacao: 177
 title: "Caboclo Girassol"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-177-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "328"
 ordenacao: 328
 title: "Maria Conga é tão linda"
-category: "Pretos Velhos"
+category: "Pretos"
 
 ---
 

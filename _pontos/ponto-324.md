@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "324"
 ordenacao: 324
 title: "Maria Conga"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-324-v1.ogg"
     caption: "Maria Inês CEPJA"

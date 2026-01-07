@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "322"
 ordenacao: 322
 title: "Tia Maria"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-322-v1.ogg"
     caption: "Maria Inês CEPJA"

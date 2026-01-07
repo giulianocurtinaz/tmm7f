@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "018"
 ordenacao: 18
 title: "Foi Zambi que criou o mundo"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-018-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

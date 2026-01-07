@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "105"
 ordenacao: 105
 title: "Os filhos de umbanda"
-category: "Pretos Velhos"
+category: "Oxossi"
 
 ---
 

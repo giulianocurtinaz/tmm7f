@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "317"
 ordenacao: 317
 title: "Pai Joaquim já vem"
-category: "Oxalá"
+category: "Pretos"
 
 ---
 

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "054"
 ordenacao: 54
 title: "Do manto de Nossa Senhora"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-054-v1.ogg"
     caption: "Na voz de Andréia e Cleber ( Pai João de Aruanda e 7 Flechas )"

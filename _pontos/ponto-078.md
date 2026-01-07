@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "078"
 ordenacao: 78
 title: "Eu estava na mata virgem"
-category: "Oxalá"
+category: "Oxossi"
 
 ---
 

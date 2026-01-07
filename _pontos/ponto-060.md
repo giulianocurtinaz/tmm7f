@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "060"
 ordenacao: 60
 title: "Abiguá"
-category: "Oxalá"
+category: "Iemanja"
 
 ---
 

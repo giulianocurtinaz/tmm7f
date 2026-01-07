@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "047"
 ordenacao: 47
 title: "Eu vi sentada na areia"
-category: "Iemanjá"
+category: "Iemanja"
 
 ---
 

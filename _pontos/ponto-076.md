@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "076"
 ordenacao: 76
 title: "A mata estava escura"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-076-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Ponto Parcial"

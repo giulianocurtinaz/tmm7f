@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "183"
 ordenacao: 183
 title: "jacutá"
-category: "Iansã"
+category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-183-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "187"
 ordenacao: 187
 title: "Oh! Meu São Jorge"
-category: "Oxóssi"
+category: "Ogum"
 
 ---
 

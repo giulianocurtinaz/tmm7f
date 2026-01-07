@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "085"
 ordenacao: 85
 title: "Lá na mata é só caboclo"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-085-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

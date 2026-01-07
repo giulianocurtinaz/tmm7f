@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "025"
 ordenacao: 25
 title: "Foi na areia, foi na areia"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-025-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

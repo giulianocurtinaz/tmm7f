@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "103"
 ordenacao: 103
 title: "Tupinambá"
-category: "Pretos Velhos"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-103-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "189"
 ordenacao: 189
 title: "Xangô rolou a pedra na pedreira"
-category: "Iemanjá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-189-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

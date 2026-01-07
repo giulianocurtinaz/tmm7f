@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "391"
 ordenacao: 391
 title: "Caboclo já vai"
-category: "Oxóssi"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-391-v1.ogg"
     caption: "Maria Ines CEPJA"

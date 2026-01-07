@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "343"
 ordenacao: 343
 title: "Tem mironga no conguê"
-category: "Oxalá"
+category: "Pretos"
 
 ---
 

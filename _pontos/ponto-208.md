@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "208"
 ordenacao: 208
 title: "Capitão do mato mandou me chamar"
-category: "Pretos Velhos"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-208-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

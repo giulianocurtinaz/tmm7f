@@ -4,7 +4,7 @@ id_ponto: "043"
 ordenacao: 43
 title: "'"
 ---"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-043-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

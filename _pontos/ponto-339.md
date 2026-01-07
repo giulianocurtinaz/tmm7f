@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "339"
 ordenacao: 339
 title: "Foi a fé em Oxalá que nos uniu"
-category: "Oxalá"
+category: "Pretos"
 
 ---
 

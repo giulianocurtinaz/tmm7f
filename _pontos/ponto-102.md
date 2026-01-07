@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "102"
 ordenacao: 102
 title: "Tupayba"
-category: "Pretos Velhos"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-102-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

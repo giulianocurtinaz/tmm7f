@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "089"
 ordenacao: 89
 title: "Pena Branca"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-089-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

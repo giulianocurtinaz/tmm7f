@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "386"
 ordenacao: 386
 title: "Lá na Aruanda, estão lhe chamando"
-category: "Pretos Velhos"
+category: "Outros"
 
 ---
 

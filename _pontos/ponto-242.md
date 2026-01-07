@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "242"
 ordenacao: 242
 title: "Ogum das Matas"
-category: "Oxóssi"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-242-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "073"
 ordenacao: 73
 title: "Caboclo roxo, da pele morena"
-category: "Oxóssi"
+category: "Oxossi"
 
 ---
 

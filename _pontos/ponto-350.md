@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "350"
 ordenacao: 350
 title: "Mãe Maria da Estrada"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-350-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

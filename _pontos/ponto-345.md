@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "345"
 ordenacao: 345
 title: "Tio Antonio"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-345-v1.ogg"
     caption: "Na voz de Giuliano, Kátia e André ( 7 Flechas )"

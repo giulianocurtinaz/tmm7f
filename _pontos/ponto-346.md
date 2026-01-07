@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "346"
 ordenacao: 346
 title: "Baiana"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-346-v1.ogg"
     caption: "Maria Inês CEPJA"

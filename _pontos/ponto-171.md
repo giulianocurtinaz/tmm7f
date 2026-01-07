@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "171"
 ordenacao: 171
 title: "Eu estava na pedreira"
-category: "Oxóssi"
+category: "Xango"
 
 ---
 

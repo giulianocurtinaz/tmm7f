@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "147"
 ordenacao: 147
 title: "Ribombo"
-category: "Xangô"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-147-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

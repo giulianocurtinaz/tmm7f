@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "389"
 ordenacao: 389
 title: "Os Pretos Velhos vão embora"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-389-v1.ogg"
     caption: "Maria Ines CEPJA"

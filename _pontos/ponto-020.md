@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "020"
 ordenacao: 20
 title: "Joga flores no mar | bis"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-020-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

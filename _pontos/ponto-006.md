@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "006"
 ordenacao: 6
 title: "HINO DA TERREIRA DE MÃE MARIA"
-category: "Pretos Velhos"
+category: "Hinos"
 audios:
   - url: "/assets/audio/ponto-006-v1.ogg"
     caption: "Na voz de Aline ( Diretora da Mãe Maria )"

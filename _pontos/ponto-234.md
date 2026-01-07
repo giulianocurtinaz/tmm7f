@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "234"
 ordenacao: 234
 title: "Ogum Iara"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-234-v1.ogg"
     caption: "Na voz de Alcimar (Terreiro de Ogum Beira-Mar)"

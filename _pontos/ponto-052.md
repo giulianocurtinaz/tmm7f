@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "052"
 ordenacao: 52
 title: "Quando a lua surgir"
-category: "Oxalá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-052-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"

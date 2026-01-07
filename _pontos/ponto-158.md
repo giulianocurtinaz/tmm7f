@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "158"
 ordenacao: 158
 title: "Bate, bate no tambor"
-category: "Oxum"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-158-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

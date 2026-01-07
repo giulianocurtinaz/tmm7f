@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "044"
 ordenacao: 44
 title: "Oh Virgem Maria"
-category: "Pretos Velhos"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-044-v2.ogg"
     caption: "Na voz de Manuelly ( Pai João de Aruanda e Sete Flechas )"

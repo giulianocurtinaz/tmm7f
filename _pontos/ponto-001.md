@@ -2,7 +2,7 @@
 layout: ponto
 id_ponto: "001"
 ordenacao: 2
-category: Hinos
+category: "Hinos"
 title: HINO DA UMBANDA
 audios:
   - url: /assets/audio/ponto-001-v1.ogg

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "067"
 ordenacao: 67
 title: "Junco-Verde"
-category: "Oxalá"
+category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-067-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"

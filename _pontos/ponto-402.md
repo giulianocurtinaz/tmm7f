@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "402"
 ordenacao: 402
 title: "Ponto da Amizade"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-402-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

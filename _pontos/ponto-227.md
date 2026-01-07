@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "227"
 ordenacao: 227
 title: "Como é linda a coroa de Iemanjá"
-category: "Iemanjá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-227-v1.ogg"
     caption: "Na voz de Martinha ( Mae Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "168"
 ordenacao: 168
 title: "Caboclo do Vento"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-168-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

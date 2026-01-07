@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "181"
 ordenacao: 181
 title: "Saravá Iansã"
-category: "Iemanjá"
+category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-181-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

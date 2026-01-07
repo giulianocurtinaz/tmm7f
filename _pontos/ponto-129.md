@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "129"
 ordenacao: 129
 title: "A mata estava tão linda"
-category: "Iemanjá"
+category: "Oxossi"
 
 ---
 

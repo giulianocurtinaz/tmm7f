@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "092"
 ordenacao: 92
 title: "Caboclo Aimoré"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-092-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

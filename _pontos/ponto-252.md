@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "252"
 ordenacao: 252
 title: "Oxóssi assoviou lá no Humaitá"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-252-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

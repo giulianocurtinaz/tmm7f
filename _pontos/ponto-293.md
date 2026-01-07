@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "293"
 ordenacao: 293
 title: "Preto-Velho senta no toco"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-293-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

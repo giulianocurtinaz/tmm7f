@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "203"
 ordenacao: 203
 title: "altaneiro"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-203-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

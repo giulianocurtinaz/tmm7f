@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "263"
 ordenacao: 263
 title: "Eu era criança e tinha esperança"
-category: "Oxóssi"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-263-v1.ogg"
     caption: "Na voz de Manuelly ( Pai João de Aruanda e Sete Flechas )"

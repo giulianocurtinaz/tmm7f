@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "040"
 ordenacao: 40
 title: "Saravá sereia linda"
-category: "Iemanjá"
+category: "Iemanja"
 
 ---
 

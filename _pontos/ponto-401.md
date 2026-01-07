@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "401"
 ordenacao: 401
 title: "Hino dos Orixás"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-401-v1.ogg"
     caption: "Na voz de Martinha ( Mã Maria )"

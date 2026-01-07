@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "321"
 ordenacao: 321
 title: "Vovó Rita"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-321-v1.ogg"
     caption: "Maria Inês CEPJA"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "297"
 ordenacao: 297
 title: "Quê-querê quê quê"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-297-v1.ogg"
     caption: "Maria Inês CEPJA"

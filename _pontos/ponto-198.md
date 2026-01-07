@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "198"
 ordenacao: 198
 title: "Clarão da lua, clareou as matas"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-198-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

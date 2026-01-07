@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "152"
 ordenacao: 152
 title: "Cariri"
-category: "Iemanjá"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-152-v1.ogg"
     caption: "Na voz de Sandra ( Ubirajara )"

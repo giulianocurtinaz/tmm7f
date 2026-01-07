@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "230"
 ordenacao: 230
 title: "Ele é Ogum, ele vem do mar"
-category: "Iemanjá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-230-v1.ogg"
     caption: "Rogério - Sete Ondas"

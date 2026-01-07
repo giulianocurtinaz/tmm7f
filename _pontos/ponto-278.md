@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "278"
 ordenacao: 278
 title: "Zarthur"
-category: "Oxalá"
+category: "Oriente"
 
 ---
 

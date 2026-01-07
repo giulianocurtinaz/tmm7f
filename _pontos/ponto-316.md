@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "316"
 ordenacao: 316
 title: "Pai Joaquim lá de angola"
-category: "Pretos Velhos"
+category: "Pretos"
 
 ---
 

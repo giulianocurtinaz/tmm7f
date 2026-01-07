@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "331"
 ordenacao: 331
 title: "Maria Tomé"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-331-v1.ogg"
     caption: "Maria Inês CEPJA"

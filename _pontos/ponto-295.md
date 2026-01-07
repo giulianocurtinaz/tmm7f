@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "295"
 ordenacao: 295
 title: "Xangô, Xangô"
-category: "Xangô"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-295-v1.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "260"
 ordenacao: 260
 title: "Na aruandê, na aruandê, na aruanda"
-category: "Ogum"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-260-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

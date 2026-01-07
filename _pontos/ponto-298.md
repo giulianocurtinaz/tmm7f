@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "298"
 ordenacao: 298
 title: "Vovó não quer casca de côco no terreiro"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-298-v1.ogg"
     caption: "Maria Inês CEJPA"

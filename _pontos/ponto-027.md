@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "027"
 ordenacao: 27
 title: "Sentada em cima de uma pedra"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-027-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"

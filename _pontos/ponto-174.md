@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "174"
 ordenacao: 174
 title: "Xangô, Xangô"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-174-v1.ogg"
     caption: "Marcelo Ferreira ( Mãe Maria )"

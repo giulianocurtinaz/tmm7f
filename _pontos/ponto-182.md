@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "182"
 ordenacao: 182
 title: "bonanza"
-category: "Oxalá"
+category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-182-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

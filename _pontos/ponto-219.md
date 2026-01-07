@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "219"
 ordenacao: 219
 title: "Ogum é São Jorge guerreiro"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-219-v1.ogg"
     caption: "Rogério - Sete Ondas"

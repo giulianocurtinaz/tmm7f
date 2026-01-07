@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "334"
 ordenacao: 334
 title: "Pai Domingos"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-334-v1.ogg"
     caption: "Maria Inês CEPJA"

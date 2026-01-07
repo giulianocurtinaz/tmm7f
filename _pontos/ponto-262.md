@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "262"
 ordenacao: 262
 title: "Damião cadê Doum, ô Damião?"
-category: "Iemanjá"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-262-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

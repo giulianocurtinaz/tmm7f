@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "300"
 ordenacao: 300
 title: "Mãe Preta"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-300-v1.ogg"
     caption: "Na Voz de Sandra (Terreira Ubirajara)"

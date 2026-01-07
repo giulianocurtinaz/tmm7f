@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "178"
 ordenacao: 178
 title: "Iansã"
-category: "Oxóssi"
+category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-178-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

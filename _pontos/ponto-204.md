@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "204"
 ordenacao: 204
 title: "Estão batendo na porta"
-category: "Oxóssi"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-204-v1.ogg"
     caption: "Rogério - Sete Ondas"

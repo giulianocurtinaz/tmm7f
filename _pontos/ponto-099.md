@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "099"
 ordenacao: 99
 title: "Paranga"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-099-v1.ogg"
     caption: "Na Voz de Giuliano (7 Flechas)"

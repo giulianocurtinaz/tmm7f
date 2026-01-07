@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "188"
 ordenacao: 188
 title: "Eu vi os soldados de Ogum"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-188-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

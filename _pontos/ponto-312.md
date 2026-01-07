@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "312"
 ordenacao: 312
 title: "Ponto 312"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-312-v1.ogg"
     caption: "Maria Inês CEPJA"

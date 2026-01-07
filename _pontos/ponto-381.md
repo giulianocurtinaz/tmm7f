@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "381"
 ordenacao: 381
 title: "Santo Antonio de Pemba"
-category: "Pretos Velhos"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-381-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

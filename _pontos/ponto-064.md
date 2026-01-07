@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "064"
 ordenacao: 64
 title: "candura"
-category: "Ogum"
+category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-064-v1.ogg"
     caption: "Na voz de Aladir e Isaura ( Ogum Beira-Mar )"

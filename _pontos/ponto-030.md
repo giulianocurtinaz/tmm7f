@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "030"
 ordenacao: 30
 title: "Estava na beira da praia"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-030-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"

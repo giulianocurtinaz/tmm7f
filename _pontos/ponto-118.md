@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "118"
 ordenacao: 118
 title: "Ai Jureminha, ai Jurema"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-118-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

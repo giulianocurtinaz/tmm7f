@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "009"
 ordenacao: 9
 title: "Abre a porta Oh gente"
-category: "Oxalá"
+category: "Oxala"
 
 ---
 

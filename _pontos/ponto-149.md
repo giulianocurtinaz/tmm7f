@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "149"
 ordenacao: 149
 title: "Ele bradou na aldeia"
-category: "Oxum"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-149-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

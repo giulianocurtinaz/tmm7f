@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "250"
 ordenacao: 250
 title: "Ogum meu pai me disse"
-category: "Iemanjá"
+category: "Ogum"
 
 ---
 

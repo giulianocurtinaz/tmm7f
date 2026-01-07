@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "388"
 ordenacao: 388
 title: "Caboclo trabalhou"
-category: "Oxóssi"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-388-v1.ogg"
     caption: "Maria Ines CEPJA"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "229"
 ordenacao: 229
 title: "São Jorge, São Jorge"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-229-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

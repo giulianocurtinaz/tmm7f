@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "112"
 ordenacao: 112
 title: "Jurema"
-category: "Oxalá"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-112-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

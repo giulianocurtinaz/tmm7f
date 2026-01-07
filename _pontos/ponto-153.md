@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "153"
 ordenacao: 153
 title: "Kenguelê, kenguelê Xangô"
-category: "Xangô"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-153-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

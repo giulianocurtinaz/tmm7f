@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "042"
 ordenacao: 42
 title: "Oh Iemanjá, Oh Iemanjá"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-042-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara) - Letra Parcial"

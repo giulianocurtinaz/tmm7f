@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "003"
 ordenacao: 3
 title: "HINO DO UMBANDISTA BRASILEIRO"
-category: "Oxalá"
+category: "Hinos"
 audios:
   - url: "/assets/audio/ponto-003-v1.ogg"
     caption: "Mercedes Oliveira ( Sete Flechas ) gravado em 19/10/2023"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "216"
 ordenacao: 216
 title: "Ai o meu pai é o maior na espada"
-category: "Oxóssi"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-216-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

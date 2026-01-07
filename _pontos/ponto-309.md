@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "309"
 ordenacao: 309
 title: "Pai Jorge"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-309-v1.ogg"
     caption: "Maria Inês CEPJA"

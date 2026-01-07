@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "275"
 ordenacao: 275
 title: "POVO DO ORIENTE"
-category: "Oxalá"
+category: "Oriente"
 audios:
   - url: "/assets/audio/ponto-275-v1.ogg"
     caption: "na Voz de Kátia ( 7 Flechas )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "212"
 ordenacao: 212
 title: "Ogum de lei, Ogum Megê, Ogum Iara"
-category: "Iemanjá"
+category: "Ogum"
 
 ---
 

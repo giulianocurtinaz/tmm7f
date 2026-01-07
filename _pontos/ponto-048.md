@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "048"
 ordenacao: 48
 title: "Desce oh mãe do teu reino dourado"
-category: "Oxalá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-048-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

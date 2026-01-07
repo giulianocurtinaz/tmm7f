@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "100"
 ordenacao: 100
 title: "Salve a falange do Caboclo Sete Flechas"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-100-v1.ogg"
     caption: "Na voz de Giuliano (Sete Flechas)"

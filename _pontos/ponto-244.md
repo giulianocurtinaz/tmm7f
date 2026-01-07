@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "244"
 ordenacao: 244
 title: "Ogum Megê"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-244-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

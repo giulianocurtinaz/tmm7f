@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "348"
 ordenacao: 348
 title: "Povo de Congo"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-348-v1.ogg"
     caption: "Maria Inês CEPJA"

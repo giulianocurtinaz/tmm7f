@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "217"
 ordenacao: 217
 title: "Levanta a bandeira de Ogum"
-category: "Oxalá"
+category: "Ogum"
 
 ---
 

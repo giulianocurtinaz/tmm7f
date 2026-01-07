@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "111"
 ordenacao: 111
 title: "Ubiratã"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-111-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

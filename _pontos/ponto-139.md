@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "139"
 ordenacao: 139
 title: "Meu pai Xangô é rei lá na pedreira"
-category: "Oxum"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-139-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

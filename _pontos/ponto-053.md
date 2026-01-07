@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "053"
 ordenacao: 53
 title: "Saravá Oxalá e Iemanjá"
-category: "Oxalá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-053-v1.ogg"
     caption: "Na Voz de Sandra (Terreira Ubirajara)"

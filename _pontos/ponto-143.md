@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "143"
 ordenacao: 143
 title: "Por de trás daquela serra"
-category: "Oxum"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-143-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

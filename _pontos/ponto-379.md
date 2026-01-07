@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "379"
 ordenacao: 379
 title: "Encerramento"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-379-v1.ogg"
     caption: "Maria Inês CEPJA"

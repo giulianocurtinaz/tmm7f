@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "173"
 ordenacao: 173
 title: "Caboclo do Sol e da Lua"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-173-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "142"
 ordenacao: 142
 title: "Pedra rolou pai Xangô"
-category: "Oxum"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-142-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

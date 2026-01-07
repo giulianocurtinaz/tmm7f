@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "167"
 ordenacao: 167
 title: "Quando a lua surgir"
-category: "Oxalá"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-167-v1.ogg"
     caption: "Em dia de sessão na Mãe Maria Mar/2024"

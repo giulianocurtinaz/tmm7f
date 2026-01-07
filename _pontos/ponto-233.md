@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "233"
 ordenacao: 233
 title: "Em seu cavalo branco"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-233-v1.ogg"
     caption: "Martina ( Mãe Maria )"

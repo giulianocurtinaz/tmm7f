@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "292"
 ordenacao: 292
 title: "Preto velho pequenino"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-292-v1.ogg"
     caption: "Na voz de Juliane - Cambona ( Mãe Maria )"

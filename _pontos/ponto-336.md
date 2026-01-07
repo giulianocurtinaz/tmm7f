@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "336"
 ordenacao: 336
 title: "Pai Tião"
-category: "Iansã"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-336-v1.ogg"
     caption: "Maria Inês CEPJA"

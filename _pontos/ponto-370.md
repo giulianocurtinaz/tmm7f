@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "370"
 ordenacao: 370
 title: "Deus vos salve a casa santa"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-370-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

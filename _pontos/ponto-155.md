@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "155"
 ordenacao: 155
 title: "minou"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-155-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

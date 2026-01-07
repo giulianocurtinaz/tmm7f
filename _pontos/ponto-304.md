@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "304"
 ordenacao: 304
 title: "Pai José vem cá"
-category: "Oxóssi"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-304-v1.ogg"
     caption: "Maria Inês CEPJA"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "266"
 ordenacao: 266
 title: "Doum, hoje é teu dia"
-category: "Oxalá"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-266-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "023"
 ordenacao: 23
 title: "No murmúrio das ondas"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-023-v1.ogg"
     caption: "Na voz de Aladir e Isaura ( Ogum Beira-Mar)"

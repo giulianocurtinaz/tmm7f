@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "302"
 ordenacao: 302
 title: "Pai Cipriano"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-302-v1.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"

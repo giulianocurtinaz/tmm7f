@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "347"
 ordenacao: 347
 title: "A baiana chegou da Bahia"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-347-v1.ogg"
     caption: "Maria Inês CEPJA"

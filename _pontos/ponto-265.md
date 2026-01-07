@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "265"
 ordenacao: 265
 title: "De lá do céu de lá do céu"
-category: "Oxalá"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-265-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

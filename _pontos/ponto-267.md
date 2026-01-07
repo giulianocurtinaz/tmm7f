@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "267"
 ordenacao: 267
 title: "São Cosme e São Damião"
-category: "Oxum"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-267-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

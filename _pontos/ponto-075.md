@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "075"
 ordenacao: 75
 title: "Atira, atira"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-075-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

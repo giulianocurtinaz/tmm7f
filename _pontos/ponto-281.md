@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "281"
 ordenacao: 281
 title: "Uma luz nasceu e clareou"
-category: "Oxalá"
+category: "Oriente"
 audios:
   - url: "/assets/audio/ponto-281-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

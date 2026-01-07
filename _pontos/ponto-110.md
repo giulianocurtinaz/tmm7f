@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "110"
 ordenacao: 110
 title: "Urubatã"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-110-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

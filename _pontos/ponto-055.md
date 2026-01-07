@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "055"
 ordenacao: 55
 title: "Descarrega, descarrega"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-055-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"

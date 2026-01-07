@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "122"
 ordenacao: 122
 title: "É tão bonita a cabocla Jurema"
-category: "Oxóssi"
+category: "Oxossi"
 
 ---
 

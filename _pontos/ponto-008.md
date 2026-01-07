@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "008"
 ordenacao: 8
 title: "#OXALÁ"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-008-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

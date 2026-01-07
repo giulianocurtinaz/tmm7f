@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "211"
 ordenacao: 211
 title: "Tem festa do terreiro"
-category: "Oxóssi"
+category: "Ogum"
 
 ---
 

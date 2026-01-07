@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "184"
 ordenacao: 184
 title: "O ronco da pedreira"
-category: "Oxóssi"
+category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-184-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

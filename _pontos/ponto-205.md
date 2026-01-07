@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "205"
 ordenacao: 205
 title: "Ogum cavaleiro da lua"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-205-v1.ogg"
     caption: "Rogério - Sete Ondas"

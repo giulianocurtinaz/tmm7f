@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "313"
 ordenacao: 313
 title: "Pinto piou lá em Angola"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-313-v1.ogg"
     caption: "Maria Ines CEPJA"

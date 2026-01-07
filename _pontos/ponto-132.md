@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "132"
 ordenacao: 132
 title: "arrebol"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-132-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

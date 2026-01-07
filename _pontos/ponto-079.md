@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "079"
 ordenacao: 79
 title: "Daodé"
-category: "Oxalá"
+category: "Oxossi"
 
 ---
 

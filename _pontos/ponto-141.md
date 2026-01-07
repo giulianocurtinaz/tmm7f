@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "141"
 ordenacao: 141
 title: "Cachoeira da mata virgem"
-category: "Oxum"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-141-v1.ogg"
     caption: "Na voz de Julinho ( Terreira de Pai Xangô )"

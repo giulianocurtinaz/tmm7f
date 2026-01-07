@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "071"
 ordenacao: 71
 title: "Na minha aldeia eu sou caboclo"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-071-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

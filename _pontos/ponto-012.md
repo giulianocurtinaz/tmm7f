@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "012"
 ordenacao: 12
 title: "Entrei na mata virgem"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-012-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

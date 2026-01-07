@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "356"
 ordenacao: 356
 title: "Aí vem chegando Mãe Maria Benedita"
-category: "Pretos Velhos"
+category: "Pretos"
 
 ---
 

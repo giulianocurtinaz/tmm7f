@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "017"
 ordenacao: 17
 title: "Um novo dia vai nascer"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-017-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

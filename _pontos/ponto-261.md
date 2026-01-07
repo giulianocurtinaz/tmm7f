@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "261"
 ordenacao: 261
 title: "Vai, vai, vai Doum"
-category: "Iemanjá"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-261-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "151"
 ordenacao: 151
 title: "Corisco"
-category: "Xangô"
+category: "Xango"
 
 ---
 

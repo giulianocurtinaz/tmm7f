@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "190"
 ordenacao: 190
 title: "São Jorge Guerreiro mandou me chamar"
-category: "Iemanjá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-190-v1.ogg"
     caption: "Rogério - Sete Ondas"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "390"
 ordenacao: 390
 title: "Caboclos já trabalharam"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-390-v1.ogg"
     caption: "Maria Ines CEPJA"

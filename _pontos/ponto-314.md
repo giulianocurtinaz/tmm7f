@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "314"
 ordenacao: 314
 title: "Ele é Rei Congo"
-category: "Ogum"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-314-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

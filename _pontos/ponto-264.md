@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "264"
 ordenacao: 264
 title: "27 de setembro, dia de festa e procissão"
-category: "Oxóssi"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-264-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

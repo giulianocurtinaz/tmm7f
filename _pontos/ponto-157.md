@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "157"
 ordenacao: 157
 title: "Eu fui lá na mata buscar minha guia"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-157-v1.ogg"
 

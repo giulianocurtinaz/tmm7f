@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "289"
 ordenacao: 289
 title: "Umbanda tem fundamento"
-category: "Pretos Velhos"
+category: "Pretos"
 
 ---
 

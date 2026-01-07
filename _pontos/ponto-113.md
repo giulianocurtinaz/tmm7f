@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "113"
 ordenacao: 113
 title: "Jurema, Oh Jurema, Jurema"
-category: "Oxóssi"
+category: "Oxossi"
 
 ---
 

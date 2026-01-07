@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "016"
 ordenacao: 16
 title: "Eu faço a Zambi minha oração,"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-016-v1.ogg"
     caption: "Na Voz de Rogério ( Sete Ondas )"

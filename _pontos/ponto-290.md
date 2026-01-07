@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "290"
 ordenacao: 290
 title: "Lá no alto da serra"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-290-v1.ogg"
     caption: "Na voz de Juliane - Cambona ( Mãe Maria )"

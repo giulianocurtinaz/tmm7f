@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "081"
 ordenacao: 81
 title: "Eu vou pedir licença pra Oxóssi"
-category: "Oxum"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-081-v1.ogg"
     caption: "Na voz de Victor ( Ubirajara)"

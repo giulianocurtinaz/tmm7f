@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "228"
 ordenacao: 228
 title: "Oh seu Ogum Beira Mar"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-228-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

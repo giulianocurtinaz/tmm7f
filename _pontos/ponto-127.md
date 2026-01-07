@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "127"
 ordenacao: 127
 title: "Companheiros de Jurema"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-127-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

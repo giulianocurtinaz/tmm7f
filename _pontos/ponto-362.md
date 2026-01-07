@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "362"
 ordenacao: 362
 title: "Defumação"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-362-v1.ogg"
     caption: "Maria Inês CEPJA"

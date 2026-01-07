@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "120"
 ordenacao: 120
 title: "Jurema, sua flecha brilhou Jurema"
-category: "Oxóssi"
+category: "Oxossi"
 
 ---
 

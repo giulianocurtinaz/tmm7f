@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "185"
 ordenacao: 185
 title: "A trovoada trovejou lá na pedreira"
-category: "Oxum"
+category: "Iansa"
 audios:
   - url: "/assets/audio/ponto-185-v1.ogg"
     caption: "Na voz de Victor Fernandes (Terreira de Ubirajara)"

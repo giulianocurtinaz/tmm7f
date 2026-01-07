@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "032"
 ordenacao: 32
 title: "Iara"
-category: "Ogum"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-032-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

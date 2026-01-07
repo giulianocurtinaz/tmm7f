@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "375"
 ordenacao: 375
 title: "Abertura dos caminhos"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-375-v1.ogg"
     caption: "Maria Inês CEPJA"

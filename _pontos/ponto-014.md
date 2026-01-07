@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "014"
 ordenacao: 14
 title: "Saravá, saravá, saravá"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-014-v1.ogg"
     caption: "Na voz de Sandra (Terreira Ubirajara)"

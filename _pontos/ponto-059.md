@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "059"
 ordenacao: 59
 title: "Cabocla das Sete Ondas"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-059-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

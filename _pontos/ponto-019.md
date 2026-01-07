@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "019"
 ordenacao: 19
 title: "#Iemanjá"
-category: "Iemanjá"
+category: "Iemanja"
 
 ---
 

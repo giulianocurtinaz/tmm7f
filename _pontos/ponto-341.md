@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "341"
 ordenacao: 341
 title: "NEGA MINA"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-341-v1.ogg"
     caption: "Na voz de Suely ( Ogum da Mata Virgem )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "159"
 ordenacao: 159
 title: "Xangô ô, Xangô ô"
-category: "Xangô"
+category: "Xango"
 
 ---
 

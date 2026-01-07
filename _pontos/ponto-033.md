@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "033"
 ordenacao: 33
 title: "Iara, Iara tem pena de nós tem dó"
-category: "Ogum"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-033-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

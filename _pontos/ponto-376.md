@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "376"
 ordenacao: 376
 title: "Abertura"
-category: "Pretos Velhos"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-376-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

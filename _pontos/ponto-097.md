@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "097"
 ordenacao: 97
 title: "Caboclo Arruda"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-097-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

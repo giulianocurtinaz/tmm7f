@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "145"
 ordenacao: 145
 title: "Kaô, kaô Xangô"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-145-v1.ogg"
     caption: "Na voz de Victor Fernandes ( Terreira Ubirajara )"

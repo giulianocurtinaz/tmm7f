@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "271"
 ordenacao: 271
 title: "Oi Cosme, oi Cosme, oi Cosme"
-category: "Oxalá"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-271-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

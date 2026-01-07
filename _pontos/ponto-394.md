@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "394"
 ordenacao: 394
 title: "Antigo Hino de Natal da Umbanda"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-394-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"

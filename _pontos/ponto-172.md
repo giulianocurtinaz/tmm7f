@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "172"
 ordenacao: 172
 title: "Veado no campo é corredor"
-category: "Oxóssi"
+category: "Xango"
 
 ---
 

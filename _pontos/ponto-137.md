@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "137"
 ordenacao: 137
 title: "Caboclo Flecheiro"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-137-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

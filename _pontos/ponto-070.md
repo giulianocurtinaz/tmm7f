@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "070"
 ordenacao: 70
 title: "#Oxóssi"
-category: "Oxóssi"
+category: "Oxossi"
 
 ---
 

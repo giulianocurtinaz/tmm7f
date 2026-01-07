@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "396"
 ordenacao: 396
 title: "Consagração"
-category: "Oxalá"
+category: "Outros"
 
 ---
 

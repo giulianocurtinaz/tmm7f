@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "049"
 ordenacao: 49
 title: "Sete Ondas"
-category: "Oxalá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-049-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

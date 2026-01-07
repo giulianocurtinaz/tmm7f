@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "135"
 ordenacao: 135
 title: "Caboclo Arari"
-category: "Oxalá"
+category: "Oxossi"
 
 ---
 

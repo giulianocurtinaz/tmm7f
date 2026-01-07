@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "131"
 ordenacao: 131
 title: "Eu me perdi mamãe"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-131-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

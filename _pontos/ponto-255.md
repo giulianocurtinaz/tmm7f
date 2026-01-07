@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "255"
 ordenacao: 255
 title: "Ogum das Sete Ondas"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-255-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "140"
 ordenacao: 140
 title: "Xangô do fogo"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-140-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

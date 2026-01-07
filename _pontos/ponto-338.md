@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "338"
 ordenacao: 338
 title: "Lá do céu desceu uma estrela"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-338-v1.ogg"
     caption: "Maria Inês CEPJA"

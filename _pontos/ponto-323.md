@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "323"
 ordenacao: 323
 title: "Onde é que Tia Maria mora?"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-323-v1.ogg"
     caption: "'Mãe Maria' Na voz de Kátia ( 7 Flechas )"

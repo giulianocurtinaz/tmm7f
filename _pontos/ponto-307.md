@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "307"
 ordenacao: 307
 title: "Quem quiser ver, que veja, auê"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-307-v1.ogg"
     caption: "Maria Inês CEPJA"

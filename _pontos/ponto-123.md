@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "123"
 ordenacao: 123
 title: "Eu vim da mata virgem"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-123-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

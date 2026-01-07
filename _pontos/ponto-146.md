@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "146"
 ordenacao: 146
 title: "Supremo da Montanha"
-category: "Pretos Velhos"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-146-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

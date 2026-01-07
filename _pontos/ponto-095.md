@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "095"
 ordenacao: 95
 title: "Águia Branca"
-category: "Oxalá"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-095-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

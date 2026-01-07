@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "329"
 ordenacao: 329
 title: "Maria Macambira"
-category: "Iemanjá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-329-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"

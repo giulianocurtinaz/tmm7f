@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "398"
 ordenacao: 398
 title: "Advertência"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-398-v1.ogg"
     caption: "Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas )"

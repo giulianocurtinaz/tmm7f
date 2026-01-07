@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "144"
 ordenacao: 144
 title: "Quem rola pedra na pedreira"
-category: "Xangô"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-144-v1.ogg"
     caption: "Na voz de Giuliano ( 7 Flechas )"

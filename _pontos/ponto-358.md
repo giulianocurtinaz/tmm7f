@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "358"
 ordenacao: 358
 title: "Pai Tomé"
-category: "Oxalá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-358-v1.ogg"
     caption: "Maria Ines CEPJA"

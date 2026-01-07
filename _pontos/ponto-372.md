@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "372"
 ordenacao: 372
 title: "CHAMADA DE CABOCLOS"
-category: "Oxum"
+category: "Outros"
 
 ---
 

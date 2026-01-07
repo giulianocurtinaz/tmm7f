@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "366"
 ordenacao: 366
 title: "Ponto de Partida"
-category: "Oxóssi"
+category: "Outros"
 
 ---
 

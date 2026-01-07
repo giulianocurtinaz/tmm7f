@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "199"
 ordenacao: 199
 title: "Por entre matas, por entre mares,"
-category: "Oxóssi"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-199-v1.ogg"
     caption: "<br>Na voz de Nilza e Aparecida ( Ubirajara )"

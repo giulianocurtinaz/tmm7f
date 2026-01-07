@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "352"
 ordenacao: 352
 title: "Pai Bento, Pai Bento"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-352-v1.ogg"
     caption: "Na voz de Martinha - Cambona do Pai Bento ( Mãe Maria )"

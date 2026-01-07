@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "163"
 ordenacao: 163
 title: "Xangô e Oxóssi"
-category: "Oxóssi"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-163-v1.ogg"
     caption: "Na voz de Sabrina ( C.E. Reino de Jandira )"

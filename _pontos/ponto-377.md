@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "377"
 ordenacao: 377
 title: "Jesus, Maria, São João e São José"
-category: "Oxalá"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-377-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

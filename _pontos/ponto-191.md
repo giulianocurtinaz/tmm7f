@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "191"
 ordenacao: 191
 title: "Quem é a aquele lindo cavalheiro?"
-category: "Oxóssi"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-191-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

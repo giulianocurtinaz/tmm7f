@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "330"
 ordenacao: 330
 title: "Maria da Serra"
-category: "Iemanjá"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-330-v1.ogg"
 

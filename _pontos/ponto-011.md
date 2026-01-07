@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "011"
 ordenacao: 11
 title: "Jesus, estrela guia"
-category: "Oxalá"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-011-v1.ogg"
     caption: "Na voz de Yaralacy ( Selma Neri de Campos )"

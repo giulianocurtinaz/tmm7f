@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "214"
 ordenacao: 214
 title: "O seu cavalo corre"
-category: "Oxalá"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-214-v1.ogg"
     caption: "Martinha ( Mãe Maria )"

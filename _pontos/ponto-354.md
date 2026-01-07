@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "354"
 ordenacao: 354
 title: "Pai Benedito"
-category: "Oxóssi"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-354-v1.ogg"
     caption: "Maria Inês CEPJA"

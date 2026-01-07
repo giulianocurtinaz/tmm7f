@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "116"
 ordenacao: 116
 title: "Jurema do juremeiro"
-category: "Oxalá"
+category: "Oxossi"
 
 ---
 

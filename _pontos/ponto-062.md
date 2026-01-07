@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "062"
 ordenacao: 62
 title: "OXUM"
-category: "Oxalá"
+category: "Oxum"
 audios:
   - url: "/assets/audio/ponto-062-v1.ogg"
     caption: "Na voz de Nilza e Cida ( Ubirajara )"

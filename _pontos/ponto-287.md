@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "287"
 ordenacao: 287
 title: "Pai Bastião"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-287-v1.ogg"
     caption: "Na voz de Nilza e Aparecida ( Ubirajara )"

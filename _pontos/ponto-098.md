@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "098"
 ordenacao: 98
 title: "Sete-Flechas"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-098-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

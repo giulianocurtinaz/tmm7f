@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "056"
 ordenacao: 56
 title: "Baixai, baixai,"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-056-v1.ogg"
     caption: "Na voz de Rogério (Sete Ondas)"

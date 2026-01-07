@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "351"
 ordenacao: 351
 title: "Pai Bento"
-category: "Oxóssi"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-351-v1.ogg"
     caption: "Na voz de Cristiano ( Mãe Maria )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "385"
 ordenacao: 385
 title: "Lá na Aruanda, estão lhe chamando"
-category: "Pretos Velhos"
+category: "Outros"
 audios:
   - url: "/assets/audio/ponto-385-v1.ogg"
     caption: "Maria Ines CEPJA"

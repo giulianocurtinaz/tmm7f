@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "240"
 ordenacao: 240
 title: "Cruza flechas e lanças"
-category: "Oxóssi"
+category: "Ogum"
 audios:
   - url: "/assets/audio/ponto-240-v1.ogg"
     caption: "Maria Inês ( Pai José de Aruanda )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "308"
 ordenacao: 308
 title: "Embala ê babá, embala ê"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-308-v1.ogg"
     caption: "Maria Inês CEPJA"

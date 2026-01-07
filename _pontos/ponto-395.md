@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "395"
 ordenacao: 395
 title: "Reforço"
-category: "Oxalá"
+category: "Outros"
 
 ---
 

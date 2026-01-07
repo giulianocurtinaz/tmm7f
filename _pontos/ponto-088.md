@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "088"
 ordenacao: 88
 title: "Em cima de uma pedra branca"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-088-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

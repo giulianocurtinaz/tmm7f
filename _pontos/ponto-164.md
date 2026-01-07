@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "164"
 ordenacao: 164
 title: "Xangô e Ogum"
-category: "Oxalá"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-164-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"

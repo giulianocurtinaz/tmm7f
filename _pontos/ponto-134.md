@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "134"
 ordenacao: 134
 title: "Na mata eu vi o sabiá cantar"
-category: "Oxóssi"
+category: "Oxossi"
 
 ---
 

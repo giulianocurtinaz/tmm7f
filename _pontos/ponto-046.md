@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "046"
 ordenacao: 46
 title: "Eu fiz um pedido a sublime Iemanjá"
-category: "Oxalá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-046-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda )"

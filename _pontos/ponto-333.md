@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "333"
 ordenacao: 333
 title: "Ouvi o rufar dos tambores"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-333-v1.ogg"
     caption: "Na voz de Giuliano e Kátia ( 7 Flechas )"

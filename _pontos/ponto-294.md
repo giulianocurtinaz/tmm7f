@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "294"
 ordenacao: 294
 title: "Oi saravá os pretos velhos agora"
-category: "Pretos Velhos"
+category: "Pretos"
 audios:
   - url: "/assets/audio/ponto-294-v1.ogg"
     caption: "Maria Inês CEPJA"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "121"
 ordenacao: 121
 title: "Como são lindos os cabelos de Jurema"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-121-v1.ogg"
     caption: "Na voz de Rosiclea ( 7 flechas )"

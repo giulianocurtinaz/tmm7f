@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "087"
 ordenacao: 87
 title: "Ubirajara"
-category: "Oxóssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-087-v1.ogg"
     caption: "Na voz de Alcimar ( Ogum de Ronda) - Completo"

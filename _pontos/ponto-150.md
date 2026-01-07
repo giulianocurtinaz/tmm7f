@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "150"
 ordenacao: 150
 title: "Sua machada é de ouro"
-category: "Xangô"
+category: "Xango"
 audios:
   - url: "/assets/audio/ponto-150-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "051"
 ordenacao: 51
 title: "Galera está no mar, ai vamos todos remar"
-category: "Iemanjá"
+category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-051-v1.ogg"
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"

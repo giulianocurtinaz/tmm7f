@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "273"
 ordenacao: 273
 title: "São Cosme e São Damião sua santa já chegou"
-category: "Oxalá"
+category: "Cosme"
 audios:
   - url: "/assets/audio/ponto-273-v1.ogg"
     caption: "Na voz de Kátia e Giuliano ( 7 Flechas )"
