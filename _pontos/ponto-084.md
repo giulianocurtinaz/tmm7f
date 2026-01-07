@@ -1,14 +1,13 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "084"
 ordenacao: 84
-title: "Arranca Toco"
 category: "Oxossi"
+title: "Arranca Toco"
 audios:
-  - url: "/assets/audio/ponto-084-v1.ogg"
+  - url: /assets/audio/ponto-084-v1.ogg
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
 ---
-
 <p><strong>Arranca Toco</strong></p>
 <p>Oxóssi mora na raiz da gameleira<br>Na raiz da gameleira<br>Salve Rompe Mato<br>Salve Arranca Toco<br>E salve o Tira
     Teima<br>Ele é caboclo em qualquer lugar<br>Firma seu ponto sem medo de errar<br>Só não me toque na flor da
@@ -18,6 +17,10 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
+
+
+
 
 
 

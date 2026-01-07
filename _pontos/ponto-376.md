@@ -1,14 +1,13 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "376"
 ordenacao: 376
-title: "Abertura"
 category: "Especificos"
+title: "Abertura"
 audios:
-  - url: "/assets/audio/ponto-376-v1.ogg"
+  - url: /assets/audio/ponto-376-v1.ogg
     caption: "Martinha ( Mãe Maria )"
 ---
-
 <p><strong>Abertura<br></strong></p>
 <p>Santo Antônio que é de ouro fino<br>Suspende a a bandeira<br>A vamos trabalhar</p>
 
@@ -16,6 +15,10 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
+
+
+
 
 
 

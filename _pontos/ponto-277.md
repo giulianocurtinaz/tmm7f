@@ -1,14 +1,13 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "277"
 ordenacao: 277
-title: "Oh João batista, enviado de Jesus"
 category: "Oriente"
+title: "Oh João batista, enviado de Jesus"
 audios:
-  - url: "/assets/audio/ponto-277-v1.ogg"
+  - url: /assets/audio/ponto-277-v1.ogg
     caption: "Martinha ( Mãe Maria )"
 ---
-
 <p>Oh João batista, enviado de Jesus<br>Guiai vossos filhos ao caminho da luz<br>Se veres um filho caído no
     chão<br>Levanta, levanta, são todos irmãos<br>Que Filho de umbanda não fica no chão<br>Levanta, levanta, são todos
     irmãos.</p>
@@ -17,6 +16,10 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
+
+
+
 
 
 

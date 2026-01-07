@@ -1,14 +1,13 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "051"
 ordenacao: 51
-title: "Galera está no mar, ai vamos todos remar"
 category: "Iemanja"
+title: "Galera está no mar, ai vamos todos remar"
 audios:
-  - url: "/assets/audio/ponto-051-v1.ogg"
+  - url: /assets/audio/ponto-051-v1.ogg
     caption: "Na Voz de Sandra e Mercedes (Terreira Ubirajara)"
 ---
-
 <p>Galera está no mar, ai vamos todos remar<br>Galera está no mar, ai vamos todos remar<br>Aí vem pai Sete Ondas,
     mensageiro de Iemanjá<br>Aí vem pai Sete Ondas, vamos todos sarava</p>
 
@@ -16,6 +15,10 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
+
+
+
 
 
 

@@ -1,11 +1,10 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "005"
 ordenacao: 5
-title: "HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”"
 category: "Hinos"
+title: "HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”"
 ---
-
 <p><strong>HINO DA TURMA “FÉ, ESPERANÇA E CARIDADE”</strong></p>
 <p>Umbanda é nosso caminho<br>A nossa força nossa missão<br>Mãe Iemanjá com muito carinho<br>Nos abençoa e dá proteção
 </p>
@@ -18,5 +17,9 @@ category: "Hinos"
     <figcaption class="wp-element-caption">Na voz de Duda Porto ( Aluno da Turma que confeccionou o Livo de Pontos )
     </figcaption>
 </figure>
+
+
+
+
 
 

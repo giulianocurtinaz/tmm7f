@@ -1,11 +1,10 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "320"
 ordenacao: 320
-title: "Pai João de Aruanda"
 category: "Pretos Velhos"
+title: "Pai João de Aruanda"
 ---
-
 <p>Pai João de Aruanda<br>No clarão da noite<br>No romper do dia<br>Chama Pai João e chama Mãe Maria ( 2x )<br>Pra me
     defender tem muita magia<br>Saravá o Pai João, saravá Mãe Maria<br>Saravá povo de Umbanda<br>Saravá estrela guia (
     2x )</p>
@@ -13,5 +12,9 @@ category: "Pretos Velhos"
     <figcaption class="wp-element-caption">Na voz de Andréia e Cleber (Pai João de Aruanda e 7 Flechas ) *Ponto do Chefe
         da Casa</figcaption>
 </figure>
+
+
+
+
 
 

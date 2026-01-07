@@ -1,13 +1,16 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "080"
 ordenacao: 80
-title: "Eu vi os caboclos de Oxóssi"
 category: "Oxossi"
+title: "Eu vi os caboclos de Oxóssi"
 ---
-
 <p>Eu vi os caboclos de Oxóssi<br>Na mata a trabalhar<br>Arranca folha, soca erva, tira seiva<br>Pros filhos de umbanda
     reforçar</p>
+
+
+
+
 
 
 

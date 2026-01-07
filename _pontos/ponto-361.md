@@ -1,12 +1,15 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "361"
 ordenacao: 361
-title: "DIVERSOS"
 category: "Especificos"
+title: "DIVERSOS"
 ---
-
 <p>#<strong>DIVERSOS</strong></p>
+
+
+
+
 
 
 

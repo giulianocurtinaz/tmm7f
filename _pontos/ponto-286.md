@@ -1,11 +1,10 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "286"
 ordenacao: 286
-title: "Nego Juca"
 category: "Pretos Velhos"
+title: "Nego Juca"
 ---
-
 <p><strong>Nego Juca</strong></p>
 <p><br>Vem de lá tão longe<br>Do horizonte, do além mar ( bis )<br>É o Nego Juca<br>que vem Angola<br>Vem trabalhar<br>É
     o Nego Juca<br>Vem de Aruanda<br>Vem trabalhar</p>
@@ -13,5 +12,9 @@ category: "Pretos Velhos"
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
+
+
+
 
 

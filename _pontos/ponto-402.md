@@ -1,14 +1,13 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "402"
 ordenacao: 402
-title: "Ponto da Amizade"
 category: "Hinos"
+title: "Ponto da Amizade"
 audios:
-  - url: "/assets/audio/ponto-402-v1.ogg"
+  - url: /assets/audio/ponto-402-v1.ogg
     caption: "Martinha ( Mãe Maria )"
 ---
-
 <p><strong>Ponto da Amizade</strong></p>
 <p>A amizade que invade o nosso peito<br>Com igualdade tratamos nosso irmão<br>Fraternidade praticamos com
     respeito<br>Na Umbanda com fé e devoção</p>
@@ -18,6 +17,10 @@ audios:
     aos orixás</p>
 <p>Eu vejo um longo caminho<br>É o caminho de todos os orixás<br>Vamos pedir com carinho<br>As “bênçãos” do pai
     Oxalá<br>Vamos pedir com Carinho<br>As “bênçãos” do pai Oxalá</p>
+
+
+
+
 
 
 

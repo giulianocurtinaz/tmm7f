@@ -6,7 +6,6 @@ category: "Oxala"
 title: "Lá vem jesus"
 audios:
   - url: /assets/audio/ponto-010-v1.ogg
-    caption: Na voz de Nilza e Aparecida ( Ubirajara )
 ---
 Lá vem jesus\
 A caminhar\
@@ -16,6 +15,8 @@ Vamos sim, com jesus\
 Vamos sim, trabalhar\
 Pelos nossos irmãos\
 Sem parar (bis)
+
+
 
 
 

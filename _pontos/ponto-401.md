@@ -1,14 +1,13 @@
 ﻿---
-layout: "ponto"
+layout: ponto
 id_ponto: "401"
 ordenacao: 401
-title: "Hino dos Orixás"
 category: "Hinos"
+title: "Hino dos Orixás"
 audios:
-  - url: "/assets/audio/ponto-401-v1.ogg"
+  - url: /assets/audio/ponto-401-v1.ogg
     caption: "Na voz de Martinha ( Mã Maria )"
 ---
-
 <p><strong>Hino dos Orixás<br></strong><br>Penso no dia que logo vai nascer<br>E o meu peito se enche de emoção<br>A
     esperança invade o meu ser<br>Eu sou feliz e gosto de viver</p>
 <p>Pela beleza dos raios da manhã<br>Eu te saúdo Mamãe Iansã<br>Pela grandeza das ondas do mar<br>Me abençoe Mamãe
@@ -23,6 +22,10 @@ audios:
     certeza vai me iluminar</p>
 <p>Penso no dia que logo vai nascer<br>E o meu peito se enche de emoção</p>
 <p>E essa luz que vem de Oxalá<br>Tenho certeza, vai me iluminar!</p>
+
+
+
+
 
 
 
