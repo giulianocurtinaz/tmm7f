@@ -1,6 +1,6 @@
 title: "Terreira de Mãe Maria"
 
-baseurl: ""
+baseurl: "" # Keep empty for custom domain. Use /tmm7f only if building specifically for github.io/tmm7f without custom domain.
 url: "https://www.maemariaseteflechas.com.br"
 
 remote_theme: wowthemesnet/mediumish-theme-jekyll
