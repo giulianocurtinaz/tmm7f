@@ -91,9 +91,10 @@ permalink: /pontos-cantados/
 
 <div class="lista-pontos">
 
-<!-- Inicio Loop Dinamico -->
+<!-- Inicio Loop Dinamico: Adaptado para ler category e ordenar por id_ponto -->
 {% assign pontos_ordenados = site.pontos | sort: 'id_ponto' %}
 {% for ponto in pontos_ordenados %}
+  <!-- usa slugify para garantir match da categoria independente de acento -->
   <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category | slugify }}">
     <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
     <div class="letra">
@@ -139,6 +140,7 @@ function filterPoints(category, btn) {
     else {
       // Filtro por categoria normal com checagem de slug mais robusta
       const pointCat = point.getAttribute('data-category');
+      // Comparação direta com slug
       point.style.display = (pointCat === category) ? 'block' : 'none';
     }
   });
