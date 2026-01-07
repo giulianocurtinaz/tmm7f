@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "384"
 ordenacao: 384
 title: "MACÁIA"
-category: "EspecÃ­ficos"
+category: "Especificos"
 ---
 
 <p>Adeus Treme-Terra, adeus<br>Sua banda lhe chama<br>Ele vai oló, ele vai oló<br>Nas folhas da Jurema<br>Na macaia de
@@ -11,4 +11,5 @@ category: "EspecÃ­ficos"
     folhas da Jurema<br>Na macáia de uma gira só<br>Adeus, adeus</p>
 <p style="font-size:12px"><strong>MACÁIA</strong> — Lugar de retiro, em plena mata, onde os médiuns vão descansar e
     refazer as suas forças psíquicas, no contato direto com a Natureza.</p>
+
 

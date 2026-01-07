@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "399"
 ordenacao: 399
 title: "Exaltação"
-category: "EspecÃ­ficos"
+category: "Especificos"
 ---
 
 <p><strong>Exaltação</strong></p>
@@ -16,4 +16,5 @@ category: "EspecÃ­ficos"
     blocos<br>A alma do índio brasileiro</p>
 <p>Saravá, saravá, saravá<br>Saravá Ondinas<br>Que emergem das águas do mar<br>Respeita a lei divina<br>Mãe Iara vamos
     saudar<br>Mãe Iara vamos saudar</p>
+
 

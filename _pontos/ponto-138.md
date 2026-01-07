@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "138"
 ordenacao: 138
 title: "XANGÔ"
-category: "XangÃ´"
+category: "Xango"
 ---
 
 <h3 class="wp-block-heading" id="xango">#<strong>XANGÔ</strong></h3>
@@ -14,4 +14,5 @@ category: "XangÃ´"
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
 

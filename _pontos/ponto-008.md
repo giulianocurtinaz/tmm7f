@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "008"
 ordenacao: 8
 title: "#OXALÁ"
-category: "OxalÃ¡"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-008-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
@@ -12,5 +12,6 @@ audios:
 
 <h2 class="wp-block-heading" id="oxala">#OXALÁ</h2>
 <p>Papai Oxalá tem pena de nós tem dó<br>Se a volta do mundo é grande<br>Seu poder ainda é maior</p>
+
 
 

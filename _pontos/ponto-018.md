@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "018"
 ordenacao: 18
 title: "Foi Zambi que criou o mundo"
-category: "OxalÃ¡"
+category: "Oxala"
 audios:
   - url: "/assets/audio/ponto-018-v1.ogg"
     caption: "Na voz de Martinha ( Mãe Maria )"
@@ -15,5 +15,6 @@ audios:
     universal<br>Abençoai os nossos trabalhos<br>Nos dando força espiritual<br>Okê, okê, okê<br>Okê meus caboclos
     okê<br>Salve Ogum e salve Oxum<br>Salve Oxóssi e salve Xangô<br>Salve Ibeji e os pretos velhos<br>A Mãe Maria e os
     povo do oriente<br>Okê, okê, okê<br>Okê meus caboclos okê<br></p>
+
 
 

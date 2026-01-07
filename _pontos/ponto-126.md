@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "126"
 ordenacao: 126
 title: "Jurema é flecheira"
-category: "OxÃ³ssi"
+category: "Oxossi"
 ---
 
 <p>Jurema é flecheira<br>A flecha não erra pontaria<br>Jurema, Jurema<br>Ela é flecheira de Mãe Maria</p>
@@ -11,4 +11,5 @@ category: "OxÃ³ssi"
     <figcaption class="wp-element-caption">Na Voz de Martinha (Cambona do Pai Bento - Terreira de Mãe Maria)
     </figcaption>
 </figure>
+
 

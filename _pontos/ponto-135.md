@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "135"
 ordenacao: 135
 title: "Caboclo Arari"
-category: "OxÃ³ssi"
+category: "Oxossi"
 ---
 
 <p><strong>Caboclo Arari</strong></p>
@@ -13,4 +13,5 @@ category: "OxÃ³ssi"
     <figcaption class="wp-element-caption">Na voz de Nilza e Maria Aparecida - Dirigentes do Terreiro de Ubirajara
     </figcaption>
 </figure>
+
 

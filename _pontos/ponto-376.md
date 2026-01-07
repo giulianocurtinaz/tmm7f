@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "376"
 ordenacao: 376
 title: "Abertura"
-category: "EspecÃ­ficos"
+category: "Especificos"
 audios:
   - url: "/assets/audio/ponto-376-v1.ogg"
     caption: "Martinha ( Mãe Maria )"
@@ -17,5 +17,6 @@ audios:
     <figcaption class="wp-element-caption">Gravado durante a abertura dos trabalhos na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 
 

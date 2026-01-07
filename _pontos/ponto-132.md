@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "132"
 ordenacao: 132
 title: "arrebol"
-category: "OxÃ³ssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-132-v1.ogg"
     caption: "Na voz de Maria Inês ( Pai José de Aruanda )"
@@ -18,5 +18,6 @@ audios:
     <strong>arrebol</strong><br>A coroa da Jurema é como um girassol<br>É como um girass</p>
 <p style="font-size:12px"><strong>Arrebol</strong>: Cor avermelhada do crepúsculo, a hora em que o sol está surgindo ou
     sumindo no horizonte.</p>
+
 
 

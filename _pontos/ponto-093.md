@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "093"
 ordenacao: 93
 title: "Pena Verde"
-category: "OxÃ³ssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-093-v1.ogg"
 
@@ -13,5 +13,6 @@ audios:
 <p>A estrela no céu brilhou<br>Minha choupana já clareou (bis)</p>
 <p>Ele vem lá, do Humaitá<br>Com sua falange pra trabalhar ( bis )</p>
 <p>Ele é seu Pena Verde na Luz de Oxalá</p>
+
 
 

@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "176"
 ordenacao: 176
 title: "Caboclo da Pedra"
-category: "XangÃ´"
+category: "Xango"
 ---
 
 <p><strong>Caboclo da Pedra<br></strong></p>
@@ -11,4 +11,5 @@ category: "XangÃ´"
     estão<br>Caboclo é filho de Umbanda<br>Filho de Umbanda ele é<br>Trabalhem sempre para o bem<br>Trabalhem sempre com
     fé<br>Não temam trovoada na serra<br>E nem ribombo do trovão<br>Pois os corações estando limpos<br>Jesus é seu fiel
     guardião</p>
+
 

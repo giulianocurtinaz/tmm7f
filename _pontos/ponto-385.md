@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "385"
 ordenacao: 385
 title: "Lá na Aruanda, estão lhe chamando"
-category: "EspecÃ­ficos"
+category: "Especificos"
 audios:
   - url: "/assets/audio/ponto-385-v1.ogg"
     caption: "Maria Ines CEPJA"
@@ -15,5 +15,6 @@ audios:
 
 <p style="font-size:12px">Congo, Monjolo: escravos africanos, angolas, congos, bengüelas, monjolos, cabindas, rebolos,
     moçambiques, vindos das regiões mais variadas da África</p>
+
 
 

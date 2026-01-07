@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "372"
 ordenacao: 372
 title: "CHAMADA DE CABOCLOS"
-category: "EspecÃ­ficos"
+category: "Especificos"
 ---
 
 <p><strong>CHAMADA DE CABOCLOS</strong></p>
@@ -12,4 +12,5 @@ category: "EspecÃ­ficos"
     <figcaption class="wp-element-caption">Cantado pelo corpo mediúnico em dia de sessão na Mãe Maria em Mar/2024
     </figcaption>
 </figure>
+
 

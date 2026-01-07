@@ -73,17 +73,17 @@ permalink: /pontos-cantados/
       <button class="filter-btn no-audio-btn" onclick="filterPoints('no-audio', this)" style="border-color: #ff9800; color: #e65100;">⚠️ Sem Áudio</button>
       <hr style="margin: 10px 0; border: 0; border-top: 1px solid #ddd;">
       <button class="filter-btn" onclick="filterPoints('Hinos', this)">📜 Hinos</button>
-      <button class="filter-btn" onclick="filterPoints('Oxalá', this)">🕊️ Oxalá</button>
-      <button class="filter-btn" onclick="filterPoints('Iemanjá', this)">🌊 Iemanjá</button>
+      <button class="filter-btn" onclick="filterPoints('Oxala', this)">🕊️ Oxalá</button>
+      <button class="filter-btn" onclick="filterPoints('Iemanja', this)">🌊 Iemanjá</button>
       <button class="filter-btn" onclick="filterPoints('Oxum', this)">🍯 Oxum</button>
-      <button class="filter-btn" onclick="filterPoints('Oxóssi', this)">🏹 Oxóssi</button>
-      <button class="filter-btn" onclick="filterPoints('Xangô', this)">⚒️ Xangô</button>
-      <button class="filter-btn" onclick="filterPoints('Iansã', this)">⚡ Iansã</button>
+      <button class="filter-btn" onclick="filterPoints('Oxossi', this)">🏹 Oxóssi</button>
+      <button class="filter-btn" onclick="filterPoints('Xango', this)">⚒️ Xangô</button>
+      <button class="filter-btn" onclick="filterPoints('Iansa', this)">⚡ Iansã</button>
       <button class="filter-btn" onclick="filterPoints('Ogum', this)">⚔️ Ogum</button>
       <button class="filter-btn" onclick="filterPoints('Cosme', this)">🍭 Cosme</button>
       <button class="filter-btn" onclick="filterPoints('Pretos Velhos', this)">☕ Pretos Velhos</button>
       <button class="filter-btn" onclick="filterPoints('Oriente', this)">🕌 Oriente</button>
-      <button class="filter-btn" onclick="filterPoints('Específicos', this)">🌀 Específicos</button>
+      <button class="filter-btn" onclick="filterPoints('Especificos', this)">🌀 Específicos</button>
     </nav>
   </aside>
 

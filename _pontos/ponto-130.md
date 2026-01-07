@@ -3,7 +3,7 @@ layout: "ponto"
 id_ponto: "130"
 ordenacao: 130
 title: "Eh Juremê, Eh Jurema"
-category: "OxÃ³ssi"
+category: "Oxossi"
 audios:
   - url: "/assets/audio/ponto-130-v1.ogg"
     caption: "Na voz de Rosiclea ( 7 flechas )"
@@ -12,5 +12,6 @@ audios:
 
 <p>Eh Juremê, Eh Jurema<br>Sua flecha caiu serena Jurema<br>Dentro desse congá</p>
 <p>Vem trazer sua falange<br>Para todo o mal levar, oi Juremê</p>
+
 
 
