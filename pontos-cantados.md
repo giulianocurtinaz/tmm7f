@@ -19,11 +19,20 @@ permalink: /pontos-cantados/
 <p>Ponto cantado é força! É base, é pilar de sustenção para nosso futuro! Que nossos guias permitam a realização desse
     projeto aqui na terra!</p>
 <p>Baixe gratuitamente o livro original de pontos:</p>
-<div class="wp-block-file"><a id="wp-block-file--media-52843753-db81-4405-a73b-20f8dc08621c" href="https://terreira6d2a4f868b.files.wordpress.com/2021/03/pontos_cantados.docx">Pontos_Cantados DOC</a><a href="https://terreira6d2a4f868b.files.wordpress.com/2021/03/pontos_cantados.docx" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-52843753-db81-4405-a73b-20f8dc08621c">Baixar</a></div>
-<div class="wp-block-file"><a id="wp-block-file--media-0e316be2-8088-4e15-bd04-d392ec122271" href="https://terreira6d2a4f868b.files.wordpress.com/2021/03/pontos_cantados.pdf">Pontos_Cantados PDF</a><a href="https://terreira6d2a4f868b.files.wordpress.com/2021/03/pontos_cantados.pdf" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-0e316be2-8088-4e15-bd04-d392ec122271">Baixar</a></div>
+
+<div class="wp-block-file">
+    <a id="wp-block-file--docx" href="{{ '/assets/docs/pontos_cantados.docx' | relative_url }}">Pontos_Cantados DOC</a>
+    <a href="{{ '/assets/docs/pontos_cantados.docx' | relative_url }}" class="wp-block-file__button wp-element-button" download="">Baixar</a>
+</div>
+
+<div class="wp-block-file">
+    <a id="wp-block-file--pdf" href="{{ '/assets/docs/pontos_cantados.pdf' | relative_url }}">Pontos_Cantados PDF</a>
+    <a href="{{ '/assets/docs/pontos_cantados.pdf' | relative_url }}" class="wp-block-file__button wp-element-button" download="">Baixar</a>
+</div>
+
 <p>Ajude-nos no desenvolvimento desse trabalho, entrando em contato pelo email terreira@maemariaseteflechas.com.br ou
     pelo Facebook.</p>
-
+    
 
 <style>
   /* Layout Base */
