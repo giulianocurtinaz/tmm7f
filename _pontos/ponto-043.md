@@ -3,7 +3,6 @@ layout: "ponto"
 id_ponto: "043"
 ordenacao: 43
 title: "Zum Zum Zum"
----"
 category: "Iemanja"
 audios:
   - url: "/assets/audio/ponto-043-v1.ogg"
