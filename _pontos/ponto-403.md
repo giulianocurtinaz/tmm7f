@@ -4,7 +4,7 @@ ordenacao: 7.01
 category: Hinos
 title: Hino da Terreira do Sete Flechas
 audios:
-  - url: /assets/audio/ponto-007.1.ogg
+  - url: /assets/audio/ponto-403-v1.ogg
 ---
 Somos filhos de Ubirajara\
 E da nossa Mãe Maria\
