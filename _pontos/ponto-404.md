@@ -5,6 +5,7 @@ category: Hinos
 title: Hino da Turma de 70 Anos de Mãe Maria
 audios:
   - url: /assets/audio/ponto-404-v1.ogg
+    caption: Na voz de Kátia e André
 ---
 A luz divina já refletiu\
 estou feliz por presenciar\
