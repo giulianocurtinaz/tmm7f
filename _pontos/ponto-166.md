@@ -1,10 +1,11 @@
 ---
-layout: "ponto"
+layout: ponto
 id_ponto: "166"
 ordenacao: 166
-title: "Em cima de uma pedra branca"
-category: "Xango"
-
+category: Xango
+title: Em cima de uma pedra branca
+audios:
+  - url: /assets/audio/ponto-166-v1.ogg
 ---
 
 <p>Em cima de uma pedra branca<br>Ao lado de um pé de açucena<br>Eu vi o cacique Treme Terra<br>Usando seu saiote de
