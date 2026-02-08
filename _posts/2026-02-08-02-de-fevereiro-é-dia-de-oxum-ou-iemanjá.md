@@ -30,8 +30,6 @@ Os principais sincretismos variam conforme a região:
 
 •	Santa Luzia: Sincretismo comum em partes da Bahia, reforçando o poder de Oxum sobre a visão espiritual.
 
- 
-
 ### **O 2 de Fevereiro: O Encontro de Oxum e Iemanjá no Rio Grande do Sul**
 
 No Rio Grande do Sul, o dia 2 de fevereiro revela um fenômeno religioso singular. Enquanto no restante do Brasil a data é quase exclusivamente dedicada a Iemanjá, o território gaúcho promove uma celebração conjunta com Oxum. O antropólogo Ari Pedro Oro (UFRGS) é a principal referência na explicação dessa dinâmica, que funde geografia, hierarquia ritual e as complexas relações com o catolicismo.
@@ -64,12 +62,12 @@ Segundo Oro, o sincretismo local com Nossa Senhora dos Navegantes é o ponto de 
 
 •	Conflito com o Clero: Ao contrário da história de Nossa Senhora Aparecida (onde o milagre da pesca foi rapidamente institucionalizado por padres), em Salvador houve conflito. Nos anos 60 e 70, padres da Paróquia de Santana chegaram a proibir a entrada de fiéis vestidos de branco. Essa rigidez eclesiástica acabou provocando o efeito oposto: os fiéis "se retiraram" da igreja e transformaram a festa de Iemanjá em uma manifestação de rua majoritariamente laica e africana, forçando a Igreja a aceitar sua posição secundária no evento.
 
-
-
 **Conclusão: A Soberania de Oxum no Sul**
 
 Cronologicamente, a celebração pública em Porto Alegre é mais antiga devido ao feriado oficial de 1871. Contudo, a festa de Salvador é precursora como ato de fé africana independente. No Rio Grande do Sul, a Igreja Católica teve que aprender a compartilhar o Guaíba: enquanto os sinos tocam para Navegantes, os tambores e as guias amarelas saúdam Oxum. A força da Umbanda garantiu que, no Sul, o dia 2 de fevereiro seja o único momento do país onde a Rainha da Água Doce divide o trono, em pé de igualdade, com a Rainha do Mar.
 
+Estudo realizado com o auxílio do Google Gemini.\
+\
+**Na Terreira de Mãe Maria Sete Flechas** 
 
-
-Estudo realizado com o auxílio do Google Gemini.
+Ela é um Orixá Maior e é responsável pelo signo de Câncer, sua cor é Azul claro, seu elemento é a água doce, ervas Lírio e Violeta, responsável pelo Paladar, sua bebida é o Guaraná.
