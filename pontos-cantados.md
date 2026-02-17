@@ -78,18 +78,21 @@ permalink: /pontos-cantados/
   <aside class="sidebar-filter">
     <h3>Categorias</h3>
     <nav class="filter-nav">
-      <a class="filter-btn" href="#hinos">📜 Hinos</a>
-      <a class="filter-btn" href="#oxala">🕊️ Oxalá</a>
-      <a class="filter-btn" href="#iemanja">🌊 Iemanjá</a>
-      <a class="filter-btn" href="#oxum">🍯 Oxum</a>
-      <a class="filter-btn" href="#oxossi">🏹 Oxóssi</a>
-      <a class="filter-btn" href="#xango">⚒️ Xangô</a>
-      <a class="filter-btn" href="#iansa">⚡ Iansã</a>
-      <a class="filter-btn" href="#ogum">⚔️ Ogum</a>
-      <a class="filter-btn" href="#cosme">🍬 Cosme</a>
-      <a class="filter-btn" href="#oriente">🕌 Oriente</a>
-      <a class="filter-btn" href="#pretos-velhos">☕ Pretos Velhos</a>
-      <a class="filter-btn" href="#diversos">🌀 Diversos</a>
+      <button class="filter-btn active" onclick="filterPoints('all', this)">✨ Todos</button>
+      <button class="filter-btn no-audio-btn" onclick="filterPoints('no-audio', this)" style="border-color: #ff9800; color: #e65100;">⚠️ Sem Áudio</button>
+      <hr style="margin: 10px 0; border: 0; border-top: 1px solid #ddd;">
+      <button class="filter-btn" onclick="filterPoints('Hinos', this)">📜 Hinos</button>
+      <button class="filter-btn" onclick="filterPoints('Oxala', this)">🕊️ Oxalá</button>
+      <button class="filter-btn" onclick="filterPoints('Iemanja', this)">🌊 Iemanjá</button>
+      <button class="filter-btn" onclick="filterPoints('Oxum', this)">🍯 Oxum</button>
+      <button class="filter-btn" onclick="filterPoints('Oxossi', this)">🏹 Oxóssi</button>
+      <button class="filter-btn" onclick="filterPoints('Xango', this)">⚒️ Xangô</button>
+      <button class="filter-btn" onclick="filterPoints('Iansa', this)">⚡ Iansã</button>
+      <button class="filter-btn" onclick="filterPoints('Ogum', this)">⚔️ Ogum</button>
+      <button class="filter-btn" onclick="filterPoints('Cosme', this)">🍬 Cosme</button>
+      <button class="filter-btn" onclick="filterPoints('Oriente', this)">🕌 Oriente</button>
+      <button class="filter-btn" onclick="filterPoints('Pretos', this)">☕ Pretos</button>
+      <button class="filter-btn" onclick="filterPoints('Outros', this)">🌀 Outros</button>
     </nav>
   </aside>
 
@@ -97,53 +100,64 @@ permalink: /pontos-cantados/
 
 <div class="lista-pontos">
 
-<!-- Inicio Loop Agrupado por Categoria -->
-{% assign all_points = site.pontos | sort: 'ordenacao' %}
-{% assign categories = "Hinos,Oxalá,Iemanjá,Oxum,Oxóssi,Xangô,Iansã,Ogum,Cosme,Oriente,Pretos Velhos,Diversos" | split: "," %}
-
-{% for cat in categories %}
-  {% assign slug_cat = cat | slugify %}
-  {% assign category_points = all_points | where: "category", cat %}
-  
-  {% if category_points.size > 0 %}
-    <section id="{{ slug_cat }}" class="category-section">
-      <h3 class="category-title">{{ cat }}</h3>
-      
-      {% for ponto in category_points %}
-        <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}">
-          <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
-          <div class="letra">
-            {{ ponto.content | markdownify }}
-            {% if ponto.audios %}
-              {% for audio in ponto.audios %}
-              <figure class="wp-block-audio">
-                <audio controls src="{{ audio.url | relative_url }}"></audio>
-                {% if audio.caption %}
-                <figcaption class="wp-element-caption">{{ audio.caption }}</figcaption>
-                {% endif %}
-              </figure>
-              {% endfor %}
-            {% endif %}
-          </div>
-        </article>
-      {% endfor %}
-      <hr>
-    </section>
-  {% endif %}
+<!-- Inicio Loop Dinamico -->
+{% assign pontos_ordenados = site.pontos | sort: 'ordenacao' %}
+{% for ponto in pontos_ordenados %}
+  <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category }}">
+    <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
+    <div class="letra">
+      {{ ponto.content | markdownify }}
+      {% if ponto.audios %}
+        {% for audio in ponto.audios %}
+        <figure class="wp-block-audio">
+          <audio controls src="{{ audio.url | relative_url }}"></audio>
+          {% if audio.caption %}
+          <figcaption class="wp-element-caption">{{ audio.caption }}</figcaption>
+          {% endif %}
+        </figure>
+        {% endfor %}
+      {% endif %}
+    </div>
+  </article>
 {% endfor %}
-<!-- Fim Loop Agrupado -->
+<!-- Fim Loop Dinamico -->
 
 </div>
   </main>
 </div>
 
-<style>
-  .category-title {
-    background: #f0f7ff;
-    padding: 10px;
-    border-left: 5px solid #2196F3;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    color: #2196F3;
+<script>
+function filterPoints(category, btn) {
+  // Atualiza classe ativa
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+
+  const points = document.querySelectorAll('.ponto-cantado');
+  
+  points.forEach(point => {
+    // Verifica se o ponto tem a tag de áudio
+    const hasAudio = point.querySelector('audio') !== null;
+    
+    if (category === 'all') {
+      point.style.display = 'block';
+    } 
+    else if (category === 'no-audio') {
+      // Lógica especial: mostra apenas se NÃO tiver áudio
+      point.style.display = hasAudio ? 'none' : 'block';
+    } 
+    else {
+      // Filtro por categoria normal
+      point.style.display = point.getAttribute('data-category') === category ? 'block' : 'none';
+    }
+  });
+
+  if(window.innerWidth < 768) {
+     const content = document.querySelector('.content-points');
+     if(content) {
+        setTimeout(() => {
+            content.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 50);
+     }
   }
-</style>
+}
+</script>
