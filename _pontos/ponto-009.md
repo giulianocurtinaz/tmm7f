@@ -1,10 +1,12 @@
 ---
-layout: "ponto"
+layout: ponto
 id_ponto: "009"
 ordenacao: 9
-title: "Abre a porta Oh gente"
-category: "Oxala"
-
+category: Oxala
+title: Abre a porta Oh gente
+audios:
+  - url: /assets/audio/ponto-009-v1.ogg
+    caption: Na voz de Andre em 2026
 ---
 
 <p>Abre a porta Oh gente<br>Aí vêm Jesus<br>Ele vêm cansado <br>Com o peso da Cruz<br>Vem de rua em rua<br>Vem de porta
