@@ -13,3 +13,11 @@
 	"syntax",
     "starsnonscss"
 ;
+
+html {
+    scroll-behavior: smooth;
+}
+
+.content-points {
+    scroll-margin-top: 100px;
+}

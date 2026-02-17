@@ -126,6 +126,7 @@ permalink: /pontos-cantados/
   </main>
 </div>
 
+</script>
 <script>
 function filterPoints(category, btn) {
   // Atualiza classe ativa
@@ -151,6 +152,14 @@ function filterPoints(category, btn) {
     }
   });
 
-  if(window.innerWidth < 768) window.scrollTo(0,0);
+  if(window.innerWidth < 768) {
+     const content = document.querySelector('.content-points');
+     if(content) {
+        // Pequeno delay para garantir que o DOM atualizou o layout (display: block/none)
+        setTimeout(() => {
+            content.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }, 50);
+     }
+  }
 }
 </script>
