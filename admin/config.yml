@@ -15,6 +15,8 @@ collections:
     media_folder: "/assets/audio"
     public_folder: "/assets/audio"
     slug: "ponto-{{id_ponto}}"
+    summary: '{{id_ponto}} - {{title}}'
+    search_fields: ["title", "id_ponto", "category", "body"]
     fields:
       - {label: "ID Ponto", name: "id_ponto", widget: "string"}
       - { label: "ORDENAÇÃO", name: "ordenacao", widget: "number", value_type: "float", step: 0.1 }
