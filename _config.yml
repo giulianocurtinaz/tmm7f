@@ -21,3 +21,5 @@ collections:
   pontos:
     output: true
     permalink: /pontos/:path/
+  pages:
+    output: true

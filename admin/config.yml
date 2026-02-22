@@ -28,6 +28,33 @@ collections:
           {label: "Legenda", name: "caption", widget: "string", required: false}
         ]}
 
+  - name: "pages"
+    label: "Páginas"
+    folder: "_pages"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Permalink", name: "permalink", widget: "string", required: false}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
+
+  - name: "menu_settings"
+    label: "Configurações do Menu"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "navigation"
+        label: "Menu Principal"
+        file: "_data/navigation.yml"
+        fields:
+          - label: "Links do Menu"
+            name: "links"
+            widget: "list"
+            fields:
+              - {label: "Título", name: "title", widget: "string"}
+              - {label: "URL", name: "url", widget: "string"}
+
   - name: "posts"
     label: "Posts"
     folder: "_posts"
