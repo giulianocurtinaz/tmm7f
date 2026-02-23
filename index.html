@@ -8,19 +8,15 @@ title: Home
 <!-- Featured
 ================================================== -->
 <section class="featured-posts">
-
     <div class="row">
-
-        {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-        {% include featuredbox.html %}
-
-        {% endif %}
-
+        {% for post in site.posts limit:1 %}
+        <div class="col-md-12 mb-30px">
+            <h2 class="featured-post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <div class="featured-scroll-container">
+                {{ post.content }}
+            </div>
+        </div>
         {% endfor %}
-
     </div>
 </section>
 
@@ -52,6 +48,10 @@ title: Home
     <div class="row listrecent">
 
         {% for post in paginator.posts %}
+
+        {% if post == site.posts.first %}
+        {% continue %}
+        {% endif %}
 
         {% include postbox.html %}
 
