@@ -12,10 +12,10 @@ title: Home
         {% for post in site.posts limit:1 %}
         <div class="col-md-12 mb-30px">
             <h2 class="featured-post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            {% if post.image %}
-            <img class="img-fluid w-100 mb-3" src="{{ site.baseurl }}/{{ post.image }}" alt="{{ post.title }}">
-            {% endif %}
             <div class="featured-scroll-container">
+                {% if post.image %}
+                <img class="img-fluid w-100 mb-3" src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+                {% endif %}
                 {{ post.content }}
             </div>
         </div>
