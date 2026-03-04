@@ -89,3 +89,5 @@ collections:
       - {label: "Endereço Original", name: "endereco_original", widget: "string", required: false}
       - {label: "Endereço Atual", name: "endereco_atual", widget: "string", required: false}
       - {label: "Dados de Contato", name: "dados_de_contato", widget: "string", required: false}
+      - {label: "Foto de Capa", name: "foto_capa", widget: "image", required: false}
+      - {label: "Conteúdo Histórico", name: "body", widget: "markdown", required: false}
