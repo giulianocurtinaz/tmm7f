@@ -23,3 +23,6 @@ collections:
     permalink: /pontos/:path/
   pages:
     output: true
+  genealogia:
+    output: true
+    permalink: /genealogia/:path/

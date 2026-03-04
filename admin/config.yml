@@ -66,3 +66,26 @@ collections:
       - {label: "Data", name: "date", widget: "datetime"}
       - {label: "Imagem de Capa", name: "image", widget: "image", required: false}
       - {label: "Conteúdo", name: "body", widget: "markdown"}
+
+  - name: "genealogia"
+    label: "Genealogia"
+    folder: "_genealogia"
+    create: true
+    summary: '{{codigo_final}} - {{nome_do_centro}}'
+    fields:
+      - {label: "Código Pai", name: "codigo_pai", widget: "string"}
+      - {label: "Código Final", name: "codigo_final", widget: "string"}
+      - {label: "Nome do Centro", name: "nome_do_centro", widget: "string"}
+      - {label: "Terreiro Pai", name: "terreiro_pai", widget: "string", required: false}
+      - {label: "Ano de Fundação", name: "ano_fundacao", widget: "number", value_type: "int", required: false}
+      - {label: "Encerramento", name: "encerramento", widget: "string", required: false}
+      - {label: "País", name: "pais", widget: "string", required: false}
+      - {label: "Estado", name: "estado", widget: "string", required: false}
+      - {label: "Cidade", name: "cidade", widget: "string", required: false}
+      - {label: "Dirigente Material Fundador", name: "dirigente_material_fundador", widget: "string", required: false}
+      - {label: "Dirigente Espiritual Fundador", name: "dirigente_espiritual_fundador", widget: "string", required: false}
+      - {label: "Sucessores Espirituais", name: "sucessores_espirituais", widget: "text", required: false}
+      - {label: "Sucessores Materiais", name: "sucessores_materiais", widget: "text", required: false}
+      - {label: "Endereço Original", name: "endereco_original", widget: "string", required: false}
+      - {label: "Endereço Atual", name: "endereco_atual", widget: "string", required: false}
+      - {label: "Dados de Contato", name: "dados_de_contato", widget: "string", required: false}
