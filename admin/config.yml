@@ -76,6 +76,7 @@ collections:
       - {label: "Código Pai", name: "codigo_pai", widget: "string"}
       - {label: "Código Final", name: "codigo_final", widget: "string"}
       - {label: "Nome do Centro", name: "nome_do_centro", widget: "string"}
+      - {label: "Nome Simplificado", name: "nome_simplificado", widget: "string", required: false, hint: "Apenas as últimas palavras. Ex: 'Caboclo Sete Flechas' em vez do nome completo."}
       - {label: "Terreiro Pai", name: "terreiro_pai", widget: "string", required: false}
       - {label: "Ano de Fundação", name: "ano_fundacao", widget: "number", value_type: "int", required: false}
       - {label: "Encerramento", name: "encerramento", widget: "string", required: false}
