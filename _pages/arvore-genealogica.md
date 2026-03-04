@@ -134,37 +134,56 @@ permalink: /arvore-genealogica/
   </div>
 </div>
 
-<!-- Scripts -->
 <script type="module">
   import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7/+esm';
 
-  // Montagem segura dos dados via Liquid/Jekyll (o jsonify escapa tudo perfeitamente)
-  const treeDataRaw = [
-    {% for item in site.genealogia %}
-    {
-      "id": {{ item.codigo_final | jsonify }},
-      "parentId": {{ item.codigo_pai | default: "" | jsonify }},
-      "name": {{ item.nome_do_centro | default: "Desconhecido" | jsonify }},
-      "dirigenteMaterial": {{ item.dirigente_material_fundador | jsonify }},
-      "dirigenteEspiritual": {{ item.dirigente_espiritual_fundador | jsonify }},
-      "ano": {{ item.ano_fundacao | jsonify }},
-      "sucessoresEspirituais": {{ item.sucessores_espirituais | jsonify }},
-      "sucessoresMateriais": {{ item.sucessores_materiais | jsonify }},
-      "endereco": {{ item.endereco_atual | default: item.endereco_original | jsonify }},
-      "foto_capa": {{ item.foto_capa | jsonify }},
-      "content": {{ item.content | markdownify | jsonify }}
-    }{% if forloop.last == false %},{% endif %}
-    {% endfor %}
-  ];
-
-  window.fecharModal = function() {
-    $('#detailsModal').modal('hide');
-  };
-
   document.addEventListener("DOMContentLoaded", function() {
+    console.log("DOM loaded. Inicializando D3 Genealogia...");
+
+    // Montagem segura dos dados via Liquid/Jekyll (o jsonify escapa tudo perfeitamente)
+    // Foi modificado para parse de uma string JSON robusta injedada.
+    let treeDataRaw = [];
+    try {
+      const rawJsonString = `[
+        {% for item in site.genealogia %}
+        {
+          "id": {{ item.codigo_final | jsonify }},
+          "parentId": {{ item.codigo_pai | default: "" | jsonify }},
+          "name": {{ item.nome_do_centro | default: "Desconhecido" | jsonify }},
+          "dirigenteMaterial": {{ item.dirigente_material_fundador | jsonify }},
+          "dirigenteEspiritual": {{ item.dirigente_espiritual_fundador | jsonify }},
+          "ano": {{ item.ano_fundacao | jsonify }},
+          "sucessoresEspirituais": {{ item.sucessores_espirituais | jsonify }},
+          "sucessoresMateriais": {{ item.sucessores_materiais | jsonify }},
+          "endereco": {{ item.endereco_atual | default: item.endereco_original | jsonify }},
+          "foto_capa": {{ item.foto_capa | jsonify }},
+          "content": {{ item.content | markdownify | jsonify }}
+        }{% if forloop.last == false %},{% endif %}
+        {% endfor %}
+      ]`;
+      
+      treeDataRaw = JSON.parse(rawJsonString);
+      console.log(`Sucesso: ${treeDataRaw.length} nós carregados da coleção "_genealogia".`);
+    } catch(e) {
+      console.error("ERRO CRÍTICO ao fazer parse dos dados da genealogia (Jekyll -> JSON):", e);
+      document.getElementById("tree-container").innerHTML = "<p style='color:red; padding:20px;'>Erro interno: Os dados da coleção genealogia contêm caracteres inválidos ou formatação errada.</p>";
+      return;
+    }
+
+    window.fecharModal = function() {
+      if (typeof $ !== 'undefined' && $.fn.modal) {
+        $('#detailsModal').modal('hide');
+      }
+    };
+
     const container = document.getElementById("tree-container");
-    const width = container.clientWidth;
-    const height = container.clientHeight;
+    if (!container) {
+      console.error("Container #tree-container não foi encontrado no HTML.");
+      return;
+    }
+
+    const width = container.clientWidth || 800;
+    const height = container.clientHeight || 600;
     
     const margin = {top: 20, right: 120, bottom: 20, left: 120};
     const dy = 60;  // Distância vertical entre nós
@@ -172,7 +191,8 @@ permalink: /arvore-genealogica/
 
     const svg = d3.select("#tree-container").append("svg")
         .attr("width", "100%")
-        .attr("height", "100%");
+        .attr("height", "100%")
+        .style("background-color", "#f9f9f9");
 
     const inner = svg.append("g");
     
@@ -185,15 +205,18 @@ permalink: /arvore-genealogica/
 
     // Preparar dados (Stratify)
     const stratify = d3.stratify()
-        .id(d => d.id)
-        .parentId(d => d.parentId);
+        .id(d => String(d.id).trim())
+        .parentId(d => d.parentId ? String(d.parentId).trim() : "");
 
     let root;
     try {
+        console.log("Tentando estruturar a árvore D3 (stratify)...");
         root = stratify(treeDataRaw);
+        console.log("Árvore D3 estruturada com sucesso (root):", root.id);
     } catch(e) {
-        console.error("Erro ao estruturar a árvore:", e);
-        inner.append("text").attr("x", 50).attr("y", 50).text("Erro de estrutura hierárquica. Faltando nós pais.");
+        console.error("ERRO CRÍTICO ao criar a hierarquia (D3 Stratify):", e);
+        console.log("Dados que falharam:", treeDataRaw);
+        inner.append("text").attr("x", 50).attr("y", 50).attr("fill", "red").text("Erro de estrutura hierárquica na Árvore. Verifique o F12 (Console).");
         return;
     }
 
@@ -245,7 +268,7 @@ permalink: /arvore-genealogica/
                 abrirDetalhes(d.data);
             });
             
-        // Tooltip
+        // Tooltip container append (transparent rect)
         nodeEnter.append("rect")
             .attr("y", -10)
             .attr("x", d => d.children || d._children ? -d.data.name.length*8 - 15 : 10)
@@ -355,19 +378,22 @@ permalink: /arvore-genealogica/
         if (typeof $ !== 'undefined' && $.fn.modal) {
             $('#detailsModal').modal('show');
         } else {
-            alert(data.name + "\\n\\n" + data.content);
+            alert("Resumo de " + data.name + "\\n(Modal Bootstrap não carregado)");
         }
     }
 
     svg.call(zoom.transform, d3.zoomIdentity.translate(margin.left + 50, height / 2));
 
     // Collapse children of all nodes except the root so the tree starts small, but user asked for expand/collapse interatividade. 
-    // Initial standard is typically fully expanded or fully collapsed.
-    // We'll leave fully expanded so everything is searchable visually initially, but can be collapsed.
     root.descendants().forEach(d => {
         d._children = d.children; // preserve state in case of collapsing
     });
 
-    update(root);
+    try {
+        update(root);
+        console.log("Árvore D3 renderizada com sucesso.");
+    } catch (e) {
+        console.error("ERRO ao renderizar os nós da árvore (D3 Update):", e);
+    }
   });
 </script>
