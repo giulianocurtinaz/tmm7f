@@ -1,0 +1,55 @@
+falta
+criar mecanismo para editar os pontos e todas as suas tags
+inserir novos pontos
+
+
+o mesmo para posts
+
+
+Client ID
+Ov23liLfZgC0Me0xKQrP
+client secret
+4ed32297a97a28c7faa546d113c4b01fb8de91c7
+
+https://giuliano-curtinaz.github.io/tmm7f/
+
+https://giulianocurtinaz.github.io/tmm7f/
+
+
+
+incluir novo ponto
+incluir um novo post
+
+
+
+actions do git hub - https://github.com/giulianocurtinaz/tmm7f/actions
+developer settings - https://github.com/settings/applications/3324751
+site hospedado - https://giulianocurtinaz.github.io/tmm7f
+
+ver como redirecionar a raiz https://giulianocurtinaz.github.io/ para o site /tmm7f
+dai redireciono o www para o github 
+
+configuracoes do netlify - https://app.netlify.com/projects/bejewelled-druid-0f2b51/domain-management#production-domains
+admin original - https://bejewelled-druid-0f2b51.netlify.app/admin/#/collections/pontos
+
+
+
+Agora que o site está funcional e "blindado", podemos configurar o seu plano para parar de pagar mensalidade. Para que o www aponte para o GitHub e o site. para o Netlify (apenas para o Admin), você precisará fazer o seguinte:
+
+No painel do Registro.br (ou onde você gerencia o domínio):
+
+Mudar o CNAME do www para giulianocurtinaz.github.io.
+
+Criar um subdomínio (tipo admin ou site) apontando o CNAME para o endereço que o Netlify te deu (ex: exemplo.netlify.app).
+
+No Netlify:
+
+Vá em Domain Settings e remova o domínio www.maemariaseteflechas.com.br de lá.
+
+Adicione apenas o subdomínio site.maemariaseteflechas.com.br.
+
+No GitHub Pages:
+
+Nas configurações do repositório, em Pages, coloque o domínio personalizado como www.maemariaseteflechas.com.br.
+
+Deseja que eu prepare os comandos exatos para você passar para o Anti Gravity configurar os arquivos de redirecionamento agora que os pontos voltaram?

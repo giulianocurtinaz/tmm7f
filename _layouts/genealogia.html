@@ -1,0 +1,110 @@
+---
+layout: default
+---
+<style>
+    .genealogia-header {
+        margin-bottom: 2rem;
+        border-bottom: 1px solid #eee;
+        padding-bottom: 1.5rem;
+    }
+
+    .genealogia-cover {
+        max-width: 100%;
+        max-height: 400px;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-bottom: 2rem;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .genealogia-data {
+        background: #f9f9f9;
+        padding: 1.5rem;
+        border-radius: 8px;
+        margin-bottom: 2rem;
+    }
+
+    .genealogia-data ul {
+        list-style: none;
+        padding-left: 0;
+        margin-bottom: 0;
+    }
+
+    .genealogia-data li {
+        margin-bottom: 0.5rem;
+    }
+
+    .genealogia-data strong {
+        color: #333;
+    }
+</style>
+
+<div class="main-content container mt-5">
+    <div class="row">
+        <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            <article class="post">
+                <div class="genealogia-header text-center">
+                    <h1 class="post-title">{{ page.nome_do_centro | default: page.title | default: "Terreira
+                        Desconhecida" }}</h1>
+                    {% if page.codigo_final %}
+                    <p class="text-muted mb-0"><small>Código: {{ page.codigo_final }}</small></p>
+                    {% endif %}
+                </div>
+
+                {% if page.foto_capa %}
+                <div class="text-center">
+                    {% assign photo_url = page.foto_capa %}
+                    {% unless photo_url contains 'http' or photo_url contains 'site.baseurl' %}
+                    {% assign photo_url = photo_url | relative_url %}
+                    {% endunless %}
+                    <img src="{{ photo_url }}" alt="Capa da Terreira {{ page.nome_do_centro }}"
+                        class="genealogia-cover">
+                </div>
+                {% endif %}
+
+                <div class="genealogia-data">
+                    <h4 class="mb-3">Dados Históricos</h4>
+                    <ul>
+                        <li><strong>Fundação:</strong> {{ page.ano_fundacao | default: 'N/A' }}</li>
+                        <li><strong>Dirigente Material Fundador:</strong> {{ page.dirigente_material_fundador | default:
+                            'Não informado' }}</li>
+                        <li><strong>Dirigente Espiritual Fundador:</strong> {{ page.dirigente_espiritual_fundador |
+                            default: 'Não informado' }}</li>
+
+                        {% if page.sucessores_materiais and page.sucessores_materiais != "" %}
+                        <li><strong>Sucessores Materiais:</strong> {{ page.sucessores_materiais }}</li>
+                        {% endif %}
+
+                        {% if page.sucessores_espirituais and page.sucessores_espirituais != "" %}
+                        <li><strong>Sucessores Espirituais:</strong> {{ page.sucessores_espirituais }}</li>
+                        {% endif %}
+
+                        <li><strong>Endereço Original:</strong> {{ page.endereco_original | default: 'Não informado' }}
+                        </li>
+                        {% if page.endereco_atual and page.endereco_atual != page.endereco_original %}
+                        <li><strong>Endereço Atual:</strong> {{ page.endereco_atual }}</li>
+                        {% endif %}
+                    </ul>
+                </div>
+
+                <div class="post-content mt-4">
+                    {% assign content_stripped = content | strip_html | strip_newlines | strip %}
+                    {% if content_stripped != "" %}
+                    {{ content }}
+                    {% else %}
+                    <div class="alert alert-info text-center" role="alert">
+                        <h5 class="alert-heading"><i class="fa fa-info-circle"></i> Em Construção</h5>
+                        <p class="mb-0">A história detalhada desta casa está sendo redigida. Confira os dados técnicos
+                            acima.</p>
+                    </div>
+                    {% endif %}
+                </div>
+
+                <div class="mt-5 text-center">
+                    <a href="{{ '/arvore-genealogica/' | relative_url }}" class="btn btn-outline-primary">&larr; Voltar
+                        para a Árvore Genealógica</a>
+                </div>
+            </article>
+        </div>
+    </div>
+</div>

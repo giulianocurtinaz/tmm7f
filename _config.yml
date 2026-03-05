@@ -26,3 +26,10 @@ collections:
   genealogia:
     output: true
     permalink: /genealogia/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "genealogia"
+    values:
+      layout: "genealogia"

@@ -57,6 +57,21 @@ permalink: /arvore-genealogica/
   #tooltip li strong {
     color: #ccc;
   }
+  
+  #tooltip .tooltip-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #tooltip.sticky {
+    pointer-events: auto;
+  }
 
   /* Node Labels */
   .node text {
@@ -109,72 +124,61 @@ permalink: /arvore-genealogica/
   <div id="tooltip"></div>
 </div>
 
-<!-- Modal para Detalhes do Centro -->
-<div class="modal fade" id="detailsModal" tabindex="-1" role="dialog" aria-labelledby="detailsModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="detailsModalLabel">Detalhes do Centro</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Fechar" onclick="fecharModal()">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <div id="modal-image-container" class="text-center mb-4" style="display:none;">
-          <img id="modal-image" src="" class="img-fluid rounded shadow" style="max-height: 350px; object-fit: cover;" alt="Capa da Terreira">
-        </div>
-        <div id="modal-content-container" class="content-body">
-          <!-- O texto do markdown compilado será inserido aqui -->
-        </div>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal" onclick="fecharModal()">Fechar</button>
-      </div>
-    </div>
-  </div>
-</div>
+<script type="application/json" id="tree-data">
+[
+  {% for item in site.genealogia %}
+  {
+    "id": {{ item.codigo_final | jsonify }},
+    "parentId": {{ item.codigo_pai | default: "" | jsonify }},
+    "name": {{ item.nome_do_centro | default: "Desconhecido" | jsonify }},
+    "nome_simplificado": {{ item.nome_simplificado | jsonify }},
+    "dirigenteMaterial": {{ item.dirigente_material_fundador | jsonify }},
+    "dirigenteEspiritual": {{ item.dirigente_espiritual_fundador | jsonify }},
+    "ano": {{ item.ano_fundacao | jsonify }},
+    "sucessoresEspirituais": {{ item.sucessores_espirituais | jsonify }},
+    "sucessoresMateriais": {{ item.sucessores_materiais | jsonify }},
+    "endereco": {{ item.endereco_atual | default: item.endereco_original | jsonify }},
+    "foto_capa": {{ item.foto_capa | jsonify }},
+    "content": {{ item.content | markdownify | jsonify }},
+    "url": {{ item.url | jsonify }}
+  }{% if forloop.last == false %},{% endif %}
+  {% endfor %}
+]
+</script>
 
-<script type="module">
-  import * as d3 from 'https://cdn.jsdelivr.net/npm/d3@7/+esm';
-
-  document.addEventListener("DOMContentLoaded", function() {
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+  function initTree() {
     console.log("DOM loaded. Inicializando D3 Genealogia...");
 
-    // Montagem segura dos dados via Liquid/Jekyll (o jsonify escapa tudo perfeitamente)
-    // Foi modificado para parse de uma string JSON robusta injedada.
+    // Montagem segura dos dados via Liquid/Jekyll
     let treeDataRaw = [];
     try {
-      const rawJsonString = `[
-        {% for item in site.genealogia %}
-        {
-          "id": {{ item.codigo_final | jsonify }},
-          "parentId": {{ item.codigo_pai | default: "" | jsonify }},
-          "name": {{ item.nome_do_centro | default: "Desconhecido" | jsonify }},
-          "dirigenteMaterial": {{ item.dirigente_material_fundador | jsonify }},
-          "dirigenteEspiritual": {{ item.dirigente_espiritual_fundador | jsonify }},
-          "ano": {{ item.ano_fundacao | jsonify }},
-          "sucessoresEspirituais": {{ item.sucessores_espirituais | jsonify }},
-          "sucessoresMateriais": {{ item.sucessores_materiais | jsonify }},
-          "endereco": {{ item.endereco_atual | default: item.endereco_original | jsonify }},
-          "foto_capa": {{ item.foto_capa | jsonify }},
-          "content": {{ item.content | markdownify | jsonify }}
-        }{% if forloop.last == false %},{% endif %}
-        {% endfor %}
-      ]`;
+      const jsonContent = document.getElementById("tree-data").textContent;
+      let parsed = JSON.parse(jsonContent);
       
-      treeDataRaw = JSON.parse(rawJsonString);
+      // Compute short name for graph display
+      parsed.forEach(node => {
+        if (node.nome_simplificado && node.nome_simplificado.trim() !== '') {
+          node.shortName = node.nome_simplificado;
+        } else {
+          // Fallback: Last two words of the full name
+          let words = (node.name || "").trim().split(/\s+/);
+          if (words.length > 2) {
+             node.shortName = words.slice(-2).join(' ');
+          } else {
+             node.shortName = node.name;
+          }
+        }
+      });
+      treeDataRaw = parsed;
+
       console.log(`Sucesso: ${treeDataRaw.length} nós carregados da coleção "_genealogia".`);
     } catch(e) {
-      console.error("ERRO CRÍTICO ao fazer parse dos dados da genealogia (Jekyll -> JSON):", e);
+      console.error("ERRO CRÍTICO ao fazer parse dos dados da genealogia:", e);
       document.getElementById("tree-container").innerHTML = "<p style='color:red; padding:20px;'>Erro interno: Os dados da coleção genealogia contêm caracteres inválidos ou formatação errada.</p>";
       return;
     }
-
-    window.fecharModal = function() {
-      if (typeof $ !== 'undefined' && $.fn.modal) {
-        $('#detailsModal').modal('hide');
-      }
-    };
 
     const container = document.getElementById("tree-container");
     if (!container) {
@@ -263,22 +267,25 @@ permalink: /arvore-genealogica/
             .attr("dy", ".35em")
             .attr("x", d => d.children || d._children ? -13 : 13)
             .attr("text-anchor", d => d.children || d._children ? "end" : "start")
-            .text(d => d.data.name)
-            .on("click", (event, d) => {
-                abrirDetalhes(d.data);
-            });
+            .text(d => d.data.shortName)
+            .style("cursor", "pointer")
+            .style("pointer-events", "none"); // Let the rect handle the events
             
-        // Tooltip container append (transparent rect)
+        // Tooltip container append (transparent rect acting as hitbox for text)
         nodeEnter.append("rect")
             .attr("y", -10)
-            .attr("x", d => d.children || d._children ? -d.data.name.length*8 - 15 : 10)
-            .attr("width", d => Math.max(d.data.name.length * 8, 50))
+            .attr("x", d => d.children || d._children ? -d.data.shortName.length*8 - 15 : 10)
+            .attr("width", d => Math.max(d.data.shortName.length * 8, 50))
             .attr("height", 20)
             .attr("fill", "transparent")
-            .style("cursor", "crosshair")
-            .on("mouseover", (event, d) => showTooltip(event, d.data))
+            .style("cursor", "pointer")
+            .on("mouseover", (event, d) => showTooltip(event, d.data, false))
             .on("mousemove", (event) => moveTooltip(event))
-            .on("mouseout", hideTooltip);
+            .on("mouseout", () => hideTooltip(false))
+            .on("click", (event, d) => {
+                event.stopPropagation();
+                toggleStickyTooltip(event, d.data);
+            });
 
         const nodeUpdate = nodeEnter.merge(node);
         nodeUpdate.select("circle")
@@ -321,12 +328,19 @@ permalink: /arvore-genealogica/
         });
     }
 
+    let stickyTooltipNode = null;
     const tooltip = d3.select("#tooltip");
 
-    function showTooltip(event, data) {
+    function showTooltip(event, data, isSticky = false) {
       if(!data) return;
+      if(stickyTooltipNode && !isSticky) return; // Don't override sticky with simple hover
+      
+      let closeBtn = isSticky ? `<button class="tooltip-close" onclick="closeStickyTooltip(event)">&times;</button>` : '';
+      let linkHtml = isSticky ? `<div class="mt-4 text-center"><a href="${data.url}" class="btn btn-primary d-inline-block px-4 py-2 font-weight-bold" style="font-size: 15px; border-radius: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">Ver história completa</a></div>` : '';
+      
       tooltip.style("display", "block").html(`
-        <h4>${data.name}</h4>
+        ${closeBtn}
+        <h4 style="margin-right: 20px;">${data.name}</h4>
         <ul>
             <li><strong>Fundação:</strong> ${data.ano || 'N/A'}</li>
             <li><strong>Dirigente Material:</strong> ${data.dirigenteMaterial || 'Não informado'}</li>
@@ -334,10 +348,42 @@ permalink: /arvore-genealogica/
             <li><strong>Sucessores:</strong> <br><small>Material:</small> ${data.sucessoresMateriais || '-'} <br><small>Espiritual:</small> ${data.sucessoresEspirituais || '-'}</li>
             <li><strong>Endereço:</strong> ${data.endereco || 'Não informado'}</li>
         </ul>
+        ${linkHtml}
       `);
+      
+      if(isSticky) {
+          tooltip.classed("sticky", true);
+      } else {
+          tooltip.classed("sticky", false);
+      }
     }
     
-    function moveTooltip(event) {
+    function toggleStickyTooltip(event, data) {
+      if (stickyTooltipNode === data) {
+          closeStickyTooltip(event);
+      } else {
+          stickyTooltipNode = data;
+          showTooltip(event, data, true);
+          moveTooltip(event, true);
+      }
+    }
+
+    window.closeStickyTooltip = function(event) {
+        if(event) event.stopPropagation();
+        stickyTooltipNode = null;
+        tooltip.classed("sticky", false);
+        tooltip.style("display", "none");
+    };
+
+    // Close sticky on outside click
+    d3.select("body").on("click", (event) => {
+        if (stickyTooltipNode && !event.target.closest('#tooltip') && !event.target.closest('text') && !event.target.closest('rect')) {
+            window.closeStickyTooltip();
+        }
+    });
+    
+    function moveTooltip(event, forceUpdate = false) {
+      if(stickyTooltipNode && !forceUpdate) return; // Don't move sticky
       const containerRect = document.getElementById('tree-container').getBoundingClientRect();
       let left = event.clientX - containerRect.left + 15;
       let top = event.clientY - containerRect.top + 15;
@@ -353,34 +399,11 @@ permalink: /arvore-genealogica/
       tooltip.style("left", left + "px").style("top", top + "px");
     }
 
-    function hideTooltip() {  tooltip.style("display", "none");  }
-
-    function abrirDetalhes(data) {
-        document.getElementById('detailsModalLabel').textContent = data.name;
-        
-        const imgContainer = document.getElementById('modal-image-container');
-        const imgElem = document.getElementById('modal-image');
-        
-        if (data.foto_capa && data.foto_capa.trim() !== '') {
-            let src = data.foto_capa;
-            if (!src.startsWith('http') && !src.startsWith('{{ site.baseurl }}')) {
-                src = \`{{ site.baseurl }}\${src.startsWith('/') ? '' : '/'}\${src}\`;
-            }
-            imgElem.src = src;
-            imgContainer.style.display = 'block';
-        } else {
-            imgContainer.style.display = 'none';
-        }
-
-        const contentHtml = (data.content || '').trim() !== '' ? data.content : '<p><em>Nenhuma informação histórica cadastrada para esta fraternidade.</em></p>';
-        document.getElementById('modal-content-container').innerHTML = contentHtml;
-
-        if (typeof $ !== 'undefined' && $.fn.modal) {
-            $('#detailsModal').modal('show');
-        } else {
-            alert("Resumo de " + data.name + "\\n(Modal Bootstrap não carregado)");
-        }
+    function hideTooltip(isSticky = false) {  
+        if(stickyTooltipNode && !isSticky) return;
+        tooltip.style("display", "none");  
     }
+
 
     svg.call(zoom.transform, d3.zoomIdentity.translate(margin.left + 50, height / 2));
 
@@ -395,5 +418,11 @@ permalink: /arvore-genealogica/
     } catch (e) {
         console.error("ERRO ao renderizar os nós da árvore (D3 Update):", e);
     }
-  });
+  } // Fim da function initTree()
+  
+  if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initTree);
+  } else {
+      initTree();
+  }
 </script>

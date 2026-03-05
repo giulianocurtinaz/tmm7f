@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $baseDir = Get-Location
 $xmlPath = Join-Path $baseDir "meusite.xml"
 $postsDir = Join-Path $baseDir "_posts"
@@ -106,7 +106,7 @@ foreach ($item in $xmlItems) {
                 $cUrl = $attIdToUrl[$tid]
                 # Check map
                 if ($state.DownloadedMap.ContainsKey($cUrl)) {
-                    $coverImage = "/tmm7f/assets/images/" + $state.DownloadedMap[$cUrl]
+                    $coverImage = "/assets/images/" + $state.DownloadedMap[$cUrl]
                 }
             }
         }
@@ -120,11 +120,11 @@ foreach ($item in $xmlItems) {
                 param($m)
                 $foundUrl = $m.Groups[1].Value
                 if ($state.DownloadedMap.ContainsKey($foundUrl)) {
-                    return "(/tmm7f/assets/images/" + $state.DownloadedMap[$foundUrl] + ")"
+                    return "(/assets/images/" + $state.DownloadedMap[$foundUrl] + ")"
                 }
                 $cleanFound = $foundUrl -replace "\?.*$", ""
                 if ($state.DownloadedMap.ContainsKey($cleanFound)) {
-                    return "(/tmm7f/assets/images/" + $state.DownloadedMap[$cleanFound] + ")"
+                    return "(/assets/images/" + $state.DownloadedMap[$cleanFound] + ")"
                 }
                 return "($foundUrl)"
             })
@@ -133,11 +133,11 @@ foreach ($item in $xmlItems) {
                 param($m)
                 $foundUrl = $m.Groups[1].Value
                 if ($state.DownloadedMap.ContainsKey($foundUrl)) {
-                    return "![](/tmm7f/assets/images/" + $state.DownloadedMap[$foundUrl] + ")"
+                    return "![](/assets/images/" + $state.DownloadedMap[$foundUrl] + ")"
                 }
                 $cleanFound = $foundUrl -replace "\?.*$", ""
                 if ($state.DownloadedMap.ContainsKey($cleanFound)) {
-                    return "![](/tmm7f/assets/images/" + $state.DownloadedMap[$cleanFound] + ")"
+                    return "![](/assets/images/" + $state.DownloadedMap[$cleanFound] + ")"
                 }
                 return "![]($foundUrl)"
             })

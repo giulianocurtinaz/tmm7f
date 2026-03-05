@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $baseDir = Get-Location
 $assetsDir = Join-Path $baseDir "assets\images"
 $dirsToProcess = @("pages", "_posts")
@@ -91,7 +91,7 @@ foreach ($dir in $dirsToProcess) {
                     $originalPath = $match.Groups[1].Value
                     $filename = [System.IO.Path]::GetFileName($originalPath)
                     $normalized = Get-NormalizedName $filename
-                    return 'coverImage: "/tmm7f/assets/images/' + $normalized + '"'
+                    return 'coverImage: "/assets/images/' + $normalized + '"'
                 })
             
             # C. Fix Markdown Image Links
@@ -106,7 +106,7 @@ foreach ($dir in $dirsToProcess) {
                     if ($url -match "images" -or $url -match "\.(jpg|jpeg|png|gif|webp)$") {
                         $filename = [System.IO.Path]::GetFileName($url)
                         $normalized = Get-NormalizedName $filename
-                        return "![$alt](/tmm7f/assets/images/$normalized)"
+                        return "![$alt](/assets/images/$normalized)"
                     }
                     return $match.Value
                 })
@@ -120,7 +120,7 @@ foreach ($dir in $dirsToProcess) {
                         $filename = [System.IO.Path]::GetFileName($url)
                         $normalized = Get-NormalizedName $filename
                         # Replace simply the src attribute part
-                        return $fullMatch -replace [Regex]::Escape($url), "/tmm7f/assets/images/$normalized"
+                        return $fullMatch -replace [Regex]::Escape($url), "/assets/images/$normalized"
                     }
                     return $fullMatch
                 })

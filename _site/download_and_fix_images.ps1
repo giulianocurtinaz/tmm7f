@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $baseDir = Get-Location
 $xmlPath = Join-Path $baseDir "meusite.xml"
 $imagesDir = Join-Path $baseDir "assets\images"
@@ -114,9 +114,9 @@ foreach ($file in $mdFiles) {
     # We need to replace links. 
     # Current links might be:
     # 1. To old HTTP URLs (if rebuild didn't fully catch them or if using Original XML content)
-    # 2. To local /tmm7f/assets/images/generic.jpg (from previous attempts)
+    # 2. To local /assets/images/generic.jpg (from previous attempts)
     
-    # Issue: The current markdown on disk (from previous step) already has replaced links with local paths like /tmm7f/assets/images/9.jpg.
+    # Issue: The current markdown on disk (from previous step) already has replaced links with local paths like /assets/images/9.jpg.
     # But we don't know easily which "9.jpg" that was (2020 or 2025?).
     # STRATEGY: 
     # The previous rebuild script used the XML structure to generating MD. 
@@ -129,9 +129,9 @@ foreach ($file in $mdFiles) {
     # The "Rebuild" script replaced that URL with a normalized name.
     
     # CRITICAL: The user's prompt implies we are fixing the files.
-    # If the files currently have `/tmm7f/assets/images/9.jpg`, we can't easily distinguish.
+    # If the files currently have `/assets/images/9.jpg`, we can't easily distinguish.
     # BUT, the "Rebuild from XML" script *just ran*. It successfully generated files with logic:
-    # `if ($url -match ...) { return "(/tmm7f/assets/images/$norm)" }`
+    # `if ($url -match ...) { return "(/assets/images/$norm)" }`
     # So the current MD files have generic names.
     
     # RE-REBUILDING might be safer?
@@ -147,7 +147,7 @@ foreach ($file in $mdFiles) {
     # I will assume re-generating is the best way to "update" them accurately.
     # Wait, the user prompt implies existing files.
     # If I just do regex replacement on links:
-    # `![](/tmm7f/assets/images/9.jpg)` -> Which one?
+    # `![](/assets/images/9.jpg)` -> Which one?
     # I cannot know.
     # THEREFORE: I MUST regenerate the markdown from the XML to get the relationship between Post and Image URL back.
     # The XML contains the HTML content with the *Original URL* (e.g. `http://.../2025/10/9.jpg`).
@@ -234,7 +234,7 @@ foreach ($item in $xmlItems) {
             if ($attIdToUrl.ContainsKey($tid)) {
                 $cUrl = $attIdToUrl[$tid]
                 if ($urlToNewName.ContainsKey($cUrl)) {
-                    $coverImage = "/tmm7f/assets/images/" + $urlToNewName[$cUrl]
+                    $coverImage = "/assets/images/" + $urlToNewName[$cUrl]
                 }
             }
         }
@@ -251,12 +251,12 @@ foreach ($item in $xmlItems) {
                 $foundUrl = $m.Groups[1].Value
                 # Try exact match
                 if ($urlToNewName.ContainsKey($foundUrl)) {
-                    return "(/tmm7f/assets/images/" + $urlToNewName[$foundUrl] + ")"
+                    return "(/assets/images/" + $urlToNewName[$foundUrl] + ")"
                 }
                 # Try stripped match
                 $cleanMatches = $foundUrl -replace "\?.*$", ""
                 if ($urlToNewName.ContainsKey($cleanMatches)) {
-                    return "(/tmm7f/assets/images/" + $urlToNewName[$cleanMatches] + ")"
+                    return "(/assets/images/" + $urlToNewName[$cleanMatches] + ")"
                 }
                 # Fallback: if we haven't downloaded it but it looks like a WP upload, try normal processing
                 # Extract Date and Name logic again?

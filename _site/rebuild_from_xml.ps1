@@ -1,4 +1,4 @@
-$ErrorActionPreference = "Stop"
+﻿$ErrorActionPreference = "Stop"
 $baseDir = Get-Location
 $xmlPath = Join-Path $baseDir "meusite.xml"
 $postsDir = Join-Path $baseDir "_posts"
@@ -100,7 +100,7 @@ foreach ($item in $items) {
         if ($url) {
             $fname = [System.IO.Path]::GetFileName($url)
             $norm = Get-NormalizedName $fname
-            $attachmentMap[$id] = "/tmm7f/assets/images/$norm"
+            $attachmentMap[$id] = "/assets/images/$norm"
         }
     }
 }
@@ -152,7 +152,7 @@ foreach ($item in $items) {
                 if ($url -match "\.(jpg|jpeg|png|gif|webp)(\?.*)?$" -or $url -match "uploads") {
                     if ($fn -match "(.+?)\?") { $fn = $matches[1] }
                     $norm = Get-NormalizedName $fn
-                    return "(/tmm7f/assets/images/$norm)"
+                    return "(/assets/images/$norm)"
                 }
                 return "($url)"
             })
