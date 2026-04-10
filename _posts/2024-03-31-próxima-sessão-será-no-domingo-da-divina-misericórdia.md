@@ -30,7 +30,7 @@ Os raios que saem do Coração de Jesus tem um significado maravilhoso revelado 
 
 Para nós da Terreira do Sete Flechas, o Espírito Santo é entendido como a própria mediunidade e a manifestação dos espíritos para a caridade no trabalho dos Pretos-velhos e Caboclos. Sendo assim, Quando Jesus foi crucificado e lançou sobre nós a Luz do Espírito Santo, nos concedeu a benção de entrarmos em contato com a espiritualidade de forma direta podendo experimentar em nós mesmos o sagrado, o divino e a caridade através do trabalho mediúnico!
 
-**A inscrição "Jesus, eu confio em vós"**
+### **A inscrição "Jesus, eu confio em vós"**
 
 A inscrição 'Jesus, eu confio em vós' é uma pequena oração que pode ser repetida com frequência, com fé e devoção. Jesus também falou sobre ela: *'Pinta uma Imagem de acordo com o modelo que estás vendo, com a inscrição: Jesus, eu confio em Vós. Desejo que esta Imagem seja venerada, primeiramente, na vossa capela e, depois, no mundo inteiro. Prometo que a alma que venerar esta Imagem não perecerá. Prometo também, já aqui na Terra, a vitória sobre os inimigos e, especialmente, na hora da morte. Eu mesmo a defenderei como Minha própria glória.'* (Diário de Santa Faustina nº 47-48). Jesus ainda disse: 'Ofereço aos homens um vaso, com o qual devem vir buscar graças na fonte da misericórdia. O vaso é a Imagem com a inscrição: 'Jesus, eu confio em Vós.' (Diário de Santa Faustina nº 327)
 
@@ -50,8 +50,6 @@ Sobre as graças concedidas através da imagem, Jesus disse: ***"O valor da Imag
 
 O valor da Umbanda e sua magia não encontra-se naquilo que podemos ver ou tocar! Assim como o poder do Quadro não está em sua tinta! O quadro deve apenas servir para nos lembrar que ELE ESTÁ DERRAMANDO SOBRE NÓS, especialmente nesse dia, SUA MISERICÓRDIA, Seu Poder, sua Bondade, seu Amor e SUA PRESENÇA, através de SUA LUZ que está evidentemente presente em nossos Guias e Protetores de Aruanda.
 
-
-
 ### O olhar de Jesus Misericordioso
 
 O olhar de Jesus Misericordioso nesta imagem tem um significado maravilhoso. Ele mesmo disse: 'O Meu olhar, nesta Imagem, é o mesmo que eu tinha na cruz.' (Diário de Santa Faustina nº 326.
@@ -63,8 +61,6 @@ Venha para a verdadeira Umbanda do bem, do amor e da Caridade!
 Venha ser um soldado e um guerreiro que luta pela divulgação dos princípios cristãos!
 
 Venha orar e praticar o bem na Umbanda que deve ser para todos nós!
-
-
 
 Fonte <https://cruzterrasanta.com.br/significado-e-simbolismo-de-jesus-misericordioso/11/103/> em 10/04/2026.
 
