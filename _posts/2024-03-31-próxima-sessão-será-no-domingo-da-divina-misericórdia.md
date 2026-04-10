@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Próxima sessão será no Domingo da Divina Misericórdia!
-date: 2024-03-31T09:00:00.000-03:00
+date: 2026-04-10T11:04:00.000-03:00
 image: assets/images/2021-01-merciful-jesus-300dpi.jpg
 ---
 ![](/assets/images/2021-01-merciful-jesus-pq.jpg)
