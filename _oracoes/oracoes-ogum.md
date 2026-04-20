@@ -3,6 +3,8 @@ layout: page
 title: "Orações Ogum"
 date: 2020-01-22
 permalink: /oracoes-ogum/
+image: "/assets/images/2020-05-ogum275.png"
+category: "Ogum"
 ---
 
 Orações abaixo foram produzidas em 23 Abril 2023

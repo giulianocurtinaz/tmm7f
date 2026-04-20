@@ -3,6 +3,8 @@ layout: page
 title: "Orações do rito"
 date: 2021-03-31
 permalink: /oracoes-do-rito/
+image: ""
+category: "Orações do Rito"
 ---
 
 Reunimos abaixo as principais orações que utilizamos em nossos ritos.

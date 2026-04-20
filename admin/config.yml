@@ -8,6 +8,18 @@ media_folder: "assets"
 public_folder: "/assets"
 
 collections:
+  - name: "oracoes"
+    label: "Orações"
+    folder: "_oracoes"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Link", name: "link", widget: "string", required: false, hint: "Apenas se for um link externo ou customizado."}
+      - {label: "Imagem de Capa", name: "image", widget: "image", required: false}
+      - {label: "Categoria", name: "category", widget: "string", required: false}
+      - {label: "Conteúdo", name: "body", widget: "markdown"}
+
   - name: "pontos"
     label: "Pontos Cantados"
     folder: "_pontos"

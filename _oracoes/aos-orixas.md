@@ -3,6 +3,8 @@ layout: page
 title: "Aos Orixás"
 date: 2021-03-12
 permalink: /aos-orixas/
+image: "/assets/images/2021-03-orixas.jpg"
+category: "Aos Orixás"
 ---
 
 **Oração aos Orixás.**
