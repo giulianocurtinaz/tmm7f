@@ -3,7 +3,7 @@ backend:
   name: github
   repo: giulianocurtinaz/tmm7f
   branch: main
-  base_url: https://oauth.staticcms.app
+  base_url: https://vercel-tawny-eight-63.vercel.app
   auth_endpoint: auth
 
 media_folder: "assets"
