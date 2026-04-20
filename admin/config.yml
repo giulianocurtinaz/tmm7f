@@ -1,8 +1,8 @@
-local_backend: true
 backend:
   name: github
   branch: main
   repo: giulianocurtinaz/tmm7f
+  base_url: https://api.netlify.com
 
 media_folder: "assets"
 public_folder: "/assets"
