@@ -1,11 +1,10 @@
 local_backend: true
 backend:
   name: github
-  branch: main
   repo: giulianocurtinaz/tmm7f
-  base_url: https://api.netlify.com
-  site_domain: www.maemariaseteflechas.com.br
-
+  branch: main
+  base_url: https://cms-free-atlast.herokuapp.com
+  auth_endpoint: auth
 
 media_folder: "assets"
 public_folder: "/assets"
