@@ -15,7 +15,7 @@ permalink: /oracoes/
     <div class="card h-100 shadow-sm border-0">
       {% if oracao.image and oracao.image != "" %}
       <a href="{{ oracao.link | default: oracao.url | relative_url }}">
-        <img class="img-fluid w-100" style="object-fit: cover; height: 200px;" src="{{ site.baseurl }}{{ oracao.image }}" alt="{{ oracao.title }}">
+        <img class="img-fluid w-100" style="object-fit: cover; height: 200px;" src="{{ oracao.image | relative_url }}" alt="{{ oracao.title }}">
       </a>
       {% endif %}
       <div class="card-body">
