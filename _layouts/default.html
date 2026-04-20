@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -20,7 +20,7 @@
 
     <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
 
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 </head>
 
 {% if jekyll.environment == 'production' %}
@@ -202,17 +202,7 @@
     <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
     {% endif %}
 
-    <script>
-        if (window.netlifyIdentity) {
-            window.netlifyIdentity.on("init", user => {
-                if (!user) {
-                    window.netlifyIdentity.on("login", () => {
-                        document.location.href = "{{ '/admin/' | relative_url }}";
-                    });
-                }
-            });
-        }
-    </script>
+
 </body>
 
 </html>

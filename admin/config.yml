@@ -1,6 +1,6 @@
+local_backend: true
 backend:
-  name: git-gateway
-  site_domain: bejewelled-druid-0f2b51.netlify.app
+  name: github
   branch: main
   repo: giulianocurtinaz/tmm7f
 
