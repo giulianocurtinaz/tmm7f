@@ -3,7 +3,7 @@ backend:
   name: github
   repo: giulianocurtinaz/tmm7f
   branch: main
-  base_url: https://cms-free-atlast.herokuapp.com
+  base_url: https://oauth.staticcms.app
   auth_endpoint: auth
 
 media_folder: "assets"
