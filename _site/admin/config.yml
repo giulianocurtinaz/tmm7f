@@ -1,8 +1,11 @@
+# Forçando atualização da rota de callback
 local_backend: true
 backend:
   name: github
-  branch: main
   repo: giulianocurtinaz/tmm7f
+  branch: main
+  base_url: https://netlify-cms-oauth-tau-green.vercel.app
+  auth_endpoint: api/auth
 
 media_folder: "assets"
 public_folder: "/assets"

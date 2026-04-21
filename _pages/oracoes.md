@@ -9,28 +9,14 @@ permalink: /oracoes/
 
 <h2 class="has-text-align-center"><a href="{{ '/oracoes-do-rito/' | relative_url }}">Orações do Rito</a></h2>
 
-<p class="has-text-align-center"><a href="{{ '/oracoes-do-rito/' | relative_url }}">Confira as orações que utilizamos em nosso rito.</a></p>
-
-
-
-![](/assets/1.jpg)
-
-<div class="wp-block-columns alignwide has-3-columns">
-<div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="{{ '/oracoes-ao-pai/' | relative_url }}"><img src="{{ '/assets/images/ceu.jpg' | relative_url }}" alt="" class="wp-image-1076" width="319" height="239" /></a></figure></div>
-
-<h2 class="has-text-align-center"><a href="{{ '/oracoes-ao-pai/' | relative_url }}">A Deus</a></h2>
+<p class="has-text-align-center"><a href="{{ '/oracoes-do-rito/' | relative_url }}">Confira as orações que utilizamos em nosso rito.</a></p><h2 class="has-text-align-center"><a href="{{ '/oracoes-ao-pai/' | relative_url }}">A Deus</a></h2>
 
 <p class="has-text-align-center"><br><a href="{{ '/oracoes-ao-pai/' | relative_url }}">Confira nossas orações.</a></p>
 </div>
 
-<div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><a href="{{ '/aos-orixas/' | relative_url }}"><img src="{{ '/assets/images/orixas.jpg' | relative_url }}" alt="" class="wp-image-1098" width="362" height="222" /></a></figure></div>
-
 <h2 class="has-text-align-center"><br><a href="{{ '/aos-orixas/' | relative_url }}">Aos Orixás</a></h2>
 
 <p class="has-text-align-center has-small-font-size"><a href="{{ '/aos-orixas/' | relative_url }}">Confira nossas orações.</a></p>
-</div>
 </div>
 
 <div class="wp-block-columns alignwide has-3-columns">
@@ -43,7 +29,7 @@ permalink: /oracoes/
 </div>
 
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-ogum/' | relative_url }}"><img src="{{ '/assets/images/ogum275.png' | relative_url }}" alt="" class="wp-image-632" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-ogum/' | relative_url }}"><img src="{{ '/assets/images/ogum275.png' | relative_url }}" alt="" class="wp-image-632" /></a></figure>
 
 <h2 class="has-text-align-left"><a href="{{ '/oracoes-ogum/' | relative_url }}">Ogum</a></h2>
 

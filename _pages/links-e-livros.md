@@ -3,126 +3,154 @@ layout: page
 title: Links e Livros
 permalink: /links-e-livros/
 ---
-
 <!-- wp:paragraph -->
+
 <p>Estudar a Umbanda não é tarefa fácil, muitas são suas vertentes, pensadores e autores.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+
 <p>Não poderíamos de listar logo de início o singelo e grandioso livro de nossa querida amiga e médium Adriana Zanette.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1042,"width":"244px","height":"343px","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large is-resized"><img src="https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/captura-de-tela-2021-02-13-as-15.41.21.png?w=556" alt="" class="wp-image-1042" style="width:244px;height:343px" /></figure>
+
 <!-- /wp:image -->
 
 <!-- wp:file {"id":1041,"href":"https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/guia-rapido-umbandista.pdf"} -->
+
 <div class="wp-block-file"><a href="{{ '/assets/images/2021-02-guia-rapido-umbandista.pdf' | relative_url }}">Guia Rápido Umbandista</a><a href="{{ '/assets/images/2021-02-guia-rapido-umbandista.pdf' | relative_url }}" class="wp-block-file__button wp-element-button" download>Baixar</a></div>
 <!-- /wp:file -->
 
 <!-- wp:paragraph -->
+
 <p>Se preferir compre a versão impressa na livraria online: <br> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"custom"} -->
+
 <figure class="wp-block-image size-large"><a href="https://agbook.com.br/book/350229--Guia_Rapido_Umbandista" target="_blank" rel="noopener" target="_blank"><img src="https://clbarrosescritora.files.wordpress.com/2017/01/perfilagbook.jpg" alt="" /></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
+
 <p><a href="https://agbook.com.br/book/350229--Guia_Rapido_Umbandista" target="_blank" rel="noopener">https://agbook.com.br/book/350229--Guia_Rapido_Umbandista</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
+
 <h2 class="wp-block-heading">ABC de Umbanda - Leopoldo Bettiol</h2>
 <!-- /wp:heading -->
 
 <!-- wp:file {"id":2885,"href":"https://maemariaseteflechas.com.br/wp-content/uploads/2024/08/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf","displayPreview":true} -->
+
 <div class="wp-block-file"><object class="wp-block-file__embed" data="https://maemariaseteflechas.com.br/wp-content/uploads/2024/08/a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="A B C de Umbanda - Leopoldo Bettiol"></object><a id="wp-block-file--media-aa086e5f-ef70-4fd0-bb17-1ad88ebeec37" href="{{ '/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf' | relative_url }}">A B C de Umbanda - Leopoldo Bettiol</a><a href="{{ '/assets/images/2024-08-a-b-c-de-umbanda-leopoldo-bettiol-1-1.pdf' | relative_url }}" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-aa086e5f-ef70-4fd0-bb17-1ad88ebeec37">Baixar</a></div>
 <!-- /wp:file -->
 
 <!-- wp:heading -->
+
 <h2 class="wp-block-heading">Leal de Souza</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+
 <p>O primeiro escritor umbandista:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:file {"id":1029,"href":"https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf","displayPreview":true,"previewHeight":487} -->
+
 <div class="wp-block-file"><object class="wp-block-file__embed" data="https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf" type="application/pdf" style="width:100%;height:487px" aria-label="Espiritismo, a Magia e as Sete Linhas de Umbanda"></object><a href="{{ '/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf' | relative_url }}">Espiritismo, a Magia e as Sete Linhas de Umbanda</a><a href="{{ '/assets/images/2021-02-espiritismo-a-magia-e-as-sete-linhas-de-umbanda.pdf' | relative_url }}" class="wp-block-file__button wp-element-button" download>Baixar</a></div>
 <!-- /wp:file -->
 
 <!-- wp:paragraph -->
+
 <p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
+
 <h2 class="wp-block-heading">Umbanda Crística</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+
 <p>Site sensacional trazendo maravilhosas obras de cunho histórico sobre a fundação e os fundamentos da Umbanda preconizada por Zélio Fernandino de Moraes.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:file {"id":1028,"href":"https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-i.pdf"} -->
+
 <div class="wp-block-file"><a href="{{ '/assets/images/2021-02-as-origens-da-umbanda-i.pdf' | relative_url }}">AS ORIGENS DA UMBANDA I</a><a href="{{ '/assets/images/2021-02-as-origens-da-umbanda-i.pdf' | relative_url }}" class="wp-block-file__button wp-element-button" download>Baixar</a></div>
 <!-- /wp:file -->
 
 <!-- wp:file {"id":1038,"href":"https://maemariaseteflechas.com.br/wp-content/uploads/2021/02/as-origens-da-umbanda-ii.pdf"} -->
+
 <div class="wp-block-file"><a href="{{ '/assets/images/2021-02-as-origens-da-umbanda-ii.pdf' | relative_url }}">AS ORIGENS DA UMBANDA II</a><a href="{{ '/assets/images/2021-02-as-origens-da-umbanda-ii.pdf' | relative_url }}" class="wp-block-file__button wp-element-button" download>Baixar</a></div>
 <!-- /wp:file -->
 
 <!-- wp:paragraph -->
+
 <p>Mais livros gratuitos do Padrinho Juruá ( Templo Estrela Azul ): <a href="https://teazulsite.wixsite.com/templodaestrelaazul/biblioteca" target="_blank" rel="noopener">https://teazulsite.wixsite.com/templodaestrelaazul/biblioteca</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+
 <p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+
 <p>Abaixo alguns sites e livros que recomendamos por seu conteúdo sério e alinhado com nossa forma de pensar e trabalhar na Umbanda.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
+
 <h2 class="wp-block-heading">Obras básicas de Allan Kardec</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+
 <p><a href="https://www.febnet.org.br/blog/geral/divulgacao/downloads-divulgacao/obras-basicas/" target="_blank" rel="noopener">https://www.febnet.org.br/blog/geral/divulgacao/downloads-divulgacao/obras-basicas/</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+
 <p>Baixa gratuitamente as Obras de Allan Kardec no site da federação espírita brasileira.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+
 <p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->
+
 <h2 class="wp-block-heading">Estudo do Evangelho à Luz do espiritismo</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+
 <p>Recomendamos a todos essa série fantástica a respeito do Evangelho! Um modelo a ser perseguido de estudos! (Clique no canto superior direito para ver a playlist completa!)</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:embed {"url":"https://www.youtube.com/playlist?list=PLRT99VcTrtLQfEuIQNYPJzDkToTpnqmYS","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 https://www.youtube.com/playlist?list=PLRT99VcTrtLQfEuIQNYPJzDkToTpnqmYS
 </div></figure>
 <!-- /wp:embed -->
 
 <!-- wp:heading -->
+
 <h2 class="wp-block-heading">Chico Xavier</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
+
 <p>Desnecessário se faz apresentações, segue lista completa da obra deste estandarte iluminado!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->
+
 <table border="1" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -2608,5 +2636,6 @@ https://www.youtube.com/playlist?list=PLRT99VcTrtLQfEuIQNYPJzDkToTpnqmYS
 <!-- /wp:html -->
 
 <!-- wp:paragraph -->
+
 <p><strong>Categorias:&nbsp;<a href="https://dirceurabelo.wordpress.com/category/doutrina-espirita/" target="_blank" rel="noopener">Doutrina Espírita</a>,&nbsp;<a href="https://dirceurabelo.wordpress.com/category/livros-em-pdf-e-doc/" target="_blank" rel="noopener">Livros em PDF e Doc.</a>,&nbsp;<a href="https://dirceurabelo.wordpress.com/category/repassando/" target="_blank" rel="noopener">Repassando</a>Fonte:&nbsp;<a href="https://dirceurabelo.wordpress.com/2011/12/09/chico-xavier-obra-completa-em-ordem-cronologica/amp/" target="_blank" rel="noopener" target="_blank" rel="noreferrer noopener">Blog do Dirceu Rabelo</a></strong></p>
 <!-- /wp:paragraph -->
