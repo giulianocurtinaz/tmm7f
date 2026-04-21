@@ -3,8 +3,8 @@ backend:
   name: github
   repo: giulianocurtinaz/tmm7f
   branch: main
-  base_url: https://vercel-tawny-eight-63.vercel.app
-  auth_endpoint: auth
+  base_url: https://netlify-cms-oauth-tau-green.vercel.app
+  auth_endpoint: api/auth
 
 media_folder: "assets"
 public_folder: "/assets"
