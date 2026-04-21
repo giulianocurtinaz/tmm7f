@@ -5,7 +5,7 @@ backend:
   repo: giulianocurtinaz/tmm7f
   branch: main
   base_url: https://netlify-cms-oauth-tau-green.vercel.app
-  auth_endpoint: api/auth
+  auth_endpoint: auth
 
 media_folder: "assets"
 public_folder: "/assets"
