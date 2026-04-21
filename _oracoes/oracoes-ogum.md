@@ -50,15 +50,11 @@ Salve Jorge…
 
 **Kátia JC - 19/04/2026**
 
- 
-
 Ogum senhor da guerra faça de mim um guerreiro que enfrenta todos os obstáculos da vida. Que o senhor ampare minha vida me  protegendo e me guiando à luz.  Proteja essa casa porque com sua espada você pode proteger nossa casa de tudo que é tipo de miasma  
 
 Salve ogum
 
 **André JC - 19/04/2026**
-
- 
 
 Salve Pai Ogum 
 
@@ -98,8 +94,6 @@ assim é e assim se fez.
 
 **Aline R 19/04/2026**
 
- 
-
  Jesus, eu confio em vós.
 
 Pai ogum, protetor e meu farol, 
@@ -109,8 +103,6 @@ nunca me abandone na vida,
 para eu poder continuar acreditando em nós.
 
 **Darwin P - 19/04/2026**
-
-  
 
 Minha alma se ajoelha diante de vós,
 
@@ -140,60 +132,87 @@ Ogunhê!
 
 **Solange - 19/04/2026**
 
- 
+Pai Ogum
+
+Há a hora de escutarmos seus conselhos no Terreiro
+
+Há a hora de clamarmos por vossa proteção 
+
+E há a hora de colocarmos em prática o que nos ensina
+
+Vencendo o mal com o bem
+
+Escolhendo o caminho mais difícil que é o caminho correto
+
+Optando por perdoar em vez de julgar
+
+Amar em vez de odiar
+
+De estender a mão em vez de ignorar o próximo
 
 Pai Ogum
-Há a hora de escutarmos seus conselhos no Terreiro
-Há a hora de clamarmos por vossa proteção 
-E Há a hora de colocarmos em prática o que nos ensina
-Vencendo o mal com o bem
-Escolhendo o caminho mais difícil que é o caminho correto
-Optando por perdoar em vez de julgar
-Amar em vez de odiar
-De estender a mão em vez de ignorar o próximo
-Pai Ogum
+
 Quando não estás de guarda em nossas costas
+
 Quando não estás à nossa frente, abrindo o caminho
+
 Sei que está do alto, nos observando
+
 Nos dando a chance de praticar vossos ensinamentos
+
 Cabendo a nós, e tão somente à nos, a escolha consciente do caminho
 
 Da prática do verdadeiro amor
+
 Do auto burilamento
+
 Da prática da caridade para com o familiar e para com o desconhecido
+
 Da luta interna pela expulsão do orgulho, da vaidade, do ódio e da preguiça 
 
 Por isso te peço cavaleiro da esperança
+
 Mesmo quando distante do teu filho
+
 Ora por mim
+
 Pensa em mim
+
 Envia teu amor à nós
+
 Pois somente teu pensamento já é o suficiente para lembrar-nos das mensagens de nosso Mestre Jesus
+
 De ativar nossa verdadeira razão
+
 Nos dando o impulso para atravessarmos o abismo da escuridão de nossos próprios sentimentos pobres e negativos
+
 Ilumina senhor, nosso caminho
+
 Inspira-nos à força
+
 Inspira-nos a coragem de vencermos a luta e vencermos principalmente a nós mesmos
+
 Pai Ogum
+
 Com tua espada vencerei
+
 Com teu escudo, resistirei
+
 Com tua lança, alcançarei
+
 Com tua fé e amor um dia hei também habitar a morada dos bem-aventurados
+
 Saravá Ogum! Saravá Ogunhê!
 
 **Giuliano C - 19/04/2026**
 
- 
-
-Meu pai Ogum, vos que está nos protegendo com a sua espadasempre adiante, guia meus passos me dê coragem, traz oportunidades, trabalhoprosperidade e que nunca falte força para lutar, nos livre da escuridão e leveseus filhos para a glória, trazendo-os para a sua luz e mostrando a verdadeiraumbanda de fé amor e caridade! Peço a proteção sempre para nossa grande famíliaumbandista e muita luz no caminho de todos.
+Meu pai Ogum, vos que está nos protegendo com a sua espada sempre adiante, guia meus passos me dê coragem, traz oportunidades, trabalho prosperidade e que nunca falte força para lutar, nos livre da escuridão e leve seus filhos para a glória, trazendo-os para a sua luz e mostrando a verdadeira umbanda de fé amor e caridade! Peço a proteção sempre para nossa grande família umbandista e muita luz no caminho de todos.
 
 Senhor da luta e da justiça, afasta de mim os inimigos visíveis e invisíveis, que nos impedem de seguir a luz. 
 
 Axé e salve nosso pai Ogum.
 
 **Daniela e Alejandro - 19/04/2026**
-
-
 
 Salve, glorioso Pai Ogum, senhor dos caminhos e das batalhas, a ti elevo minha gratidão sincera por cada estrada aberta diante de mim, por tua presença firme que nunca me abandona, pela coragem que acende meu espírito e pela força que sustenta meus passos.
 
@@ -203,11 +222,7 @@ Permanece, meu Pai, sempre perto de mim e dos meus, amparando, protegendo e fort
 
 Ogunhê! 
 
- 
-
 **Táscilla L - 19/04/2026**
-
- 
 
 “Salve meu Pai Ogum” guerreiro de luz, vencedor de demandas, senhor da força, da coragem, da justiça e da proteção. Com tua espada sagrada, corta de nossos caminhos todo mal, toda inveja, toda negatividade, todo orgulho, egoísmo, medo, ignorância e fraqueza que possam nos afastar do bem, da fé e da Lei Divina.
 
@@ -215,9 +230,9 @@ Pai Ogum, abre nossas estradas. Ilumina nossos passos com teu fogo divino para q
 
 Dá-nos coragem para enfrentar as batalhas do dia a dia. Dá-nos firmeza para não fraquejar diante das dificuldades. Dá-nos sabedoria para transformar dor em aprendizado, medo em força, tristeza em luz, eprovações em crescimento. Protege nossos lares, nossos filhos, nossas famílias, nossos amigos e todos aqueles que caminham na fé.
 
-Faz tua ronda ao nosso redor, guarda-nos nas horas de trabalho e ampara-nos nas horas de descanso. Que tua cavalaria de luz siga ànossa frente, abrindo caminhos onde houver obstáculos, defendendo-nos das forças inferiores e conduzindo-nos com honra, humildade e esperança.
+Faz tua ronda ao nosso redor, guarda-nos nas horas de trabalho e ampara-nos nas horas de descanso. Que tua cavalaria de luz siga à nossa frente, abrindo caminhos onde houver obstáculos, defendendo-nos das forças inferiores e conduzindo-nos com honra, humildade e esperança.
 
-Pai Ogum, que tua espada não seja apenas defesa, mas também instrumento de purificação. Corta em nós tudo aquilo que ainda nos prende à ignorância, à vaidade, à violência, à ganância e à falta de amor. Ensina-nos a vencer sem orgulho, a lutar sem ódio, a servir sem vaidade e a caminhar com fé, disciplina e respeito. Que possamos ser soldados do bem, trabalhadores da luz,firmes na justiça, na caridade e na vontade de Deus.
+Pai Ogum, que tua espada não seja apenas defesa, mas também instrumento de purificação. Corta em nós tudo aquilo que ainda nos prende à ignorância, à vaidade, à violência, à ganância e à falta de amor. Ensina-nos a vencer sem orgulho, a lutar sem ódio, a servir sem vaidade e a caminhar com fé, disciplina e respeito. Que possamos ser soldados do bem, trabalhadores da luz, firmes na justiça, na caridade e na vontade de Deus.
 
 Agradecemos tua presença, tua proteção e teu amparo .Agradecemos pelas batalhas já vencidas e pela força que nos sustenta nas batalhas que ainda virão. 
 
@@ -225,17 +240,11 @@ Salve Ogum guerreiro. Salve sua espada de luz. Salve sua cavalaria. Salve sua fo
 
 Saravá, meu Pai Ogum.
 
- 
-
 **Douglas A - 19/04/2026**
-
- 
 
 Glorioso São Jorge, bravo cavaleiro da fé, e Vós meu Pai Ogum senhor das batalhas da vida .Ogum guerreiro de Aruanda em confio em ti. 
 
 Maria EC - 19/04/2026
-
- 
 
 Orações abaixo foram produzidas em 23 Abril 2023
 
@@ -273,7 +282,7 @@ Esperança e confiança
 
 Ó Pai Ogum, orixá guerreiro, invencível na Fé em Deus, que trazeis em vosso rosto a esperança e confiança,  abra nossos caminhos, protege nos de todos os males, nos dê coragem para enfrentar os problemas do dia a dia, nos defenda de nossos inimigos e de todas as  tentações da matéria.
 
-Pai Ogum que vence as demandas, livrais nos dos males do corpo de alma e nos conduza, com o seu cavalo branco, a presença de nossa mãe Maria e do nosso senhor Jesus. Pai Ogum com a tua espada de ouro corta nosso egoismo e nos proteja na nossa ignorância das vontades de Deus.  Nos ajude a ter sabedoria e lucidez para entender e amar o nosso próximo, como a nos mesmo. Que assim seja!
+Pai Ogum que vence as demandas, livrais nos dos males do corpo de alma e nos conduza, com o seu cavalo branco, a presença de nossa mãe Maria e do nosso senhor Jesus. Pai Ogum com a tua espada de ouro corta nosso egoísmo e nos proteja na nossa ignorância das vontades de Deus.  Nos ajude a ter sabedoria e lucidez para entender e amar o nosso próximo, como a nos mesmo. Que assim seja!
 
 Sol / Abril 23
 
