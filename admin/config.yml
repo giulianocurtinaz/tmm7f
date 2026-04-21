@@ -6,6 +6,7 @@ backend:
   branch: main
   base_url: https://netlify-cms-oauth-tau-green.vercel.app
   auth_endpoint: auth
+  client_id: Ov23liKt0KtKX4iccBn6
 
 media_folder: "assets"
 public_folder: "/assets"
