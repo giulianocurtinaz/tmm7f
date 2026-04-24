@@ -1,9 +1,19 @@
 ---
 layout: post
 title: 22 anos do Terreiro de Ogum da Mata Virgem e Iansã
-date: 2026-04-23T15:35:00.000-03:00
+date: 2026-04-24T15:35:00.000-03:00
 image: /assets/20260423_195315.jpg
 ---
-Ontem fomos visitar a terreira de nossa amiga Suelly Plen e participamos da Festa de Ogum! Hoje, dia 24, esse terreiro iluminado completa 22 anos de muita caridade realizada na rua Rosa Cruz, 400 no bairro Olaria em Canoas/RS! Parabéns a toda a corrente mediúnica dessa casa iluminada!
+Ontem fomos visitar a terreira de nossa amiga Suelly Plen e participamos da Festa de Ogum! Hoje, dia 24, esse terreiro iluminado completa hoje 22 anos de muita caridade realizada na rua Rosa Cruz, 400 no bairro Olaria em Canoas/RS! Parabéns a toda a corrente mediúnica dessa casa iluminada!
 
-![](/assets/20260423_195335.jpg)
+![](/assets/20260423_215630.jpg)
+
+![](/assets/20260423_215623.jpg)
+
+![](/assets/20260423_215614.jpg)
+
+![](/assets/20260423_205330.jpg)
+
+![](/assets/20260423_195733.jpg)
+
+![](/assets/20260423_195705.jpg)
