@@ -1,29 +1,35 @@
 ---
 layout: default
 ---
-<style>
-    .main-content {
-        margin-top: 0px !important;
-        padding-top: 20px !important;
-    }
-</style>
 
-<section>
-    <div class="section-title">
-        <h2><span>{{ page.title }}</span></h2>
+<!-- Cabeçalho elegante da página -->
+<header class="tmm-page-head">
+    <div class="tmm-container">
+        <span class="tmm-page-head__eyebrow">Terreira de Mãe Maria &middot; Sete Flechas</span>
+        <h1 class="tmm-page-head__title">{{ page.title }}</h1>
+        <div class="tmm-divider">&#10022;</div>
     </div>
+</header>
 
-    <div class="article-post">
-        {{content}}
-    </div>
+<!-- Imagem em destaque, se houver -->
+{% if page.image %}
+<div class="tmm-page-feature">
+    <img src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ page.image | relative_url }}{% endif %}"
+         alt="{{ page.title | escape }}" class="tmm-page-feature__img">
+</div>
+{% endif %}
 
-    {% if page.comments == true %}
+<!-- Conteúdo da página -->
+<article class="tmm-page-content">
+    <div class="tmm-container tmm-container--narrow">
+        <div class="article-post">
+            {{ content }}
+        </div>
 
-    <div id="comments" class="row mb-5">
-        <div class="col-md-8">
+        {% if page.comments == true %}
+        <div id="comments" class="tmm-comments">
             {% include disqus.html %}
         </div>
+        {% endif %}
     </div>
-
-    {% endif %}
-</section>
+</article>

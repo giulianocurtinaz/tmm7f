@@ -1,84 +1,267 @@
 ---
-layout: default
-title: Home
+layout: home
+title: Início
+custom_home: true
 ---
 
-{% if page.url == "/" %}
+<!-- ============================================
+     HERO - Apresentação da Terreira
+     ============================================ -->
+<section class="tmm-hero">
+    <div class="tmm-hero__inner">
+        <div class="tmm-hero__content">
+            <div class="tmm-hero__eyebrow">Terreira de Umbanda &middot; Canoas / RS</div>
+            <h1 class="tmm-hero__title">
+                Bem-vindo à <em>Terreira de<br>Mãe Maria</em><br>
+                <span class="tmm-hero__sub">Fraternidade Sete Flechas</span>
+            </h1>
+            <p class="tmm-hero__lead">
+                Casa de caridade espiritual fundada em 24 de março de 2019.
+                Praticamos a Umbanda com amor, fé e simplicidade, ancorados no
+                Evangelho do Cristo e na tradição do Cacique Ubirajara.
+            </p>
 
-<!-- Featured
-================================================== -->
-<section class="featured-posts">
-    <div class="row">
-        {% for post in site.posts limit:1 %}
-        <div class="col-md-12 mb-30px">
-            <h2 class="featured-post-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            <div class="featured-scroll-container">
-                {% if post.image %}
-                <img class="img-fluid w-100 mb-3" src="{{ post.image | relative_url }}" alt="{{ post.title }}">
-                {% endif %}
-                {{ post.content }}
+            <div class="tmm-hero__quote">
+                <p>"Ensinar o homem a orar."</p>
+                <span>&mdash; Caboclo Sete Flechas</span>
+            </div>
+
+            <div class="tmm-hero__ctas">
+                <a href="#sessoes" class="tmm-btn tmm-btn--primary">
+                    <i class="fa-regular fa-calendar"></i> Próximas sessões
+                </a>
+                <a href="{{ '/missao/' | relative_url }}" class="tmm-btn tmm-btn--ghost">
+                    <i class="fa-solid fa-book-open"></i> Conheça nossa missão
+                </a>
             </div>
         </div>
-        {% endfor %}
+        <div class="tmm-hero__visual">
+            <div class="tmm-hero__medallion tmm-hero__medallion--morph">
+                <!-- Galeria com crossfade automático: logo ↔ Cristo -->
+                <img src="{{ '/assets/images/logo-terreira-sete-flechas.svg' | relative_url }}"
+                     alt="Logo da Terreira de Mãe Maria - Fraternidade Sete Flechas"
+                     class="tmm-hero__morph tmm-hero__morph--1"
+                     onerror="this.onerror=null;this.src='{{ '/assets/images/logo-terreira-sete-flechas-NEW.jpg' | relative_url }}'">
+                <img src="{{ '/assets/images/2025-12-jesus-4.png' | relative_url }}"
+                     alt="Cristo"
+                     class="tmm-hero__morph tmm-hero__morph--2"
+                     loading="lazy">
+            </div>
+        </div>
     </div>
 </section>
 
-{% endif %}
+<!-- ============================================
+     INTRODUÇÃO + CARDS DE SEÇÕES PRINCIPAIS
+     ============================================ -->
+<section class="tmm-section tmm-secoes" id="sobre">
+    <div class="tmm-container">
+        <div class="tmm-section__head">
+            <span class="tmm-section__eyebrow">Sobre nossa casa</span>
+            <h2 class="tmm-section__title">Uma casa de <em>caridade espiritual</em></h2>
+            <div class="tmm-divider">&#10022;</div>
+            <p class="tmm-section__lead">
+                A Terreira de Mãe Maria nasceu com a missão de perpetuar o trabalho de
+                caridade espiritual praticando a Umbanda com amor, fé e simplicidade -
+                buscando o aprimoramento moral do médium e da sociedade através do
+                estudo, divulgação e vivência do Evangelho do Cristo.
+            </p>
+        </div>
 
-<!-- Welcome Message
-================================================== -->
-{% assign welcome_content = site.pages | where: "path",
-"pages/bem-vindo-a-terreira-de-mae-maria-fraternidade-sete-flechas.md" | first %}
-{% if welcome_content %}
-<section class="welcome-text" style="margin-bottom: 40px; border-bottom: 1px solid #eee; padding-bottom: 20px;">
-    <h1>{{ welcome_content.title }}</h1>
-    <div class="content">
-        {{ welcome_content.content | markdownify }}
+        <div class="tmm-cards">
+            <a href="{{ '/pontos-cantados/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-music"></i></div>
+                <h3>Pontos Cantados</h3>
+                <p>Acervo completo de pontos de Umbanda com letras e áudios.</p>
+                <span class="tmm-card__count">{{ site.pontos | size }} pontos</span>
+            </a>
+            <a href="{{ '/oracoes/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-hands-praying"></i></div>
+                <h3>Orações</h3>
+                <p>Orações ao Pai, aos Orixás, do rito e devocionais.</p>
+                <span class="tmm-card__count">{{ site.oracoes | size }} coletâneas</span>
+            </a>
+            <a href="{{ '/arvore-genealogica/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-tree"></i></div>
+                <h3>Genealogia</h3>
+                <p>Árvore raiz da Umbanda do Cacique Ubirajara Peito de Aço.</p>
+                <span class="tmm-card__count">Raiz Ubirajara</span>
+            </a>
+            <a href="{{ '/calendario/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-regular fa-calendar-days"></i></div>
+                <h3>Calendário</h3>
+                <p>Sessões públicas e datas comemorativas do ano.</p>
+                <span class="tmm-card__count">Calendário {{ site.time | date: "%Y" }}</span>
+            </a>
+            <a href="{{ '/missao/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-book-bible"></i></div>
+                <h3>Missão</h3>
+                <p>Nossa declaração de missão, visão e valores.</p>
+                <span class="tmm-card__count">Saiba mais</span>
+            </a>
+            <a href="{{ '/amigos-dirigentes/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-people-group"></i></div>
+                <h3>Amigos Dirigentes</h3>
+                <p>Casas e dirigentes irmãos da família Umbandista.</p>
+                <span class="tmm-card__count">Rede de fé</span>
+            </a>
+            <a href="{{ '/nossa-cultura/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-feather-pointed"></i></div>
+                <h3>Nossa Cultura</h3>
+                <p>Resgate dos valores e raízes da nossa tradição umbandista.</p>
+                <span class="tmm-card__count">Pesquisa &amp; raiz</span>
+            </a>
+            <a href="{{ '/links-e-livros/' | relative_url }}" class="tmm-card">
+                <div class="tmm-card__icon"><i class="fa-solid fa-book"></i></div>
+                <h3>Links e Livros</h3>
+                <p>Bibliografia recomendada e materiais para estudo.</p>
+                <span class="tmm-card__count">Para estudar</span>
+            </a>
+        </div>
     </div>
 </section>
-{% endif %}
 
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
+<!-- ============================================
+     PRÓXIMAS SESSÕES
+     ============================================ -->
+<section class="tmm-section tmm-calendario" id="sessoes">
+    <div class="tmm-container">
+        <div class="tmm-section__head">
+            <span class="tmm-section__eyebrow">Encontre-nos</span>
+            <h2 class="tmm-section__title">Próximas <em>sessões</em></h2>
+            <div class="tmm-divider">&#10022;</div>
+        </div>
 
-    <div class="section-title">
+        <div class="tmm-calendario__grid">
+            <aside class="tmm-horario">
+                <h3>Sessão Pública</h3>
+                <div class="tmm-horario__time">Domingos<br>09h</div>
+                <p class="tmm-horario__desc">
+                    Atendimento espiritual aberto a todos. Trazemos o Evangelho do
+                    Cristo antes de cada trabalho.
+                </p>
+                <div class="tmm-horario__addr">
+                    <p><i class="fa-solid fa-location-dot"></i> Rua FAB, 155 (fundos)</p>
+                    <p>Canoas / RS</p>
+                    <a href="https://maps.app.goo.gl/vWPikk9etPMwon3u8" target="_blank" rel="noopener" class="tmm-horario__map">
+                        <i class="fa-solid fa-map"></i> Ver no mapa
+                    </a>
+                </div>
+            </aside>
 
-        <h2><span>Posts</span></h2>
+            <div class="tmm-eventos">
+                <h4><i class="fa-regular fa-calendar"></i> Agenda dos próximos eventos</h4>
 
+                <div class="tmm-eventos__list">
+                    {% assign meses_pt = "Jan,Fev,Mar,Abr,Mai,Jun,Jul,Ago,Set,Out,Nov,Dez" | split: "," %}
+                    {% assign hoje = site.time | date: "%Y-%m-%d" %}
+
+                    {% if site.data.calendario %}
+                        {% assign mostrados = 0 %}
+                        {% for evt in site.data.calendario.eventos %}
+                            {% if evt.data >= hoje and mostrados < 6 %}
+                                {% assign d_arr = evt.data | split: "-" %}
+                                {% assign mes_idx = d_arr[1] | times: 1 | minus: 1 %}
+                                <article class="tmm-evento">
+                                    <div class="tmm-evento__date">
+                                        <span class="dia">{{ d_arr[2] }}</span>
+                                        <span class="mes">{{ meses_pt[mes_idx] }}</span>
+                                    </div>
+                                    <div class="tmm-evento__info">
+                                        <h5>{{ evt.titulo }}</h5>
+                                        <p>{{ evt.descricao | default: "Sessão pública às 9h" }}</p>
+                                        {% if evt.tag %}<span class="tmm-tag">{{ evt.tag }}</span>{% endif %}
+                                    </div>
+                                </article>
+                                {% assign mostrados = mostrados | plus: 1 %}
+                            {% endif %}
+                        {% endfor %}
+                    {% else %}
+                        <p class="tmm-eventos__fallback">
+                            Confira a agenda completa do ano clicando no botão abaixo.
+                        </p>
+                    {% endif %}
+                </div>
+
+                <a href="{{ '/calendario/' | relative_url }}" class="tmm-btn tmm-btn--primary tmm-btn--block">
+                    <i class="fa-regular fa-calendar-days"></i> Ver calendário completo
+                </a>
+            </div>
+        </div>
     </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.posts %}
-
-        {% if post == site.posts.first %}
-        {% continue %}
-        {% endif %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
 </section>
 
+<!-- ============================================
+     CITAÇÃO DE MISSÃO
+     ============================================ -->
+<section class="tmm-citacao">
+    <blockquote>
+        Perpetuar o trabalho de caridade espiritual praticando a Umbanda com amor,
+        fé e simplicidade - buscando com afinco o aprimoramento moral do médium e
+        da sociedade através do estudo, divulgação e vivência do Evangelho do Cristo.
+    </blockquote>
+    <cite>&mdash; Missão da Terreira</cite>
 </section>
 
-<!-- Infinite Scroll Loader -->
-<div id="infinite-scroll-loading" style="display: none; text-align: center; padding: 20px;">
-    <i class="fas fa-spinner fa-spin fa-2x"></i> <span style="margin-left: 10px; font-weight: bold;">Carregando mais
-        ...</span>
-</div>
+<!-- ============================================
+     POSTS RECENTES - Grid Moderno
+     ============================================ -->
+<section class="tmm-section tmm-posts" id="posts">
+    <div class="tmm-container">
+        <div class="tmm-section__head">
+            <span class="tmm-section__eyebrow">Histórico vivo</span>
+            <h2 class="tmm-section__title">Posts <em>recentes</em></h2>
+            <div class="tmm-divider">&#10022;</div>
+            <p class="tmm-section__lead">
+                Acompanhe os relatos, homenagens e momentos marcantes da nossa
+                caminhada espiritual.
+            </p>
+        </div>
 
-<script src="{{ '/assets/js/infinite-scroll.js' | relative_url }}"></script>
+        <div class="tmm-posts__grid">
+            {% for post in site.posts limit: 9 %}
+                <article class="tmm-post">
+                    <a href="{{ post.url | relative_url }}" class="tmm-post__thumb">
+                        {% if post.image %}
+                            {% assign img = post.image %}
+                            {% if img contains "://" %}
+                                <img src="{{ img }}" alt="{{ post.title | escape }}" loading="lazy">
+                            {% else %}
+                                <img src="{{ img | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+                            {% endif %}
+                        {% else %}
+                            <div class="tmm-post__thumb-fallback">
+                                <i class="fa-solid fa-feather-pointed"></i>
+                            </div>
+                        {% endif %}
+                    </a>
+                    <div class="tmm-post__meta">
+                        {% if post.categories.first %}
+                            <span class="tmm-post__cat">{{ post.categories.first }}</span>
+                        {% endif %}
+                        <span class="tmm-post__date">
+                            <i class="fa-regular fa-clock"></i>
+                            {{ post.date | date: "%d %b %Y" }}
+                        </span>
+                    </div>
+                    <div class="tmm-post__body">
+                        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                        <p>{{ post.excerpt | strip_html | truncatewords: 22 }}</p>
+                        <div class="tmm-post__footer">
+                            <a href="{{ post.url | relative_url }}" class="tmm-post__readmore">
+                                Leia mais <i class="fa-solid fa-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </article>
+            {% endfor %}
+        </div>
 
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-    <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-    <span class="navigation" role="navigation">
-        {% include pagination.html %}
-    </span>
-</div>
+        <div class="tmm-posts__more">
+            <a href="{{ '/arquivo/' | relative_url }}" class="tmm-btn tmm-btn--primary">
+                <i class="fa-solid fa-newspaper"></i>
+                Ver todos os {{ site.posts | size }} posts
+            </a>
+        </div>
+    </div>
+</section>

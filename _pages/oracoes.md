@@ -21,7 +21,7 @@ permalink: /oracoes/
 
 <div class="wp-block-columns alignwide has-3-columns">
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-yorima/' | relative_url }}"><img src="{{ '/assets/images/preto275.png' | relative_url }}" alt="" class="wp-image-631" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-yorima/' | relative_url }}"><img src="{{ '/assets/images/2020-05-preto275.png' | relative_url }}" alt="" class="wp-image-631" /></a></figure></div>
 
 <h2 class="has-text-align-left"><a href="{{ '/oracoes-yorima/' | relative_url }}">Yorimá</a></h2>
 
@@ -29,7 +29,7 @@ permalink: /oracoes/
 </div>
 
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-ogum/' | relative_url }}"><img src="{{ '/assets/images/ogum275.png' | relative_url }}" alt="" class="wp-image-632" /></a></figure>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-ogum/' | relative_url }}"><img src="{{ '/assets/images/2020-05-ogum275.png' | relative_url }}" alt="" class="wp-image-632" /></a></figure>
 
 <h2 class="has-text-align-left"><a href="{{ '/oracoes-ogum/' | relative_url }}">Ogum</a></h2>
 
@@ -37,7 +37,7 @@ permalink: /oracoes/
 </div>
 
 <div class="wp-block-column">
-<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-yemanja/' | relative_url }}"><img src="{{ '/assets/images/yemanja275.png' | relative_url }}" alt="" class="wp-image-633" /></a></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><a href="{{ '/oracoes-yemanja/' | relative_url }}"><img src="{{ '/assets/images/2020-05-yemanja275.png' | relative_url }}" alt="" class="wp-image-633" /></a></figure></div>
 
 <h2 class="has-text-align-left"><a href="{{ '/oracoes-yemanja/' | relative_url }}">Yemanjá</a></h2>
 

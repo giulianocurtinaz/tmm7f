@@ -18,7 +18,7 @@ Não poderíamos de listar logo de início o singelo e grandioso livro de nossa 
 
 
 
-[Guia Rápido Umbandista](/assets/images/2021-02-guia-rapido-umbandista.pdf)[Baixar](/assets/images/2021-02-guia-rapido-umbandista.pdf)
+[Guia Rápido Umbandista](/assets/pdf/guia-rapido-umbandista.pdf)[Baixar](/assets/pdf/guia-rapido-umbandista.pdf)
 
 
 
