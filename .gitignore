@@ -1,7 +1,119 @@
+# ============================================================
+#  Terreira de Mae Maria - .gitignore
+#  Jekyll + Ruby + ferramentas de desenvolvimento
+# ============================================================
+
+# === Jekyll ===
 _site/
 .sass-cache/
 .jekyll-cache/
+.jekyll-metadata
+*.gem
+
+# === Ruby / Bundler ===
 .bundle/
 vendor/
-node_modules/
 Gemfile.lock
+
+# === Node (caso use ferramentas auxiliares) ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# === Sistemas operacionais ===
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Linux
+*~
+.directory
+.Trash-*
+
+# === Editores / IDEs ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# === Backups / temporários ===
+*.bak
+*.orig
+*.tmp
+*~
+*.old
+
+# === Logs ===
+*.log
+full_log.txt
+jekyll_log.txt
+
+# === Arquivos sensíveis ===
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# === Outputs / arquivos temporários do projeto ===
+debug_page.html
+download_state.json
+clean_*.js
+fix_*.js
+fix_*.ps1
+migrate_*.js
+migrate_*.ps1
+migrate_*.py
+migrate_*.rb
+rebuild_*.ps1
+regenerate_*.ps1
+restore_*.ps1
+resume_*.ps1
+scrape_*.ps1
+finalize_*.ps1
+force_*.js
+force_*.ps1
+read_excel.js
+recover_audio.js
+identify_missing.js
+import_genealogia.js
+generate_csv.*
+update_categories*.ps1
+verify_categories.ps1
+repair_yaml*.ps1
+clean_yaml.rb
+safe_injector*.js
+organize_site.ps1
+download_and_fix_images.ps1
+final_cleanup.ps1
+fix_jekyll_audio.js
+
+# Notas: estes scripts de manutencao foram usados para preparar o
+# site original e ainda existem na raiz. Como nao sao necessarios
+# pra rodar/desenvolver, ficam ignorados. Se voce realmente
+# precisa de algum deles versionado, remova a linha correspondente.
+
+# === Arquivos enormes legados ===
+meusite.xml
+meusite.zip
+pontos_estruturados_fiel.html
+arvore*.xlsx
+revisao_pontos*.xlsx
+revisao_pontos*.csv
+
+# === Pasta logo (arquivos-fonte CorelDRAW grandes) ===
+# As versoes web (svg/jpg) ja estao em assets/images/
+# Mas se quiser versionar tambem os fontes, comente as linhas abaixo
+logo/*.cdr
+logo/*.wmf
+logo/Thumbs.db*

@@ -1,0 +1,27 @@
+cd C:\Users\Giuliano\Desktop\GIULIANO\TMM7F\wp
+
+# 1) Remove do git (mas mantém no disco) tudo que agora está no .gitignore
+git rm -r --cached _site/
+git rm -r --cached .sass-cache/ 2>$null
+git rm -r --cached node_modules/ 2>$null
+git rm -r --cached logo/Thumbs.db 2>$null
+git rm --cached "logo/Thumbs.db encryptable" 2>$null
+git rm --cached "logo/logo-terreira-sete-flechas.cdr" 2>$null
+git rm --cached "logo/logo-terreira-sete-flechas.wmf" 2>$null
+git rm --cached Gemfile.lock 2>$null
+git rm --cached package-lock.json 2>$null
+git rm --cached debug_page.html 2>$null
+git rm --cached download_state.json 2>$null
+git rm --cached full_log.txt 2>$null
+git rm --cached jekyll_log.txt 2>$null
+git rm --cached meusite.xml 2>$null
+git rm --cached meusite.zip 2>$null
+git rm --cached pontos_estruturados_fiel.html 2>$null
+
+# 2) Verifica o que será removido (NÃO precisa preocupar — os arquivos continuam no seu disco, só saem do git)
+git status
+
+# 3) Commitar a limpeza
+git add .
+git commit -m "Limpa repo: ignora _site, caches, scripts de manutencao, arquivos legados"
+git push origin main
