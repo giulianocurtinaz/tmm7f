@@ -152,36 +152,67 @@ custom_home: true
             <div class="tmm-eventos">
                 <h4><i class="fa-regular fa-calendar"></i> Agenda dos próximos eventos</h4>
 
-                <div class="tmm-eventos__list">
+                <div class="tmm-eventos__list" id="tmm-eventos-list" data-tmm-max="6">
                     {% assign meses_pt = "Jan,Fev,Mar,Abr,Mai,Jun,Jul,Ago,Set,Out,Nov,Dez" | split: "," %}
-                    {% assign hoje = site.time | date: "%Y-%m-%d" %}
 
                     {% if site.data.calendario %}
-                        {% assign mostrados = 0 %}
+                        {% comment %}
+                          Renderizamos TODOS os eventos no HTML; o filtro de "futuro"
+                          e o limite são feitos via JavaScript no carregamento da página
+                          usando a data REAL do visitante (e não a data do build).
+                          Assim o calendário sempre mostra os próximos eventos, mesmo
+                          que o site não tenha sido recompilado hoje.
+                        {% endcomment %}
                         {% for evt in site.data.calendario.eventos %}
-                            {% if evt.data >= hoje and mostrados < 6 %}
-                                {% assign d_arr = evt.data | split: "-" %}
-                                {% assign mes_idx = d_arr[1] | times: 1 | minus: 1 %}
-                                <article class="tmm-evento">
-                                    <div class="tmm-evento__date">
-                                        <span class="dia">{{ d_arr[2] }}</span>
-                                        <span class="mes">{{ meses_pt[mes_idx] }}</span>
-                                    </div>
-                                    <div class="tmm-evento__info">
-                                        <h5>{{ evt.titulo }}</h5>
-                                        <p>{{ evt.descricao | default: "Sessão pública às 9h" }}</p>
-                                        {% if evt.tag %}<span class="tmm-tag">{{ evt.tag }}</span>{% endif %}
-                                    </div>
-                                </article>
-                                {% assign mostrados = mostrados | plus: 1 %}
-                            {% endif %}
+                            {% assign d_arr = evt.data | split: "-" %}
+                            {% assign mes_idx = d_arr[1] | times: 1 | minus: 1 %}
+                            <article class="tmm-evento" data-evt-date="{{ evt.data }}" hidden>
+                                <div class="tmm-evento__date">
+                                    <span class="dia">{{ d_arr[2] }}</span>
+                                    <span class="mes">{{ meses_pt[mes_idx] }}</span>
+                                </div>
+                                <div class="tmm-evento__info">
+                                    <h5>{{ evt.titulo }}</h5>
+                                    <p>{{ evt.descricao | default: "Sessão pública às 9h" }}</p>
+                                    {% if evt.tag %}<span class="tmm-tag">{{ evt.tag }}</span>{% endif %}
+                                </div>
+                            </article>
                         {% endfor %}
+                        <p class="tmm-eventos__fallback" id="tmm-eventos-vazio" hidden>
+                            Não há próximos eventos cadastrados. Confira a agenda completa do ano clicando abaixo.
+                        </p>
                     {% else %}
                         <p class="tmm-eventos__fallback">
                             Confira a agenda completa do ano clicando no botão abaixo.
                         </p>
                     {% endif %}
                 </div>
+
+                <script>
+                    // Filtra eventos passados em tempo real, usando a data do navegador
+                    (function () {
+                        var lista = document.getElementById('tmm-eventos-list');
+                        if (!lista) return;
+                        var max = parseInt(lista.dataset.tmmMax || '6', 10);
+                        // Data de hoje em formato YYYY-MM-DD (fuso local do visitante)
+                        var d = new Date();
+                        var hoje = d.getFullYear() + '-' +
+                                   String(d.getMonth() + 1).padStart(2, '0') + '-' +
+                                   String(d.getDate()).padStart(2, '0');
+                        var eventos = lista.querySelectorAll('.tmm-evento[data-evt-date]');
+                        var mostrados = 0;
+                        eventos.forEach(function (el) {
+                            if (el.dataset.evtDate >= hoje && mostrados < max) {
+                                el.hidden = false;
+                                mostrados++;
+                            }
+                        });
+                        if (mostrados === 0) {
+                            var vazio = document.getElementById('tmm-eventos-vazio');
+                            if (vazio) vazio.hidden = false;
+                        }
+                    })();
+                </script>
 
                 <a href="{{ '/calendario/' | relative_url }}" class="tmm-btn tmm-btn--primary tmm-btn--block">
                     <i class="fa-regular fa-calendar-days"></i> Ver calendário completo
