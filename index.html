@@ -250,7 +250,7 @@ custom_home: true
         </div>
 
         <div class="tmm-posts__grid">
-            {% for post in site.posts limit: 9 %}
+            {% for post in site.posts limit: 15 %}
                 <article class="tmm-post">
                     <a href="{{ post.url | relative_url }}" class="tmm-post__thumb">
                         {% if post.image %}
