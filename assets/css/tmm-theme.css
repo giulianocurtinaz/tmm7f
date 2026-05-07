@@ -1487,6 +1487,391 @@ footer.footer a:hover {
     box-shadow: var(--tmm-sombra-sutil);
 }
 
+/* ============================================================
+   PÁGINA /arquivo/ — índice histórico com busca e filtros
+   ============================================================ */
+
+/* Cabeçalho do arquivo (variação do page-head) */
+.tmm-arquivo__head {
+    padding-bottom: 50px;
+}
+.tmm-arquivo__lead {
+    text-align: center;
+    color: var(--tmm-texto-suave);
+    font-size: 1.05rem;
+    max-width: 720px;
+    margin: 6px auto 28px;
+    font-weight: 300;
+    line-height: 1.6;
+}
+
+/* Estatísticas em destaque */
+.tmm-arquivo__stats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 8px;
+}
+.tmm-stat {
+    text-align: center;
+    padding: 14px 24px;
+    background: rgba(255, 255, 255, .55);
+    border: 1px solid var(--tmm-borda);
+    border-radius: 12px;
+    min-width: 160px;
+    backdrop-filter: blur(4px);
+}
+.tmm-stat strong {
+    display: block;
+    font-family: var(--tmm-serif);
+    font-size: 1.7rem;
+    color: var(--tmm-azul-profundo);
+    font-weight: 600;
+    line-height: 1.1;
+}
+.tmm-stat span {
+    display: block;
+    font-size: .78rem;
+    color: var(--tmm-texto-suave);
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    margin-top: 6px;
+}
+
+/* Section principal */
+.tmm-arquivo {
+    padding: 50px 0 80px;
+    background: var(--tmm-off-white);
+}
+.tmm-arquivo__inner {
+    position: relative;
+}
+
+/* Toolbar (busca + filtros) */
+.tmm-arquivo__toolbar {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin-bottom: 50px;
+    position: sticky;
+    top: 92px;
+    z-index: 10;
+    background: rgba(250, 250, 246, .96);
+    backdrop-filter: blur(8px);
+    padding: 18px 0;
+    border-bottom: 1px solid var(--tmm-borda);
+    margin: 0 -24px 40px;
+    padding: 18px 24px 16px;
+}
+
+/* Caixa de busca */
+.tmm-arquivo__search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    background: #fff;
+    border: 2px solid var(--tmm-borda);
+    border-radius: 50px;
+    padding: 0 18px;
+    transition: border-color .25s, box-shadow .25s;
+    max-width: 600px;
+    margin: 0 auto;
+    width: 100%;
+}
+.tmm-arquivo__search:focus-within {
+    border-color: var(--tmm-verde-folha);
+    box-shadow: 0 0 0 4px rgba(77, 143, 128, .12);
+}
+.tmm-arquivo__search > i {
+    color: var(--tmm-verde-folha);
+    font-size: 1.05rem;
+    margin-right: 10px;
+}
+.tmm-arquivo__search input {
+    flex: 1;
+    border: none;
+    background: transparent;
+    padding: 14px 0;
+    font-size: 1rem;
+    font-family: var(--tmm-sans);
+    color: var(--tmm-texto);
+    outline: none;
+    min-width: 0;
+}
+.tmm-arquivo__search input::placeholder {
+    color: var(--tmm-texto-suave);
+    opacity: .7;
+}
+.tmm-arquivo__search-clear {
+    background: var(--tmm-verde-claro);
+    border: none;
+    color: var(--tmm-verde-copa);
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 8px;
+    transition: all .2s;
+    font-size: .85rem;
+}
+.tmm-arquivo__search-clear:hover {
+    background: var(--tmm-verde-folha);
+    color: #fff;
+}
+
+/* Filtros por ano (botões pill) */
+.tmm-arquivo__filters {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+.tmm-filter-btn {
+    background: #fff;
+    border: 1.5px solid var(--tmm-borda);
+    color: var(--tmm-texto-suave);
+    padding: 8px 16px;
+    border-radius: 50px;
+    font-size: .88rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all .25s;
+    font-family: var(--tmm-sans);
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+}
+.tmm-filter-btn:hover {
+    border-color: var(--tmm-verde-musgo);
+    color: var(--tmm-verde-copa);
+    transform: translateY(-1px);
+}
+.tmm-filter-btn.is-active {
+    background: var(--tmm-verde-folha);
+    border-color: var(--tmm-verde-folha);
+    color: #fff;
+    box-shadow: 0 4px 14px rgba(77, 143, 128, .3);
+}
+.tmm-filter-btn.is-active .tmm-filter-count {
+    background: rgba(255, 255, 255, .25);
+    color: #fff;
+}
+.tmm-filter-count {
+    background: var(--tmm-verde-claro);
+    color: var(--tmm-verde-copa);
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-size: .72rem;
+    font-weight: 700;
+    min-width: 22px;
+    text-align: center;
+}
+
+/* Mensagem "sem resultados" */
+.tmm-arquivo__empty {
+    text-align: center;
+    color: var(--tmm-texto-suave);
+    padding: 60px 24px;
+    font-style: italic;
+    font-size: 1.05rem;
+}
+.tmm-arquivo__empty i {
+    font-size: 2rem;
+    color: var(--tmm-verde-musgo);
+    display: block;
+    margin-bottom: 12px;
+}
+
+/* Lista agrupada por ano */
+.tmm-arquivo__list {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.tmm-arquivo__year {
+    /* hidden via [hidden] attr */
+}
+.tmm-arquivo__year-title {
+    font-family: var(--tmm-serif);
+    font-size: 2.2rem;
+    color: var(--tmm-azul-profundo);
+    margin: 0 0 24px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid var(--tmm-verde-claro);
+    display: flex;
+    align-items: baseline;
+    gap: 14px;
+    font-weight: 600;
+}
+.tmm-arquivo__year-title small {
+    font-size: .82rem;
+    color: var(--tmm-verde-folha);
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: var(--tmm-sans);
+}
+
+/* Grid de cards */
+.tmm-arquivo__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 18px;
+}
+
+/* Card individual */
+.tmm-arquivo__card {
+    background: #fff;
+    border: 1px solid var(--tmm-borda);
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all .3s;
+    position: relative;
+}
+.tmm-arquivo__card::before {
+    content: "";
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 4px;
+    background: var(--tmm-verde-folha);
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: transform .3s;
+}
+.tmm-arquivo__card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--tmm-sombra-card);
+    border-color: var(--tmm-verde-musgo);
+}
+.tmm-arquivo__card:hover::before {
+    transform: scaleY(1);
+}
+.tmm-arquivo__card-link {
+    display: flex;
+    gap: 16px;
+    padding: 18px 20px;
+    text-decoration: none !important;
+    color: inherit;
+    height: 100%;
+}
+
+/* Bloco de data (calendário) */
+.tmm-arquivo__date {
+    flex-shrink: 0;
+    width: 60px;
+    text-align: center;
+    background: var(--tmm-verde-claro);
+    border: 1px solid var(--tmm-borda);
+    border-radius: 10px;
+    padding: 8px 6px;
+    align-self: flex-start;
+}
+.tmm-arquivo__date .dia {
+    display: block;
+    font-family: var(--tmm-serif);
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: var(--tmm-azul-profundo);
+    line-height: 1;
+}
+.tmm-arquivo__date .mes {
+    display: block;
+    font-size: .68rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    color: var(--tmm-verde-folha);
+    margin-top: 4px;
+    font-weight: 700;
+}
+
+/* Corpo do card */
+.tmm-arquivo__body {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+}
+.tmm-arquivo__body h3 {
+    font-family: var(--tmm-serif);
+    font-size: 1.18rem;
+    color: var(--tmm-azul-profundo);
+    margin: 0 0 8px;
+    line-height: 1.3;
+    font-weight: 600;
+    transition: color .25s;
+}
+.tmm-arquivo__card:hover .tmm-arquivo__body h3 {
+    color: var(--tmm-verde-folha);
+}
+.tmm-arquivo__body p {
+    color: var(--tmm-texto-suave);
+    font-size: .9rem;
+    line-height: 1.55;
+    margin: 0 0 12px;
+    flex: 1;
+    /* Limita a 3 linhas */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.tmm-arquivo__readmore {
+    color: var(--tmm-verde-folha);
+    font-size: .85rem;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    transition: gap .25s;
+    margin-top: auto;
+}
+.tmm-arquivo__card:hover .tmm-arquivo__readmore {
+    gap: 10px;
+    color: var(--tmm-verde-copa);
+}
+
+/* Botão "voltar ao topo" flutuante */
+.tmm-arquivo__top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    background: var(--tmm-verde-folha);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 6px 20px rgba(77, 143, 128, .4);
+    transition: all .25s;
+    z-index: 50;
+    font-size: 1.05rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tmm-arquivo__top:hover {
+    background: var(--tmm-verde-copa);
+    transform: translateY(-3px);
+    box-shadow: 0 10px 26px rgba(77, 143, 128, .55);
+}
+
+/* ===== RESPONSIVO ===== */
+@media (max-width: 768px) {
+    .tmm-arquivo__stats { gap: 14px; }
+    .tmm-stat { padding: 10px 18px; min-width: 130px; }
+    .tmm-stat strong { font-size: 1.35rem; }
+    .tmm-arquivo__year-title { font-size: 1.7rem; }
+    .tmm-arquivo__grid { grid-template-columns: 1fr; }
+    .tmm-arquivo__toolbar { position: relative; top: auto; }
+    .tmm-arquivo__top { bottom: 20px; right: 20px; width: 44px; height: 44px; }
+}
+
 /* ===== RESPONSIVO ===== */
 @media (max-width: 992px) {
     .tmm-hero__inner {
