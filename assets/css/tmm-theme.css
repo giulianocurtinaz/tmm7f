@@ -1488,6 +1488,240 @@ footer.footer a:hover {
 }
 
 /* ============================================================
+   BUSCA LUNR — caixinha no navbar + overlay de resultados
+   ============================================================ */
+
+/* Caixa de busca no navbar */
+.tmm-navsearch {
+    margin: 0 0 0 8px;
+    display: flex;
+    align-items: center;
+}
+.tmm-navsearch__input {
+    border: 1.5px solid var(--tmm-borda);
+    border-radius: 50px;
+    padding: 8px 16px 8px 36px;
+    font-size: .9rem;
+    background-color: #fff;
+    background-image: url("data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234d8f80' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cline x1='21' y1='21' x2='16.5' y2='16.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 12px center;
+    background-size: 16px;
+    width: 200px;
+    color: var(--tmm-texto);
+    transition: all .25s;
+    outline: none;
+    font-family: var(--tmm-sans);
+}
+.tmm-navsearch__input:focus {
+    border-color: var(--tmm-verde-folha);
+    box-shadow: 0 0 0 4px rgba(77, 143, 128, .12);
+    width: 260px;
+}
+.tmm-navsearch__input::placeholder {
+    color: var(--tmm-texto-suave);
+    opacity: .8;
+}
+
+/* Overlay de resultados — viewport inteira, fundo escuro semi-transparente */
+#lunrsearchresults {
+    position: fixed !important;
+    inset: 0;
+    background: rgba(20, 42, 32, .75);
+    backdrop-filter: blur(6px);
+    z-index: 9999;
+    overflow-y: auto;
+    padding: 60px 20px;
+    display: none;
+}
+#lunrsearchresults > ul {
+    /* Lista vazia inicial — escondida */
+    display: none;
+}
+
+/* O modal interno — card branco centralizado */
+#lunrsearchresults .modal {
+    position: static !important;
+    display: block !important;
+    background: transparent !important;
+    margin: 0 auto;
+    max-width: 720px;
+    padding: 0 !important;
+    width: 100%;
+    height: auto !important;
+    overflow: visible !important;
+}
+#lunrsearchresults .modal-dialog {
+    margin: 0 auto;
+    max-width: 720px;
+    pointer-events: auto;
+}
+#lunrsearchresults .modal-content {
+    background: #fff;
+    border-radius: 16px !important;
+    border: 1px solid var(--tmm-borda) !important;
+    box-shadow: 0 25px 60px rgba(0, 0, 0, .35) !important;
+    overflow: hidden;
+}
+
+/* Cabeçalho do modal */
+#lunrsearchresults .modal-header {
+    background: linear-gradient(135deg, var(--tmm-verde-floresta), var(--tmm-verde-copa)) !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 18px 24px !important;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+#lunrsearchresults .modal-header h5,
+#lunrsearchresults .modal-title {
+    font-family: var(--tmm-serif) !important;
+    font-size: 1.2rem !important;
+    color: #fff !important;
+    margin: 0 !important;
+    font-weight: 500;
+}
+#lunrsearchresults .modal-header .close,
+#lunrsearchresults .modal-header #btnx {
+    background: rgba(255, 255, 255, .2) !important;
+    color: #fff !important;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: none !important;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 1.4rem;
+    line-height: 1;
+    margin-left: auto !important;
+    opacity: 1 !important;
+    text-shadow: none !important;
+    padding: 0;
+    transition: background .2s;
+}
+#lunrsearchresults .modal-header .close:hover,
+#lunrsearchresults .modal-header #btnx:hover {
+    background: rgba(255, 255, 255, .35) !important;
+}
+
+/* Corpo do modal — área de resultados rolável */
+#lunrsearchresults .modal-body {
+    padding: 0 !important;
+    max-height: 60vh;
+    overflow-y: auto;
+    background: var(--tmm-off-white);
+}
+#lunrsearchresults .modal-body ul {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Item de resultado individual */
+#lunrsearchresults .lunrsearchresult {
+    border-bottom: 1px solid var(--tmm-borda);
+    padding: 0 !important;
+    margin: 0 !important;
+    transition: background .2s;
+}
+#lunrsearchresults .lunrsearchresult:last-child {
+    border-bottom: none;
+}
+#lunrsearchresults .lunrsearchresult:hover {
+    background: var(--tmm-verde-claro);
+}
+#lunrsearchresults .lunrsearchresult a {
+    display: block;
+    padding: 14px 24px !important;
+    color: var(--tmm-texto) !important;
+    text-decoration: none !important;
+}
+#lunrsearchresults .lunrsearchresult .title {
+    color: var(--tmm-azul-profundo) !important;
+    font-family: var(--tmm-serif);
+    font-size: 1.05rem;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 4px;
+}
+#lunrsearchresults .lunrsearchresult:hover .title {
+    color: var(--tmm-verde-folha) !important;
+    text-decoration: none !important;
+}
+#lunrsearchresults .lunrsearchresult .body {
+    color: var(--tmm-texto-suave);
+    font-size: .88rem;
+    line-height: 1.5;
+    display: block;
+    margin: 4px 0;
+}
+#lunrsearchresults .lunrsearchresult .url {
+    color: var(--tmm-verde-folha) !important;
+    font-size: .75rem;
+    font-family: monospace;
+    display: block;
+    margin-top: 4px;
+    opacity: .7;
+}
+
+/* Quando não há resultados */
+#lunrsearchresults .lunrsearchresult:only-child:not(:has(a)) {
+    padding: 30px !important;
+    text-align: center;
+    font-style: italic;
+    color: var(--tmm-texto-suave);
+}
+
+/* Rodapé do modal */
+#lunrsearchresults .modal-footer {
+    background: #fff !important;
+    border-top: 1px solid var(--tmm-borda) !important;
+    padding: 14px 24px !important;
+    justify-content: flex-end;
+}
+#lunrsearchresults .modal-footer .btn,
+#lunrsearchresults .modal-footer #btnx {
+    background: var(--tmm-verde-folha) !important;
+    color: #fff !important;
+    border: none !important;
+    padding: 8px 22px !important;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    font-size: .88rem !important;
+    cursor: pointer;
+    transition: all .25s;
+}
+#lunrsearchresults .modal-footer .btn:hover,
+#lunrsearchresults .modal-footer #btnx:hover {
+    background: var(--tmm-verde-copa) !important;
+    color: #fff !important;
+}
+
+/* Responsivo: caixa de busca no navbar mobile */
+@media (max-width: 1199px) {
+    .tmm-navsearch {
+        margin: 14px 0 0;
+        width: 100%;
+    }
+    .tmm-navsearch__input {
+        width: 100%;
+    }
+    .tmm-navsearch__input:focus {
+        width: 100%;
+    }
+}
+@media (max-width: 600px) {
+    #lunrsearchresults {
+        padding: 30px 12px;
+    }
+    #lunrsearchresults .modal-header { padding: 14px 18px !important; }
+    #lunrsearchresults .lunrsearchresult a { padding: 12px 18px !important; }
+}
+
+/* ============================================================
    PÁGINA /arquivo/ — índice histórico com busca e filtros
    ============================================================ */
 

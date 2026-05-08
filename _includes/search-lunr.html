@@ -86,13 +86,48 @@
 </style>
 
 
-<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value=""
-            placeholder="Search via Lunr.js..." /></p>
+<form class="tmm-navsearch" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="search" class="form-control tmm-navsearch__input" id="lunrsearch" name="q" maxlength="255" value=""
+            placeholder="Buscar no site..." aria-label="Buscar no site">
 </form>
 <div id="lunrsearchresults">
     <ul></ul>
 </div>
 
 <script src="{{ '/assets/js/lunrsearchengine.js' | relative_url }}"></script>
+
+<script>
+/* Move o painel de resultados pra fora do navbar — assim o modal abre
+   sobre a página inteira, não fica preso dentro da barra de cima. */
+(function () {
+    function detach() {
+        var el = document.getElementById('lunrsearchresults');
+        if (el && el.parentNode !== document.body) {
+            document.body.appendChild(el);
+        }
+    }
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', detach);
+    } else {
+        detach();
+    }
+
+    /* Fechar busca: ESC fecha, clique no fundo fecha */
+    document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape') {
+            var box = document.getElementById('lunrsearchresults');
+            if (box && box.style.display !== 'none' && box.innerHTML.indexOf('resultsmodal') !== -1) {
+                box.style.display = 'none';
+                document.body.classList.remove('modal-open');
+            }
+        }
+    });
+    document.addEventListener('click', function (e) {
+        if (e.target && e.target.id === 'lunrsearchresults') {
+            e.target.style.display = 'none';
+            document.body.classList.remove('modal-open');
+        }
+    });
+})();
+</script>
 ```
