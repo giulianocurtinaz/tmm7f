@@ -87,6 +87,10 @@
                 var dateObj = new Date(date);
                 var dateStr = isNaN(dateObj.getTime()) ? "" : dateObj.toLocaleDateString('pt-BR');
 
+                var rawBody = entry.getIn(['data', 'body']) || '';
+                var excerpt = rawBody.replace(/[#_*~`>]/g, '').trim().substring(0, 140);
+                if (rawBody.length > 140) excerpt += '...';
+
                 var galleryHtml = "";
                 if (gallery) {
                     var galleryItems = gallery.map(function(item, index) {
@@ -110,7 +114,7 @@
                         image ? h('img', { src: this.props.getAsset(image).toString(), style: { width: '100%', height: '200px', objectFit: 'cover' } }) : null,
                         h('div', { style: { padding: '20px' } },
                             h('h3', { style: { fontFamily: 'var(--tmm-serif)', fontSize: '1.3rem', margin: '0 0 10px', color: 'var(--tmm-marrom-escuro)', lineHeight: '1.3' } }, title),
-                            h('p', { style: { fontSize: '0.9rem', color: 'var(--tmm-texto-suave)', lineHeight: '1.6' } }, "O início do seu texto aparecerá aqui como um resumo para chamar a atenção do leitor.")
+                            h('p', { style: { fontSize: '0.9rem', color: 'var(--tmm-texto-suave)', lineHeight: '1.6' } }, excerpt || "Escreva o conteúdo do post para ver o resumo aqui.")
                         )
                     ),
 
