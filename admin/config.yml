@@ -81,6 +81,13 @@ collections:
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Data", name: "date", widget: "datetime"}
       - {label: "Imagem de Capa", name: "image", widget: "image", required: false}
+      - label: "Galeria de Imagens (Adicione várias fotos)"
+        name: "gallery"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Imagem", name: "image", widget: "image"}
+          - {label: "Legenda (Opcional)", name: "caption", widget: "string", required: false}
       - {label: "Conteúdo", name: "body", widget: "markdown"}
 
   - name: "genealogia"

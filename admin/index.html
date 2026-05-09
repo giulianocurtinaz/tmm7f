@@ -20,6 +20,120 @@
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 
 
+    <script>
+        // Registrar estilos do site no painel CMS
+        CMS.registerPreviewStyle("/assets/css/tmm-theme.css");
+
+        // Custom Widget: YouTube Video
+        CMS.registerEditorComponent({
+            id: "youtube",
+            label: "Vídeo do YouTube",
+            fields: [{name: "id", label: "ID do Vídeo (Ex: dQw4w9WgXcQ)", widget: "string"}],
+            pattern: /^<div class="video-container".*?youtube\.com\/embed\/(\S+)".*?<\/div>$/,
+            fromBlock: function(match) {
+                return { id: match[1] };
+            },
+            toBlock: function(obj) {
+                return (
+                    '<div class="video-container" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 12px; margin: 20px 0;">\n' +
+                    '  <iframe src="https://www.youtube.com/embed/' + obj.id + '" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>\n' +
+                    '</div>'
+                );
+            },
+            toPreview: function(obj) { return this.toBlock(obj); }
+        });
+
+        // Custom Widget: Vídeo Local
+        CMS.registerEditorComponent({
+            id: "local_video",
+            label: "Vídeo Local",
+            fields: [{name: "url", label: "Selecione o arquivo MP4", widget: "file"}],
+            pattern: /^<video controls src="(.*?)".*?<\/video>$/,
+            fromBlock: function(match) { return { url: match[1] }; },
+            toBlock: function(obj) {
+                return '<video controls src="' + obj.url + '" style="width: 100%; border-radius: 8px; margin: 20px 0;"></video>';
+            },
+            toPreview: function(obj) { return this.toBlock(obj); }
+        });
+
+        // Custom Widget: Caixa de Destaque
+        CMS.registerEditorComponent({
+            id: "destaque",
+            label: "Caixa de Destaque",
+            fields: [
+                {name: "texto", label: "Texto em Destaque", widget: "text"},
+                {name: "cor", label: "Cor de Fundo", widget: "select", options: ["var(--tmm-creme)", "var(--tmm-verde-claro)", "var(--tmm-dourado)", "#f8d7da"]}
+            ],
+            pattern: /^<div class="tmm-destaque" style="background: (.*?);.*?>(.*?)<\/div>$/ms,
+            fromBlock: function(match) {
+                return { cor: match[1], texto: match[2] };
+            },
+            toBlock: function(obj) {
+                return '<div class="tmm-destaque" style="background: ' + obj.cor + '; padding: 20px; border-radius: 8px; border-left: 4px solid var(--tmm-verde-folha); margin: 20px 0; font-style: italic;">\n' + obj.texto + '\n</div>';
+            },
+            toPreview: function(obj) { return this.toBlock(obj); }
+        });
+
+        // Template Customizado de Pré-visualização para "Posts"
+        var PostPreview = createClass({
+            render: function() {
+                var entry = this.props.entry;
+                var title = entry.getIn(['data', 'title']);
+                var date = entry.getIn(['data', 'date']);
+                var image = entry.getIn(['data', 'image']);
+                var body = this.props.widgetFor('body');
+                var gallery = entry.getIn(['data', 'gallery']);
+
+                var dateObj = new Date(date);
+                var dateStr = isNaN(dateObj.getTime()) ? "" : dateObj.toLocaleDateString('pt-BR');
+
+                var galleryHtml = "";
+                if (gallery) {
+                    var galleryItems = gallery.map(function(item, index) {
+                        return h('figure', { key: index, style: { margin: 0 } },
+                            h('img', { src: this.props.getAsset(item.get('image')).toString(), style: { width: '100%', borderRadius: '8px', display: 'block', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' } }),
+                            item.get('caption') ? h('figcaption', { style: { textAlign: 'center', fontSize: '0.85em', color: '#666', marginTop: '8px', fontStyle: 'italic' } }, item.get('caption')) : null
+                        );
+                    }.bind(this));
+                    
+                    galleryHtml = h('div', { className: 'tmm-post-gallery', style: { marginTop: '40px', paddingTop: '20px', borderTop: '1px solid var(--tmm-borda)' } },
+                        h('h3', { style: { fontFamily: 'var(--tmm-serif)', color: 'var(--tmm-azul-profundo)', marginBottom: '20px' } }, "Galeria de Imagens"),
+                        h('div', { style: { display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '20px' } }, galleryItems)
+                    );
+                }
+
+                return h('div', { style: { display: 'flex', gap: '40px', padding: '40px', background: 'var(--tmm-creme)', alignItems: 'flex-start', fontFamily: 'var(--tmm-sans)' } },
+                    
+                    // Card Lateral (Miniatura na Home)
+                    h('div', { style: { width: '320px', flexShrink: 0, background: '#fff', borderRadius: '14px', overflow: 'hidden', border: '1px solid var(--tmm-borda)', boxShadow: '0 4px 12px rgba(0,0,0,0.05)', position: 'sticky', top: '20px' } },
+                        h('div', { style: { padding: '10px', background: 'var(--tmm-verde-folha)', color: '#fff', fontSize: '0.85rem', fontWeight: 'bold', textAlign: 'center', textTransform: 'uppercase', letterSpacing: '1px' } }, "Como ficará na Página Inicial"),
+                        image ? h('img', { src: this.props.getAsset(image).toString(), style: { width: '100%', height: '200px', objectFit: 'cover' } }) : null,
+                        h('div', { style: { padding: '20px' } },
+                            h('h3', { style: { fontFamily: 'var(--tmm-serif)', fontSize: '1.3rem', margin: '0 0 10px', color: 'var(--tmm-marrom-escuro)', lineHeight: '1.3' } }, title),
+                            h('p', { style: { fontSize: '0.9rem', color: 'var(--tmm-texto-suave)', lineHeight: '1.6' } }, "O início do seu texto aparecerá aqui como um resumo para chamar a atenção do leitor.")
+                        )
+                    ),
+
+                    // Post Completo (Preview Real)
+                    h('div', { style: { flex: 1, background: 'var(--tmm-off-white)', borderRadius: '16px', overflow: 'hidden', boxShadow: 'var(--tmm-sombra-card)', maxWidth: '900px' } },
+                        h('header', { className: 'tmm-page-head', style: { padding: '40px 24px', textAlign: 'center', borderBottom: '1px solid var(--tmm-borda)', background: 'linear-gradient(160deg, var(--tmm-verde-claro) 0%, var(--tmm-off-white) 100%)' } },
+                            h('h1', { className: 'tmm-page-head__title', style: { fontSize: '2.4rem', fontFamily: 'var(--tmm-serif)', color: 'var(--tmm-azul-profundo)' } }, title),
+                            h('div', { className: 'tmm-post-meta', style: { marginTop: '14px', color: 'var(--tmm-texto-suave)', fontSize: '0.9rem' } }, dateStr)
+                        ),
+                        image ? h('div', { className: 'tmm-page-feature', style: { margin: '-20px auto 0', maxWidth: '800px', padding: '0 20px' } },
+                            h('img', { src: this.props.getAsset(image).toString(), className: 'tmm-page-feature__img', style: { width: '100%', borderRadius: '16px', boxShadow: '0 10px 30px rgba(0,0,0,0.1)' } })
+                        ) : null,
+                        h('div', { className: 'tmm-page-content', style: { padding: '40px' } },
+                            h('div', { className: 'article-post', style: { fontSize: '1.05rem', lineHeight: '1.85', color: 'var(--tmm-texto)' } }, body),
+                            galleryHtml
+                        )
+                    )
+                );
+            }
+        });
+
+        CMS.registerPreviewTemplate("posts", PostPreview);
+    </script>
 </body>
 
 </html>
