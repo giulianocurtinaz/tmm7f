@@ -74,6 +74,64 @@ permalink: /pontos-cantados/
     .filter-nav { flex-direction: row; flex-wrap: wrap; justify-content: center; }
   }
 
+  /* Filtro Flutuante (Mobile) */
+  .floating-filter-container {
+    position: fixed;
+    bottom: 30px;
+    left: 30px;
+    z-index: 9998;
+    display: none; /* Escondido por padrão na web e quando no topo */
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  @media (max-width: 768px) {
+    .floating-filter-container.visible {
+      display: flex;
+    }
+    .floating-filter-container {
+      bottom: 15px;
+      left: 15px;
+    }
+  }
+
+  .floating-filter-toggle {
+    background: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: transform 0.3s, background 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .floating-filter-toggle:hover {
+    transform: scale(1.05);
+    background: #0b7dda;
+  }
+  .floating-filter-panel {
+    background: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    width: 280px;
+    max-height: 60vh;
+    overflow-y: auto;
+    border: 1px solid #2196F3;
+    margin-bottom: 15px;
+    display: none;
+  }
+  @media (max-width: 768px) {
+    .floating-filter-panel {
+      width: calc(100vw - 30px);
+      max-width: 320px;
+    }
+  }
+
   /* Buscador Flutuante Colapsável */
   .floating-search-container {
     position: fixed;
@@ -144,6 +202,9 @@ permalink: /pontos-cantados/
     </nav>
   </aside>
 
+  <!-- Sentinel element to trigger floating filter on mobile -->
+  <div id="filter-sentinel"></div>
+
   <main class="content-points">
 
 <div class="lista-pontos">
@@ -198,7 +259,49 @@ permalink: /pontos-cantados/
   </button>
 </div>
 
+<!-- Filtro de Categorias Flutuante (Mobile) -->
+<div class="floating-filter-container" id="floatingFilterContainer">
+  <div class="floating-filter-panel" id="filterCategoryPanel">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 2px solid #2196F3; padding-bottom: 10px;">
+      <h3 style="margin: 0; font-size: 1.1em; color: #2196F3;">Categorias</h3>
+      <button onclick="toggleFilterCategory()" style="background: none; border: none; font-size: 1.5em; cursor: pointer; color: #888; padding: 0; line-height: 1;">&times;</button>
+    </div>
+    <nav class="filter-nav" id="floating-filter-nav">
+      <!-- Injetado dinamicamente via JS -->
+    </nav>
+  </div>
+  <button class="floating-filter-toggle" onclick="toggleFilterCategory()" aria-label="Abrir filtros">
+    <i class="fa-solid fa-list"></i>
+  </button>
+</div>
+
 <script>
+document.addEventListener("DOMContentLoaded", function() {
+    // Clonar as categorias para o painel flutuante
+    const originalNav = document.querySelector('.sidebar-filter .filter-nav');
+    const floatingNav = document.getElementById('floating-filter-nav');
+    if (originalNav && floatingNav) {
+        floatingNav.innerHTML = originalNav.innerHTML;
+    }
+
+    // Usar IntersectionObserver para mostrar/esconder o botão no mobile
+    const sentinel = document.getElementById('filter-sentinel');
+    const floatingBtnContainer = document.getElementById('floatingFilterContainer');
+    
+    if ('IntersectionObserver' in window && sentinel && floatingBtnContainer) {
+        const observer = new IntersectionObserver(entries => {
+            // Quando o sentinela não estiver visível E a tela rolou para baixo dele
+            if(entries[0].intersectionRatio === 0 && entries[0].boundingClientRect.top < 0) {
+                floatingBtnContainer.classList.add('visible');
+            } else {
+                floatingBtnContainer.classList.remove('visible');
+                document.getElementById('filterCategoryPanel').style.display = 'none'; // Fecha caso esteja aberto
+            }
+        });
+        observer.observe(sentinel);
+    }
+});
+
 function toggleSearch() {
   const panel = document.getElementById('searchPanel');
   if (panel.style.display === 'block') {
@@ -221,10 +324,24 @@ function findText(forward) {
   }
 }
 
+function toggleFilterCategory() {
+  const panel = document.getElementById('filterCategoryPanel');
+  if (panel.style.display === 'block') {
+    panel.style.display = 'none';
+  } else {
+    panel.style.display = 'block';
+  }
+}
+
 function filterPoints(category, btn) {
-  // Atualiza classe ativa
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
+  // Sincroniza a classe ativa em ambos os menus (o principal e o flutuante)
+  document.querySelectorAll('.filter-btn').forEach(b => {
+    b.classList.remove('active');
+    // Verifica se o onclick desse botão contém a mesma categoria
+    if(b.getAttribute('onclick') && b.getAttribute('onclick').includes("'" + category + "'")) {
+        b.classList.add('active');
+    }
+  });
 
   const points = document.querySelectorAll('.ponto-cantado');
   
@@ -249,9 +366,15 @@ function filterPoints(category, btn) {
      const content = document.querySelector('.content-points');
      if(content) {
         setTimeout(() => {
-            content.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            // Scroll considerando uma pequena folga para não esconder o topo atrás de algum header
+            const yOffset = -20; 
+            const y = content.getBoundingClientRect().top + window.pageYOffset + yOffset;
+            window.scrollTo({top: y, behavior: 'smooth'});
         }, 50);
      }
+     // Fecha o painel flutuante após selecionar no celular
+     const panel = document.getElementById('filterCategoryPanel');
+     if (panel) panel.style.display = 'none';
   }
 }
 </script>
