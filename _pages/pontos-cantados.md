@@ -74,30 +74,49 @@ permalink: /pontos-cantados/
     .filter-nav { flex-direction: row; flex-wrap: wrap; justify-content: center; }
   }
 
-  /* Buscador Flutuante */
-  .floating-search {
+  /* Buscador Flutuante Colapsável */
+  .floating-search-container {
     position: fixed;
     bottom: 30px;
     right: 30px;
+    z-index: 9999;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  .floating-search-toggle {
+    background: var(--tmm-verde-folha);
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+    transition: transform 0.3s, background 0.3s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .floating-search-toggle:hover {
+    transform: scale(1.05);
+    background: var(--tmm-verde-copa);
+  }
+  .floating-search-panel {
     background: #fff;
     padding: 15px;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-    z-index: 9999;
     width: 280px;
     border: 1px solid var(--tmm-verde-folha);
-  }
-  .floating-search h3 {
-    margin-top: 0;
-    font-size: 1.1em;
-    color: var(--tmm-azul-profundo);
-    margin-bottom: 10px;
+    margin-bottom: 15px;
+    display: none; /* Escondido por padrão */
   }
   @media (max-width: 768px) {
-    .floating-search {
+    .floating-search-container {
       bottom: 15px;
       right: 15px;
-      width: calc(100% - 30px);
     }
   }
 </style>
@@ -161,17 +180,36 @@ permalink: /pontos-cantados/
   </main>
 </div>
 
-<!-- Buscador Flutuante -->
-<div class="floating-search">
-  <h3>🔍 Buscar Ponto</h3>
-  <input type="text" id="searchInput" placeholder="Digite uma palavra..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 10px; font-size: 0.95em;">
-  <div style="display: flex; gap: 8px;">
-    <button onclick="findText(false)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px; background: #f0f0f0;">⬅️ Voltar</button>
-    <button onclick="findText(true)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px; background: var(--tmm-verde-folha); color: white;">Avançar ➡️</button>
+<!-- Buscador Flutuante Colapsável -->
+<div class="floating-search-container">
+  <div class="floating-search-panel" id="searchPanel">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+      <h3 style="margin: 0; font-size: 1.1em; color: var(--tmm-azul-profundo);">Buscar Ponto</h3>
+      <button onclick="toggleSearch()" style="background: none; border: none; font-size: 1.5em; cursor: pointer; color: #888; padding: 0; line-height: 1;">&times;</button>
+    </div>
+    <input type="text" id="searchInput" placeholder="Digite uma palavra..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 10px; font-size: 0.95em;">
+    <div style="display: flex; gap: 8px;">
+      <button onclick="findText(false)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px; background: #f0f0f0;">⬅️ Voltar</button>
+      <button onclick="findText(true)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px; background: var(--tmm-verde-folha); color: white;">Avançar ➡️</button>
+    </div>
   </div>
+  <button class="floating-search-toggle" onclick="toggleSearch()" aria-label="Abrir busca">
+    <i class="fa-solid fa-magnifying-glass"></i>
+  </button>
 </div>
 
 <script>
+function toggleSearch() {
+  const panel = document.getElementById('searchPanel');
+  if (panel.style.display === 'block') {
+    panel.style.display = 'none';
+  } else {
+    panel.style.display = 'block';
+    const input = document.getElementById('searchInput');
+    if(input) input.focus();
+  }
+}
+
 function findText(forward) {
   const text = document.getElementById('searchInput').value;
   if (!text) return;
