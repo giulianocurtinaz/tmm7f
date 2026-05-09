@@ -1317,19 +1317,19 @@ footer.footer a:hover {
     border-top: 1px solid var(--tmm-borda);
 }
 
-/* Letra do ponto cantado — destaque sagrado */
+/* Letra do ponto cantado — destaque sagrado otimizado para miopia e conforto visual */
 .tmm-ponto-letra {
     background: linear-gradient(180deg, var(--tmm-creme), #fff);
     border: 1px solid var(--tmm-borda);
     border-left: 5px solid var(--tmm-verde-folha);
-    padding: 40px 36px;
+    padding: 60px 50px; /* Aumentado o respiro visual */
     border-radius: 16px;
     box-shadow: var(--tmm-sombra-sutil);
-    font-family: var(--tmm-serif);
-    font-size: 1.4rem;
-    line-height: 1.85;
-    color: var(--tmm-texto);
-    font-style: italic;
+    font-family: 'Montserrat', 'Open Sans', 'Roboto', var(--tmm-sans); /* Sem serifa, moderno */
+    font-size: 20px; /* Pelo menos 18px */
+    line-height: 1.6; /* Evitar que as linhas se misturem */
+    color: #2C3E50; /* Cinza grafite escuro p/ alto contraste sem ofuscar */
+    font-style: normal; /* Removido itálico para maior clareza visual na visão periférica */
     text-align: center;
     margin-bottom: 30px;
 }
@@ -1337,6 +1337,24 @@ footer.footer a:hover {
     margin-bottom: 1.2rem;
 }
 .tmm-ponto-letra p:last-child { margin-bottom: 0; }
+
+/* Subtítulos e marcações fortes dentro da letra (ex: guias/refrão) */
+.tmm-ponto-letra h3, 
+.tmm-ponto-letra h4, 
+.tmm-ponto-letra strong,
+.tmm-ponto-letra b {
+    font-weight: 700;
+    font-style: italic;
+    color: #1A3B5C; /* Azul escuro com máximo contraste */
+}
+
+/* Títulos principais dos pontos (006 - HINO DA...) */
+.tmm-ponto-title,
+.tmm-page-head__title {
+    font-family: 'Montserrat', 'Open Sans', 'Roboto', var(--tmm-sans) !important;
+    font-weight: 700 !important;
+    color: #1A3B5C !important; /* Azul escuro com máximo contraste */
+}
 
 .tmm-ponto-audios {
     background: #fff;

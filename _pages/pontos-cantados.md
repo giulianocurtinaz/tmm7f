@@ -114,9 +114,10 @@ permalink: /pontos-cantados/
 {% assign pontos_ordenados = site.pontos | sort: 'ordenacao' %}
 {% for ponto in pontos_ordenados %}
   <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category }}">
-    <h2 style="margin-bottom: 20px;">
-      <a href="{{ '/pontos/ponto-' | append: ponto.id_ponto | relative_url }}" style="font-size: 0.7em; text-decoration: none; color: #666; vertical-align: middle;">{{ ponto.id_ponto }}</a> - 
-      <a href="{{ '/pontos/ponto-' | append: ponto.id_ponto | relative_url }}" style="color: inherit; text-decoration: none;">{{ ponto.title }}</a>
+    <h2 class="tmm-ponto-title" style="margin-bottom: 20px;">
+      <a href="{{ '/pontos/ponto-' | append: ponto.id_ponto | relative_url }}" style="text-decoration: none; color: inherit;">
+        <span style="font-size: 0.85em; opacity: 0.9;">{{ ponto.id_ponto }}</span> - {{ ponto.title }}
+      </a>
     </h2>
     <div class="letra tmm-ponto-letra" style="margin-bottom: {% if ponto.audios %}20px{% else %}40px{% endif %};">
       {{ ponto.content | markdownify }}
