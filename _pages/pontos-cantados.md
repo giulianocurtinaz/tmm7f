@@ -47,6 +47,8 @@ permalink: /pontos-cantados/
     padding: 20px; 
     border-radius: 10px; 
     box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
   }
 
   .sidebar-filter h3 { margin-top: 0; font-size: 1.2em; border-bottom: 2px solid #2196F3; padding-bottom: 10px; }
@@ -68,8 +70,35 @@ permalink: /pontos-cantados/
   /* Ajuste para Celular */
   @media (max-width: 768px) {
     .layout-container { flex-direction: column; }
-    .sidebar-filter { width: 100%; position: relative; top: 0; }
+    .sidebar-filter { width: 100%; position: relative; top: 0; max-height: none; overflow-y: visible; }
     .filter-nav { flex-direction: row; flex-wrap: wrap; justify-content: center; }
+  }
+
+  /* Buscador Flutuante */
+  .floating-search {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    z-index: 9999;
+    width: 280px;
+    border: 1px solid var(--tmm-verde-folha);
+  }
+  .floating-search h3 {
+    margin-top: 0;
+    font-size: 1.1em;
+    color: var(--tmm-azul-profundo);
+    margin-bottom: 10px;
+  }
+  @media (max-width: 768px) {
+    .floating-search {
+      bottom: 15px;
+      right: 15px;
+      width: calc(100% - 30px);
+    }
   }
 </style>
 
@@ -94,16 +123,6 @@ permalink: /pontos-cantados/
       <button class="filter-btn" onclick="filterPoints('Pretos', this)">☕ Pretos</button>
       <button class="filter-btn" onclick="filterPoints('Outros', this)">🌀 Outros</button>
     </nav>
-    
-    <hr style="margin: 20px 0 10px; border: 0; border-top: 1px solid #ddd;">
-    <h3>Buscar na Página</h3>
-    <div class="search-box">
-      <input type="text" id="searchInput" placeholder="Digite uma palavra..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 8px; font-size: 0.95em;">
-      <div style="display: flex; gap: 8px;">
-        <button onclick="findText(false)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px;">⬅️ Voltar</button>
-        <button onclick="findText(true)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px;">Avançar ➡️</button>
-      </div>
-    </div>
   </aside>
 
   <main class="content-points">
@@ -140,6 +159,16 @@ permalink: /pontos-cantados/
 
 </div>
   </main>
+</div>
+
+<!-- Buscador Flutuante -->
+<div class="floating-search">
+  <h3>🔍 Buscar Ponto</h3>
+  <input type="text" id="searchInput" placeholder="Digite uma palavra..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 10px; font-size: 0.95em;">
+  <div style="display: flex; gap: 8px;">
+    <button onclick="findText(false)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px; background: #f0f0f0;">⬅️ Voltar</button>
+    <button onclick="findText(true)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px; background: var(--tmm-verde-folha); color: white;">Avançar ➡️</button>
+  </div>
 </div>
 
 <script>
