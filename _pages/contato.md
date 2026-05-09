@@ -20,7 +20,7 @@ permalink: /contato/
 
 <!-- wp:paragraph -->
 
-<p>Fone: 51992453132</p>
+<p>Fone: <a href="https://wa.me/5551992453132" target="_blank" rel="noopener noreferrer">51992453132</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:html -->

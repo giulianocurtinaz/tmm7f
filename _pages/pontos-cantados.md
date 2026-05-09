@@ -94,6 +94,16 @@ permalink: /pontos-cantados/
       <button class="filter-btn" onclick="filterPoints('Pretos', this)">☕ Pretos</button>
       <button class="filter-btn" onclick="filterPoints('Outros', this)">🌀 Outros</button>
     </nav>
+    
+    <hr style="margin: 20px 0 10px; border: 0; border-top: 1px solid #ddd;">
+    <h3>Buscar na Página</h3>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Digite uma palavra..." style="width: 100%; padding: 10px; border-radius: 8px; border: 1px solid #ddd; margin-bottom: 8px; font-size: 0.95em;">
+      <div style="display: flex; gap: 8px;">
+        <button onclick="findText(false)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px;">⬅️ Voltar</button>
+        <button onclick="findText(true)" class="filter-btn" style="flex: 1; text-align: center; padding: 8px;">Avançar ➡️</button>
+      </div>
+    </div>
   </aside>
 
   <main class="content-points">
@@ -104,20 +114,25 @@ permalink: /pontos-cantados/
 {% assign pontos_ordenados = site.pontos | sort: 'ordenacao' %}
 {% for ponto in pontos_ordenados %}
   <article class="ponto-cantado" id="ponto-{{ ponto.id_ponto }}" data-category="{{ ponto.category }}">
-    <h2>{{ ponto.id_ponto }} - {{ ponto.title }}</h2>
-    <div class="letra">
+    <h2 style="margin-bottom: 20px;">
+      <a href="{{ '/pontos/ponto-' | append: ponto.id_ponto | relative_url }}" style="font-size: 0.7em; text-decoration: none; color: #666; vertical-align: middle;">{{ ponto.id_ponto }}</a> - 
+      <a href="{{ '/pontos/ponto-' | append: ponto.id_ponto | relative_url }}" style="color: inherit; text-decoration: none;">{{ ponto.title }}</a>
+    </h2>
+    <div class="letra tmm-ponto-letra" style="margin-bottom: {% if ponto.audios %}20px{% else %}40px{% endif %};">
       {{ ponto.content | markdownify }}
-      {% if ponto.audios %}
-        {% for audio in ponto.audios %}
-        <figure class="wp-block-audio">
+    </div>
+    {% if ponto.audios %}
+      <div class="tmm-ponto-audios" style="margin-bottom: 40px; padding: 20px;">
+      {% for audio in ponto.audios %}
+        <figure class="tmm-audio-card wp-block-audio" style="margin-bottom: 10px;">
           <audio controls src="{{ audio.url | relative_url }}"></audio>
           {% if audio.caption %}
-          <figcaption class="wp-element-caption">{{ audio.caption }}</figcaption>
+          <figcaption class="wp-element-caption" style="text-align: center; font-style: italic; color: #666;">{{ audio.caption }}</figcaption>
           {% endif %}
         </figure>
-        {% endfor %}
-      {% endif %}
-    </div>
+      {% endfor %}
+      </div>
+    {% endif %}
   </article>
 {% endfor %}
 <!-- Fim Loop Dinamico -->
@@ -127,6 +142,17 @@ permalink: /pontos-cantados/
 </div>
 
 <script>
+function findText(forward) {
+  const text = document.getElementById('searchInput').value;
+  if (!text) return;
+  // window.find() returns true if found, false otherwise
+  // parameters: text, caseSensitive, backwards, wrapAround
+  const found = window.find(text, false, !forward, true);
+  if (!found) {
+    alert("Texto não encontrado.");
+  }
+}
+
 function filterPoints(category, btn) {
   // Atualiza classe ativa
   document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
