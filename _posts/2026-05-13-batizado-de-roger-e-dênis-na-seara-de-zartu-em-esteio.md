@@ -15,8 +15,6 @@ gallery:
   - image: /assets/whatsapp-image-2026-05-14-at-21.33.03.jpeg
   - image: /assets/whatsapp-image-2026-05-14-at-21.32.14.jpeg
 ---
-Na Umbanda homenageamos a linha dos Pretos-Velhos no dia 13 de Maio devido ao dia da Abolição da escravatura no Brasil! Foi imerso na vibração dessa linha de trabalho que nossos irmãos de fé Roger e Denis realizaram seu batizado! Dando assim o primeiro passo dentro da nossa religião! Após jurarem praticar a Caridade espiritual por toda a vida, receberam este santo sacramento do Cacique Ubirajara na Seara de Zartu em Esteio!
-
-
+Na Umbanda homenageamos a linha dos Pretos Velhos no dia 13 de Maio devido à data da Abolição da escravatura no Brasil! Foi imerso na vibração dessa linha de trabalho que nossos irmãos de fé Roger e Denis realizaram seu batizado, dando assim o primeiro passo dentro da nossa amada religião! Após jurarem praticar a caridade espiritual por toda a vida, receberam este santo sacramento do Cacique Ubirajara na Seara de Zartu em Esteio!
 
 Que nosso mestre Oxalá seja sempre o Farol a conduzir a vida mediúnica desses novos soldados da Paz!
