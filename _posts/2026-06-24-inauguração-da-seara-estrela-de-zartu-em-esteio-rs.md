@@ -10,7 +10,7 @@ gallery:
   - image: /assets/cronograma.jpeg
   - image: /assets/panfleto.jpeg
 ---
-Acompanhado de minha amiga e eterna chefe Maria Aparecida do Terreiro de Ubirajara fomos prestigiar nosso amigo Guilherme e seu grupo de médiuns na inauguração de mais esse ponto de luz aqui na terra! 
+Acompanhado de minha amiga e eterna chefe Maria Aparecida do Terreiro de Ubirajara e nossa médium Aline, fomos prestigiar nosso amigo Guilherme e seu grupo de médiuns na inauguração de mais esse ponto de luz aqui na terra! 
 
 Mesmo antes do início formal dos trabalhos fomos tomados por uma vibração incomum e fortíssima do Povo do Oriente, demonstrando-se presente e abençoando o novo terreiro. Recebemos mensagens importantes da entidade Zari através da Médium Aparecida.
 
