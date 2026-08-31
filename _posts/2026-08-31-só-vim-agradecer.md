@@ -2,6 +2,7 @@
 layout: post
 title: Só vim agradecer !
 date: 2026-08-30T21:56:00.000-03:00
+image: /assets/whatsapp-image-2026-04-30-at-11.06.47.jpeg
 ---
 O desenvolvimento mediúnico é algo único, extremamente pessoal, incrivelmente mágico e transformador! É com muitíssimo prazer que compartilho com os amigos o depoimento de nosso médium Douglas e seu relato magnífico de suas pequenas grandiosas descobertas:
 
