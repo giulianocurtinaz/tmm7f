@@ -2,7 +2,7 @@
 layout: post
 title: Quando a Bíblia vira carimbo
 date: 2026-09-14T11:33:00.000-03:00
-image: /assets/whatsapp-image-2026-04-30-at-11.06.40.jpeg
+image: /assets/screenshot_20260914_113614_one-ui-home.jpg
 ---
 Todo curioso que conheço costuma ser mais aberto ao debate do que alguém excessivamente convicto.
 
