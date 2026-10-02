@@ -2,7 +2,7 @@
 layout: post
 title: Jesus breve voltará
 date: 2026-09-22T11:08:00.000-03:00
-image: /assets/jeses_breve_voltara.jpg
+image: /assets/jeses_breve_voltara1.jpg
 ---
 Segue mais um artigo de reflexão sobre a vida mediúnica produzido por um de nossos trabalhadores da casa! Ótima Leitura aos amigos!
 
@@ -286,7 +286,6 @@ Porque, embora eu continue sendo contra guerras, admito uma pequena contradiçã
 Quero ficar do lado de quem atira bem.
 
 De preferência, sem precisar atirar em ninguém.
-
 
 Douglas.\
 Médium da Corrente do Sete Flechas
