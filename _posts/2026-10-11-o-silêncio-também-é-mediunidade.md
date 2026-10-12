@@ -4,9 +4,9 @@ title: O silêncio também é mediunidade
 date: 2026-10-11T09:00:00.000-03:00
 image: /assets/whatsapp-image-2026-10-03-at-16.21.40-2-.jpeg
 ---
-Poucos são os textos e livros que abordam a mediunidade vivida dentro do terreiro de Umbanda. É com imenso prazer que compartilho mais um artigo produzido por um de nossos médiuns (iniciante), e que tem meu total apoio e incentivo para que continue a transformar em palavras aquilo que apenas sentimos, vivemos e muitas vezes não temos com quem compartilhar e dividir.  A autodescoberta mediúnica é realmente fantástica e bela quando encarada com razão, boa fé e sinceridade.  Espero que gostem de nosso novo artigo:\
-\
-**O silêncio também é mediunidade**
+Poucos são os textos e livros que abordam a mediunidade vivida dentro do terreiro de Umbanda. É com imenso prazer que compartilho mais um artigo produzido por um de nossos médiuns (iniciante), e que tem meu total apoio e incentivo para que continue a transformar em palavras aquilo que apenas sentimos, vivemos e muitas vezes não temos com quem compartilhar e dividir.  A autodescoberta mediúnica é realmente fantástica e bela quando encarada com razão, boa fé e sinceridade.  Espero que gostem de nosso novo artigo:
+
+### **O silêncio também é mediunidade**
 
 Durante muito tempo, imaginei que pessoas dotadas de mediunidade mantivessem uma relação quase permanente com aquilo que costumamos chamar de mundo espiritual. Não necessariamente uma convivência com aparições pelos corredores ou vozes atravessando a madrugada, mas alguma espécie de percepção contínua, suficientemente evidente para que o indivíduo não precisasse passar boa parte da vida tentando descobrir se aquilo que experimenta é mediunidade, imaginação ou apenas uma dessas coincidências que nossa necessidade de explicação insiste em transformar em fenômeno.
 
@@ -28,7 +28,7 @@ Faltava espetáculo.
 
 Eis o equívoco.
 
-## **O problema de querer encontrar aquilo que não foi perdido**
+### **O problema de querer encontrar aquilo que não foi perdido**
 
 Neste domingo, chegamos ao terreiro para nossa habitual conversa das oito da manhã. Antes do início dos trabalhos, participamos de uma aula aberta também aos consulentes, na qual discutimos fundamentos da Umbanda, experiências pessoais, literatura e questões que raramente encontram espaço para discussão fora dali.
 
@@ -76,7 +76,7 @@ Talvez esse tipo de experiência baste.
 
 Ou talvez nossa necessidade de receber novas confirmações seja muito maior do que gostaríamos de admitir.
 
-## **A necessidade humana de receber um recibo do sobrenatural**
+### **A necessidade humana de receber um recibo do sobrenatural**
 
 Existe uma contradição bastante curiosa na maneira como lidamos com a fé.
 
@@ -118,7 +118,7 @@ E talvez, em determinadas situações, simplesmente não tenha acontecido nada.
 
 Minha fé não precisa obrigatoriamente sair vencedora de todas essas possibilidades.
 
-## **O terreiro não é uma extensão do nosso quarto**
+### **O terreiro não é uma extensão do nosso quarto**
 
 Há, entretanto, uma diferença importante entre aquilo que percebo no cotidiano e o que experimento durante os trabalhos mediúnicos.
 
@@ -158,7 +158,7 @@ Existe uma diferença importante entre as duas coisas.
 
 E ela pode ser decisiva quando há outra pessoa envolvida.
 
-## **A entidade não precisa de um médium que tenha sempre razão**
+### **A entidade não precisa de um médium que tenha sempre razão**
 
 Durante aquela conversa, discutimos a necessidade de o médium consciente participar intelectualmente da comunicação espiritual.
 
@@ -210,7 +210,7 @@ Estou dizendo algo mais simples: a convicção de estar transmitindo uma orienta
 
 Aliás, talvez seja justamente a consciência dessa possibilidade que torne o trabalho mais responsável.
 
-## **Entre a mensagem e a vaidade existe um médium**
+### **Entre a mensagem e a vaidade existe um médium**
 
 Reconhecer que participo conscientemente da comunicação espiritual significa aceitar uma consequência inconveniente: a mensagem que transmito atravessa alguém que possui opiniões, limitações e uma capacidade bastante humana de confundir convicção com verdade.
 
@@ -282,7 +282,7 @@ E talvez essa seja a parte mais difícil de admitir.
 
 Porque, se existe algo mais perigoso do que um médium que não sabe o que está dizendo, é aquele que já não admite essa possibilidade.
 
-## **O conhecimento não concede promoção espiritual**
+### **O conhecimento não concede promoção espiritual**
 
 Ainda durante nossa conversa, surgiu uma questão relacionada ao repertório intelectual do médium.
 
@@ -316,7 +316,7 @@ Depende do que fez com aquilo que aprendeu.
 
 E, sobretudo, do que consegue fazer quando alguém se senta à sua frente precisando de ajuda.
 
-## **Quando a interferência pode ser simplesmente nossa**
+### **Quando a interferência pode ser simplesmente nossa**
 
 Outra questão que atravessou minha reflexão naquele domingo foi a necessidade de cuidado com os próprios pensamentos.
 
@@ -360,7 +360,7 @@ Porque o consulente não precisa de um médium convencido de sua infalibilidade.
 
 Precisa de alguém minimamente comprometido com o atendimento para compreender que sua dor não é um laboratório de demonstrações espirituais.
 
-## **O que ficou daquele domingo**
+### **O que ficou daquele domingo**
 
 Quando penso na conversa que tivemos naquela manhã, percebo que começamos discutindo a falta de manifestações espirituais e terminamos diante de uma preocupação bastante diferente.
 
@@ -425,6 +425,5 @@ Passamos tanto tempo querendo ouvir a espiritualidade que corremos o risco de es
 E, diferentemente das entidades, essa pessoa não precisa atravessar dimensão alguma para nos mostrar que existe.
 
 Basta prestar atenção.
-
 
 Douglas A.
